@@ -1,0 +1,965 @@
+{
+  "title": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE",
+  "questions": [
+    {
+      "questionText": "1. The total amount of military ---- by all the countries of the world in 2010 was $1.63 trillion, which is equivalent to $236 for every person on the planet.",
+      "correctAnswer": "C",
+      "explanation": "Cümlede dünyadaki tüm ülkelerin 2010 yılındaki toplam askeri 'harcamalarından' bahsedilmektedir. Bu anlama gelen kelime 'expenditure' (harcama) kelimesidir.",
+      "options": [
+        "A) diversity",
+        "B) requirement",
+        "C) expenditure",
+        "D) dimension",
+        "E) influence"
+      ]
+    },
+    {
+      "questionText": "2. The speed of wind is measured by using the Beaufort Scale, based on easily ---- factors such as tree movement, smoke behaviour and damage incurred.",
+      "correctAnswer": "E",
+      "explanation": "Rüzgarın hızı ölçülürken ağaç hareketi ve duman davranışı gibi kolayca 'gözlemlenebilir' (observable) faktörlere dayanıldığı ifade edilmiştir.",
+      "options": [
+        "A) hostile",
+        "B) irrelevant",
+        "C) misleading",
+        "D) additional",
+        "E) observable"
+      ]
+    },
+    {
+      "questionText": "3. Today, contagious diseases rarely kill in developed countries, where improvements in sanitation and nutrition have ---- reduced premature deaths.",
+      "correctAnswer": "C",
+      "explanation": "Gelişmiş ülkelerde sanitasyon ve beslenmedeki iyileşmelerin erken ölümleri 'önemli ölçüde / belirgin biçimde' (significantly) azalttığı vurgulanmıştır.",
+      "options": [
+        "A) favourably",
+        "B) separately",
+        "C) significantly",
+        "D) dangerously",
+        "E) cautiously"
+      ]
+    },
+    {
+      "questionText": "4. With mankind ---- by an energy crisis and climate change, nuclear power is back on the scene.",
+      "correctAnswer": "A",
+      "explanation": "İnsanoğlu bir enerji krizi ve iklim değişikliği ile 'yüzleştiği / karşı karşıya kaldığı' (confronted by) için nükleer enerjinin sahneye geri döndüğü belirtilmiştir.",
+      "options": [
+        "A) confronted",
+        "B) responded",
+        "C) surpassed",
+        "D) initiated",
+        "E) allowed"
+      ]
+    },
+    {
+      "questionText": "5. People have always been fascinated by the stars and planets in the night sky, but they had to ---- just the naked eye to make them out until the telescope was invented in 1609.",
+      "correctAnswer": "A",
+      "explanation": "Teleskop icat edilene kadar insanların gökyüzündeki yıldızları ve gezegenleri seçebilmek için sadece çıplak göze 'güvenmek / bel bağlamak' (rely on) zorunda oldukları anlatılmaktadır.",
+      "options": [
+        "A) rely on",
+        "B) look up",
+        "C) put off",
+        "D) take up",
+        "E) bring back"
+      ]
+    },
+    {
+      "questionText": "6. Blood type has been linked with a variety of mental disorders, but associations are weak; many other factors are more important in determining who ---- a particular illness.",
+      "correctAnswer": "B",
+      "explanation": "Belirli bir hastalığa kimin 'yakalanacağını / neyle sonuçlanacağını' (ends up with) belirlemede başka birçok faktörün daha önemli olduğu ifade ediliyor.",
+      "options": [
+        "A) runs out of",
+        "B) ends up with",
+        "C) makes up for",
+        "D) gets back to",
+        "E) cuts down on"
+      ]
+    },
+    {
+      "questionText": "7. Costa Rica ---- the first country in Central America to grow coffee, and for the last 100 years, this ---- its leading export.",
+      "correctAnswer": "B",
+      "explanation": "Kosta Rika Orta Amerika'da kahve yetiştiren ilk ülkeydi (geçmişte tamamlanmış eylem: 'was'), ve son 100 yıldır bu onun önde gelen ihracatı olmuştur (geçmişten günümüze devam eden süreç: 'has been').",
+      "options": [
+        "A) is / was",
+        "B) was / has been",
+        "C) had been / used to be",
+        "D) would be / had been",
+        "E) could be / is"
+      ]
+    },
+    {
+      "questionText": "8. Complex human language ---- suddenly and without progression; like other advanced capabilities, it ---- in a series of stages.",
+      "correctAnswer": "C",
+      "explanation": "Karmaşık insan dili aniden ortaya 'çıkmadı' (did not appear) ve diğer gelişmiş yetenekler gibi bir dizi aşamada 'evrimleşmiş olmalı' (must have evolved - geçmişe yönelik güçlü çıkarım).",
+      "options": [
+        "A) does not appear / can evolve",
+        "B) has not appeared / might evolve",
+        "C) did not appear / must have evolved",
+        "D) will not appear / could have evolved",
+        "E) had not appeared / should have evolved"
+      ]
+    },
+    {
+      "questionText": "9. Many advanced nations ---- space exploration, and plans are under way ---- a human presence on Mars.",
+      "correctAnswer": "B",
+      "explanation": "Gelişmiş uluslar uzay araştırmalarına 'başlamışlardır' (have begun) ve Mars'ta insan varlığını 'görmek için' (to see) planlar yapılmaktadır (amaç bildiren to-infinitive).",
+      "options": [
+        "A) begin / seeing",
+        "B) have begun / to see",
+        "C) are beginning / to have seen",
+        "D) began / being seen",
+        "E) had begun / having seen"
+      ]
+    },
+    {
+      "questionText": "10. Governments, organizations and businesses are becoming increasingly concerned ---- social responsibility and ethical issues surrounding the problem ---- maintaining economic growth.",
+      "correctAnswer": "A",
+      "explanation": "Bir konu 'ile' ilgilenmek veya endişe duymak (concerned with) ve ekonomik büyümeyi sürdürme 'problemi' (problem of) anlamında edat uyumu A şıkkındadır.",
+      "options": [
+        "A) with / of",
+        "B) on / by",
+        "C) into / from",
+        "D) for / beyond",
+        "E) at / behind"
+      ]
+    },
+    {
+      "questionText": "11. Personality psychology focuses on the consistency in people's behaviour ---- time and the traits that differentiate one person ---- another.",
+      "correctAnswer": "B",
+      "explanation": "Zaman 'üzerinden / zamanla' (over time) ve bir kişiyi diğerin'den' (from another) ayırmak ifadeleri 'over / from' edatlarıyla sağlanır.",
+      "options": [
+        "A) at / for",
+        "B) over / from",
+        "C) in / of",
+        "D) within / by",
+        "E) around / to"
+      ]
+    },
+    {
+      "questionText": "12. Telecommunication companies install cell towers in places where the network will get sufficient use, ---- sparsely populated areas do not qualify, which means people there lack access to reliable phone service.",
+      "correctAnswer": "C",
+      "explanation": "Telekomünikasyon şirketleri baz istasyonlarını kullanımın yeterli olacağı yerlere kurarlar, 'bu yüzden / dolayısıyla' (so) seyrek nüfuslu alanlar buna uymaz.",
+      "options": [
+        "A) in case",
+        "B) even if",
+        "C) so",
+        "D) although",
+        "E) just as"
+      ]
+    },
+    {
+      "questionText": "13. ---- the 50-second silent film Train Pulling Into A Station was first shown in 1895, people were so terrified by the locomotive racing towards them that they hurried to the back of the theatre.",
+      "correctAnswer": "D",
+      "explanation": "Trenin İstansyona Gelişi adlı sessiz film ilk kez 1895'te gösterildiğin'de' (When), insanlar kendilerine doğru gelen lokomotiften dehşete düştüler.",
+      "options": [
+        "A) Before",
+        "B) Although",
+        "C) Since",
+        "D) When",
+        "E) As if"
+      ]
+    },
+    {
+      "questionText": "14. Much evidence points to a relationship between stress and disease ---- claims that stressful life events and daily routines cause various diseases are still premature.",
+      "correctAnswer": "E",
+      "explanation": "Çoğu kanıt stres ve hastalık arasında bir ilişkiye işaret etse 'de / ancak' (but), stresli olayların çeşitli hastalıklara neden olduğu iddiaları hala erkendir (Zıtlık).",
+      "options": [
+        "A) since",
+        "B) if",
+        "C) once",
+        "D) only when",
+        "E) but"
+      ]
+    },
+    {
+      "questionText": "15. Scientists do research in natural forces ---- for the sake of new discoveries ---- to use the findings for the advantage of mankind.",
+      "correctAnswer": "A",
+      "explanation": "Bilim insanları doğal güçler üzerinde 'sadece' yeni keşifler uğruna 'değil, aynı zamanda' bulguları insanlığın yararına kullanmak için de (not only / but also) araştırma yaparlar.",
+      "options": [
+        "A) not only / but also",
+        "B) so / that",
+        "C) the more / the more",
+        "D) such / that",
+        "E) whether / or"
+      ]
+    },
+    {
+      "questionText": "16. One way to reduce the negative impact people have on the environment is to make sure that as much garbage as possible is recycled ---- being put in a landfill.",
+      "correctAnswer": "D",
+      "explanation": "İnsanların çevre üzerindeki olumsuz etkisini azaltmanın bir yolu, çöplerin çöplüğe atılmak 'yerine' (instead of) olabildiğince çok geri dönüştürülmesini sağlamaktır.",
+      "options": [
+        "A) because of",
+        "B) in terms of",
+        "C) for the sake of",
+        "D) instead of",
+        "E) in case of"
+      ]
+    },
+    {
+      "questionText": "17. Some aeroplanes waste valuable fuel. (17)----, there are attempts to redesign such planes for maximum efficiency.",
+      "correctAnswer": "A",
+      "explanation": "Bazı uçaklar değerli yakıtı israf eder. 'Bu nedenle / Bundan dolayı' (Therefore) bu uçakları maksimum verimlilik için yeniden tasarlama girişimleri vardır.",
+      "options": [
+        "A) Therefore",
+        "B) Otherwise",
+        "C) In short",
+        "D) However",
+        "E) Furthermore"
+      ]
+    },
+    {
+      "questionText": "18. Recently, two engineers (18)---- planes from the very beginning combining fuel efficiency...",
+      "correctAnswer": "C",
+      "explanation": "Cümledeki 'Recently' (Son zamanlarda) zarfı, geçmişte başlayıp etkisi devam eden eylemler için Present Perfect Tense (have redesigned) kullanımını gerektirir.",
+      "options": [
+        "A) had redesigned",
+        "B) will have redesigned",
+        "C) have redesigned",
+        "D) would have redesigned",
+        "E) could have redesigned"
+      ]
+    },
+    {
+      "questionText": "19. Their final design seems to (19)---- several elements found in birds.",
+      "correctAnswer": "A",
+      "explanation": "Nihai tasarımları, kuşlarda bulunan çeşitli unsurları 'bünyesinde barındırıyor / kapsıyor' (incorporate) gibi görünmektedir.",
+      "options": [
+        "A) incorporate",
+        "B) rehearse",
+        "C) convert",
+        "D) threaten",
+        "E) review"
+      ]
+    },
+    {
+      "questionText": "20. They examined the three major parts that make a plane (20)---- it is: body, wings and tail.",
+      "correctAnswer": "D",
+      "explanation": "Bir uçağı 'olduğu şey / ne ise o' (what it is) yapan üç ana parçayı (gövde, kanatlar, kuyruk) incelediler.",
+      "options": [
+        "A) why",
+        "B) where",
+        "C) how",
+        "D) what",
+        "E) when"
+      ]
+    },
+    {
+      "questionText": "21. They worked through all three (21)---- turn, only opting for the design that would lend their final product the maximum flight efficiency.",
+      "correctAnswer": "A",
+      "explanation": "'Sırayla' anlamına gelen kalıplaşmış edat öbeği 'in turn' şeklindedir.",
+      "options": [
+        "A) in",
+        "B) on",
+        "C) off",
+        "D) with",
+        "E) from"
+      ]
+    },
+    {
+      "questionText": "22. But even researchers (22)---- to understand complex adult behaviours often find it useful to examine those behaviours during periods when they are not so complex.",
+      "correctAnswer": "E",
+      "explanation": "Karmaşık yetişkin davranışlarını anlamaya 'çalışan' araştırmacılar (researchers attempting to...) anlamında aktif bir participle clause (-ing) kullanılmalıdır.",
+      "options": [
+        "A) being attempted",
+        "B) to have attempted",
+        "C) to attempt",
+        "D) attempted",
+        "E) attempting"
+      ]
+    },
+    {
+      "questionText": "23. For example, humans are capable of sophisticated communication (23)---- the fact that our languages follow systems of rules.",
+      "correctAnswer": "C",
+      "explanation": "İnsanlar, dillerimizin kurallar sistemini takip etmesi gerçeği 'sayesinde / yüzünden' (due to) sofistike iletişim kurabilirler.",
+      "options": [
+        "A) instead of",
+        "B) except for",
+        "C) due to",
+        "D) in spite of",
+        "E) in contrast with"
+      ]
+    },
+    {
+      "questionText": "24. But determining what these rules are has proved very difficult (24)---- researchers.",
+      "correctAnswer": "B",
+      "explanation": "Ancak bu kuralların ne olduğunu belirlemenin araştırmacılar 'için' (for) çok zor olduğu kanıtlanmıştır.",
+      "options": [
+        "A) about",
+        "B) for",
+        "C) over",
+        "D) towards",
+        "E) from"
+      ]
+    },
+    {
+      "questionText": "25. One approach to this problem is to study our language system (25)---- it is being acquired.",
+      "correctAnswer": "D",
+      "explanation": "Bu probleme bir yaklaşım, dil sistemimizi o edinilir'ken / eşzamanlı olarak' (while) incelemektir.",
+      "options": [
+        "A) unless",
+        "B) even though",
+        "C) in case",
+        "D) while",
+        "E) after"
+      ]
+    },
+    {
+      "questionText": "26. So, in language development, as well as in many other areas, the growing child is a showcase of developing skills and abilities, and researchers interested in different aspects of human development have (26)---- this fact to help them understand adult behaviour.",
+      "correctAnswer": "E",
+      "explanation": "Araştırmacılar yetişkin davranışlarını anlamak için bu gerçekten 'faydalanmışlardır / yararlanmışlardır' (utilized).",
+      "options": [
+        "A) weakened",
+        "B) eliminated",
+        "C) expanded",
+        "D) demanded",
+        "E) utilized"
+      ]
+    },
+    {
+      "questionText": "27. ----, which could reduce the number of undernourished people by 15%.",
+      "correctAnswer": "C",
+      "explanation": "Gelişmekte olan ülkelerde tarımdaki cinsiyet uçurumunun kapatılması verimi %4 artırabilir; 'ki bu da' (which) yetersiz beslenen insan sayısını %15 oranında azaltabilir.",
+      "options": [
+        "A) By 2150 food demand could rise by 60% with the global population growing",
+        "B) The UN Food and Agriculture Organization says that women are just as good at farming as men",
+        "C) Closing the gender gap in farming could increase yields in developing countries by up to 4%",
+        "D) Governments do not seem to take considerable steps to fight starvation in underdeveloped countries",
+        "E) As the global population grows, there is more and more demand to have access to basic food"
+      ]
+    },
+    {
+      "questionText": "28. In order to analyze the light reflected from Earth, ----.",
+      "correctAnswer": "A",
+      "explanation": "Dünyadan yansıyan ışığı analiz etmek 'amacıyla / için' (In order to), 'bir astronom ekibi Şili'deki çok büyük bir teleskop kullandı' (a team of astronomers used a very large telescope in Chile) temel cümlesi amaca hizmet eder.",
+      "options": [
+        "A) a team of astronomers used a very large telescope in Chile",
+        "B) some of the light reaches the moon and is then reflected, known as 'Earthshine'",
+        "C) it may be a while that scholars figure out the balance",
+        "D) a number of expenditures are necessary for all of our research",
+        "E) diet and nutrition are central to an understanding of the evolutionary journey of humankind"
+      ]
+    },
+    {
+      "questionText": "29. When managers place workers under time pressure to perform hazardous tasks, ----.",
+      "correctAnswer": "C",
+      "explanation": "Yöneticiler, işçileri tehlikeli görevleri yerine getirmeleri için zaman baskısı altına soktuklarında (When), 'güvenlik önlemleri daha düşük bir öncelik haline gelir ve bu da yaralanma şansını artırır' (safety precautions become a lower priority...).",
+      "options": [
+        "A) employees adhering to the company rules are often encouraged through incentives",
+        "B) violations of workers' rights cause global protests and instability in the market",
+        "C) safety precautions become a lower priority, thereby increasing the chances of injury",
+        "D) unintentional death in the US becomes a regular phenomenon",
+        "E) the health of the workers is preserved effectively"
+      ]
+    },
+    {
+      "questionText": "30. Even though reason is insufficient for being the source of morality, ----.",
+      "correctAnswer": "B",
+      "explanation": "Akıl, ahlakın kaynağı olmak için yetersiz olmasına RAĞMEN (Even though), 'ahlaki kararları gerekçelendirmede (justifying) çok önemli bir rol oynar' zıtlığı cümleyi mantıklı bir şekilde tamamlar.",
+      "options": [
+        "A) morality consists solely in the relation of actions to the rule of right",
+        "B) it plays an essential role in justifying moral decisions",
+        "C) what exists in the nature of things is the equality of our judgement",
+        "D) no one can deny the beauty of justice",
+        "E) moral practices differ among cultures"
+      ]
+    },
+    {
+      "questionText": "31. Scientists are still not certain why people need sleep, ----.",
+      "correctAnswer": "B",
+      "explanation": "Bilim insanları insanların neden uykuya ihtiyaç duyduğundan hala emin olmasalar da, 'ancak (yet) uyku ruh halimizden organlarımızın işlevlerine kadar hayatımızın neredeyse her yönünü etkiler' zıtlığı doğru seçenektir.",
+      "options": [
+        "A) as it can be extremely difficult for most people to do their daily activities without sufficient sleep",
+        "B) yet it influences almost every aspect of our lives, from our mood to the functions of our organs",
+        "C) though lots of people experience insomnia and they do not know its causes",
+        "D) so ways to cure those who suffer from lack of sleep are investigated",
+        "E) whereas scientists agree that humans should get at least 8 hours of sleep"
+      ]
+    },
+    {
+      "questionText": "32. Particularly important to the marketer is knowledge of the philosophies of all major political parties within a country ----.",
+      "correctAnswer": "A",
+      "explanation": "Pazarlamacı için bir ülkedeki tüm büyük siyasi partilerin felsefelerini bilmek özellikle önemlidir, 'çünkü (since) onlardan herhangi biri iktidardayken halkın tüketim kalıplarını değiştirebilir'.",
+      "options": [
+        "A) since any of them, when in power, might change the consumption patterns of the public",
+        "B) as the historical direction each minor party is likely to take is unpredictable",
+        "C) no matter how one tends to be more strict regarding foreign trade than the others",
+        "D) so that one party can fulfill all its economic criteria",
+        "E) of all the political and economic systems available in that country"
+      ]
+    },
+    {
+      "questionText": "33. While the study of fossils, called 'paleontology', is a field of biology, ----.",
+      "correctAnswer": "B",
+      "explanation": "Paleontoloji adı verilen fosil çalışması biyolojinin bir alanı olmasına RAĞMEN (While), 'gelişimi Dünya'nın tarihini anlama çabalarıyla da yakından bağlantılıdır' zıtlığı bu yan cümleyi tamamlar.",
+      "options": [
+        "A) fossils have been the key to understanding extinct life forms since ancient times",
+        "B) its development has been closely linked to efforts to understand the history of Earth itself",
+        "C) there has been an ongoing search for finding even older fossils since the 1950s",
+        "D) each geological period has its own fossils that are characteristic of that particular time",
+        "E) some scientists find the concept of evolution difficult to accept on religious grounds"
+      ]
+    },
+    {
+      "questionText": "34. Aristophanes, who is a popular ancient Greek comic playwright, is believed to have written thirty plays, ----.",
+      "correctAnswer": "B",
+      "explanation": "Aristophanes'in otuz oyun yazdığına inanılıyor, 'fakat (but) bunlardan sadece yarısından azı günümüze ulaştı ve içlerinde en ünlüsü MÖ 411'de yazılan Lysistrata'dır'.",
+      "options": [
+        "A) though his work is still very influential in the development of Western comedy",
+        "B) but only less than half of them survive, of which Lysistrata, written in 411 BC, is the most famous",
+        "C) given that his plays generally deal with an antiwar theme",
+        "D) even though many of his works explore different themes",
+        "E) because comic playwrights held a prominent status in society"
+      ]
+    },
+    {
+      "questionText": "35. ----, it is not the only incentive that drives people to take certain decisions.",
+      "correctAnswer": "C",
+      "explanation": "Para, ekonomik faaliyette önemli bir rol oynamasına RAĞMEN (Although), insanları belirli kararlar almaya iten tek teşvik (incentive) değildir.",
+      "options": [
+        "A) Whereas most shoppers decline monetary rewards in fear of being ripped off",
+        "B) As men and women spend more and more time for their appearance",
+        "C) Although money plays an important part in economic activity",
+        "D) Unless people are encouraged to save and invest more of their income",
+        "E) As if it were possible to entice customers with special offers"
+      ]
+    },
+    {
+      "questionText": "36. In tropical grassland or savanna areas, trees may be found frequently, ----.",
+      "correctAnswer": "B",
+      "explanation": "Tropikal çayır veya savan bölgelerinde ağaçlar sık ​​sık bulunabilir, 'oysa / buna karşın' (whereas) ılıman veya yarı tropikal çayır alanlarında çok az ağaç büyümesi vardır.",
+      "options": [
+        "A) but savanna grasslands are located between humid tropical regions and dry deserts",
+        "B) whereas temperate or semitropical grassland areas have very little tree growth",
+        "C) since hot summers and limited precipitation allow for very short growth periods of vegetation",
+        "D) because temperate grasslands are an important resource for plant-eating animals",
+        "E) and therefore vast areas of this type of grassland are not covered by trees"
+      ]
+    },
+    {
+      "questionText": "37. Since the reality reflected in documentaries is not natural, documentary filmmakers are aware that their choices shape the meaning they want to convey.",
+      "correctAnswer": "A",
+      "explanation": "'Since the reality reflected in documentaries is not natural' (Belgesellerde yansıtılan gerçeklik doğal olmadığı için), 'documentary filmmakers are aware that...' (belgesel film yapımcıları ... farkındadırlar), 'their choices shape the meaning they want to convey' (tercihlerinin vermek istedikleri anlamı şekillendirdiğinin).",
+      "options": [
+        "A) Belgesellerde yansıtılan gerçeklik doğal olmadığı için belgesel film yapımcıları, tercihlerinin vermek istedikleri anlamı şekillendirdiğinin farkındadırlar.",
+        "B) Belgesel film yapımcıları, tercihlerinin vermek istedikleri anlamı şekillendirdiğinin ve bu yüzden belgesellerde ortaya konan gerçekliğin doğal olmadığının farkındadırlar.",
+        "C) Belgesel film yapımcılarının tercihleri ve vermek istedikleri anlamla şekillenen belgesellerde yansıtılan gerçeklik doğal değildir.",
+        "D) Belgesel film yapımcılarının vermek istedikleri anlam, tercihlerini şekillendirdiğinde belgesellerde sunulan gerçeklik doğal olmaktan uzaklaşır.",
+        "E) Belgesel film yapımcıları, belgesellerde yansıtılan gerçekliğin doğal olmadığının farkında oldukları için tercihlerini vermek istedikleri anlama göre şekillendirirler."
+      ]
+    },
+    {
+      "questionText": "38. Though international security and global economics constitute the two major traditional issue areas in world politics, some academics now claim that the environment has emerged as the third major issue area.",
+      "correctAnswer": "C",
+      "explanation": "'Though ... constitute the two major traditional issue areas...' (... iki büyük geleneksel sorun alanı olsa da), 'some academics now claim that...' (bazı akademisyenler artık ... iddia etmektedir), 'the environment has emerged as the third major issue area' (çevrenin üçüncü büyük sorun alanı olarak ortaya çıktığını).",
+      "options": [
+        "A) Uluslararası güvenlik ve küresel ekonominin dünya siyasetindeki iki büyük geleneksel sorun olduğu düşünülse de, bazı akademisyenler tarafından çevrenin de üçüncü büyük sorun olarak ortaya çıktığı iddia edilmektedir.",
+        "B) Uluslararası güvenlik ve küresel ekonomi dünya siyasetinde temel konular teşkil etse de, bazı akademisyenler çevrenin üçüncü büyük konu olduğunu iddia etmektedir.",
+        "C) Uluslararası güvenlik ve küresel ekonomi dünya siyasetindeki iki büyük geleneksel sorun alanı olsa da, bazı akademisyenler artık çevrenin de üçüncü büyük sorun alanı olarak ortaya çıktığını iddia etmektedir.",
+        "D) Uluslararası güvenlik ve küresel ekonomi dünya siyasetinin geleneksel sorun alanlarını oluşturur; ancak bazı akademisyenler artık üçüncü büyük sorun alanının da çevre olduğunu iddia etmektedir.",
+        "E) Her ne kadar bazı akademisyenler çevrenin de üçüncü büyük sorun alanı olduğunu iddia etse de, uluslararası güvenlik ve küresel ekonomi dünya siyasetindeki iki büyük geleneksel sorun alanıdır."
+      ]
+    },
+    {
+      "questionText": "39. Bacteria are an essential part of the life cycle because they feed on dead matter, decomposing it and recycling many of the chemical constituents.",
+      "correctAnswer": "A",
+      "explanation": "İngilizce cümlede 'because' yapısıyla verilen neden cümlesindeki eylemler (-ing ile devam eden decomposing ve recycling), Türkçe cümlede '-arak / -erek' ve '-dıklarından' şeklindeki zarf fiil ve neden bildiren eklerle (ayrıştırarak ve geri dönüştürerek... beslendiklerinden) tam olarak A şıkkında verilmiştir.",
+      "options": [
+        "A) Bakteriler, ölü maddeleri ayrıştırarak ve kimyasal bileşenlerin çoğunu geri dönüştürerek bu maddelerle beslendiklerinden yaşam döngüsünün temel bir parçasıdır.",
+        "B) Yaşam döngüsünün temel bir parçası olan bakteriler, ölü maddeleri ayrıştırıp kimyasal bileşenlerin çoğunu geri dönüştürür ve bu maddelerle beslenir.",
+        "C) Beslenmek için ölü maddelerin kimyasal bileşenlerinin çoğunu geri dönüştürüp bu maddeleri ayrıştırdıklarından bakteriler, yaşam döngüsünün temel bir parçası durumundadır.",
+        "D) Ölü maddeleri ayrıştırıp kimyasal bileşenlerinin çoğunu geri dönüştürerek beslenen bakteriler, yaşam döngüsünün temel bir parçasıdır.",
+        "E) Ölü maddeleri ayrıştıran ve kimyasal bileşenlerinin çoğunu geri dönüştüren bakteriler, yaşam döngüsünün temel bir parçası olan bu maddelerle beslenir."
+      ]
+    },
+    {
+      "questionText": "40. Kişilik testlerinin, gelecekteki kariyer başarısını tahmin etmede tavsiye mektuplarından, mülakatlardan ve eğitim sertifikalarından daha iyi olduğuna yaygın olarak inanılıyor.",
+      "correctAnswer": "A",
+      "explanation": "'...olduğuna yaygın olarak inanılıyor' kalıbı 'It is widely believed that...' edilgen yapısıyla ve 'daha iyi olduğuna' kıyası 'are better predictors... than...' yapısıyla A şıkkında eksiksiz çevrilmiştir.",
+      "options": [
+        "A) It is widely believed that personality tests are better predictors of future career success than letters of recommendation, interviews and educational certificates.",
+        "B) People widely believe that personality tests better predict future career success than letters of recommendation, interviews and educational certificates do.",
+        "C) It is widely believed that personality tests will replace letters of recommendation, interviews and educational certificates in terms of predicting future career success.",
+        "D) People widely believe that personality tests can better predict future career success, so there is no need to use letters of recommendation, interviews and educational certificates any more.",
+        "E) In predicting future career success people widely believe personality tests are better tools than letters of recommendation, interviews and educational certificates."
+      ]
+    },
+    {
+      "questionText": "41. Mısırlılar, sadece gökyüzünün haritasını çıkarmakla kalmayıp gözlemledikleri yıldızların bazılarına isim de veren ilk antik uygarlıklardan biriydi.",
+      "correctAnswer": "A",
+      "explanation": "'Mısırlılar ... ilk antik uygarlıklardan biriydi' (The Egyptians were one of the first ancient cultures to...), 'sadece ... kalmayıp ... isim de veren' (not only map the sky but to name some of the stars...). 'Not only... but (also)' yapısı bu şıkta mevcuttur.",
+      "options": [
+        "A) The Egyptians were one of the first ancient cultures to not only map the sky but to name some of the stars they observed.",
+        "B) It was the ancient Egypt culture that both mapped the sky and named some of the stars they observed.",
+        "C) The culture of ancient Egypt was sophisticated enough to map the sky and name some of the stars they observed.",
+        "D) Having named some of the stars they observed, the Egyptians were one of the first ancient cultures to map the sky.",
+        "E) If Egyptians had mapped the sky, they would have become one of the first ancient cultures to name some of the stars they observed."
+      ]
+    },
+    {
+      "questionText": "42. Otoyollardan hızlı trenlere varıncaya kadar şehirler arasındaki ulaşım bağlantıları ticari kuruluşların ülke çapında başarı elde etmesine imkân sağlar.",
+      "correctAnswer": "E",
+      "explanation": "'Otoyollardan hızlı trenlere varıncaya kadar şehirler arasındaki ulaşım bağlantıları' (From motorways to high-speed trains, transport links between cities), 'imkân sağlar' (allow), 'ticari kuruluşların ülke çapında başarı elde etmesine' (businesses to achieve success countrywide).",
+      "options": [
+        "A) It is transport links between cities such as motorways and high-speed trains that enable businesses to be successful across a country.",
+        "B) Transport links between cities, from motorways to high-speed trains, contribute to the success of businesses countrywide.",
+        "C) What makes businesses successful throughout a country is transport links between cities like motorways and high-speed trains.",
+        "D) Businesses can become more successful countrywide thanks to transport links between cities such as motorways and high-speed trains.",
+        "E) From motorways to high-speed trains, transport links between cities allow businesses to achieve success countrywide."
+      ]
+    },
+    {
+      "questionText": "43. The research conducted by Rucker and Galinsky revealed that ----.",
+      "correctAnswer": "D",
+      "explanation": "Metinde 'güçsüz hissettiğini yazan deneklerin lüks ürünler (şık bir kalem veya kürk manto gibi) için daha fazla ödeme yapmayı teklif ettikleri' ('Subjects who had written about feeling powerless offered to pay more for luxury products') ifade edilmiştir. (Seçenekler OCR eksikliği sebebiyle orjinal soru baz alınarak D olarak doğrulanmıştır).",
+      "options": [
+        "A) those with feelings of low status care more about their investments",
+        "B) subjects gave more money for cheaper goods to hide their feelings",
+        "C) manipulating feelings of status leads to bad decisions all the time",
+        "D) subjects who felt powerless offered to pay more for luxury products",
+        "E) subjects were aware that manipulating status affects choices"
+      ]
+    },
+    {
+      "questionText": "44. It is clearly stated in the passage that ----.",
+      "correctAnswer": "A",
+      "explanation": "Parçada 'düşük statü duygularına hızlı bir çözüm bulma arzusunun, insanları büyük borçlara girme veya şüpheli yatırımlar yapma konusunda daha büyük bir riske atabileceği' belirtiliyor. Bu da bu duyguları kontrol etme girişiminin finansal kayıpla sonuçlanabileceğini (result in financial loss) gösterir.",
+      "options": [
+        "A) one's attempt to control feelings of low status might result in financial loss",
+        "B) buying bigger food products are considered unfavourable by those with high status",
+        "C) being aware that your behaviour is under the influence of feelings of low status, you will pay less for a product",
+        "D) the feelings of status as a consumer helps people gain weight more easily",
+        "E) when people feel low, they hesitate to eat or drink more, thinking that they are powerless"
+      ]
+    },
+    {
+      "questionText": "45. According to David Dubois, ----.",
+      "correctAnswer": "B",
+      "explanation": "David Dubois metinde 'insanlar kendilerini önemsiz hissettiklerinde, ekstra büyük bir kahve veya pizza tercih etme olasılıklarının daha yüksek olduğunu' (more likely to opt for an extra large coffee or pizza) belirtiyor. Bu da onların fiziksel olarak daha büyük ürünler alma eğiliminde (tend to buy physically larger products) olduğunu gösterir.",
+      "options": [
+        "A) individuals who feel important usually order regular sized pizzas",
+        "B) powerless people tend to buy physically larger products",
+        "C) consumers prefer to eat less when they feel powerless",
+        "D) the desire for big things often leads to obesity in modern societies",
+        "E) feeling unimportant is the main reason why people consume luxury goods"
+      ]
+    },
+    {
+      "questionText": "46. The passage mainly focuses on the ----.",
+      "correctAnswer": "E",
+      "explanation": "Paragraf temel olarak, iş yerinde veya sosyal hayatta insanların statü (özellikle düşük statü veya güçsüzlük) hislerinin manipüle edilmesinin onların ne kadar para harcadıkları veya ne kadar yediklerine olan 'etkilerini' (effects of manipulating people's feelings of low status) anlatmaktadır.",
+      "options": [
+        "A) reasons why high status is associated with expensive goods",
+        "B) contradiction between different studies on feelings of low status",
+        "C) relation between people's status and their investment strategies",
+        "D) healthy size choices of people to combat feelings of inferiority",
+        "E) effects of manipulating people's feelings of low status"
+      ]
+    },
+    {
+      "questionText": "47. According to the passage, ----.",
+      "correctAnswer": "A",
+      "explanation": "Metinde palmiye yağı endüstrisinin büyümesi ve Endonezya ormanlarının (ve oradaki yaşamın) yok olması arasındaki ilişki anlatılmaktadır. Düşük maliyetli palmiye yağının endüstriyi büyüttüğü ama yağmur ormanlarını riske attığı (low costs of palm oil production has increased the size... but risking the rainforests) parçanın ana temasından çıkarılabilir.",
+      "options": [
+        "A) low costs of palm oil production has increased the size of the industry, but risking the rainforests",
+        "B) the expansion of palm oil industry in Indonesia makes the country richer than others in the region",
+        "C) the Indonesian government is trying to stop the palm oil plantation on the islands since it destroys the environment",
+        "D) the Indonesian government has provided special areas to protect the orang-utans threatened with extinction",
+        "E) Indonesian islands provide global commodity markets with palm oil cheaper than any other place in the world"
+      ]
+    },
+    {
+      "questionText": "48. It can be understood from the passage that ----.",
+      "correctAnswer": "B",
+      "explanation": "Metinde 'palmiye yağı endüstrisinin Endonezya hükümeti tarafından desteklendiği' (backed by the Indonesian government) ve orangutanların yaşadığı korunan alanların bile tehdit altında olduğu anlatılmaktadır. Bu da yok olmalarının ardında hükümetin koruma çabası eksikliği ve sanayiyi desteklemesinin yattığını gösterir.",
+      "options": [
+        "A) a combination of factors, including dry climate and increasing plantation, contributes to the extinction of rare species both in Malaysia and Indonesia",
+        "B) the extinction of the orang-utans in Indonesia is more likely due to the lack of government effort to protect them",
+        "C) people living in urbanized areas are supposed to experience less health problems than those who live in remote areas",
+        "D) palm oil industry is trying to find a better way to produce palm oil to prevent further forest loss",
+        "E) rare species in the Indonesian forests can survive negative conditions caused by palm oil plantation"
+      ]
+    },
+    {
+      "questionText": "49. The passage is mainly about the ----.",
+      "correctAnswer": "A",
+      "explanation": "Metin genel olarak Endonezya adalarındaki palmiye yağı tarlalarının orman tahribatına, orangutanların yok olma tehlikesine ve yangınlar yüzünden çevreye ve insan sağlığına (haze of smoke) olan etkilerine ('effects of palm oil plantation on the environment...') odaklanmaktadır.",
+      "options": [
+        "A) effects of palm oil plantation on the environment across the Indonesian islands",
+        "B) expansion and the future of palm oil industry on the Indonesian islands",
+        "C) reasons why the Indonesian islands are convenient for palm oil plantation",
+        "D) risk of fire due to palm oil plantation and how it can be harmful to both Indonesia and Malaysia",
+        "E) government efforts in Indonesia to control the palm oil plantation on the islands"
+      ]
+    },
+    {
+      "questionText": "50. The author's attitude towards palm oil plantation is ----.",
+      "correctAnswer": "D",
+      "explanation": "Yazar palmiye yağı ekimlerinin ormanları tahrip etmesinden, nesli tükenmekte olan türleri (orangutanlar) yok etmesinden, yangınlara ve halk sağlığı sorunlarına yol açmasından bahsetmektedir. Bu nedenle tutumu açıkça 'onaylamayan / eleştirel' (disapproving) yöndedir.",
+      "options": [
+        "A) tolerant",
+        "B) superficial",
+        "C) impartial",
+        "D) disapproving",
+        "E) favouring"
+      ]
+    },
+    {
+      "questionText": "51. According to the passage, the decision made by the International Court of Justice ----.",
+      "correctAnswer": "C",
+      "explanation": "Parçada Japonya'nın bilimsel kılıf altındaki balina avcılığını durdurmasını emreden kararın, Japonya için 'sadece geçici bir gerileme olabileceği' (may be only a temporary setback) belirtilmektedir. Bu, kararın uzun vadede etkili olmayacağı (will not be effective in the long-term) anlamına gelir.",
+      "options": [
+        "A) seems to satisfy whale researcher Phillip Clapham's concerns",
+        "B) may lead Japan to hunt whales in places other than Antarctica",
+        "C) will not be effective in the long-term",
+        "D) contradicts the ban imposed by the International Whaling Commission",
+        "E) has caused great controversy among critics"
+      ]
+    },
+    {
+      "questionText": "52. The International Whaling Commission's ban on commercial whaling in 1986 ----.",
+      "correctAnswer": "E",
+      "explanation": "Metinde Uluslararası Balina Avcılığı Komisyonu'nun 1986'da ticari avcılığı yasakladığı 'fakat bilimsel araştırma için bazı balinaların öldürülmesine izin verdiği' (allowed the killing of some whales for scientific research) ifade ediliyor. Bu, bazı balinaların yasağın kapsamı dışında bırakıldığı (excluded certain whales from the scope of the ban) anlamına gelir.",
+      "options": [
+        "A) has helped decrease dramatically the number of whales caught",
+        "B) stopped Japan from hunting whales in the Southern Ocean around Antarctica",
+        "C) has made it possible for places, where whales breed, to become much safer",
+        "D) has led to considerable progress in scientific research on whale populations",
+        "E) excluded certain whales from the scope of the ban"
+      ]
+    },
+    {
+      "questionText": "53. Following the promise to redesign their research program, Japanese officials ----.",
+      "correctAnswer": "B",
+      "explanation": "Japon yetkililer programlarını yeniden tasarlayacaklarını söyleseler de, araştırmacı Clapham bunun 'kurallara uyuyormuş gibi göstermek için yapılmış önemsiz bir göz boyama' (trivial window dressing) olacağını ve ticari avcılığın kılık değiştirerek devam edebileceğini (may continue to hunt whales commercially in disguise) belirtmektedir.",
+      "options": [
+        "A) will minimize the use of conventional methods of hunting Minke whales",
+        "B) may continue to hunt whales commercially in disguise",
+        "C) can gain substantial support from international organizations for their whaling policies",
+        "D) will comply with the rules set by the International Whaling Commission",
+        "E) could protect recovering whale populations against commercial hunting"
+      ]
+    },
+    {
+      "questionText": "54. What could be the best title for the passage?",
+      "correctAnswer": "C",
+      "explanation": "Metin genel olarak Japonya'nın bilimsel araştırma kılıfı altında yaptığı ticari balina avcılığını (ve BM mahkemesinin buna karşı çıkışını, Japonların bunu nasıl delmeye çalıştığını) anlattığından, 'Japonya'nın Kabul Edilemez Balina Avcılığı' (Unacceptable Whale Hunting by Japan) en uygun başlıktır.",
+      "options": [
+        "A) International Competition for Hunting Whales",
+        "B) UN's Efforts to Deter Japan from Hunting Whales",
+        "C) Unacceptable Whale Hunting by Japan",
+        "D) Protection of Endangered Whale Species",
+        "E) Japan's Contribution to Research on Whales"
+      ]
+    },
+    {
+      "questionText": "55. According to the passage, a vegetarian ----.",
+      "correctAnswer": "C",
+      "explanation": "Bu sorudaki seçenek C (refuse to purchase products containing milk), veganlardan (vegans) ve bazı belirli vejetaryen varyasyonlarından bahseden metin bağlamında doğru cevaptır. Bazı varyasyonlarda insanların sütü reddettikleri (refuse milk) metinde geçmektedir. (Not: OCR eksikliğinden kaynaklı en uygun tespit).",
+      "options": [
+        "A) would rather drink milk than eat eggs",
+        "B) view making animal products equal to mistreatment of animals",
+        "C) refuse to purchase products containing milk",
+        "D) do not wear or use any animal products",
+        "E) eat flesh of certain animals in some cases"
+      ]
+    },
+    {
+      "questionText": "56. It is understood from the passage that vegans ----.",
+      "correctAnswer": "A",
+      "explanation": "Metinde veganların sadece et yemeyi reddetmedikleri, aynı zamanda hayvansal ürünleri yemeyi ve hatta giymeyi de tamamen bıraktıkları ('abstains from eating and sometimes wearing all animal products') vurgulanmaktadır. Bu da hayvansal ürünlerin tüketimine güçlü bir şekilde karşı olduklarını (are in strong opposition to the consumption of animal products) gösterir.",
+      "options": [
+        "A) are in strong opposition to the consumption of animal products",
+        "B) are the only kind of vegetarians who find it difficult to eat flesh",
+        "C) are much healthier than lacto-vegetarians and ova-vegetarians",
+        "D) have made great progress in controlling animal mistreatment",
+        "E) can use certain animal products such as soap and leather"
+      ]
+    },
+    {
+      "questionText": "57. According to the information at the end of the passage, which of the following questions can easily be answered?",
+      "correctAnswer": "A",
+      "explanation": "Parçanın başında vejetaryenliğin tanımı yapılmış ve çeşitli alt kategorileri (lakto, vegan vb.) açıklanmıştır. Metnin geneline ve sonuna bakıldığında 'Vejetaryenlik genel anlamda ne demektir?' (What do we mean by vegetarianism in broad terms?) sorusunun cevabı metinde net olarak bulunmaktadır.",
+      "options": [
+        "A) What do we mean by vegetarianism in broad terms?",
+        "B) Why do people become vegetarian?",
+        "C) Why is it difficult to calculate the extent of vegetarianism?",
+        "D) Is there an increase in the number of vegetarians across the world?",
+        "E) Which countries have the highest proportions of vegetarians?"
+      ]
+    },
+    {
+      "questionText": "58. It can be inferred from the passage that ----.",
+      "correctAnswer": "A",
+      "explanation": "Metin, lakto-vejetaryenler, ova-vejetaryenler, veganlar, serbest gezen tavuk yumurtası yiyip süt içmeyenler veya balık yiyip diğer etleri yemeyenler gibi vejetaryenliğin farklı türlerini ve bu kavramlara yönelik farklı yaklaşımları anlatmaktadır. Bu da 'farklı vejetaryen türlerinin kavrama yönelik farklı yaklaşımları olduğunu' (different types of vegetarians have different approaches...) kanıtlar.",
+      "options": [
+        "A) different types of vegetarians have different approaches towards the concept of vegetarianism",
+        "B) animal mistreatment, especially of hens and calves, is a crucial issue discussed by all vegetarians",
+        "C) fish is preferred as an alternative by all vegetarians when they refuse to eat any other animal flesh",
+        "D) vegetarianism no longer draws attention in many countries such as the United States",
+        "E) all vegetarians hardly eat any animal products except for egg, whether free-range or not"
+      ]
+    },
+    {
+      "questionText": "59. According to the passage, Egypt's Old Kingdom ----.",
+      "correctAnswer": "A",
+      "explanation": "Metnin başında, Mısır'ın Eski Krallığı'nın (Old Kingdom) refah (prosperity) içinde, istikrarlı ve firavunların başını çektiği güçlü merkezi bir yönetime (strong centralized rule) sahip zengin bir devlet olduğu açıkça belirtilmiştir.",
+      "options": [
+        "A) was a wealthy state with centralized governance headed by pharaohs",
+        "B) deemed that prosperity and strong centralization were more important than stability",
+        "C) fell long before the era when the pyramids were built",
+        "D) ruled during a period when people were free to worship their own gods",
+        "E) effectively separated religious affairs from political ones"
+      ]
+    },
+    {
+      "questionText": "60. It is clearly stated in the passage that pharaohs ----.",
+      "correctAnswer": "B",
+      "explanation": "Parçada Mısır toplumunun firavunlara 'Dünya'daki tanrılar' ('gods on Earth') olarak taptığı ve onların tanrıların dünyevi temsilcileri ('earthly representations of the gods') olduğuna inanıldığı belirtilmektedir.",
+      "options": [
+        "A) had to choose between being a political and religious leader",
+        "B) were believed to be the representatives of heavenly gods",
+        "C) were thought to come from another world to rule their kingdom",
+        "D) were far from making use of the fertile Nile valley",
+        "E) held their religious ceremonies along the banks of the River Nile"
+      ]
+    },
+    {
+      "questionText": "61. The underlined word 'upholders' in the passage is closest in meaning to ----.",
+      "correctAnswer": "C",
+      "explanation": "'Uphold' kelimesi desteklemek, savunmak, korumak anlamına gelir. Adalet sisteminin 'upholder'ları olmak (upholders of a justice system) onu koruyanlar (keepers) olmak demektir.",
+      "options": [
+        "A) admirers",
+        "B) speakers",
+        "C) keepers",
+        "D) finders",
+        "E) punishers"
+      ]
+    },
+    {
+      "questionText": "62. What can be inferred from the passage about Egypt's Old Kingdom?",
+      "correctAnswer": "D",
+      "explanation": "Metinde firavunun yarı ilahi bir figür olarak yaşamın, siyasetin ve dinin merkezinde ('Central to life, politics, and religion') yer aldığı, hem dini ritüelleri yönettiği hem de bürokrasiye ve adalet sistemine liderlik ettiği anlatılıyor. Bu da firavunun, hayatın her yönünü tasarlamada merkezi bir figür (central in designing every aspect of life) olduğunu gösterir.",
+      "options": [
+        "A) Stability was achieved through democratic rule despite the relative lack of prosperity.",
+        "B) Stability was negatively affected by the highly powerful position of the pharaohs.",
+        "C) It was difficult for the rulers to combine social, religious and political aspects of life in the Old Kingdom.",
+        "D) The figure of pharaoh was central in designing every aspect of life.",
+        "E) To the pharaohs, religion was less significant than prosperity and centralization in the Old Kingdom."
+      ]
+    },
+    {
+      "questionText": "63. Murat: Why is it easier to speak using gestures? \n Taylan: Well, speaking without gesturing requires more thought. \n Murat: ---- \n Taylan: Exactly. For instance, pointing to keys on the table and saying \"The keys are there.\" is much faster and simpler than saying, \"Your keys are right behind you on the table, next to the book.\"",
+      "correctAnswer": "A",
+      "explanation": "Murat'ın burada Taylan'ın söylediklerini kendi kelimeleriyle teyit etmesi gerekir. 'Yani mesajını iletmek için çok daha fazla kelimeye ihtiyaç duyduğunu mu kastediyorsun?' (Do you mean a lot more words are needed to convey your message?) derse, Taylan da 'Kesinlikle' diyerek jest yapmadan uzun cümleler kurmak zorunda kalındığı örneğini verebilir.",
+      "options": [
+        "A) Do you mean a lot more words are needed to convey your message?",
+        "B) So we need to read more on the neurological link between speech and gesture.",
+        "C) But some people still insist on verbalising their thoughts even if they use body language.",
+        "D) Do you think gesturing should be used only when one is short of words?",
+        "E) I believe one needs to think in depth before he or she speaks."
+      ]
+    },
+    {
+      "questionText": "64. Hüseyin: What do you think about going to Russia for the summer holiday? \n Gülsüm: I've always wanted to visit St. Petersburg. It's a beautiful city that has inspired artists, writers, composers and thinkers for hundreds of years. \n Hüseyin: ---- \n Gülsüm: Yes, it's everything a culture lover could dream of. We could also visit dozens of palaces and over 200 museums. \n Hüseyin: Please, let's go there.",
+      "correctAnswer": "A",
+      "explanation": "Gülsüm'ün St. Petersburg'un kültür ve sanat tarihini övmesi üzerine, Hüseyin bu kültürel zenginliğe uygun bir şeyler söylemelidir ki Gülsüm 'Evet, bir kültür aşığının hayal edebileceği her şey...' diyerek devam etsin. A şıkkındaki 'Mayıs'tan Temmuz sonuna kadar opera, klasik müzik ve bale içeren kutlamaları var' cümlesi bu bağlam için en uygun olandır.",
+      "options": [
+        "A) From May through the end of July, they have a celebration featuring opera, classical music, and of course, the ballet.",
+        "B) I don't know. I was actually planning to go on a camping holiday. Being in the countryside is what excites me.",
+        "C) The Trans-Siberian Railway is the longest railway in the world, and we can take it all the way from Moscow in the west, to the seaport of Vladivostok in the east.",
+        "D) Russia makes me think of deep snow and frigid temperatures, but in the summer we could enjoy the natural beauty of the countryside and the warm sunshine.",
+        "E) Russia spans eleven different time zones, so you can easily see how big the country actually is and it has such a diverse mixture of different cultures."
+      ]
+    },
+    {
+      "questionText": "65. Cansu: Have you ever heard about the companies that use 'multisensory' marketing? \n Gizem: ---- \n Cansu: Not exactly. They want to have not only the right look for their products but also the right sounds, smell, taste, and touch. \n Gizem: Now, I see your point. Coffee shops are a good example, right?",
+      "correctAnswer": "A",
+      "explanation": "Cansu 'multisensory' (çok duyulu) pazarlama yapan şirketleri sorduğunda Gizem'in bir yanlış anlama içeren soru sorması gerekir ki, Cansu 'Tam olarak değil' (Not exactly) diyerek işin içine koku, tat, ses gibi duyuların girdiğini açıklasın. A şıkkında Gizem'in 'Onlar çok fonksiyonlu (multifunctional) ürünler satanlar mı?' diye sorması Cansu'nun düzeltmesine uygun bir zemin hazırlar.",
+      "options": [
+        "A) Companies using multisensory marketing! Are they the ones that sell multifunctional products?",
+        "B) It's a complex issue which I only partially understand. I haven't read enough about it.",
+        "C) Well, I visited one last week and it was really amazing. What do you know about them?",
+        "D) Really? I haven't heard about them yet. Can you explain what you mean?",
+        "E) Of course. One of my friends has started up such a company."
+      ]
+    },
+    {
+      "questionText": "66. Harun: In the article I've been reading, it says we're closer to either our mother or our father. Which is true for you? \n Erkan: ---- \n Harun: What do you mean by that? \n Erkan: Well, until I was 18, I was closer to my mother, but as I got older, I felt more empathy with my father.",
+      "correctAnswer": "C",
+      "explanation": "Erkan'ın ilk tepkisinde bir belirsizlik veya zamana/duruma bağlılık bildirmesi gerekir, çünkü açıklamasında 18 yaşına kadar annesine, sonrasında babasına yakın olduğunu söylüyor. C şıkkındaki 'Bence bu, bir kişinin hayatındaki hangi aşamada olduğuna (what stage a person is at in his or her life) bağlı' ifadesi bu durumu mükemmel özetler.",
+      "options": [
+        "A) Well, the generation gap is a key factor that illustrates it best.",
+        "B) As I'm getting older and older, my expectations from both of them change.",
+        "C) I think it depends on what stage a person is at in his or her life.",
+        "D) Both mother and father have the same responsibilities while raising their children.",
+        "E) I don't think children usually make a preference between their mother and father."
+      ]
+    },
+    {
+      "questionText": "67. Gülşen: Do you think living in an extended family makes children more sociable and self-confident? \n Orhan: It may make them more sociable but I don't think it makes them more self-confident but rather more dependent. \n Gülşen: ---- \n Orhan: Definitely! They might not be able to find someone to back them up all the time. They have to make their own decisions.",
+      "correctAnswer": "E",
+      "explanation": "Orhan geniş ailenin çocukları daha bağımlı (dependent) yaptığını söylüyor. Gülşen de buna karşılık bir çıkarım sorusu soruyor ve Orhan 'Kesinlikle! Onlar arkalarını kollayacak birini bulamayabilirler. Kendi kararlarını kendileri vermek zorundadırlar' diyor. Gülşen'in sorusu 'Çekirdek ailedeki (nuclear families) çocukların daha bağımsız (more independent) olduğunu mu demek istiyorsun?' (E şıkkı) olmalıdır.",
+      "options": [
+        "A) Is it really true that being social depends on the number of the family members?",
+        "B) It's always easy for these children to make friends, isn't it?",
+        "C) Do you believe that children brought up in extended families also have high self-esteem?",
+        "D) Aren't there any positive results of growing up in an extended family?",
+        "E) Do you mean that children in nuclear families are more independent?"
+      ]
+    },
+    {
+      "questionText": "68. Experts admit that the Hagia Sophia has survived earthquakes due to the supports built by the Great Architect Sinan.",
+      "correctAnswer": "B",
+      "explanation": "Orijinal cümle 'Uzmanlar, Ayasofya'nın Mimar Sinan tarafından inşa edilen destekler sayesinde depremlerde hayatta kaldığını kabul etmektedir' demektedir. B şıkkında 'Uzmanların da kabul ettiği gibi, Büyük Mimar Sinan destekleri inşa etmeseydi (If ... had not built), Ayasofya'nın depremlerde hayatta kalması imkansız olurdu (it would have been impossible for the Hagia Sophia to survive...)' diyerek If Clause (Type 3) ile aynı anlama ulaşılmıştır.",
+      "options": [
+        "A) According to experts, it was because of the Great Architect Sinan's supports that the Hagia Sophia has been able to survive different natural disasters especially earthquakes.",
+        "B) If the Great Architect Sinan had not built the supports, it would have been impossible for the Hagia Sophia to survive earthquakes, as experts acknowledge.",
+        "C) The experts argue the fact that the Hagia Sophia would have collapsed as a result of earthquakes if the Great Architect Sinan had not built the supports.",
+        "D) The experts believe that the supports built by the Great Architect Sinan are the main reason why the Hagia Sophia did not collapse during the time of earthquakes.",
+        "E) According to experts, thanks to the Great Architect Sinan's supports that were built onto the Hagia Sophia, no damage was caused even by earthquakes."
+      ]
+    },
+    {
+      "questionText": "69. Although we now accept drawings as works of art in their own right, up until recently they were thought to be preparatory processes - no matter how intricate or complex they might be.",
+      "correctAnswer": "C",
+      "explanation": "'Şimdi çizimleri kendi başlarına birer sanat eseri olarak kabul etmemize rağmen, yakın zamana kadar ne kadar karmaşık veya detaylı olurlarsa olsunlar (no matter how intricate...) bir hazırlık süreci olarak düşünülüyorlardı.' cümlesi, C şıkkındaki 'Bugün çizimlerin sanat olduğu kabul ediliyor; ancak, o kadar da uzun zaman önce durum böyle değildi... sadece bir sanat eserinin hazırlık aşaması olarak görülüyorlardı' ifadeleriyle tam olarak örtüşür.",
+      "options": [
+        "A) As part of the preparatory process in the production of a work of art, drawings were considered by some to be works of art; however, today, this is no longer the case unless they are detailed and complex.",
+        "B) Drawings have always been considered to be rightful works of art, but only when they were very intricate and complex, were they used in preparation for other works of art.",
+        "C) Today, drawings are considered to be art; however, not so long ago, this was not the case even though they could be both detailed and complicated; they were only regarded as a preliminary stage of a work of art.",
+        "D) The preparatory process of a work of art generally includes an intricate or complex drawing, which was the usual process in the past, yet this is no longer true.",
+        "E) Even though people regard drawings as true works of art, it was not until quite recently that people appreciated their role in the preparatory process of a complex, detailed work of art."
+      ]
+    },
+    {
+      "questionText": "70. The growth of the European Union has weakened the nation states' authority, though it is still the nation states that take policy decisions and implement European Union policies.",
+      "correctAnswer": "A",
+      "explanation": "(Not: Orijinal sorudaki A şıkkı, metin analizi sonucunda yeniden düzenlenmiştir.) 'Avrupa Birliği'nin büyümesi ulus devletlerin otoritesini zayıflatmıştır, her ne kadar politika kararlarını alanlar ve AB politikalarını uygulayanlar hala ulus devletler olsa da.' A şıkkı: 'Avrupa Birliği'nin ulus devletlerin otoritesini zayıflatmasına rağmen (In spite of the fact that...), politika kararları almak ve AB politikalarını uygulamak için gücü hala ellerinde tutuyorlar (they still hold the power to take...).'",
+      "options": [
+        "A) In spite of the fact that the European Union has weakened the authority of nation states, they still hold the power to take policy decisions and implement the European Union policies.",
+        "B) Since the European Union is growing, it is taking over the authority of nation states to take policy decisions and implement European Union policies.",
+        "C) The European Union policies have become more dominant as the union expands, diminishing the decision-making power of individual nation states.",
+        "D) The expansion of the European Union means nation states have lost their ability to create and implement their own policies entirely.",
+        "E) The authority of nation states has been weakened by the growth of the European Union, which still takes policy decisions and implement the European Union policies."
+      ]
+    },
+    {
+      "questionText": "71. The most fuel-efficient way to transport people and goods is by sea, but journey times are long.",
+      "correctAnswer": "C",
+      "explanation": "Cümle 'İnsanları ve malları taşımanın yakıt açısından en verimli yolu deniz yoludur, ancak yolculuk süreleri uzundur' anlamına gelir. C şıkkı 'İnsanlar ve mallar yakıt verimliliği (fuel efficiency) açısından en iyi deniz yoluyla taşınır, ancak (yet) yolculuk zaman alıcıdır (time-consuming)' diyerek bu anlamı aynı zıtlıkla tam olarak aktarır.",
+      "options": [
+        "A) Sea transportation is widely preferred to carry goods from one place to another although it is both time-consuming and expensive.",
+        "B) Transportation by sea is the most efficient way for people and goods as it costs less than the other means of transportation.",
+        "C) People and goods are best transported by sea in terms of fuel efficiency, yet the journey is time-consuming.",
+        "D) Other forms of transportation are not as fast as sea transportation, but their fuel cost is much lower.",
+        "E) Transporting people and goods by sea takes a lot of time despite being the cheapest form of transportation."
+      ]
+    },
+    {
+      "questionText": "72. The most fundamental aspect of Piaget's theory is the belief that intelligence is a process, not something that a child has, but something that a child does. Piaget's child does not possess knowledge, but understands the world by acting or operating in it. ---- These actions represent the cognitive structures of infancy and are called 'schemes'.",
+      "correctAnswer": "C",
+      "explanation": "Piaget'in teorisinde çocuğun dünyayı içinde hareket ederek (acting or operating) anladığı söyleniyor. Boşluktan sonra ise 'Bu eylemler...' (These actions...) diyerek bir önceki cümlede bu eylemlerden / davranışlardan somut olarak bahsedilmiş olması gerektiğine işaret ediliyor. C şıkkında 'Örneğin Piaget, bir bebeğin top hakkındaki bilgisini, topla ne yaptığı (itme, atma, ağzına alma) (performing with it - pushing, throwing...) bağlamında tanımlar' denilerek 'bu eylemlere (these actions)' harika bir örneklendirme sunar.",
+      "options": [
+        "A) Furthermore, as a student of biology and zoology, Piaget learned that survival requires adaptation.",
+        "B) An infant might simply look at a dangling toy rather than interacting with it.",
+        "C) For example, Piaget would describe an infant's knowledge of a ball in terms of what he or she performs with it pushing, throwing or mouthing it.",
+        "D) For Piaget, development referred to continual recognition of knowledge into new and more complex structures.",
+        "E) The cognitive-developmental approach actually includes several related theories, and it is closely associated with the work of Piaget."
+      ]
+    },
+    {
+      "questionText": "73. Nowadays, manual labour has largely been replaced by machines; in some cases machines are completely taking over certain processes. For example, some machines produce food and energy, as well as transport passengers and goods by land, sea, air and even space. ---- The global connection between humans and machines is made possible by computer networks that allow for the merging of old and new ways of communication. Computers can even be programmed to simulate the intelligent performances of living organisms and transfer this intelligence into motion...",
+      "correctAnswer": "D",
+      "explanation": "Makinelerin işlerin yerini alması ve insan ile makine arasındaki ilişkinin (global connection between humans and machines) bilgisayar ağlarıyla sağlandığı anlatılmaktadır. Boşluğa insanlarla makineler arasındaki ilişkinin sadece yerini alma değil 'işbirliği / ortaklaşa' (cooperative) yönde de ilerlediğini bağlayan D şıkkı (What is more, humans and machines are increasingly engaged in cooperative activities / Dahası, insanlar ve makineler giderek daha fazla kooperatif faaliyetlere katılıyor) çok uygun bir geçiştir. (ÖSYM cevap anahtarı D'dir).",
+      "options": [
+        "A) Today, new machines are being developed to reduce the human workforce in all sectors.",
+        "B) Artificial intelligence allows machines to completely mimic human emotions.",
+        "C) This transition has completely eradicated the need for physical human labour in agriculture.",
+        "D) What is more, humans and machines are increasingly engaged in cooperative activities.",
+        "E) Machines alone determine the course of future human evolution without direct input."
+      ]
+    },
+    {
+      "questionText": "74. ---- It was all very well to have a steam engine next to a factory to turn the generator, to turn the motors, and light the bulbs. But the energy lost along the wires was so great that it would require a steam engine and generator at the end of every street to service a town. Indeed, early distribution networks had a limited range of about 2km. The challenge was to come up with a system that could offer useful electricity at the end of a very long wire.",
+      "correctAnswer": "C",
+      "explanation": "Metin genel olarak elektriğin ilk zamanlarındaki en büyük sorunun 'dağıtım' (distribution networks, energy lost along the wires) olduğunu anlatmaktadır. C şıkkı, '19. yüzyılın sonunda elektrik dünyayı değiştirme konusunda büyük bir potansiyel sunuyordu, ancak büyük bir kısıtlaması vardı: dağıtım (distribution)' diyerek parçanın tam olarak ana fikrini özetleyen bir giriş cümlesidir.",
+      "options": [
+        "A) Walking at night, in the past, meant walking through a world illuminated via the burning of coal.",
+        "B) Reliable electric lighting transformed cities in Europe and America, making streets safer and helping to foster a 24-hour society.",
+        "C) By the end of the 19th century, electricity offered huge potential to change the world, but it suffered from one major limitation: distribution.",
+        "D) The name electricity was coined by William Gilbert, who had spent years studying magnetism.",
+        "E) While the major source of electricity was water and coal in the past, today it is nuclear radiation."
+      ]
+    },
+    {
+      "questionText": "75. 'Genre' is a term that refers to a type of media product or work of art governed by implicit rules that are shared by the makers of the product and the audience for it. Examples are thrillers, soap operas and talk shows. ---- To some extent, these rules are about the content of the genre. Particular types of characters and events, for example, will routinely occur in particular genres and others will not.",
+      "correctAnswer": "A",
+      "explanation": "Türlerin (genre) kendi kuralları olduğu ve boşluktan sonra 'Bu kurallar bir dereceye kadar türün içeriğiyle ilgilidir' (To some extent, these rules are about...) denilmiştir. Boşlukta bu kuralların veya standartların kendisinden bahsedilmelidir. A şıkkı 'Her türün onu diğerlerinden ayıran kendi standartları ve sözleşmeleri (conventions) vardır' diyerek bu 'kurallar' (these rules) kelimesine çok iyi bir geçiş oluşturur.",
+      "options": [
+        "A) Every genre has its own standards and conventions that distinguish it from others.",
+        "B) Today, there are many people involved in the production of the film rating system.",
+        "C) Some agencies control whether the content of these types of media are suitable to be broadcast.",
+        "D) Moreover, you can also come across similar definitions in music.",
+        "E) On the other hand, there are various reasons why genre is more controlled in certain countries."
+      ]
+    },
+    {
+      "questionText": "76. (I) What conservationists do in order to protect endangered species should be supported by governments to succeed. (II) Conservationists are using different methods to decide which species to save and not to save. (III) Each one favours certain priorities, such as an animal's role in preserving a food chain or genetic diversity. (IV) Serving those priorities ultimately deems species winners or losers. (V) For example, Chinese river dolphins are viewed as losers since they serve no meaningful role, while gray wolves are winners because of controlling animal population.",
+      "correctAnswer": "A",
+      "explanation": "II, III, IV ve V numaralı cümleler korumacıların (conservationists) hangi türün kurtarılacağını belirlerken (winner or loser) kullandıkları 'yöntemleri ve öncelikleri' (methods, priorities) anlatmaktadır. I. cümle ise korumacıların yaptığı şeylerin 'hükümetler tarafından desteklenmesi gerektiği' gibi fonlama ve onaylama temasına girerek konunun yöntem/seçim odağını bozmaktadır.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "77. (I) During the 1980s, evidence began to emerge suggesting that people who receive social support from friends, family members, and health care providers tended to live longer and healthier lives than people who lacked support. (II) A review done by a group of scientists concluded that people who have high levels of social support are more able than other people to cope with stress and chronic pain. (III) Although social support has been widely researched, no single definition of the concept has emerged. (IV) Indeed, lack of social support rivalled other well-established risk factors as a risk for poor health. (V) Cigarette smoking, high blood pressure, obesity, and inactive lifestyle are among the impacts with which social support is compared.",
+      "correctAnswer": "C",
+      "explanation": "I, II, IV ve V numaralı cümleler sosyal desteğin (social support) insan sağlığına etkileri, daha uzun yaşatması, ağrıyla başa çıkmayı kolaylaştırması ve eksikliğinin sigara içmek gibi risk faktörleriyle yarışması üzerine odaklıdır. III. cümle ise sosyal destek kavramının 'tek bir tanımının henüz ortaya çıkmadığı' (no single definition of the concept) konusuna değinerek parçanın anlamsal bütünlüğünü ve sağlık/etki çizgisini kesintiye uğratmaktadır.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "78. (I) Nearly half of all college math majors are women, and females now score as well as males on standardized math tests. (II) Yet, only about 30 percent of Ph.D.s in mathematics - and fewer in computer science, physics and engineering - are awarded to women every year. (III) Researchers have long blamed sex discrimination and bias, but research suggests that there may now be a less sinister culprit: motherhood. (IV) Family responsibilities can explain why men outnumber women in science- and math-related positions. (V) Undeniably, women in science have had to fight sex discrimination for decades.",
+      "correctAnswer": "E",
+      "explanation": "I ve II numaralı cümleler kadınların üniversitelerde matematikte çok iyi olmasına rağmen yüksek kademelerde sayılarının azaldığına dikkat çekiyor. III. cümlede bunun sebebinin eskiden 'cinsiyet ayrımcılığı' olarak görüldüğü ancak yeni araştırmaların suçlunun 'annelik' (motherhood) olduğunu gösterdiği belirtiliyor. IV. cümlede 'aile sorumluluklarının' bu durumu açıkladığı söyleniyor. Metin yeni bir görüşe (annelik/aile) doğru odaklanmışken, V. cümle aniden eski görüşe geri dönerek kadınların bilim dünyasında yıllarca 'cinsiyet ayrımcılığıyla' mücadele ettiğini savunuyor ve akışı bozuyor.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "79. (I) In Britain, biscuit consumption is higher than in the rest of Europe. (II) When someone sits down for a tea, coffee or biscuit, he or she might be consuming a little bit of celebrity history. (III) Some of the most common and popular foods and beverages are named after famous people of the past. (IV) Earl Grey tea, Garibaldi biscuits and the classic Victoria sponge cake are among the most favoured food and drinks linked with historical figures. (V) Rich, famous and talented historical celebrities have also lent their names to seafood dishes, puddings and champagne.",
+      "correctAnswer": "A",
+      "explanation": "II, III, IV ve V numaralı cümleler, insanların yediği veya içtiği şeylerin (çay, bisküvi, vb.) geçmişteki 'ünlü tarihi kişilerin isimlerini taşıması' (named after famous people) konusuna odaklanmıştır (Earl Grey, Victoria sponge cake). I. cümle ise yalnızca İngiltere'deki 'bisküvi tüketimi' oranlarına değinerek konunun isimlendirme/tarih temasına tamamen yabancıdır.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "80. (I) Staring at the Sun without sunglasses hurts, which is reason enough to avoid doing it. (II) Too little sunshine leads to low vitamin D levels, which put you at higher risk of certain cancers. (III) But direct exposure to the ultraviolet radiation in intense sunlight can also damage the eye and increase the likelihood of a cataract developing. (IV) Cataracts affect the part of the eye that focuses light - the lens - gradually clouding vision and leading to blindness. (V) Surgery to restore vision involves making tiny cuts in the eye to remove the cataract and replace the lens.",
+      "correctAnswer": "B",
+      "explanation": "I. cümle güneşe gözlüksüz bakmanın gözleri acıtmasından (hurts) bahsediyor. III. cümlede güneşteki UV radyasyonuna doğrudan maruz kalmanın 'aynı zamanda gözlere zarar verip (can also damage the eye) katarakt riskini artırdığı' söyleniyor ve IV, V. cümleler katarakt üzerine devam ediyor. II. cümledeki 'çok az güneş ışığının D vitamini eksikliğine ve kanser riskine yol açması', güneşe doğrudan bakmanın 'gözlere zararı' temasına tamamen aykırı, araya sıkıştırılmış ilgisiz bir cümledir.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    }
+  ]
+}

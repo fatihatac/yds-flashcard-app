@@ -1,0 +1,101 @@
+{
+  "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2023-YDS/1) İNGİLİZCE",
+  "questions": [
+    {
+      "questionText": "Today we take the appearance of dinosaurs for granted, but it has taken centuries of careful study to learn how to ---- read the clues in the fossil record.",
+      "correctAnswer": "D",
+      "explanation": "Soru cümlesindeki 'careful study' (dikkatli çalışma) ifadesi, fosil kayıtlarındaki ipuçlarının nasıl okunması gerektiğine dair bir nitelik belirtmektedir. Yüzyıllar süren dikkatli bir çalışmanın amacı, elde edilen ipuçlarını ve bilgileri 'doğru, kesin ve eksiksiz bir şekilde' (accurately) okuyabilmektir. 'Disputably' (tartışmalı olarak), 'incidentally' (tesadüfen), 'reluctantly' (isteksizce) ve 'implicitly' (üstü kapalı olarak) kelimeleri cümleye anlamsal olarak uymamaktadır. Bu nedenle doğru cevap D seçeneğidir.",
+      "options": [
+        "A) disputably",
+        "B) incidentally",
+        "C) reluctantly",
+        "D) accurately",
+        "E) implicitly"
+      ]
+    },
+    {
+      "questionText": "It is a strange twist of fate that both the Ötzi, an ancient iceman, and Helmut Simon were found dead on the ice ---- Helmut Simon was the man who discovered the Ötzi’s remains in 1991.",
+      "correctAnswer": "B",
+      "explanation": "Cümlede, eski bir buz adamı olan Ötzi ve Helmut Simon'ın buz üzerinde ölü bulunmalarının garip bir kader cilvesi olduğundan bahsedilmektedir. Boşluktan sonraki cümlede 'Helmut Simon'ın 1991'de Ötzi'nin kalıntılarını keşfeden adam olduğu' gerçeği verilmektedir. Bu iki durumu birbirine bağlayıp söz konusu olayı 'garip bir kader cilvesi' (strange twist of fate) olarak mantıklı kılan bağlaç, '-dığı göz önüne alındığında, mademki' anlamına gelen 'given that' bağlacıdır. Diğer bağlaçlar cümlenin kurgusunda anlamlı bir neden-sonuç/durum ilişkisi kuramaz.",
+      "options": [
+        "A) until",
+        "B) given that",
+        "C) only when",
+        "D) unless",
+        "E) provided that"
+      ]
+    },
+    {
+      "questionText": "Although cholera, one of the most devastating of all human diseases, is endemic in some areas of the world, ----.",
+      "correctAnswer": "C",
+      "explanation": "'Although' (rağmen) bağlacı, temel cümle ile yan cümle arasında bir zıtlık veya beklenmedik bir durum ilişkisi kurar. Yan cümlede koleranın 'bazı bölgelerde endemik (sadece belirli bölgelere özgü, o bölgelerle sınırlı ve sürekli var olan)' olmasından bahsediliyor. Ana cümlede bu yerellik/sabitlik durumuna zıt bir eylem veya özellik aranmalıdır. C seçeneğindeki 'savaş veya kıtlık sırasında meydana gelen devasa insan göçleriyle ilişkilendirilir' ifadesi, hastalığın sadece endemik olduğu bölgelerde kalmayıp hareketli insan kitleleriyle geniş alanlara yayıldığını vurgular ve 'endemik (sınırlı alanda olma)' durumuna uygun bir zıtlık oluşturur.",
+      "options": [
+        "A) treatment strategies have been devised that have cut the fatality rate of cholera to 1% in the last decades",
+        "B) severe diarrhoea and vomiting that characterise this disease can lead to death due to dehydration",
+        "C) it is usually associated with massive migrations of people, such as those occurring during war or famine",
+        "D) people recovering from it continue to shed the organism in their faeces for weeks to months after the initial infection",
+        "E) one of the ways to prevent cholera is to identify and treat cholera carriers in areas where it is endemic"
+      ]
+    },
+    {
+      "questionText": "Acupuncture generally helps alleviate the symptoms of chronic ailments, such as asthma, that cannot be completely cured by Western drugs, or that would produce an overdependence on those drugs.",
+      "correctAnswer": "B",
+      "explanation": "İngilizce cümlenin ana öznesi 'Acupuncture' (Akupunktur), ana fiili ise 'generally helps alleviate' (genellikle hafifletilmesine yardımcı olur) şeklindedir. Cümledeki 'that cannot be completely cured... or that would produce...' ilgi cümlecikleri (relative clauses) doğrudan 'chronic ailments, such as asthma' (astım gibi kronik hastalıklar) öbeğini nitelemektedir. B seçeneği bu sıfat tamlamasını 'Batı kökenli ilaçlarla tamamen tedavi edilemeyen ya da bu ilaçlara aşırı bağımlılık yaratan astım gibi kronik hastalıkların' şeklinde eksiksiz ve en doğru biçimde çevirmiştir. Özne ve yüklem dizilimi de B seçeneğinde kusursuz verilmiştir.",
+      "options": [
+        "A) Akupunktur, genellikle Batı kökenli ilaçlarla tamamen tedavi edilemese de bu ilaçlara aşırı bağımlılık yaratan astım gibi kronik hastalıkların belirtilerinin hafifletilmesine yardımcı olur.",
+        "B) Akupunktur, Batı kökenli ilaçlarla tamamen tedavi edilemeyen ya da bu ilaçlara aşırı bağımlılık yaratan astım gibi kronik hastalıkların belirtilerinin hafifletilmesine genellikle yardımcı olur.",
+        "C) Batı kökenli ilaçlarla tamamen tedavi edilemeyen ya da bu ilaçlara aşırı bağımlılık yaratan astım gibi kronik hastalıkların belirtileri, genellikle akupunktur yardımıyla hafifletilir.",
+        "D) Astım gibi kronik hastalıklar, Batı kökenli ilaçlarla tamamen tedavi edilemeyebilir ya da bu ilaçlar aşırı bağımlılık yaratabilir ancak akupunktur, bu gibi hastalıkların belirtilerini hafifletmeye genellikle yardımcı olur.",
+        "E) Akupunkturun, belirtilerini hafifletmeye yardımcı olduğu hastalıklar, genellikle Batı kökenli ilaçlarla tamamen tedavi edilemeyen ya da bu ilaçlara aşırı bağımlılık yaratan astım gibi kronik hastalıklardır."
+      ]
+    },
+    {
+      "questionText": "Jenny:\n- I can’t stop worrying about things. Every time I do something, I get super anxious.\nSteve:\n- Worry is just a waste of time; it steals your joy.\nJenny:\n- I know it ruins my life, but I can’t help it. It seems like a trait which is difficult to change. You know, I always see the grass greener on the other side of the fence. I can’t look at the bright side.\nSteve:\n- ----\nJenny:\n- It’s worth giving it a try. At least this way if I recognise my worries, they won’t spiral out of control.",
+      "correctAnswer": "D",
+      "explanation": "Diyalogda Jenny sürekli endişelenmekten (worrying) şikayetçi olduğunu ve bu huyunu değiştirmekte zorlandığını söylüyor. Boşluktan hemen sonra Jenny, 'It's worth giving it a try.' (Denemeye değer) demektedir ve endişelerini fark edip kontrolden çıkmasını engelleyecek pratik bir şeyden bahsetmektedir. Bu durum, Steve'in boş bırakılan cümlede ona uygulanabilir bir tavsiye/yöntem sunduğunu kesin olarak göstermektedir. D seçeneğindeki 'There're some techniques to ease your worries. I know it may not be easy to stick to them but it'll pay off in the end.' (Endişelerini hafifletecek bazı teknikler var. Bunlara bağlı kalmanın kolay olmayabileceğini biliyorum ama sonunda işe yarayacak.) ifadesi, 'denemeye değer' ve 'böylece endişelerimi fark edebilirim' cevaplarına anlamsal olarak mükemmel oturmaktadır.",
+      "options": [
+        "A) If you frame your thoughts and let negativity take over, it’ll be much more problematic.",
+        "B) It’s the problem of overthinkers I guess. They think about issues over and over again, even by creating unrealistic scenarios.",
+        "C) It’s OK to worry about the unpleasant outcomes of an event that had already happened. But why do you worry about the future? You never know what will happen.",
+        "D) There're some techniques to ease your worries. I know it may not be easy to stick to them but it’ll pay off in the end.",
+        "E) Worrying doesn’t change the result; it just complicates the issues further. You’ll learn how to stop it when you realise this."
+      ]
+    },
+    {
+      "questionText": "Because of a decrease in the sense of taste, older people often increase their salt intake as well as sugar, which can contribute to high blood pressure and nutrient loss.",
+      "correctAnswer": "B",
+      "explanation": "Orijinal cümlede neden-sonuç (cause-effect) ilişkisi 'Because of a decrease in the sense of taste' (Tat alma duyusundaki azalmadan dolayı) ifadesiyle kurulmuştur. Sonuç kısmı ise yaşlı insanların tuz ve şeker tüketimini artırmaları ve bunun da yüksek tansiyon ile besin kaybına katkıda bulunabileceğidir. B seçeneğinde yer alan 'A decline in the sense of taste in older people frequently results in more salt and sugar consumption' (Tat alma duyusundaki bir azalma sıklıkla daha fazla tuz ve şeker tüketimiyle sonuçlanır) cümlesi, orijinaldeki neden ve sonucu hiçbir yapısal hata ve anlam kayması yapmadan doğru aktaran en net seçenektir. Vurgulanan yan cümlecik (which can contribute...) de 'potentially contributing to...' ile tam karşılanmıştır.",
+      "options": [
+        "A) The rise in salt and sugar intake might lead to high blood pressure and nutrient loss as well as a decline in the sense of taste in older people.",
+        "B) A decline in the sense of taste in older people frequently results in more salt and sugar consumption, potentially contributing to high blood pressure and nutrient loss.",
+        "C) Older people frequently tend to have a decreased sense of taste as a result of the increase in their salt and sugar intake, leading to high blood pressure and nutrient loss.",
+        "D) The contribution of high blood pressure and nutrient loss to the decline in the sense of taste in older people often manifests itself in increased salt and sugar consumption.",
+        "E) An increased intake of salt and sugar, and therefore a decreased sense of taste often contribute to high blood pressure as well as nutrient loss in older people."
+      ]
+    },
+    {
+      "questionText": "Anticipatory socialisation is a term used to describe a variety of programmes offered by organisations that allow prospective employees to gain work experience prior to full-time employment. Each programme is designed to help individuals, usually high school or college students, develop an accurate self-concept, gain a realistic understanding of various career fields and organisational environments, and allow a check for a fit between individual characteristics and the demands of different jobs. ---- They also allow participants to become accustomed to the informal side of an organisation through exposure to the less structured employee networks and norms that exist within the hiring company.",
+      "correctAnswer": "A",
+      "explanation": "Boşluktan hemen sonra gelen cümlede 'They also allow participants to become accustomed to the informal side of an organisation...' (Ayrıca katılımcıların bir kurumun gayriresmi yönüne alışmalarını da sağlarlar) denilmektedir. Buradaki 'also' (ayrıca) kelimesi ve kurumun 'informal' (gayriresmi) yüzüne atıf yapılması, öncesinde gelen cümlenin büyük olasılıkla katılımcıların kurumun 'formal' (resmi) tarafına alışmalarıyla ilgili olmasını gerektirir. A seçeneğinde 'Bu programlar aracılığıyla, aday çalışanlar kuruma resmi olarak katılmadan önce organizasyonun resmi (formal) misyonuna, politikalarına ve kültürüne alışabilirler' ifadesi, devamındaki cümleyle tam bir yapısal (formal vs informal) tamamlayıcılık sunmaktadır.",
+      "options": [
+        "A) Through these programmes, prospective employees can become acclimated to an organisation’s formal mission, policies and culture prior to fully joining the organisation as a regular employee.",
+        "B) Research into these programmes has expanded recently, reflecting greater interest in the design of these programmes.",
+        "C) Current employees that assist students during their stay in the organisation report feeling satisfied because they think that their organisation approves their skills as mentors.",
+        "D) Such programmes are quite appealing to most organisations as they have additional workforce but they do not need to pay for it, though it sometimes leads to exploitation.",
+        "E) It is estimated that three quarters of all college students complete an internship during their academic careers."
+      ]
+    },
+    {
+      "questionText": "(I) Venus is the same size as Earth, and has an atmosphere, but it is too close to the Sun for oceans to form. (II) On Earth the oceans absorb carbon dioxide from the air, reducing the greenhouse effect. (III) But on Venus there are no oceans, so all the carbon dioxide erupted by the planet’s volcanoes has stayed in its atmosphere. (IV) When plants, soil, and water warm up, more water evaporates from their surfaces and ends up in the atmosphere as water vapour. (V) The result is a hugely powerful greenhouse effect that raises the surface temperature of Venus to above 500°C hot enough to melt lead.",
+      "correctAnswer": "D",
+      "explanation": "Metin genel olarak Venüs'te Dünya'dakinin aksine okyanus olmaması, bu nedenle volkanlardan çıkan karbondioksitin emilemeyerek atmosferde kalması ve nihayetinde gezegende muazzam bir sera etkisine (greenhouse effect) yol açarak sıcaklığı 500°C'ye çıkarması anlatılmaktadır (I, II, III ve V numaralı cümleler mantıklı bir olay örgüsü sunar). Ancak IV. cümlede (When plants, soil, and water warm up...), yeryüzündeki suyun, bitkilerin ve toprağın ısınmasıyla buharlaşmanın artması gibi Venüs ve karbondioksit bağlamından kopuk, genel bir yeryüzü doğa/iklim bilgisinden bahsedilmektedir. Bu nedenle anlam bütünlüğünü bozan cümle IV'tür.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,975 @@
+{
+  "title": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ",
+  "questions": [
+    {
+      "questionText": "1. UNICEF is deeply committed to creating a world in which all children, regardless of their gender or socioeconomic background, have ---- to free, compulsory and quality education.",
+      "correctAnswer": "A",
+      "explanation": "Tüm çocukların cinsiyet veya sosyoekonomik geçmişlerine bakılmaksızın ücretsiz, zorunlu ve kaliteli eğitime 'erişimi' (access) olması gerektiği belirtilmektedir. 'Have access to' kalıbı kullanılır.",
+      "options": [
+        "A) access",
+        "B) dedication",
+        "C) insight",
+        "D) addiction",
+        "E) tendency"
+      ]
+    },
+    {
+      "questionText": "2. In some countries, such as Brazil and Russia, codes have been put in place to promote ---- logging of forest ecosystems.",
+      "correctAnswer": "D",
+      "explanation": "Brezilya ve Rusya gibi bazı ülkelerde orman ekosistemlerinin 'sürdürülebilir' (sustainable) ağaç kesimini teşvik etmek için kodlar/kurallar konduğu ifade edilmektedir.",
+      "options": [
+        "A) applicable",
+        "B) penetrable",
+        "C) notable",
+        "D) sustainable",
+        "E) provable"
+      ]
+    },
+    {
+      "questionText": "3. Before they are allowed to be used, all medicines, including vaccines, are ---- tested to assess how safe and effective they are.",
+      "correctAnswer": "C",
+      "explanation": "Kullanılmalarına izin verilmeden önce aşılar dahil tüm ilaçların ne kadar güvenli ve etkili olduklarını değerlendirmek için 'kapsamlı/detaylı bir şekilde' (thoroughly) test edildiği belirtiliyor.",
+      "options": [
+        "A) incidentally",
+        "B) hazardously",
+        "C) thoroughly",
+        "D) fatally",
+        "E) offensively"
+      ]
+    },
+    {
+      "questionText": "4. Many scientists believe that our sanitized surroundings are ---- allergic disorders in children, which have doubled in the last decade.",
+      "correctAnswer": "E",
+      "explanation": "Birçok bilim insanı, sterilize edilmiş çevremizin çocuklarda son on yılda iki katına çıkan alerjik rahatsızlıkları 'teşvik ettiğine/artırdığına' (fostering) inanmaktadır.",
+      "options": [
+        "A) extracting",
+        "B) fulfilling",
+        "C) unifying",
+        "D) ensuring",
+        "E) fostering"
+      ]
+    },
+    {
+      "questionText": "5. In non-literate societies, valuable information about the past is often enshrined in oral tradition - poems, hymns or sayings ---- from generation to generation by word of mouth.",
+      "correctAnswer": "B",
+      "explanation": "Yazısız toplumlarda geçmiş hakkındaki değerli bilgilerin, şiirler, ilahiler veya sözler aracılığıyla ağızdan ağza nesilden nesile 'aktarıldığı' (handed down) anlatılmaktadır.",
+      "options": [
+        "A) taken off",
+        "B) handed down",
+        "C) thrown up",
+        "D) kept off",
+        "E) rooted out"
+      ]
+    },
+    {
+      "questionText": "6. By mapping equatorial rainfall since 800 AD, scientists have ---- how tropical weather may change over the next century.",
+      "correctAnswer": "D",
+      "explanation": "MS 800'den bu yana ekvator yağışlarının haritasını çıkaran bilim insanları, tropikal havanın önümüzdeki yüzyılda nasıl değişebileceğini 'çözdüler/anladılar' (figured out).",
+      "options": [
+        "A) taken out",
+        "B) put aside",
+        "C) brought down",
+        "D) figured out",
+        "E) counted upon"
+      ]
+    },
+    {
+      "questionText": "7. The physics of elementary particles in the 20th century ---- by the observation of particles whose existence ---- by theorists decades earlier.",
+      "correctAnswer": "C",
+      "grammarTopic": "Tenses",
+      "explanation": "20. yüzyıldaki parçacık fiziği, varlıkları on yıllar önce teorisyenler tarafından 'tahmin edilmiş olan' (had been predicted) parçacıkların gözlemlenmesiyle 'belirginleşti/ayrıcalık kazandı' (was distinguished). Zaman çizelgesine göre önce tahmin, sonra gözlem yapılmıştır (Past Perfect -> Simple Past).",
+      "options": [
+        "A) has been distinguished / was predicted",
+        "B) distinguished/ is being predicted",
+        "C) was distinguished / had been predicted",
+        "D) is distinguished / has been predicted",
+        "E) had been distinguished / was being predicted"
+      ]
+    },
+    {
+      "questionText": "8. At the end of the First World War, the leaders of victorious countries gathered at Versailles, and there, they ---- to decide what penalties Germany, Austria and other allies ----.",
+      "correctAnswer": "A",
+      "grammarTopic": "Tenses",
+      "explanation": "Birinci Dünya Savaşı'nın sonunda galip ülkelerin liderleri Versay'da toplandı ve orada Almanya, Avusturya ve diğer müttefiklerin ne cezalar 'ödemek zorunda kalacağına' (would have to pay) karar vermeye 'çalıştılar' (tried). Olay geçmişte olduğu için geçmişte gelecek (would) yapısı kullanılır.",
+      "options": [
+        "A) tried / would have to pay",
+        "B) had tried / must have paid",
+        "C) were trying / were paying",
+        "D) used to try / might have paid",
+        "E) could try / should have paid"
+      ]
+    },
+    {
+      "questionText": "9. ---- the types of individuals it seeks to attract, an organization ---- to consider what methods to use to reach them.",
+      "correctAnswer": "B",
+      "grammarTopic": "Participles & Reductions",
+      "explanation": "Çekmek istediği birey türlerini 'belirledikten sonra / belirlemiş olan' (Having established) bir organizasyon, onlara ulaşmak için hangi yöntemleri kullanacağını düşünmeye 'ihtiyaç duyar' (needs).",
+      "options": [
+        "A) To have established / could need",
+        "B) Having established / needs",
+        "C) Establishing / had needed",
+        "D) Established / needed",
+        "E) Being established / will need"
+      ]
+    },
+    {
+      "questionText": "10. China's rapid growth ---- trade is seen as a plus for the Southeast Asian nations because it helps to spur development ---- the region.",
+      "correctAnswer": "E",
+      "grammarTopic": "Prepositions",
+      "explanation": "Ticaret'te' büyüme (growth in trade) ve bölge 'çapında/boyunca' (across the region) kalkınmayı teşvik etmesi uygun edat eşleştirmesidir.",
+      "options": [
+        "A) of / without",
+        "B) by / about",
+        "C) upon / over",
+        "D) at / under",
+        "E) in / across"
+      ]
+    },
+    {
+      "questionText": "11. As Antarctic glaciers collapse ---- the sea, scientists struggle to find out what that means ---- the rise of sea levels.",
+      "correctAnswer": "D",
+      "grammarTopic": "Prepositions",
+      "explanation": "Antarktika buzulları denizin 'içine doğru' (into) çökerken, bilim insanları bunun deniz seviyelerinin yükselmesi 'için' (for) ne anlama geldiğini bulmaya çabalıyor. (Not: Orijinal sorudaki OCR hatası nedeniyle D şıkkı on/for olarak görünmektedir, ancak doğru kalıp 'into / for' şeklindedir ve cevap anahtarı D'dir).",
+      "options": [
+        "A) against/in",
+        "B) over / to",
+        "C) around/along",
+        "D) on / for",
+        "E) from / behind"
+      ]
+    },
+    {
+      "questionText": "12. ---- lead was widely known to be dangerous, by the early years of the 20th century, it could be found in all manners of consumer products.",
+      "correctAnswer": "D",
+      "grammarTopic": "Conjunctions & Transitions",
+      "explanation": "Kurşunun tehlikeli olduğunun yaygın olarak bilinmesine 'rağmen' (Even though), 20. yüzyılın başlarında her türlü tüketici ürününde bulunabiliyordu.",
+      "options": [
+        "A) Since",
+        "B) Once",
+        "C) Only when",
+        "D) Even though",
+        "E) Given that"
+      ]
+    },
+    {
+      "questionText": "13. Animals trapped in a stone called 'amber' are sometimes so well preserved that they look ---- they have just died.",
+      "correctAnswer": "C",
+      "grammarTopic": "Conjunctions & Transitions",
+      "explanation": "'Kehribar' adı verilen bir taşa hapsolmuş hayvanlar bazen o kadar iyi korunurlar ki sanki yeni ölmüşler 'gibi' (as though / as if) görünürler.",
+      "options": [
+        "A) so that",
+        "B) in case",
+        "C) as though",
+        "D) even if",
+        "E) now that"
+      ]
+    },
+    {
+      "questionText": "14. The European Commission has put forward that policies to cut greenhouse gases will not work ---- individuals share the vision of a low-carbon society.",
+      "correctAnswer": "E",
+      "grammarTopic": "Conjunctions & Transitions",
+      "explanation": "Bireyler düşük karbonlu bir toplum vizyonunu paylaşmadıkça / paylaşmazlarsa (unless), sera gazlarını azaltma politikaları işe yaramayacaktır.",
+      "options": [
+        "A) provided that",
+        "B) after",
+        "C) but",
+        "D) while",
+        "E) unless"
+      ]
+    },
+    {
+      "questionText": "15. When modern coastal fish-farming began 30 years ago, no one was doing things right, ---- for the environment ---- the industry's long-term sustainability.",
+      "correctAnswer": "D",
+      "grammarTopic": "Correlative Conjunctions",
+      "explanation": "Kimse 'ne' çevre için 'ne de' endüstrinin uzun vadeli sürdürülebilirliği için (either / or) doğru şeyleri yapmıyordu. Cümlede zaten 'no one' (hiç kimse) kullanıldığı için negatif anlam vardır; bu yüzden neither/nor yerine either/or kalıbı kullanılır.",
+      "options": [
+        "A) whether / or",
+        "B) such / as",
+        "C) so / that",
+        "D) either / or",
+        "E) as / as"
+      ]
+    },
+    {
+      "questionText": "16. ---- deriving two-thirds of its power supply from fossil fuels, power producers in India cannot get enough pipeline space to distribute natural gas.",
+      "correctAnswer": "A",
+      "grammarTopic": "Conjunctions & Transitions",
+      "explanation": "Hindistan'daki güç üreticilerinin enerji kaynaklarının üçte ikisini fosil yakıtlardan elde etmesine 'rağmen' (Despite), doğal gazı dağıtmak için yeterli boru hattı alanı bulamadıkları belirtilmiştir.",
+      "options": [
+        "A) Despite",
+        "B) Besides",
+        "C) As a result of",
+        "D) By means of",
+        "E) Rather than"
+      ]
+    },
+    {
+      "questionText": "17. Many urban areas are growing (17)---- their rural hinterlands are depressed, which forces impoverished rural people to move to the cities in search of work.",
+      "correctAnswer": "E",
+      "explanation": "Birçok kentsel alanın büyümesinin sebebi, kırsal iç bölgelerinin depresyonda olmasıdır. Sebep bildiren 'çünkü' (because) bağlacı uygundur.",
+      "options": [
+        "A) unless",
+        "B) in case",
+        "C) so that",
+        "D) whenever",
+        "E) because"
+      ]
+    },
+    {
+      "questionText": "18. These newcomers often end up not (18)---- the opportunities they are looking for, so they become part of the urban poor.",
+      "correctAnswer": "B",
+      "explanation": "'End up' (sonuçlanmak) fiilinden sonra gerund (-ing) yapısı kullanılır. Aradıkları fırsatları 'bulamamakla' (not finding) sonuçlanırlar.",
+      "options": [
+        "A) to find",
+        "B) finding",
+        "C) to have found",
+        "D) being found",
+        "E) to be found"
+      ]
+    },
+    {
+      "questionText": "19. (19)---- arrival to the city, they often encounter lack of housing and infrastructure services.",
+      "correctAnswer": "D",
+      "explanation": "Şehre 'varır varmaz / varışlarının üzerine' anlamında 'Upon arrival' kalıbı kullanılır.",
+      "options": [
+        "A) About",
+        "B) To",
+        "C) For",
+        "D) Upon",
+        "E) By"
+      ]
+    },
+    {
+      "questionText": "20. To (20)---- the lack of available homes, newcomers often set up shelters on the city outskirts, usually on public-owned land.",
+      "correctAnswer": "E",
+      "explanation": "Mevcut ev eksikliğini 'telafi etmek' (make up for) için yeni gelenler genellikle şehrin dış mahallelerinde barınaklar kurarlar.",
+      "options": [
+        "A) cut down on",
+        "B) go in for",
+        "C) turn back on",
+        "D) fall behind with",
+        "E) make up for"
+      ]
+    },
+    {
+      "questionText": "21. (21)---- dealing with poor sanitation and pollution from dirty cooking fuels and primitive stoves, they are exposed to modern environmental hazards, such as urban air pollution, exhaust fumes and industrial pollution.",
+      "correctAnswer": "D",
+      "explanation": "Kötü sağlık koşulları ve kirlilikle uğraşmalarına 'ek olarak / ilaveten' (In addition to), modern çevresel tehlikelere de maruz kaldıkları ifade edilmiştir.",
+      "options": [
+        "A) Despite",
+        "B) Owing to",
+        "C) For the sake of",
+        "D) In addition to",
+        "E) Unlike"
+      ]
+    },
+    {
+      "questionText": "22. No single country owns Antarctica. (22)----, countries wishing to have a say in how the Antarctic (both the continent itself and the surrounding Southern Ocean) is governed (23)----, and agree to abide by, the Antarctic Treaty.",
+      "correctAnswer": "A",
+      "explanation": "Hiçbir ülke Antarktika'ya sahip değildir. 'Bunun yerine' (Instead), söz sahibi olmak isteyen ülkeler Antarktika Antlaşması'na uymalıdır.",
+      "options": [
+        "A) Instead",
+        "B) For",
+        "C) At least",
+        "D) Even so",
+        "E) Furthermore"
+      ]
+    },
+    {
+      "questionText": "23. ... countries wishing to have a say in how the Antarctic ... is governed (23)----, and agree to abide by, the Antarctic Treaty.",
+      "correctAnswer": "C",
+      "explanation": "Antarktika'nın yönetimi üzerinde söz sahibi olmak isteyen ülkeler, Antarktika Antlaşması'nı 'imzalamak zorundadır' (must sign) ve ona uymayı kabul etmelidir. (Orijinal testteki seçenek OCR eksikliğinden dolayı 'must sign' olarak C şıkkındadır).",
+      "options": [
+        "A) had to sign",
+        "B) used to sign",
+        "C) must sign",
+        "D) should have signed",
+        "E) may sign"
+      ]
+    },
+    {
+      "questionText": "24. However, prior to the signing of the Antarctic Treaty in 1959, several countries had made claims to parts of Antarctica, some of which overlapped. The Treaty does not (24)---- these claims...",
+      "correctAnswer": "D",
+      "explanation": "Antlaşmanın bu arazi/toprak iddialarını 'tanımadığı' (recognize) ifade edilmektedir.",
+      "options": [
+        "A) jeopardize",
+        "B) withdraw",
+        "C) underestimate",
+        "D) recognize",
+        "E) eliminate"
+      ]
+    },
+    {
+      "questionText": "25. (25)---- avoiding the claims issue in this way, it was possible to produce a treaty that many parties could sign.",
+      "correctAnswer": "A",
+      "explanation": "İddialar sorunundan bu şekilde 'kaçınarak' (By avoiding) birçok tarafın imzalayabileceği bir antlaşma oluşturmak mümkün oldu.",
+      "options": [
+        "A) By",
+        "B) From",
+        "C) Against",
+        "D) Without",
+        "E) After"
+      ]
+    },
+    {
+      "questionText": "26. Unfortunately, this means that (26)---- many countries follow the spirit of cooperation of the Treaty, there are still disputes over territory that remain unresolved and come up from time to time.",
+      "correctAnswer": "B",
+      "explanation": "Birçok ülkenin Antlaşma'nın işbirliği ruhunu izlemesine 'rağmen' (although), hala zaman zaman gündeme gelen ve çözülmemiş toprak anlaşmazlıkları vardır.",
+      "options": [
+        "A) as if",
+        "B) although",
+        "C) just as",
+        "D) because",
+        "E) before"
+      ]
+    },
+    {
+      "questionText": "27. In order to make the first vessels to cross stretches of water, ----",
+      "correctAnswer": "E",
+      "explanation": "İlk gemileri/su taşıtlarını yaparak suları geçmek amacıyla (In order to make...), 'ilk insanlar hayvan derilerinden küçük ahşap parçalarına kadar çeşitli malzemeler kullandılar' (early humans employed materials ranging from...).",
+      "options": [
+        "A) ancient civilizations depended heavily on these for their survival and expansion",
+        "B) the Greeks brought the art of rowing to a level of perfection that has never been surpassed",
+        "C) early attempts were often unique to the societies that originated them",
+        "D) people had already developed them for such purposes as fishing and transporting goods",
+        "E) early humans employed materials ranging from animal skins to small pieces of timber"
+      ]
+    },
+    {
+      "questionText": "28. While several other minerals are needed for muscle function, ----",
+      "correctAnswer": "E",
+      "explanation": "Kas fonksiyonu için başka birçok minerale ihtiyaç duyulmasına RAĞMEN (While), 'sürekli kalsiyum alımı sağlıklı bir iskeleti korumaya yardımcı olur' (continuous intake of calcium helps...) cümlesi zıtlık/farklılık ilişkisini kurar.",
+      "options": [
+        "A) knowledge of your body and its functions can be a great ally in health matters",
+        "B) most of the calories in the food we eat are used by our muscles",
+        "C) the contours of the body alter as the muscles strengthen",
+        "D) exercise is a vital ingredient for keeping the human body in good health",
+        "E) continuous intake of calcium helps to maintain a healthy skeleton"
+      ]
+    },
+    {
+      "questionText": "29. Despite the political upheavals in the Arab world, ----",
+      "correctAnswer": "A",
+      "explanation": "Arap dünyasındaki siyasi çalkantılara RAĞMEN (Despite), 'Orta Doğu dünyanın popüler turistik yerlerinden biri olma yolunda zemin kazanıyor/ilerliyor' (the Middle East is gaining ground to become...) tezatlık içeren doğru tamamlamadır.",
+      "options": [
+        "A) the Middle East is gaining ground to become one of the world's popular tourist destinations",
+        "B) business boom, in places like Dubai and Abu Dhabi, has had little impact on the economies",
+        "C) the airlines are rapidly expanding their routes in Europe and Asia",
+        "D) emphasis on new policies is required to overcome recession in these countries",
+        "E) stability, strong economic growth and value for money are the key factors of economic mobility"
+      ]
+    },
+    {
+      "questionText": "30. Whereas there are undoubted social benefits to increasing home ownership, ----.",
+      "correctAnswer": "B",
+      "explanation": "Ev sahipliğini artırmanın şüphesiz sosyal faydaları olmasına KARŞIN (Whereas), 'bununla ilişkili bazı ekonomik sorunlar vardır' (there are some economic problems associated with it) cümlesi mantıksal bir zıtlık oluşturur.",
+      "options": [
+        "A) the mortgage companies that finance home buyers can go bankrupt",
+        "B) there are some economic problems associated with it",
+        "C) more and more people prefer to buy homes than rent",
+        "D) the existing laws make it financially more attractive to purchase",
+        "E) incentives to rent houses still remain at historically low levels"
+      ]
+    },
+    {
+      "questionText": "31. No matter how good the food we eat is, if it is not well digested, absorbed into the blood and assimilated into the cells, ----.",
+      "correctAnswer": "A",
+      "explanation": "Yediğimiz yemek ne kadar iyi olursa olsun, iyi sindirilmezse ve kana emilmezse (if it is not well digested...), 'zamanla semptomlar ve beslenme eksikliği geliştirebiliriz' (we can, in time, develop symptoms and nutritional deficiency) beklenen olumsuz bir sonuçtur.",
+      "options": [
+        "A) we can, in time, develop symptoms and nutritional deficiency",
+        "B) food must be well chewed and mixed with saliva",
+        "C) an alkaline environment is needed for the next stage of digestion",
+        "D) it reaches the stomach where it is mixed with pepsin",
+        "E) the breakdown of the protein in food begins here"
+      ]
+    },
+    {
+      "questionText": "32. ----, Indian culture was primarily oral, with a high value placed on recounting tales and dreams.",
+      "correctAnswer": "E",
+      "explanation": "Kızılderili kültürünün öncelikle sözlü olması ve hikaye anlatımına değer vermesi, 'Bazı Kuzey Amerika kabilelerinin metinleri korumak için bir tür hiyeroglif geliştirmesine RAĞMEN' (Although some North American tribes developed a type of hieroglyphics...) zıtlığıyla en iyi şekilde desteklenir.",
+      "options": [
+        "A) No matter how extraordinarily diverse Indian customs and culture have been",
+        "B) As native American Indians evolved into complex hierarchical societies that practiced human sacrifice",
+        "C) Even though the first Indians began constructing earthen burial sites and fortifications around 600 BC",
+        "D) If all European emigrants had left their homelands to escape political oppression",
+        "E) Although some North American tribes developed a type of hieroglyphics to preserve certain texts"
+      ]
+    },
+    {
+      "questionText": "33. ----, you can work on extinguishing any undesirable behaviours.",
+      "correctAnswer": "C",
+      "explanation": "İstenmeyen herhangi bir davranışı söndürmeye / ortadan kaldırmaya çalışabilirsiniz; 'Kendinizin başkalarıyla etkileşim halinde olduğunuzu görebildiğiniz zaman/gördükten sonra' (Once you are able to see yourself...).",
+      "options": [
+        "A) Unless you proceed to the interviewer's office for your interview",
+        "B) Although previous work experience is sought by almost all employers nowadays",
+        "C) Once you are able to see yourself interacting with others",
+        "D) Whereas there is much to be learned about human nature in general",
+        "E) Just as any communicative event requires at least one person to be around"
+      ]
+    },
+    {
+      "questionText": "34. It might not be practical to use a different password for every single website that you log into ----.",
+      "correctAnswer": "E",
+      "explanation": "Oturum açtığınız her web sitesi için farklı bir şifre kullanmak pratik olmayabilir 'fakat güvenlik nedenleriyle birden fazla şifreye sahip olmaya kesinlikle değer' (but it is definitely worth having more than one for security reasons).",
+      "options": [
+        "A) so online shopping involves more than just a seller and a buyer",
+        "B) although it is more suggestible for someone to rely on a computer engineer",
+        "C) since nicknames on the Internet are not enough to protect you from harm",
+        "D) while the term 'surfing' has become more widespread as more people use computers",
+        "E) but it is definitely worth having more than one for security reasons"
+      ]
+    },
+    {
+      "questionText": "35. The nests birds leave behind provide clues about their lives and environment ----.",
+      "correctAnswer": "B",
+      "explanation": "Kuşların geride bıraktığı yuvalar onların yaşamları ve çevreleri hakkında ipuçları sağlar, 'tıpkı arkeolojik sit alanlarının insanlık tarihine dair kesitler (ipuçları) sunması gibi' (just as archaeological sites supply glimpses...).",
+      "options": [
+        "A) as the architectural complexity of these nests hardly untangles their genealogy",
+        "B) just as archaeological sites supply glimpses of human history",
+        "C) but nest-collecting was a popular boyhood hobby in the 19th century",
+        "D) despite the fact that they remain a largely untapped scientific resource",
+        "E) before they lay eggs in order to sustain the continuation of their species"
+      ]
+    },
+    {
+      "questionText": "36. ----, not only cell operators but also law enforcement have come under fire for exploiting personal data without the user's knowledge.",
+      "correctAnswer": "D",
+      "explanation": "'Akıllı telefonların izleme yetenekleri daha sofistike/gelişmiş hale geldiği İÇİN / -DİKÇE' (As smart phones' tracking abilities have become more sophisticated), sadece hücre operatörleri değil kolluk kuvvetleri de kişisel verileri kullandıkları için ateş altında kalmışlardır/eleştirilmişlerdir.",
+      "options": [
+        "A) After the companies have agreed widely on privacy policies",
+        "B) Although law enforcement units permit users to reach all sites",
+        "C) Since market demand is driving some of the biggest collectors of data into piracy",
+        "D) As smart phones' tracking abilities have become more sophisticated",
+        "E) Now that banking transactions via mobile devices are almost completely secure"
+      ]
+    },
+    {
+      "questionText": "37. Most of the fears that we had when we were children are actually quite profound, but as we grow older and become more self-sufficient, the reality of fears diminishes.",
+      "correctAnswer": "A",
+      "explanation": "'Çocukken yaşadığımız korkuların çoğu, aslında oldukça derindir' (Most of the fears that we had when we were children are actually quite profound), 'ancak büyüyüp kendimize daha fazla yeter hâle geldikçe' (but as we grow older and become more self-sufficient), 'korkuların gerçekliği azalır' (the reality of fears diminishes). A şıkkı tam çeviridir.",
+      "options": [
+        "A) Çocukken yaşadığımız korkuların çoğu, aslında oldukça derindir ancak büyüyüp kendimize daha fazla yeter hâle geldikçe korkuların gerçekliği azalır.",
+        "B) Çocukken aslında çok derin birçok korku yaşarız fakat büyüyüp daha çok kendimize yettikçe bu korkular gerçekliğini yitirir.",
+        "C) Çocukken yaşadığımız korkuların çoğu, aslında oldukça derin boyuttadır ancak büyüyüp kendimize daha fazla yeten bireyler haline geldiğimizde bu korkular zamanla ortadan kalkar.",
+        "D) Çocukken yaşanılan korkuların çoğu, aslında oldukça derindir fakat kendimize yetecek kadar büyüdüğümüzde bu korkular gerçekliğini kaybeder.",
+        "E) Çocukken yaşadığımız korkuların çoğu, aslında oldukça derin olsa da büyüyüp kendimize daha fazla yettikçe bu korkular gerçek olmaktan uzaklaşır."
+      ]
+    },
+    {
+      "questionText": "38. For the last 20 years, there has been an ongoing argument as to whether jazz is no longer an exclusively American let alone an Afro-American music.",
+      "correctAnswer": "E",
+      "explanation": "'Son yirmi yıldır' (For the last 20 years), 'Afro-Amerikan müziği olmasını bir kenara bırakın' (let alone an Afro-American music), 'cazın artık yalnızca Amerikan müziği olup olmadığı konusunda' (whether jazz is no longer an exclusively American), 'süregelen bir tartışma mevcuttur' (there has been an ongoing argument as to).",
+      "options": [
+        "A) Son yirmi yıldır, Afro-Amerikan müziği olmaktan çıktığı varsayılan cazın sadece Amerikan müziği olup olmadığını sorgulayan bir tartışma bulunmaktadır.",
+        "B) Son yirmi yılın süregelen tartışması, Afro-Amerikan müziği olmasından ziyade, cazın artık tamamıyla Amerikan müziği olup olmadığıdır.",
+        "C) Son yirmi yıldır, cazın Afro-Amerikan müziği olmasını göz ardı eden ve tamamen Amerikan müziği olduğunu savunan bir tartışma süregelmektedir.",
+        "D) Son yirmi yıldır, Afro-Amerikan müziği olmasını bırakın, cazın daha ne kadar Amerikan müziği olarak anılabileceği tartışılmaktadır.",
+        "E) Son yirmi yıldır, Afro-Amerikan müziği olmasını bir kenara bırakın, cazın artık yalnızca Amerikan müziği olup olmadığı konusunda süregelen bir tartışma mevcuttur."
+      ]
+    },
+    {
+      "questionText": "39. Patriarchy originally meant superiority of the father and used to be employed by sociologists to describe family structures where the father rather than the mother was dominant.",
+      "correctAnswer": "D",
+      "explanation": "'Patriarchy originally meant superiority of the father' (Ataerkillik, başlangıçta babanın üstünlüğü anlamına gelmekteydi) 'and used to be employed by sociologists to describe family structures' (ve toplum bilimciler tarafından aile yapılarını tanımlamak için kullanılırdı) 'where the father rather than the mother was dominant' (anneden ziyade babanın baskın olduğu).",
+      "options": [
+        "A) Ataerkillik, esasen babanın ayrıcalığını ifade etmekteydi ve toplum bilimciler tarafından anneden ziyade babanın baskın olduğu aile yapılarını tanımlarken kullanılırdı.",
+        "B) Ataerkillik, özünde babanın hâkimiyeti anlamını taşımaktaydı ve toplum bilimciler tarafından anneden ziyade babanın baskın olduğu aile yapılarını ele alırken kullanılırdı.",
+        "C) Ataerkillik, ilk olarak babanın üstünlüğü anlamına sahipti ve toplum bilimciler tarafından anneden ziyade babanın ön planda olduğu aile yapılarını tasvir etmek için kullanılırdı.",
+        "D) Ataerkillik, başlangıçta babanın üstünlüğü anlamına gelmekteydi ve toplum bilimciler tarafından anneden ziyade babanın baskın olduğu aile yapılarını tanımlamak için kullanılırdı.",
+        "E) Ataerkillik, aslen babanın üstünlüğü anlamına gelmekteydi ve toplum bilimciler tarafından anneden ziyade babanın sözünün geçtiği aile yapılarını vurgulamak için kullanılırdı."
+      ]
+    },
+    {
+      "questionText": "40. Oyunlara ve özellikle çocuk oyunlarına ilişkin inançlarımız, teknoloji ve küreselleşme ile köklü değişimler geçirmiştir.",
+      "correctAnswer": "C",
+      "explanation": "'Oyunlara ve özellikle çocuk oyunlarına ilişkin inançlarımız' (Our beliefs about plays, and children's plays in particular), 'köklü değişimler geçirmiştir' (have undergone radical changes), 'teknoloji ve küreselleşme ile' (with technology and globalization). C şıkkı tam çeviridir.",
+      "options": [
+        "A) We seem to have radically changed our beliefs about plays, and children's plays in particular, because of advances in technology and globalization.",
+        "B) We believe that plays, and children's plays in particular, have encountered radical changes due to technology and globalization.",
+        "C) Our beliefs about plays, and children's plays in particular, have undergone radical changes with technology and globalization.",
+        "D) Owing to the radical changes in plays, and children's plays in particular, we have shifted our attitude towards technology and globalization.",
+        "E) As to technology and globalization, our beliefs about plays, and children's plays in particular, have changed radically."
+      ]
+    },
+    {
+      "questionText": "41. Anadolu'daki arkeolojik kalıntılar, zeytin ağacının çok eskilere dayandığını ve aynı zamanda zeytinyağının faydalarını insanların bildiğini gösteren deliller sunmaktadır.",
+      "correctAnswer": "C",
+      "explanation": "'Anadolu'daki arkeolojik kalıntılar ... deliller sunmaktadır' (Archaeological remains in Anatolia provide proof that), 'zeytin ağacının çok eskilere dayandığını' (the olive tree dates back to the very distant past), 've aynı zamanda zeytinyağının faydalarını insanların bildiğini' (as does human knowledge of olive oil's benefits). C şıkkı İngilizce idiom ve dilbilgisi yapısıyla en uygun ifadedir.",
+      "options": [
+        "A) Archaeological remains in Anatolia have revealed the fact that the olive tree grew in the very distant past and humans knew the benefits of olive oil as well.",
+        "B) In Anatolia, archaeological remains show that the olive tree was in existence in the very distant past and humans were also aware of the benefits of olive oil.",
+        "C) Archaeological remains in Anatolia provide proof that the olive tree dates back to the very distant past, as does human knowledge of olive oil's benefits.",
+        "D) The olive tree and human knowledge of olive oil's benefits date back to the very distant past as archaeological remains in Anatolia show us.",
+        "E) Remains in archaeological sites in Anatolia proves that olive tree depends on the very distant past and humans benefited from olive oil in many ways."
+      ]
+    },
+    {
+      "questionText": "42. Kendine ait önemli rezervleri bulunmayan dünyanın en büyük enerji tüketicisi Avrupa Birliği, ihtiyaç duyduğu enerjinin % 50'sini ithal etmektedir ve ithal enerjiye olan bağımlılığının 2030 yılına kadar % 70'e çıkacağı tahmin edilmektedir.",
+      "correctAnswer": "A",
+      "explanation": "'Kendine ait önemli rezervleri bulunmayan dünyanın en büyük enerji tüketicisi Avrupa Birliği' (The world's largest energy consumer without its own significant reserves, the European Union), 'ihtiyaç duyduğu enerjinin % 50'sini ithal etmektedir' (imports 50% of the energy it needs), 've ... tahmin edilmektedir' (and it is predicted that...), 'ithal enerjiye olan bağımlılığının 2030 yılına kadar % 70'e çıkacağı' (its dependence on imported energy will rise to 70% by 2030).",
+      "options": [
+        "A) The world's largest energy consumer without its own significant reserves, the European Union imports 50% of the energy it needs, and it is predicted that its dependence on imported energy will rise to 70% by 2030.",
+        "B) As the world's largest energy consumer, the European Union has no important energy reserves, and it is envisioned that its dependence on imported energy will increase to 70% by 2030, on the assumption that it buys 50% of its energy from other countries.",
+        "C) As the world's largest energy consumer with its limited energy reserves, the European Union imports around 50% of the energy it needs, and it will probably be more dependent on energy import with a 70% increase by 2030.",
+        "D) Besides being the world's largest energy consumer today which lacks its own reserves, the European Union imports 50% of the energy it requires, and it is foreseen that its energy import will go up to 70% by 2030.",
+        "E) The European Union is the world's largest energy consumer without its own significant energy reserves, and it is estimated that its reliance on imported energy will rise to 70% by 2030, while it is 50% now."
+      ]
+    },
+    {
+      "questionText": "43. According to the passage, history textbooks ----.",
+      "correctAnswer": "D",
+      "explanation": "Metne göre tarih ders kitapları, ulus devletin çocuklara kendi kültür, değer ve ideolojisini aktardığı bir araçtır. Parçada geçen 'they are ideologically important, because they often seek to inject the youth with a shared set of values...' ifadesi, kitapların sadece eğitimsel değil, aynı zamanda ideolojik bir işleve sahip olduğunu (D şıkkı) kanıtlar.",
+      "options": [
+        "A) are now being rewritten with a more international and universal outlook to rectify past misunderstandings between nations",
+        "B) are not appropriate for teaching history because they are always ideologically biased",
+        "C) should be written in a neutral and unbiased way so that future generations can have a healthy understanding of history",
+        "D) not only have educational, but also ideological functions, serving to transmit a nation state's values",
+        "E) consist of baseless stories and narratives rather than historical facts that are more important for a nation state's survival"
+      ]
+    },
+    {
+      "questionText": "44. It is stated in the passage that ----.",
+      "correctAnswer": "C",
+      "explanation": "Parçada, gelecek nesillerin benimsemesi ve desteklemesi beklenen kültürel bilginin (core of cultural knowledge) kitaplara yerleştirildiği belirtiliyor. Bu da C şıkkındaki 'Uluslar gelecek nesillere mevcut yapıların devamlılığını sağlayacak belirli değerleri sağlamaya çalışırlar' (nations attempt to provide future generations with particular values...) ifadesiyle uyuşur.",
+      "options": [
+        "A) some countries have been more successful in producing more neutral and less ideological history textbooks than others",
+        "B) in many nations, debates over the content and format of history textbooks continue to generate considerable political conflict",
+        "C) nations attempt to provide future generations with particular values that will ensure the continuation of existing structures",
+        "D) history textbooks have become more politicized after the emergence of nation states to preserve national identity",
+        "E) many educational systems throughout the world include history in their curriculum to enhance political literacy"
+      ]
+    },
+    {
+      "questionText": "45. According to the passage, regardless of how impartially they are written, history textbooks ----.",
+      "correctAnswer": "E",
+      "explanation": "Metindeki 'Tarih ders kitapları ne kadar tarafsız (neutral) görünürse görünsün, ideolojik olarak önemlidirler' (No matter how neutral history textbooks may appear, they are ideologically important...) cümlesi, bu kitapların asla tamamen objektif ve tarafsız olamayacağını (can never be completely objective and neutral) gösterir.",
+      "options": [
+        "A) need to teach both the past and the future",
+        "B) serve a purpose other than intended",
+        "C) are the best options for cultural transmission",
+        "D) affect ideologically the youth more than adults",
+        "E) can never be completely objective and neutral"
+      ]
+    },
+    {
+      "questionText": "46. It can be inferred from the passage that the author ----.",
+      "correctAnswer": "B",
+      "explanation": "Yazar, tüm paragraf boyunca tarih ders kitaplarının ulusların (devletlerin) ideolojilerini ve değerlerini genç nesillere aktarmak (inject the youth with a shared set of values) için nasıl kullanıldığını vurgulamaktadır. Bu nedenle B şıkkındaki 'ulusal değerleri genç nesillere aşılamak için tarih ders kitaplarının kullanımını vurgulamayı amaçlamaktadır' (sets out to emphasize the use of history textbooks to instil national values...) yazarın temel amacıdır.",
+      "options": [
+        "A) is in favour of using history textbooks to inform people about international relations",
+        "B) sets out to emphasize the use of history textbooks to instil national values in the young generation",
+        "C) is of the opinion that textbooks on history are easy to write",
+        "D) believes in the necessity of locally produced history textbooks to bring about world peace",
+        "E) is trying to persuade the reader of the importance of understanding history"
+      ]
+    },
+    {
+      "questionText": "47. It is understood from the passage that ----.",
+      "correctAnswer": "A",
+      "explanation": "Çiftçilerin antibiyotikleri iki temel yolla kullandığı belirtiliyor: hasta olanları tedavi etmek (treat animals that are sick) ve düşük dozlarda et üreten hayvanları şişmanlatmak veya hastalıkları önlemek (prevent veterinary illnesses). A şıkkındaki 'Çiftçiler genellikle hastalıklar için önleyici bir önlem olarak antibiyotik kullanmayı tercih eder' (farmers mainly prefer using antibiotics as a preventive measure...) bu ifadeyi destekler. [Not: Asıl vurgu hem tedavi hem önleme olduğu için, paragrafın başındaki 'to prevent veterinary illnesses' (veteriner hastalıklarını önlemek) kısmından A şıkkı çıkarılmıştır].",
+      "options": [
+        "A) farmers mainly prefer using antibiotics as a preventive measure for diseases",
+        "B) antibiotics are merely useful in treating the contagious diseases of farm animals",
+        "C) continuous and heavy doses of antibiotics are crucial for poultry",
+        "D) antibiotics are so far the only effective method to fatten up meat-producing animals",
+        "E) poultry prices are affected by the spread of contagious diseases"
+      ]
+    },
+    {
+      "questionText": "48. It is implied in the passage that ----.",
+      "correctAnswer": "D",
+      "explanation": "Metinde 'Bakteriler kelimenin tam anlamıyla her yerde bulunduğundan, hayvanlarda üretilen dirençli suşlar (bakteriler) sonunda insanlara da ulaşır' (find their way into people as well) deniyor. Bu, insanların antibiyotik direncinin, içinde antibiyotik veya dirençli mikrop bulunan hayvansal ürünlerin tüketimi yoluyla arttığı (increased antibiotic resistance in human beings is due to the consumption of animal products...) imasını doğurur.",
+      "options": [
+        "A) widespread use of antibiotics is intended to eliminate the chances of a possible pandemic",
+        "B) using a low dose antibiotic compared to a heavy dose is highly recommended for farmers",
+        "C) human beings should test the efficacy of using antibiotics on other animals before using them on poultry",
+        "D) increased antibiotic resistance in human beings is due to the consumption of animal products with antibiotic content",
+        "E) antibiotic resistance in poultry animals has led scientists to find alternative solutions to fight off these bacteria"
+      ]
+    },
+    {
+      "questionText": "49. According to the passage, ----.",
+      "correctAnswer": "C",
+      "explanation": "Metinde Danimarka'nın yayılmayı durdurmak için kanatlı hayvan ve diğer çiftlik hayvanlarında 'antibiyotik kullanımına ilişkin daha sıkı kurallar uyguladığı' (Denmark enforced tighter rules on the use of antibiotics...) belirtilmektedir. Bu da C şıkkındaki 'Danimarka'daki sıkı düzenlemeler, antibiyotik kullanımının hem kümes hayvanları hem de insanlar üzerindeki etkilerini en aza indirmek için kullanılmaktadır' cümlesiyle tam olarak uyuşur.",
+      "options": [
+        "A) the spread of bacterial infections in poultry may not be avoided by improving physical conditions",
+        "B) the weight of the poultry mainly depends upon the environment they are brought up in",
+        "C) strict regulations in Denmark are employed to minimize the effects of antibiotic use on both poultry and people",
+        "D) the maturation period of poultry in Denmark is determined by the size of the animal",
+        "E) the productivity of poultry can best be analyzed through the amount of the antibiotic used on the animal"
+      ]
+    },
+    {
+      "questionText": "50. It is stated in the passage that antibiotics ----.",
+      "correctAnswer": "E",
+      "explanation": "Metinde antibiyotiklerin doğru kullanımı bile 'yanlışlıkla/istemeden ilaca dirençli bakterilerin yayılmasına yol açabilir' (Although even the proper use of antibiotics can inadvertently lead to the spread of drug resistant bacteria...) denmektedir. Bu da 'ne kadar dikkatli kullanılırlarsa kullanılsınlar, ilaca dirençli bakteriler üretebileceklerini' (may produce drug resistant bacteria, irrespective of how carefully they are used) gösterir.",
+      "options": [
+        "A) are crucial as they change the genetic mutations of poultry",
+        "B) form the basis for microbial resistance of genes in animals",
+        "C) are effective in restricting resistant strains of bacteria in poultry",
+        "D) are employed to prevent a possible disease spread from farm animals to human beings",
+        "E) may produce drug resistant bacteria, irrespective of how carefully they are used"
+      ]
+    },
+    {
+      "questionText": "51. It is clearly stated in the passage that the Marshall Plan ----.",
+      "correctAnswer": "B",
+      "explanation": "Metinde Marshall Planı'nın 'Avrupa'yı yeniden sanayileştirmek için açık ve nihayetinde başarılı bir girişim' (an explicit and eventually successful attempt to reindustrialize Europe) olduğu belirtiliyor. Bu da planın 'Avrupa'yı geliştirme konusunda kapsamlı' (very comprehensive in its scope to develop Europe) olduğu anlamına gelir.",
+      "options": [
+        "A) was redesigned as the Morgenthau Plan to be applied in Germany",
+        "B) was very comprehensive in its scope to develop Europe",
+        "C) was a program of investment from which the Allies expected to benefit directly",
+        "D) was ill-formed for its objectives according to Erik Reinert and Ha-Joon Chang",
+        "E) turned out to be a failed attempt to industrialize various European nations"
+      ]
+    },
+    {
+      "questionText": "52. According to the passage, Germany ----.",
+      "correctAnswer": "A",
+      "explanation": "Henry Morgenthau Jr.'ın Almanya'nın bir daha dünya barışını tehdit etmesini engellemek için ('keep Germany from ever again threatening world peace') onu tamamen sanayisizleştirip bir tarım ulusuna dönüştürme (entirely deindustrialized...) planı yaptığı söyleniyor. Bu, Almanya'nın 'savaş başlatma gücünden yoksun bırakılması gerektiği' (had to be stripped of its power to start wars) anlamını taşır.",
+      "options": [
+        "A) had to be stripped of its power to start wars",
+        "B) was unable to continue its industrial development during World War II",
+        "C) needed industrial equipment and American finance to rebuild the country",
+        "D) found the Morgenthau Plan problematic as its economy declined",
+        "E) was allowed to industrialize despite its agricultural potential"
+      ]
+    },
+    {
+      "questionText": "53. It is implied in the passage that ----.",
+      "correctAnswer": "E",
+      "explanation": "Metinde Morgenthau Planı'nın Almanya'da ciddi ekonomik sorunlara neden olduğu, sanayinin öldürülmesinin (beklenenin aksine) tarım sektörünün verimliliğini de azalttığı (killing the industry reduced the productivity of the agricultural sector) görülmüştür. Bu durum 'politika yapıcılar tarafından yapılan planların beklenmedik sonuçlar verebileceğini' (plans made by policy makers may yield unexpected outcomes) ima eder.",
+      "options": [
+        "A) America's vision for post-war Europe was in essence misguided",
+        "B) a country has no choice but to prioritize one sector over another in order to advance",
+        "C) today's Africa and post-war Germany have a lot in common",
+        "D) Erik Reinert and Ha-Joon Chang were right in their predictions about the Marshall Plan",
+        "E) plans made by policy makers may yield unexpected outcomes"
+      ]
+    },
+    {
+      "questionText": "54. The main concern of the author is to ----.",
+      "correctAnswer": "C",
+      "explanation": "Yazar, Afrika'nın ekonomik refah istiyorsa Marshall Planı'nın karanlık ikizi Morgenthau Planı'ndan değerli dersler çıkarması gerektiğini ('should study and draw valuable lessons from...') belirterek; bazı ekonomik politikaların başarısızlıklarından (Morgenthau) ve başarılarından (Marshall) 'ders çıkarmayı' (learn from the failings and achievements of some economic policies) temel amaç olarak almıştır.",
+      "options": [
+        "A) supply a brief summary of imperial nations' domination of others",
+        "B) blame America's programs for Germany's agricultural productivity",
+        "C) learn from the failings and achievements of some economic policies",
+        "D) describe ways of industrializing through agriculture in order to stop wars",
+        "E) accuse the African leaders of failing to understand how Germany prospered"
+      ]
+    },
+    {
+      "questionText": "55. The author starts the passage with an example from industry in order to ----.",
+      "correctAnswer": "D",
+      "explanation": "Yazar pasajın başında hammaddesi tükenen bir sanayi hayal etmemizi (Imagine an industry that runs out of raw materials) istiyor ve şirketlerin nasıl iflas ettiğini anlatıyor. Daha sonra bunu küresel bankacılık krizindeki nakit (can damarı) akışına ve gezegendeki tükenen gerçek hammaddelere (balık, tatlı su, metaller) bağlıyor. Amaç, hammaddelerin / kaynakların bir sistem için ne kadar hayati/önemli olduğunu vurgulamaktır (emphasize the importance of raw materials).",
+      "options": [
+        "A) explain why raw materials are used in industry",
+        "B) present the conditions of the workers who are currently employed",
+        "C) indicate the possible consequences of global industrialization",
+        "D) emphasize the importance of raw materials",
+        "E) describe the impact of the banking system on industry"
+      ]
+    },
+    {
+      "questionText": "56. According to the passage, the global banking crisis was resolved because governments ----",
+      "correctAnswer": "E",
+      "explanation": "Küresel bankacılık krizinde hükümetlerin 'tam zamanında' / 'hemen' (In the nick of time) rezervleri serbest bırakarak nakit dolaşımını yeniden başlattığı anlatılmaktadır. Bu da bir çözüm bulmak için 'hızlı hareket ettikleri' (acted quickly to find a solution) anlamına gelir.",
+      "options": [
+        "A) cooperated closely with the industry",
+        "B) sold off large supplies of cash",
+        "C) involved the necessary organizations",
+        "D) bought new supplies of vital materials",
+        "E) acted quickly to find a solution"
+      ]
+    },
+    {
+      "questionText": "57. The main point made in the passage is that ----.",
+      "correctAnswer": "B",
+      "explanation": "Yazar, gezegendeki kaynakların sonlu olduğunu belirterek, tek önemli şeyin daha fazla büyüme (ve daha fazla kaynak tüketme) olduğu mevcut ekonomik sistemin değişmesi gerektiğini (we need an economic system that lets us live within our means) savunmaktadır. (B: the economic system currently in place must be rethought).",
+      "options": [
+        "A) industries need to look carefully at the raw materials used",
+        "B) the economic system currently in place must be rethought",
+        "C) population explosion is one of the greatest threats to mankind as it requires more planning",
+        "D) all governments should have a responsibility to help out in times of crisis",
+        "E) the global banking system can throw the world into turmoil"
+      ]
+    },
+    {
+      "questionText": "58. It is pointed out in the passage that in the past ----.",
+      "correctAnswer": "C",
+      "explanation": "Metinde geçmişten bahsederken 'İnsan nüfusu milyonlarla sayıldığında ve kaynaklar seyrek olduğunda, insanlar yeni meralara kolayca taşınabiliyordu' (people could simply move to new pastures) denmektedir. Bu, geçmişte insanların 'yeni kaynaklar bulmasının kolay olduğu' (it was easy for people to find new resources) anlamına gelir.",
+      "options": [
+        "A) an economic system of growth was easy to establish",
+        "B) resources were more valuable than they are today",
+        "C) it was easy for people to find new resources",
+        "D) industry was far less dependent on raw materials",
+        "E) it was rare for businesses to actually fail"
+      ]
+    },
+    {
+      "questionText": "59. It is clearly stated in the passage that the support given by certain drugs ----.",
+      "correctAnswer": "A",
+      "explanation": "Parçanın girişinde 'Birçok sporcu performanslarını artırdıkları için ilaçlara itibar eder/teşekkür eder' (Many athletes credit drugs with improving their performance) deniyor. Bu da bazı ilaçların performansa olumlu katkısının büyük ölçüde kabul edildiğini (is largely accepted for its positive contribution to performance) gösterir.",
+      "options": [
+        "A) is largely accepted for its positive contribution to performance",
+        "B) has been proven by many studies around the world",
+        "C) has led authorities to take the necessary measures against these drugs",
+        "D) has been openly disputed by most of the athletes",
+        "E) results in the improved performances of all the athletes who take them"
+      ]
+    },
+    {
+      "questionText": "60. According to the results of the study funded by the World Anti-Doping Agency, ----.",
+      "correctAnswer": "C",
+      "explanation": "Araştırmanın sonucunda, aslında plasebo aldığı halde HGH (gerçek ilaç) aldığını 'sanan' sporcuların (the group who guessed that they were getting HGH when, in fact, they had received a placebo) testlerde ilerleme kaydettiği (improved at four fitness tests...) belirtilmiştir. Bu da plasebo verildiğini bilmeyen sporcuların testlerde iyi performans gösterdiği (the athletes who did not know they were given a placebo did well...) anlamına gelir.",
+      "options": [
+        "A) the study participants were all aware they were given a placebo",
+        "B) those who knew that they were given real drugs failed to show improvement in fitness tests",
+        "C) the athletes who did not know they were given a placebo did well on fitness tests",
+        "D) the preliminary findings showed the increased popularity of drugs",
+        "E) the effects of HGH are incompatible with those found in other studies"
+      ]
+    },
+    {
+      "questionText": "61. It is understood from the passage that the placebo effect ----.",
+      "correctAnswer": "B",
+      "explanation": "Metin boyunca plasebo etkisinin (ilacın kendisi olmasa da) sporcuların inancı sayesinde fitness testlerinde güç, dayanıklılık gibi alanlarda gelişim göstermelerine neden olduğu anlatılmaktadır. Bu nedenle plasebo etkisi, 'sporcuların performanslarını artırmada önemli bir rol oynayabilir' (can play a significant role in improving the performances of athletes).",
+      "options": [
+        "A) is highly esteemed among those who are interested in athletics",
+        "B) can play a significant role in improving the performances of athletes",
+        "C) has been monitored in the participating groups that consist of people taking doping drugs",
+        "D) was also tested in other branches of sports where competition exists",
+        "E) was very high in the studies where participants were informed in advance"
+      ]
+    },
+    {
+      "questionText": "62. It can be inferred from the passage that ----.",
+      "correctAnswer": "C",
+      "explanation": "Çalışmayı yürüten Ken Ho, 'Bulgular gerçekten zihnin gücünü (the power of the mind) gösteriyor' demektedir. Buradan, kişinin hangi tedaviye maruz kalırsa kalsın (gerçek ilaç veya plasebo), 'başarının kişinin kendi zihninin gücünde yattığı' (success lies in the power of one's mind no matter which treatment he or she is exposed to) çıkarımı yapılabilir.",
+      "options": [
+        "A) external interventions may have negative impacts on one's performance",
+        "B) every athlete should be involved in a study to increase his or her performance",
+        "C) success lies in the power of one's mind no matter which treatment he or she is exposed to",
+        "D) the World Anti-Doping Agency should be much more careful about the use of drugs in sports",
+        "E) much more research should be done on the placebo effect among athletes"
+      ]
+    },
+    {
+      "questionText": "63. Emre: What's so funny that you've been laughing now for hours?\n Figen: I was just remembering a friend of mine who owns a shoe shop. He was very upset because he realized that many customers were trying to squeeze their feet into shoes that were too small, and were ruining his shoes.\n Emre: ----\n Figen: Even so, I just can't help laughing.",
+      "correctAnswer": "E",
+      "explanation": "Emre müşterilerin ayakkabıları mahvetmesine komik olmayan veya ciddi/eleştirel bir karşılık vermelidir ki Figen 'Öyle olsa bile (Even so), gülmekten kendimi alamıyorum' diye cevap versin. E şıkkı 'Bunda komik bir şey bulmuyorum (I don't find it amusing whatsoever). Müşteriler yaptıklarına daha dikkat etmeliydi' diyerek tam bu ciddiyeti sunar.",
+      "options": [
+        "A) That must have been quite an experience for him. Now he won't let anyone try on different sizes.",
+        "B) Doesn't the salesman have any rights? He should be able to fill out some kind of complaint form.",
+        "C) Being a frequent shoe-buyer myself, I don't know where your friend's store is.",
+        "D) Perhaps he should start selling other things. This way, he won't have to deal with those customers anymore.",
+        "E) I don't find it amusing whatsoever. The customers should have been more careful with what they were doing."
+      ]
+    },
+    {
+      "questionText": "64. Timur: Do you know the difference between the use of barbecues and conventional gas cooking?\n Levent: ----\n Timur: What can be done to reduce this?\n Levent: I think we should use gas over barbecue as it contributes to an increase in smog levels.",
+      "correctAnswer": "A",
+      "explanation": "Levent'in ikinci cevabında duman (smog) seviyelerini artıran çevresel/zehirli bir sorundan bahsettiği ve Timur'un da bunu (bu emisyonu) azaltmak için ne yapılabilir diye sorduğu açıktır. İlk cevapta Levent, A şıkkındaki gibi 'Kömür yakmak, gazla yemek pişirmekten çok daha fazla karbonmonoksit salar' diyerek bir emisyon/kirlilik sorunu (this) ortaya atmıştır.",
+      "options": [
+        "A) Burning charcoal releases carbon monoxide into the air much more than cooking with gas does.",
+        "B) Well, actually, both are good ways of cooking, but barbecues take longer to prepare.",
+        "C) Gas cooking is far more efficient than using a barbecue, as you can adjust the heat according to your needs.",
+        "D) Unfortunately, both are harmful and cause damage to the environment.",
+        "E) Gas appears to be more dangerous as there is a high risk of explosion."
+      ]
+    },
+    {
+      "questionText": "65. Teacher: Your son has adapted quite well socially. He's had no problems making friends. Also, he's quite a leader among them.\n Parent: I'm glad to hear that. What about his class work?\n Teacher: ----\n Parent: I agree. He's never been very good at sitting still and focusing.",
+      "correctAnswer": "E",
+      "explanation": "Öğretmen çocuğun sosyal becerilerini övdükten sonra veli derslerini/sınıf çalışmasını soruyor. Öğretmen bir şey diyor ve veli 'Katılıyorum. Oturup odaklanmada hiçbir zaman çok iyi olmamıştı' diyor. Demek ki öğretmen onun dikkatinin/konsantrasyonunun eksik olduğunu belirtmiş. E şıkkı 'Yeteneği var ama işi yapmak için konsantrasyonu eksik gibi görünüyor' (he seems to lack the concentration to do the work) doğru yanıttır.",
+      "options": [
+        "A) His math skills are very good, but he needs to work harder on his language skills.",
+        "B) He enjoys group work, probably because he likes to socialize so much.",
+        "C) I think he needs a private tutor to help him with the more difficult subjects.",
+        "D) I really enjoy having him in class because he's such a good example to others.",
+        "E) He has the ability but he seems to lack the concentration to do the work."
+      ]
+    },
+    {
+      "questionText": "66. Jale: Here is an article about how people react in emergencies. Researchers say that when more people are around, it reduces the chances of actually being helped.\n Adnan: ----\n Jale: Apparently, onlookers provide a model for action. If they are docile and disinterested, the situation may seem less serious.\n Adnan: I think if there is only one bystander, your chance of being helped increases, as he will think he must help immediately.",
+      "correctAnswer": "C",
+      "explanation": "Jale, etrafta daha çok insan olduğunda yardım edilme şansının azaldığını söylüyor. Adnan bir şey sorduktan sonra Jale 'Görünüşe göre, izleyiciler eylem için bir model sağlıyorlar. Eğer ilgisiz görünürlerse durum daha az ciddi zannediliyor' diyor. Adnan bu 'Neden böyle oluyor?' (Bunun nedenine dair bir açıklama sunuyorlar mı?) şeklinde sormuş olmalıdır (C şıkkı).",
+      "options": [
+        "A) Is an individual aware that others are present?",
+        "B) How did they carry out that research?",
+        "C) Do they offer any explanation as to why this happens?",
+        "D) Is this finding true for all cultures?",
+        "E) Who were the participants in this research?"
+      ]
+    },
+    {
+      "questionText": "67. Ayça: Do you think environmental factors like diet and stress affect the ageing process as much as the decline of hormonal systems?\n Berkan: ----\n Ayça: So, you mean physiological and environmental factors contribute to one's longevity to the same degree.\n Berkan: Definitely! I also think living in an extended family and playing an important role in society bring in some beneficial effects.",
+      "correctAnswer": "B",
+      "explanation": "Berkan'ın çevresel faktörlerin yaşlanmayı hormonlar kadar etkilediğini savunduğu bir şey söylemesi gerekir ki Ayça, 'Yani fizyolojik ve çevresel faktörlerin aynı oranda ömre katkı sağladığını kastediyorsun' desin. B şıkkında 'Bazı insanların rahat yaşam tarzları ve tükettikleri sebzeler sayesinde daha uzun yaşadığını ve daha az sağlık sorunu yaşadığını duydum' diyerek çevre/diyet etkisini onaylamaktadır.",
+      "options": [
+        "A) I don't believe dietary habits and lifestyle have much to do with ageing. It's all about the gradual failing of the body to be able to repair itself and replace cells.",
+        "B) I heard some people live longer and have fewer health problems than others thanks to their easy-going lifestyle and the amount of vegetables they consume.",
+        "C) Perhaps, calorie restriction and anti-ageing treatments can be successful interventions that may cause increases in life expectancy.",
+        "D) Even if ageing seems to be a serious problem for many people, some rely on plastic surgeries to cope with it.",
+        "E) Extending one's lifespan isn't simply a case of stopping the ageing process, because ageing isn't a scientifically recognized cause of death."
+      ]
+    },
+    {
+      "questionText": "68. Science does not produce a unified picture of the environment on which all can agree, instead it provides multiple views, each of which may be valid from a particular ideological angle.",
+      "correctAnswer": "A",
+      "explanation": "'Bilim herkesin üzerinde anlaşabileceği tek tip (birleşik) bir çevre resmi (unified picture of the environment) üretmez, bunun yerine her biri belirli bir ideolojik açıdan geçerli olabilecek çoklu görüşler (multiple views) sağlar.' A şıkkı 'Bilim aracılığıyla sağlanabilecek ve herkesin üzerinde hemfikir olacağı tek bir çevre görüşü yoktur (There is not one single view...), aksine ideolojik perspektife bağlı olarak geçerli olan farklı perspektifler sunar (gives different perspectives, all of which are valid depending on...)' diyerek aynı anlamı verir.",
+      "options": [
+        "A) There is not one single view of the environment that can be provided through science that everyone will agree on, rather it gives different perspectives, all of which are valid depending on the ideological perspective.",
+        "B) The environment has been described by scientists in many different ways rather than in just one way, and each of these have their own validity according to the observer's own ideology.",
+        "C) Science represents many diverse and particular ideological angles, and from these a valid and unified description of the environment can be produced that respects multiple views.",
+        "D) Scientists from different ideological backgrounds have come together to agree upon a unified picture of the environment on which scientists can all agree upon its validity.",
+        "E) Multiple views on the environment are the result of science being unable to produce a unified description upon which those from different ideological backgrounds can agree."
+      ]
+    },
+    {
+      "questionText": "69. The stocks of bluefin tuna, the most valuable fish in the world, have plummeted to such paltry levels that many scientists speculate that the fish could be headed for extinction.",
+      "correctAnswer": "D",
+      "explanation": "'Dünyanın en değerli balığı olan mavi yüzgeçli orkinos stokları o kadar değersiz/düşük seviyelere geriledi ki, birçok bilim insanı balığın neslinin tükenmeye yüz tutabileceğini (could be headed for extinction) tahmin ediyor.' D şıkkı 'Dünyanın en pahalı balığı olan mavi yüzgeçli orkinos stokları öylesine düşük bir seviyeye düştü ki, bilim adamları onların neslinin tükenebileceğini öngörüyor (predicting that they might become extinct)' diyerek bunu tam olarak karşılar.",
+      "options": [
+        "A) Scientists believe that the excessive demand for the valuable bluefin tuna fish has risen to such a level that there is speculation about the fish becoming extinct.",
+        "B) Stocks of the world's most desirable bluefin tuna fish have reached such a low level that many scientists are convinced that they are about to become extinct.",
+        "C) There is some speculation among scientists around the world as to how far the stocks of the valuable bluefin tuna fish can be allowed to fall before they become extinct.",
+        "D) Stocks of the bluefin tuna, the most expensive fish in the world, have dropped to such a low level that scientists are predicting that they might become extinct.",
+        "E) The most expensive fish in the world is the bluefin tuna, but scientists fear that stocks will soon reach a paltry level and the fish will become extinct."
+      ]
+    },
+    {
+      "questionText": "70. Huntington's has been described as the most disastrous disease known to man because of its peculiarly cruel characteristics, as it progressively strips a person of control of his muscles, reason and emotion.",
+      "correctAnswer": "C",
+      "explanation": "'Huntington, bir kişinin kas, akıl ve duygu kontrolünü giderek elinden aldığı için, özellikle acımasız özellikleri nedeniyle insanın bildiği en feci hastalık olarak tanımlanmıştır.' C şıkkı, 'Kişinin kas, akıl ve duygu kontrolünü yavaş yavaş ortadan kaldıran (gradually take away) acımasız özellikleri nedeniyle, Huntington'ın dünyadaki en yıkıcı hastalık (most devastating disease) olduğu söylenmektedir' şeklinde tam anlamı verir.",
+      "options": [
+        "A) Huntington's disease is described as not only the worst disease in the world but also the most cruelly progressive, as it slowly takes away a person's ability to control their muscles, reason and emotion.",
+        "B) To describe Huntington's as a cruel disease could be disastrous as people know that it eventually takes away a person's ability to control their muscles as well as to reason and feel emotion.",
+        "C) Due to its cruel characteristics that gradually take away a person's control of their muscles, reason and emotion, Huntington's is said to be the most devastating disease in the world.",
+        "D) When a person starts to rapidly lose control of his muscles and no longer is able to reason or control his emotions, he can be described as having the most disastrous disease ever - Huntington's.",
+        "E) When a man is described as having Huntington's, it can be a very cruel experience, as they will gradually experience certain characteristics such as lack of muscle control, reason and emotion."
+      ]
+    },
+    {
+      "questionText": "71. The changing climate will have negative effects on all parts of the world; depending on people's location and lifestyles, however, there will be great differences in the subsequent health hazards that human populations face.",
+      "correctAnswer": "E",
+      "explanation": "Cümle: 'Değişen iklim dünyanın her yerinde olumsuz etkilere sahip olacaktır; ancak insanların bulunduğu yere ve yaşam tarzlarına bağlı olarak, insan popülasyonlarının karşılaştığı sağlık tehlikelerinde büyük farklılıklar olacaktır.' E şıkkı: 'Dünyanın bütün bölgeleri değişen iklimden olumsuz etkilenecektir, ancak insan popülasyonlarına yönelik ortaya çıkan sağlık riskleri, insanların nerede ve nasıl yaşadıklarına bağlı olarak büyük ölçüde değişecektir (will vary greatly, depending on where and how people live).' diyerek anlamı birebir yansıtır.",
+      "options": [
+        "A) No matter how and where people live, the subsequent health hazards will be terribly great after the varying climate negatively affects all regions of the world.",
+        "B) Based on their lifestyles and geographical location, human populations all over the world will experience health risks to be brought about by adverse effects of the changing climate.",
+        "C) Whether all regions of the world will be negatively affected by the incremental climate change largely depends on people's location and ways of life, yet human populations will end up with health risks.",
+        "D) Since all parts of the world are likely to be adversely influenced by the globally changing climate, human populations have been subject to resultant health risks, regardless of how and where they reside.",
+        "E) All regions of the world will be adversely affected by the changing climate, but the resulting health risks to human populations will vary greatly, depending on where and how people live."
+      ]
+    },
+    {
+      "questionText": "72. Most measurements of happiness are by standardized questionnaires or interview schedules. It could also be done by informed observers - those who know the individual well and see them regularly. ---- Yet, another form of measurement is to investigate a person's memory and check whether they feel predominantly happy or unhappy about their past. Finally, there are some crude but ever-developing physical measures looking at everything from brain scanning to saliva levels.",
+      "correctAnswer": "C",
+      "explanation": "Metinde mutluluk ölçüm yöntemleri (measurement) sıralanıyor: standart anketler, bilgili gözlemciler, hafıza araştırmaları ve fiziksel ölçümler. Boşlukta da bir diğer ölçüm yöntemi sunulmalıdır. C şıkkı 'İnsanların günde birçok kez ne kadar mutlu olduklarını bildirdikleri deneyim örneklemesi (experience sampling) de vardır' diyerek bu listeye uygun bir madde ekler.",
+      "options": [
+        "A) It should be kept in mind that such tests might be misleading in many cases.",
+        "B) Findings suggest that ancestors of Finnish people made use of such methods.",
+        "C) There is also experience sampling, where people report how happy they are many times a day.",
+        "D) Being objective in this process is more important than being an observer.",
+        "E) A question still remains unanswered: to what extent can one express happiness on a sheet of questions?"
+      ]
+    },
+    {
+      "questionText": "73. Everything in the factories of the future will be run by smarter software. Digitization in manufacturing will have as widespread an effect as in other industries that have gone digital, including photography, publishing and films. Such effects will not be confined to large manufacturers, either. ---- Launching new and innovative products will become easier and cheaper for them.",
+      "correctAnswer": "D",
+      "explanation": "Üretimdeki dijitalleşmenin etkilerinin sadece büyük üreticilerle sınırlı kalmayacağı ('not be confined to large manufacturers, either') belirtilmiştir. Öyleyse, küçük üreticilere de faydası anlatılmalıdır. D şıkkında 'Aslında bu gelişmeler küçük firmaları ve bireysel girişimcileri güçlendirecek' ('empower smaller firms and individual entrepreneurs') cümlesi bu boşluğu dolduran en mantıklı ifadedir ve ardından gelen 'Onlar (them) için ürün çıkarmak daha kolay ve ucuz olacak' cümlesiyle uyum sağlar.",
+      "options": [
+        "A) The materials being used to make things are changing faster than they were in the past.",
+        "B) In addition, it will allow things to be made economically in much smaller quantities.",
+        "C) Nonetheless, companies are also optimistic about a manufacturing revival.",
+        "D) In fact, these developments will empower smaller firms and individual entrepreneurs.",
+        "E) As such, companies from all over the world use China and India as low-wage workshops."
+      ]
+    },
+    {
+      "questionText": "74. ---- This is not the case, and evidence for early learning and remembering comes from several studies. In one, infants only a few hours old learned to turn their heads right or left, depending on whether they heard a buzzer or a tone. In order to taste a sweet liquid, the baby had to turn to the right when a tone sounded and to turn to the left when the buzzer sounded. In only a few trials, the babies were performing without error.",
+      "correctAnswer": "A",
+      "explanation": "Parça, 'Durum böyle değil' ('This is not the case') diyerek başlıyor ve ardından bebeklerin (infants) çok erken dönemde (birkaç saatlikken bile) öğrenip hatırlayabildiklerine dair kanıtlar (evidence for early learning and remembering) sunuyor. Boşluğa, 'Durum böyle değil' diye çürütülecek yanlış bir inanış cümlesi gelmelidir. A şıkkı, 'Bir zamanlar bebeklerin ne öğrenebildikleri ne de hatırlayabildikleri düşünülürdü' ('It was once thought that infants could neither learn nor remember') diyerek bu zıtlık zeminini tam olarak kurar.",
+      "options": [
+        "A) It was once thought that infants could neither learn nor remember.",
+        "B) Infants can discriminate differences in taste shortly after birth.",
+        "C) Newborn infants could distinguish human voices from other sounds.",
+        "D) Newborn babies may not remember what they have just learned.",
+        "E) Pre-birth experiences in the uterus help infants to learn and remember."
+      ]
+    },
+    {
+      "questionText": "75. Stephen Hawking, the famed theoretical physicist diagnosed with Lou Gehrig's disease, lost the ability to speak thirty years ago. In the meantime, a computerized voice generated by an infrared sensor inside Hawking's mouth has allowed him to communicate. According to a recent report, however, the muscles controlling the device have been deteriorating, limiting him to as little as one word per minute. ---- This is a horrifying prospect for the scientific community that has benefitted greatly from his findings. But a new device recording brain functions at an unprecedented level of detail was developed and has been proposed to improve Hawking's ability to communicate once again.",
+      "correctAnswer": "C",
+      "explanation": "Hawking'in kullandığı cihazı kontrol eden kasların bozulduğu ve dakikada bir kelimeye kadar düştüğü (have been deteriorating) ifade edilmiştir. Sonrasında ise 'Bu, bulgularından büyük fayda sağlayan bilim dünyası için korkutucu bir ihtimaldir' (horrifying prospect) denmiştir. Korkutucu olan bu ihtimali anlatan C şıkkı ('Yeni bir iletişim aracı olmadan, Hawking dilsiz kalma riskiyle karşı karşıyadır' - Hawking runs the risk of being rendered mute) doğru cevaptır.",
+      "options": [
+        "A) Such devices can be used to monitor the sleep pattern and the disorders of the deaf.",
+        "B) The sensor in the mouth is an effective way to continue communication with people unable to speak.",
+        "C) Without a new means of communication, Hawking runs the risk of being rendered mute.",
+        "D) The muscles in the mouth can be kept under control by using a great variety of equipments.",
+        "E) Thanks to recent developments, researchers are now able to keep the disease under control as in Hawking's condition."
+      ]
+    },
+    {
+      "questionText": "76. (I) Using herbs from your garden or the farmer's market to enhance the flavour of your summer cuisine is really rewarding. (II) Not only will herbs add subtle accents to your main dishes and salads, but they will also bring fragrance and interest to favourite dessert and beverage recipes. (III) If you are not using fresh herbs, remember that dried herbs are very potent, so reduce the amount you use by half or more. (IV) Include your home-grown produce in a salad course, and specimens from your gorgeous summer flower beds in a welcoming table centrepiece. (V) Also, if you are cooking outdoors, be sure to allow enough time to heat the grill for your vegetables, steaks and chicken.",
+      "correctAnswer": "E",
+      "explanation": "I, II, III ve IV numaralı cümleler mutfakta (özellikle yaz yemeklerinde) 'otların / bitkilerin' (herbs, home-grown produce) kullanımına, bunların yemeklere kattığı tada ve dekoratif amaçlı kullanımına odaklanmaktadır. (V) numaralı cümle ise 'dışarıda yemek pişirirken ızgarayı ısıtmak için yeterli zaman ayırın' diyerek konuyla tamamen ilgisiz genel bir mangal/pişirme tavsiyesi vermektedir.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "77. (I) Aristotle explored the apparent ties between odour and memory in his work On Sense and the Sensible. (II) Since then, people have speculated that the memories elicited by smell are more intimate and immediate than other recollections. (III) When we experience certain smells, we often find ourselves taken back in time to a specific event or scene. (IV) Many movies of the 1980s include scenes that trigger memories of childhood and school years. (V) For example, the smell of a salsa, a sauce eaten with Mexican food, may remind a person of watching James Bond movies on television with his or her father while dipping chips in the spicy sauce.",
+      "correctAnswer": "D",
+      "explanation": "Paragraf koku (odour/smell) ve hafıza/anı (memory) arasındaki güçlü ilişkiden (I, II, III) ve bunun somut bir örneğinden (V - salsa kokusunun James Bond izleme anısını canlandırması) bahsetmektedir. Ancak (IV) numaralı cümle, 1980'ler filmlerinin okul yıllarını hatırlatmasından (görsel/işitsel anılar) bahsederek 'koku' (smell) eksenindeki ana temadan sapmaktadır.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "78. (I) Five to six million farmers in the tropics who cultivate the cacao trees from which cocoa is produced rely on the sales of the seeds to feed themselves and their families. (II) Cacao tree grows only in a narrow band within about 18 degrees north and south of the Equator. (III) They extract the seeds, often called 'beans', from football-shaped pods and then ferment and dry them to form butter and powder. (IV) The livelihoods of another 40 to 50 million depend on the long production road whereby the cacao seeds travel from a farm to the candy on store shelves. (V) In Ivory Coast, which produces 40 percent of the world's cocoa, such farming accounts for a full 15 percent of Gross Domestic Product (GDP) and employs 5 percent of households.",
+      "correctAnswer": "B",
+      "explanation": "I, III, IV ve V numaralı cümleler kakao çekirdeklerini yetiştiren çiftçiler (I, III'teki 'They' zamiri I. cümleye döner) ve bu sektörün sağladığı geçim kaynağı / ekonomik boyut (IV, V) hakkındadır. (II) numaralı cümle ise kakao ağacının yetiştiği coğrafi koordinatlara (Ekvator çevresindeki dar bir bant) değinerek çiftçilerin geçimi ve ekonomik veriler bağlamını koparmıştır.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "79. (I) One of the oldest methods of preserving food is drying. (II) It slows down the proliferation and activity of the bacteria that cause spoilage and decay, but it considerably alters the appearance of food due to the loss of water. (III) With the success of freezing and its characteristics for retaining the food value of ingredients, drying is no longer an essential means of preserving food for times when it may be out of season or expensive. (IV) Since prehistoric times, cereals and fruits have been dried in the sun before being stored. (V) The drying of fruits and vegetables has been widely practiced for so long; in Greece for grapes, in Turkey for apricots, and in Iran and Spain for tomatoes.",
+      "correctAnswer": "C",
+      "explanation": "I, II, IV ve V numaralı cümleler gıda muhafaza yöntemlerinden biri olan 'kurutma'nın (drying) tarihçesi, nasıl işlediği, tarih öncesinden beri güneş altında yapıldığı ve dünyadaki yaygın örnekleri (Türkiye'de kayısı vb.) üzerinedir. (III) numaralı cümle ise 'dondurmanın başarısıyla birlikte kurutmanın artık eskisi kadar önemli/elzem olmadığını' belirterek konuyu 'dondurma (freezing)' yöntemine ve kurutmanın terk edilmesine kaydırıp, kurutmanın tarih boyunca yaygın kullanımı temasını böler.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "80. (I) No citizen of the European Union lives more than 700 km away from the coast. (II) The seas and oceans are at the centre of a large number of interactions, and to optimize political decision-making, we must clearly understand these interactions. (III) The European Union is surrounded by four seas and two oceans, and has 89,000 km of coastline. (IV) The maritime areas under the jurisdiction of the member states of the European Union are larger than the land masses. (V) The obvious conclusion is the need for rational management of the seas and oceans.",
+      "correctAnswer": "B",
+      "explanation": "Metin, Avrupa Birliği vatandaşlarının kıyıya yakınlığı (I), AB'nin dört deniz ve iki okyanusla çevrili 89.000 km'lik kıyı şeridi (III) ve AB yetkisi altındaki deniz alanlarının karalardan daha büyük olması (IV) ile sonuç olarak bu denizlerin rasyonel yönetimine ihtiyaç duyulması (V) gibi tamamen Avrupa Birliği özelindeki deniz/kıyı coğrafi istatistiklerine odaklanmıştır. (II) numaralı cümlede denizlerin çok sayıda etkileşimin merkezinde olduğu ve bunları politik kararlar için anlamamız gerektiği şeklindeki aşırı genel ifade araya sıkıştırılmış olup akışı kesmektedir.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    }
+  ]
+}

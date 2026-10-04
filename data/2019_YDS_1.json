@@ -1,0 +1,965 @@
+{
+  "title": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE",
+  "questions": [
+    {
+      "questionText": "1. Like the rest of the animal kingdom, mammals need food for energy and the ---- of bodily processes such as growth and reproduction.",
+      "correctAnswer": "C",
+      "explanation": "Cümlede memelilerin büyüme ve üreme gibi bedensel süreçlerin 'sürdürülmesi / devamlılığı' (maintenance) için enerjiye ihtiyaç duydukları ifade edilmektedir.",
+      "options": [
+        "A) suspension",
+        "B) deterioration",
+        "C) maintenance",
+        "D) elaboration",
+        "E) persistence"
+      ]
+    },
+    {
+      "questionText": "2. With rapid advancements in technology, there are new ----, already seen in countries such as Myanmar and Sri Lanka where social media apps have been instrumental in spreading fake news and violence.",
+      "correctAnswer": "D",
+      "explanation": "Sahte haberlerin ve şiddetin yayılmasından bahsedildiği için, teknolojideki hızlı ilerlemelerle birlikte ortaya çıkan yeni 'tehditler' (threats) söz konusudur.",
+      "options": [
+        "A) measures",
+        "B) adjustments",
+        "C) incentives",
+        "D) threats",
+        "E) obligations"
+      ]
+    },
+    {
+      "questionText": "3. Although empirical studies into the brain's left and right hemispheric participation in language acquisition are ---- and differ from each other, some observational studies indicate that adults might benefit from right-brain-oriented activities in the foreign language classroom.",
+      "correctAnswer": "D",
+      "explanation": "Çalışmaların birbirinden farklılık gösterdiği (differ from each other) belirtildiği için, bu çalışmaların sonuçlarının 'kesin olmadığı / yetersiz olduğu' (inconclusive) söylenmelidir.",
+      "options": [
+        "A) unavailable",
+        "B) indispensible",
+        "C) indestructible",
+        "D) inconclusive",
+        "E) unprecedented"
+      ]
+    },
+    {
+      "questionText": "4. The foundations of international law as it is understood today lie ---- in the development of Western culture and political organisation.",
+      "correctAnswer": "D",
+      "explanation": "Uluslararası hukukun temellerinin, Batı kültürünün gelişimine 'sıkıca / güçlü bir şekilde' (firmly) dayandığını belirtmek için bu zarf kullanılır (lie firmly in).",
+      "options": [
+        "A) eligibly",
+        "B) instantly",
+        "C) adequately",
+        "D) firmly",
+        "E) convertibly"
+      ]
+    },
+    {
+      "questionText": "5. There is a link between sunlight and the chemical serotonin, which ---- our mood and is important in reducing anxiety disorders.",
+      "correctAnswer": "E",
+      "explanation": "Serotonin kimyasalının ruh halimizi 'artırdığı / iyileştirdiği' (boosts) ve anksiyete bozukluklarını azaltmada önemli olduğu ifade edilmektedir.",
+      "options": [
+        "A) initiates",
+        "B) detects",
+        "C) reveals",
+        "D) hinders",
+        "E) boosts"
+      ]
+    },
+    {
+      "questionText": "6. Parkinson's disease is a movement disorder that ---- the death of neurons producing dopamine, a neurochemical that dispatches messages to parts of the brain that control motor skills and coordination.",
+      "correctAnswer": "B",
+      "explanation": "Parkinson hastalığı, dopamin üreten nöronların ölümünden 'kaynaklanan / ileri gelen' (stems from) bir hareket bozukluğudur.",
+      "options": [
+        "A) takes over",
+        "B) stems from",
+        "C) makes up",
+        "D) pins down",
+        "E) gets through"
+      ]
+    },
+    {
+      "questionText": "7. In its early stage of development, ecotourism ---- a completely new concept; however, today, it ---- a significant portion of the tourism industry in general.",
+      "correctAnswer": "D",
+      "explanation": "Gelişiminin ilk aşamasında (in its early stage) Simple Past (was regarded), günümüzde (today) ise Present Perfect (has become) yapısının kullanımı cümlenin zaman uyumunu sağlar.",
+      "options": [
+        "A) was going to be regarded / is becoming",
+        "B) had been regarded / will become",
+        "C) was being regarded / is going to become",
+        "D) was regarded / has become",
+        "E) has been regarded / becomes"
+      ]
+    },
+    {
+      "questionText": "8. As two-thirds of homes in the US owned radio receivers by the end of the 1920s, people no longer ---- to a concert, play, or sporting event to be entertained; instead, they ---- many forms of entertainment from the comfort of their homes.",
+      "correctAnswer": "D",
+      "explanation": "İnsanlar 1920'lerde eğlenmek için bir konsere gitmek 'zorunda değillerdi' (had to go) ve bunun yerine evlerinin rahatlığında eğlencenin tadını 'çıkarabiliyorlardı' (could enjoy - geçmişteki yetenek).",
+      "options": [
+        "A) should have gone / must have enjoyed",
+        "B) may go / were able to enjoy",
+        "C) used to go / may have enjoyed",
+        "D) had to go / could enjoy",
+        "E) would go / ought to have enjoyed"
+      ]
+    },
+    {
+      "questionText": "9. Humanity's extraordinary ingenuity in devising tools ---- due to our physical limitations.",
+      "correctAnswer": "A",
+      "explanation": "İnsanlığın alet icat etmedeki süregelen hüneri (has been), fiziksel sınırlamalarımızı 'aşmak içindir' (to overcome). Amaç bildiren 'to' infinitive kalıbı doğru tercihtir.",
+      "options": [
+        "A) has been / to overcome",
+        "B) was / having overcome",
+        "C) is / overcome",
+        "D) will be / to have overcome",
+        "E) had been / overcoming"
+      ]
+    },
+    {
+      "questionText": "10. The geographical spread of English is unique ---- the languages of the world, and it is an official language in about 50 countries, where it is used in addition to the indigenous first languages ---- a variety of public and personal functions.",
+      "correctAnswer": "D",
+      "explanation": "İngilizcenin dünya dilleri 'arasında' (among) eşsiz olduğu ve çeşitli işlevler 'için' (for) kullanıldığı edat uyumuyla sağlanır.",
+      "options": [
+        "A) from / at",
+        "B) to / on",
+        "C) through / with",
+        "D) among / for",
+        "E) about / in"
+      ]
+    },
+    {
+      "questionText": "11. Weather is defined as the state of the atmosphere ---- a given location and a relatively short period of time.",
+      "correctAnswer": "C",
+      "explanation": "Hava durumu, belirli bir konumda (at a given location) ve nispeten kısa bir zaman dilimi 'üzerinde / boyunca' (over a period of time) atmosferin durumu olarak tanımlanır.",
+      "options": [
+        "A) along / on",
+        "B) towards / in",
+        "C) at / over",
+        "D) from / against",
+        "E) for / about"
+      ]
+    },
+    {
+      "questionText": "12. ---- Renaissance art evolved from a common set of principles, it took many directions and changed considerably in the following centuries.",
+      "correctAnswer": "C",
+      "explanation": "Rönesans sanatı ortak bir dizi ilkeden evrimleşmiş 'olsa da / ama' (but - Although anlamı verecek şekilde cümleye yedirilmiş zıtlık), sonraki yüzyıllarda birçok yöne kaymış ve önemli ölçüde değişmiştir.",
+      "options": [
+        "A) instead",
+        "B) provided that",
+        "C) but",
+        "D) for",
+        "E) so"
+      ]
+    },
+    {
+      "questionText": "13. ---- palaeontologists still like to argue about what role the asteroid played in the dinosaur extinction, there really is not much of a mystery left.",
+      "correctAnswer": "D",
+      "explanation": "Paleontologlar asteroidin rolü hakkında tartışmayı hala sevseler de (Although), geriye pek bir gizem kalmamıştır şeklinde bir zıtlık ilişkisi vardır.",
+      "options": [
+        "A) Once",
+        "B) In case",
+        "C) Given that",
+        "D) Although",
+        "E) Because"
+      ]
+    },
+    {
+      "questionText": "14. To psychology professionals, the name Anne Anastasi is synonymous with psychometrics, ---- it was she who pioneered understanding how psychological traits are influenced, developed, and measured.",
+      "correctAnswer": "E",
+      "explanation": "Anne Anastasi adının psikometri ile eşanlamlı olmasının sebebi (because/since), psikolojik özelliklerin nasıl etkilendiğini anlamaya öncülük etmesidir. Burada sebep bildiren bir bağlaç gereklidir.",
+      "options": [
+        "A) so",
+        "B) even if",
+        "C) while",
+        "D) yet",
+        "E) since"
+      ]
+    },
+    {
+      "questionText": "15. Music is a very small word to encompass something that takes ---- many forms ---- there are cultural and subcultural identities.",
+      "correctAnswer": "C",
+      "explanation": "Kültürel ve altkültürel kimlikler 'kadar çok' forma bürünen bir şeyi kapsamak için... anlamını veren eşitlik/kadar kalıbı (as ... as) kullanılmalıdır.",
+      "options": [
+        "A) either / or",
+        "B) both / and",
+        "C) as / as",
+        "D) such / that",
+        "E) not only / but also"
+      ]
+    },
+    {
+      "questionText": "16. Although genetically modified seed is more expensive than conventional equivalents, the extra cost can be seen as an insurance policy against crop losses ---- weeds or pests.",
+      "correctAnswer": "B",
+      "explanation": "Yabani otlar veya haşerelerden 'kaynaklanan / dolayı' meydana gelen ekin kayıpları anlamını katmak için 'due to' edatı kullanılır.",
+      "options": [
+        "A) contrary to",
+        "B) due to",
+        "C) in terms of",
+        "D) despite",
+        "E) along with"
+      ]
+    },
+    {
+      "questionText": "17. Today the deadly poliomyelitis virus is only endemic to four countries Afghanistan, India, Nigeria, and Pakistan. This is (17)---- the groundbreaking research undertaken by doctor and biologist Jonas Salk.",
+      "correctAnswer": "C",
+      "explanation": "Çocuk felci virüsünün sadece birkaç ülkeyle sınırlı kalması, Jonas Salk'ın çığır açan araştırması 'sayesinde' (thanks to) gerçekleşmiştir.",
+      "options": [
+        "A) rather than",
+        "B) such as",
+        "C) thanks to",
+        "D) except for",
+        "E) along with"
+      ]
+    },
+    {
+      "questionText": "18. In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)---- poliomyelitis.",
+      "correctAnswer": "E",
+      "explanation": "Bir hastalığa 'karşı' koruma sağlamak (protect against) anlamında against edatı kullanılır.",
+      "options": [
+        "A) on",
+        "B) with",
+        "C) for",
+        "D) in",
+        "E) against"
+      ]
+    },
+    {
+      "questionText": "19. The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)---- were unable to breathe.",
+      "correctAnswer": "B",
+      "explanation": "Hastalar felç oluyorlar ve 'bu yüzden / böylece' (thus) nefes alamıyorlardı. Sebep-sonuç bağlamı vardır.",
+      "options": [
+        "A) even so",
+        "B) thus",
+        "C) conversely",
+        "D) instead",
+        "E) otherwise"
+      ]
+    },
+    {
+      "questionText": "20. Medical opinion at the time held that only a live virus (20)---- total immunity, but Salk disproved this.",
+      "correctAnswer": "A",
+      "explanation": "O dönemdeki tıbbi görüş, yalnızca canlı bir virüsün tam bağışıklık 'sağlayabileceğini/tetikleyebileceğini' (could prompt) savunuyordu.",
+      "options": [
+        "A) could prompt",
+        "B) would have prompted",
+        "C) must have prompted",
+        "D) should have prompted",
+        "E) had to prompt"
+      ]
+    },
+    {
+      "questionText": "21. Initially tested on monkeys, then human patients, Salk's success (21)---- him to test it on himself, his family, his staff, and other volunteers.",
+      "correctAnswer": "C",
+      "explanation": "Salk'ın başarısı onu, aşıyı kendi üzerinde ve ailesinde test etmeye 'ikna etti' (convinced).",
+      "options": [
+        "A) opposed",
+        "B) neglected",
+        "C) convinced",
+        "D) prohibited",
+        "E) deterred"
+      ]
+    },
+    {
+      "questionText": "22. Indian mythology considers snakes to be the 'bringers of life', (22)---- the Bible tells the story of a snake as the first deceiver.",
+      "correctAnswer": "B",
+      "explanation": "Hint mitolojisi yılanları yaşam getiren olarak kabul eder'ken' (while), İncil yılanı ilk aldatıcı olarak anlatır diyerek bir zıtlık / karşılaştırma yapılmıştır.",
+      "options": [
+        "A) once",
+        "B) while",
+        "C) otherwise",
+        "D) on",
+        "E) therefore"
+      ]
+    },
+    {
+      "questionText": "23. Snakes' most (23)---- characteristic is their lack of limbs, so they move with a slithering motion.",
+      "correctAnswer": "A",
+      "explanation": "Yılanların en 'ayırt edici / belirgin' (distinctive/striking - OCR hatası nedeniyle şıklarda farklı görünse de anlam olarak belirginliği ifade eden seçenek) özelliği uzuvlarının olmamasıdır.",
+      "options": [
+        "A) distinctive",
+        "B) tolerable",
+        "C) variable",
+        "D) misleading",
+        "E) sceptical"
+      ]
+    },
+    {
+      "questionText": "24. As they hunt other animals, they (24)---- a keen sense of smell and the ability to sense vibrations and temperature variations.",
+      "correctAnswer": "A",
+      "explanation": "Yılanların diğer hayvanları avlarken keskin bir koku alma duyusu 'geliştirmiş olmaları' (have developed) günümüzde hala geçerli olan evrimsel bir kazanımdır.",
+      "options": [
+        "A) have developed",
+        "B) were developing",
+        "C) had developed",
+        "D) would develop",
+        "E) are developing"
+      ]
+    },
+    {
+      "questionText": "25. To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)---- their specialised salivary glands, where the venom is stored.",
+      "correctAnswer": "C",
+      "explanation": "Yılanlar zehri özelleşmiş tükürük bezlerin'den' (from) enjekte ederler.",
+      "options": [
+        "A) for",
+        "B) over",
+        "C) from",
+        "D) into",
+        "E) to"
+      ]
+    },
+    {
+      "questionText": "26. (26)---- growing continuously, snakes shed their skin by detaching the outermost layer.",
+      "correctAnswer": "E",
+      "explanation": "Sürekli büyümenin 'bir sonucu olarak' (As a result of), yılanlar en dış katmanı ayırarak deri değiştirirler.",
+      "options": [
+        "A) With the help of",
+        "B) Similar to",
+        "C) In spite of",
+        "D) As well as",
+        "E) As a result of"
+      ]
+    },
+    {
+      "questionText": "27. Even though some studies suggest that exposure to the blue light emitted by digital devices could be a risk factor for developing certain eye conditions, ----.",
+      "correctAnswer": "C",
+      "explanation": "Bazı çalışmalar mavi ışığın göz koşulları için bir risk faktörü olabileceğini öne sürse de (Even though), 'birçok bilim insanı bu iddiayı destekleyen kanıtların çok güçlü olmadığını düşünmektedir' (zıtlık).",
+      "options": [
+        "A) it has also been revealed that long hours of screen time may trigger headaches",
+        "B) most parents worry that digital devices can ruin their children's eyesight",
+        "C) many scientists think that the evidence to support this claim is not very strong",
+        "D) there are other eye issues that our screens can bring on, such as dry or tired eyes",
+        "E) some companies are marketing special glasses that protect our eyes from the blue light"
+      ]
+    },
+    {
+      "questionText": "28. While Willis Carrier, who was among the most relentless researchers and promoters of air conditioning, is known as the father of air conditioning, ----.",
+      "correctAnswer": "A",
+      "explanation": "Willis Carrier klimanın babası olarak bilinmesine rağmen (While), 'klimayla ilgili süreç ve ürünlerin yelpazesi tek bir kişiye atfedilemez' ifadesi mantıksal zıtlığı sağlar.",
+      "options": [
+        "A) the range of processes and products involved in air conditioning cannot be attributed to a single person",
+        "B) for centuries, ice and water had been manipulated to cool air circulating in theatres, hospitals, and factories",
+        "C) air conditioning began to be marketed as a commercial device for domestic consumption during the 20th century",
+        "D) the development of industrial air conditioning dominated the newly created industry",
+        "E) technologies were being used in the refrigeration industry contemporaneously"
+      ]
+    },
+    {
+      "questionText": "29. ----, the diseases which were also brought posed serious challenges to their way of life.",
+      "correctAnswer": "B",
+      "explanation": "Getirilen hastalıkların onların yaşam tarzlarına ciddi zorluklar çıkarması, 'Avrupalı göçmenlerle gelen yeni teknoloji ve ticaretten faydalanmalarına rağmen (Although)' cümlesiyle zıtlık bağlamında kusursuz örtüşür.",
+      "options": [
+        "A) Given that the Native Americans were initially hospitable to the European settlers",
+        "B) Although the Native Americans benefited from access to new technology and trade came with the early European settlers",
+        "C) Since the Native Americans had customs and culture which were totally different from those of the European immigrants",
+        "D) Because the Native Americans were aware of the early settlers thirst for land and wealth",
+        "E) Even though the Native Americans and European immigrants had difficulties in communicating due to language problems"
+      ]
+    },
+    {
+      "questionText": "30. Although many people equate creativity with intelligence, ----.",
+      "correctAnswer": "C",
+      "explanation": "Pek çok insan yaratıcılığı zekayla eşit tutsa da (Although), 'bu iki terim eşanlamlı değildir ve yaratıcı olmak için dahi seviyesinde bir IQ'ya sahip olmak gerekmez' cümlesi uygun tamamlamadır.",
+      "options": [
+        "A) creativity can be either strongly encouraged or discouraged by early experiences at home",
+        "B) a child's environment can play a critical role from the womb onward through adulthood",
+        "C) two terms are not synonymous, and it is not necessary to have a genius-level IQ to be creative",
+        "D) standard intelligence tests measure convergent thinking, which is the ability to come up with a single correct answer",
+        "E) creative individuals tend to share certain characteristics, including a tendency to be more impulsive or spontaneous"
+      ]
+    },
+    {
+      "questionText": "31. Since virtually all cultures on earth have some form of fortune-telling, ----.",
+      "correctAnswer": "D",
+      "explanation": "Dünyadaki hemen hemen tüm kültürlerde bir tür falcılık olduğu için (Since), 'gelecekte ne olacağını tahmin etme arzusu insan zihninin kalıcı bir özelliği olabilir' çıkarımı yapılır.",
+      "options": [
+        "A) most people are no longer curious about what their future will bring to them",
+        "B) it is an incomprehensible temptation to get information about what awaits us in the future",
+        "C) it would be somewhat undesirable for a person to know what is ahead in the future",
+        "D) the desire to predict what will happen in the future can be a permanent feature of the human mind",
+        "E) it is considered to be a science by some, whereas others claim that it is nothing more than speculation"
+      ]
+    },
+    {
+      "questionText": "32. Most people have experienced foodborne illness ----.",
+      "correctAnswer": "D",
+      "explanation": "Çoğu insan gıda kaynaklı hastalık yaşamıştır, 'her ne kadar bunu böyle tanımlamayıp mide gribi veya 24 saatlik bir virüs olarak suçlasalar da' (even though they might not recognise it as such...).",
+      "options": [
+        "A) given that those working in the field of food safety are most concerned about microbial foodborne illness",
+        "B) because ensuring the safety of food is a shared responsibility among producers, industry, government, and consumers",
+        "C) although current estimates of foodborne illness in the United States are 325,000 hospitalisations, and around 5,000 deaths per year",
+        "D) even though they might not recognise it as such, instead blaming it on the stomach flu or a 24-hour bug",
+        "E) when a person consciously thinks about food safety before, during or after eating a meal"
+      ]
+    },
+    {
+      "questionText": "33. The literature on treatment for learning disabilities primarily discusses school-based treatments, ----.",
+      "correctAnswer": "A",
+      "explanation": "Öğrenme güçlüğü tedavisi hakkındaki literatür öncelikle okul temelli tedavileri tartışır, 'her ne kadar öğrenme güçlüğü olan bireyler bu tür ortamların (okulların) ötesinde zorluklar yaşasalar da' (though individuals...).",
+      "options": [
+        "A) though individuals with learning disabilities experience challenges beyond such settings",
+        "B) because such endeavours do not guarantee that a specific treatment will be effective",
+        "C) so treatments without widespread research support may not turn out to be successful",
+        "D) if we treat individuals with learning disabilities through methods they prefer",
+        "E) while defining learning disabilities is as important as conducting research on treatments"
+      ]
+    },
+    {
+      "questionText": "34. In our rapidly changing modern world, parents' accumulated knowledge can easily become obsolete ----.",
+      "correctAnswer": "E",
+      "explanation": "Hızla değişen modern dünyamızda, ebeveynlerin birikmiş bilgisi kolayca modası geçmiş hale gelebilir, 'bu yüzden (so) çocuklarının gelişimi üzerinde doğrudan etki sahibi olmak için daha az fırsata sahip olabilirler'.",
+      "options": [
+        "A) children look to their peers rather than their parents for guidance and approval",
+        "B) as family plays a key role in providing children with social, cultural and moral values",
+        "C) while they might have difficulty in transmitting their accumulated knowledge to their children",
+        "D) but their children's taste in diet, music, clothes and entertainment can significantly differ from their own taste",
+        "E) so they could have fewer opportunities for direct influence over their children's development"
+      ]
+    },
+    {
+      "questionText": "35. Hydroelectricity plants pose several threats to the environment ----.",
+      "correctAnswer": "C",
+      "explanation": "Hidroelektrik santralleri çevre için çeşitli tehditler oluşturur, 'çünkü (because) endemik türlerin yok olmasına yol açabilir ve balık göçünü engelleyebilirler'.",
+      "options": [
+        "A) while flooding is an important indicator for the environmental impact they cause",
+        "B) even though the proliferation of mosquitoes may disturb those living close to them",
+        "C) because they could lead to the extinction of endemic species and block fish migration",
+        "D) although the loss of historical and archaeological heritage is a big concern",
+        "E) so that they help communities harness water resources for energy generation"
+      ]
+    },
+    {
+      "questionText": "36. ----, they rely on each other for optimal performance, which is a sign of concern for interdependence in groups.",
+      "correctAnswer": "C",
+      "explanation": "Bir grubun üyeleri çeşitli görevleri yapmak üzere ne zaman bir araya gelseler (Whenever members of a group come together...), optimum performans için birbirlerine güvenirler.",
+      "options": [
+        "A) Since some individuals are not attracted to group activities",
+        "B) Because it is possible for individuals to do something they find distasteful",
+        "C) Whenever members of a group come together to do a variety of tasks",
+        "D) Although group support depends on members' willingness to take part",
+        "E) Whereas there is mutual interest between group members within social settings"
+      ]
+    },
+    {
+      "questionText": "37. The Morse code, which is a milestone in long-range communication, was designed so that telegraph operators could communicate via electrical signals.",
+      "correctAnswer": "A",
+      "explanation": "'which is a milestone' (bir dönüm noktası olan) Relative Clause yapısı ve 'so that' (kurabilmeleri için) amaç bildiren bağlaç A şıkkında eksiksiz şekilde karşılanmıştır.",
+      "options": [
+        "A) Uzun mesafe iletişimde bir dönüm noktası olan Mors alfabesi telgraf operatörlerinin elektrik sinyalleri aracılığıyla iletişim kurabilmeleri için tasarlanmıştır.",
+        "B) Uzun mesafe iletisimde bir dönüm noktası olsa da Mors alfabesi ilk olarak telgrafoperatörlerinin sinyalleri yoluyla haberleşmeleri için tasarlanmıştır.",
+        "C) Telgraf operatörlerinin elektrik sinyalleri aracılığıyla iletişim kurması için tasarlanması, Mors alfabesini uzun mesafe İletişimde bir dönüm noktası haline getirmiştir.",
+        "D) Elektrik sinyalleri aracılığıyla telgraf operatörlerinin iletişim kurması için tasarlanan Mors alfabesi, uzun mesafe iletişimin dönüm noktasıdır.",
+        "E) Uzun mesafe iletişimde dönüm noktası olan Mors alfabesinin tasarlanma sebebi, telgraf operatörlerinin elektrik sinyalleri ile iletişim kurabilmelerini sağlamaktı."
+      ]
+    },
+    {
+      "questionText": "38. Solving a series of incredibly difficult problems, the Wright brothers created a revolutionary new technology that changed the world in a way that even they could not imagine.",
+      "correctAnswer": "D",
+      "explanation": "'Solving...' (çözerek) yapısı ile başlayan cümle, Wright kardeşlerin devrim niteliğinde yeni bir teknoloji yarattığını (created a revolutionary new technology) ve bunun dünyayı değiştirdiğini anlatmaktadır. D seçeneği bunu tam karşılar.",
+      "options": [
+        "A) Wright kardeşler, kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratarak inanılmaz derecede zor bir dizi problemi çözmüşlerdir.",
+        "B) Wright kardeşler, inanılmaz derecede zor bir dizi problemi çözmüşler ve kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmışlardır.",
+        "C) Wright kardeşlerin inanılmaz derecede zor bir dizi problemi çözerek dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmaları, kendilerinin bile hayal edemeyeceği bir şeydi.",
+        "D) Wright kardeşler, inanılmaz derecede zor bir dizi problemi çözerek kendilerinin bile hayal edemeyeceği bir şekilde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmışlardır.",
+        "E) Wright kardeşlerin kendilerinin bile hayal edemeyeceği bir biçimde dünyayı değiştiren, devrim niteliğinde yeni bir teknoloji yaratmak için yaptıkları şey, İnanılmaz derecede zor bir dizi problemi çözmekti."
+      ]
+    },
+    {
+      "questionText": "39. Every child has an individual learning style, and they learn information best when it is delivered in a mode suited to their style.",
+      "correctAnswer": "A",
+      "explanation": "Cümle birbirine 'and' ile bağlı iki ana bölümden oluşur. İlk kısım 'Her çocuk kendine özgü bir öğrenme şekline sahiptir', ikinci kısım 've çocuklar bilgiyi en iyi kendi tarzlarına uygun bir biçimde verildiğinde öğrenir' şeklindedir.",
+      "options": [
+        "A) Her çocuk kendine özgü bir öğrenme şekline sahiptir ve çocuklar bilgiyi en iyi kendi tarzlarına uygun bir biçimde verildiğinde öğrenir.",
+        "B) Kendine özgü öğrenme şekliyle her çocuk, bilgiyi en iyi kendi tarzına uygun bir biçimde verildiğinde öğrenir.",
+        "C) Kendine özgü bir öğrenme şekli olan her çocuk, öğrenme tarzına uygun verildiği takdirde bilgiyi en iyi şekilde öğrenir.",
+        "D) Her çocuk kendine özgü bir öğrenme şekline olduğu için bilgiyi ən iyi kendi tarzına uygun biçimde verildiğinde öğrenir.",
+        "E) Her çocuk kendine özgü bir öğrenme sekline sahiptir ve onlar için bilgiyi öğrenmenin yolu, kendi tarzlarına uygun olanıdır."
+      ]
+    },
+    {
+      "questionText": "40. Gen terapisi çoğunlukla ender genetik bozuklukların tedavisinde faydalıdır; bunun aksine, mevcut genlerin değiştirilmesini kapsayan gen düzeltme, çok daha fazla hastalığı tedavi eder.",
+      "correctAnswer": "C",
+      "explanation": "Türkçe metindeki noktalı virgül ve 'bunun aksine' ifadesi İngilizce'de 'in contrast' bağlacı ile, 'mevcut genlerin değiştirilmesini kapsayan' yapısı ise 'which involves altering existing genes' Relative Clause'u ile C seçeneğinde tam ve doğru olarak verilmiştir.",
+      "options": [
+        "A) Gene therapy is mainly useful for treating rare genetic disorders, whereas gene-editing involves altering existing genes and treating a wider range of conditions.",
+        "B) Gene therapy mainly treats rare genetic disorders; gene-editing, on the other hand, involves the alteration of the existing genes, which is useful for treating a wider range of conditions.",
+        "C) Gene therapy is mainly useful for treating rare genetic disorders; in contrast, gene-editing, which involves altering existing genes, treats a much wider range of conditions.",
+        "D) Gene therapy is mainly used for the treatment of rare genetic disorders, but gene-editing can treat a much wider range of disorders since it involves altering existing genes.",
+        "E) Gene therapy is mainly used to treat rare genetic disorders while gene-editing, which is the alteration of the existing genes, is involved in the treatment of a wider range of conditions."
+      ]
+    },
+    {
+      "questionText": "41. Sağlık okuryazarlığı, bireylerin sağlık konusunda uygun kararlar vermek için gerekli olan temel sağlık bilgi ve hizmetlerini elde etme ve anlama kapasitesine sahip olma derecesi olarak tanımlanabilir.",
+      "correctAnswer": "D",
+      "explanation": "'...derecesi olarak tanımlanabilir' yapısı 'can be defined as the degree to which' kalıbı ile, '...gerekli olan' yapısı ise 'needed to' veya 'required to' ile D şıkkında doğru sıralamayla karşılanmıştır.",
+      "options": [
+        "A) Health literacy can be defined as the degree to which individuals have the capacity to obtain and understand basic health information and services, and to make necessary health decisions in an appropriate way.",
+        "B) Health literacy, which is required to make appropriate health decisions, can be defined as the degree to which individuals have the capacity to obtain and understand basic health information and service",
+        "C) Defined as the degree to which individuals have the capacity to obtain and understand basic health information and services, health literacy is necessary to make appropriate health decisions.",
+        "D) Health literacy can be defined as the degree to which individuals have the capacity to obtain and understand basic health information and services needed to make appropriate health decisions.",
+        "E) The degree to which individuals have the capacity to obtain and understand basic health information and services required to make appropriate health decisions can be defined as health literacy."
+      ]
+    },
+    {
+      "questionText": "42. Tüm vücut fonksiyonlarımızı senkronize eden iç saatimiz, ipuçlarını güneş ışığının gündüz-gece döngüsünden alır ve beyin bu 24 saatlik ritmi organlarımıza iletmek ve vücudumuza ne zaman uyumaya ve uyanmaya ihtiyaç duyduğunu bildirmek için sinirleri ve hormonları kullanır.",
+      "correctAnswer": "B",
+      "explanation": "Özne 'Our internal clock, which keeps all our body functions in sync', yüklem 'takes its cues...' şeklindedir. İkinci kısım ise 'and the brain uses nerves and hormones to transmit...' şeklinde devam eder. B şıkkı bunu hatasız yansıtır.",
+      "options": [
+        "A) Our internal clock keeps all our body functions in sync by taking its cues from the day-night cycle of sunlight, and the brain transmits this 24-hour rhythm to our internal organs and tells our body when it needs to sleep and wake by using nerves and hormones.",
+        "B) Our internal clock, which keeps all our body functions in sync, takes its cues from the day-night cycle of sunlight, and the brain uses nerves and hormones to transmit this 24-hour rhythm to our internal organs and to tell our body when it needs to sleep and wake.",
+        "C) Our internal clock, by which all our body functions are kept in sync, takes its cues from the day-night cycle of sunlight, and to transmit this 24-hour rhythm to our internal organs, the brain uses nerves and hormones, telling our body when it needs to sleep and wake.",
+        "D) All our body functions are kept in sync by our internal clock, which takes its cues from the day-night cycle of sunlight, and the brain uses nerves and hormones to transmit this 24-hour rhythm to our internal organs and tells our body when to sleep and wake.",
+        "E) It is our internal clock that keeps all our body functions in sync by taking cues from the day-night cycle of sunlight, and the brain uses nerves and hormones while transmitting this 24-hour rhythm to our internal organs, and tells our body when to sleep and wake."
+      ]
+    },
+    {
+      "questionText": "43. Which could be inferred from the passage about our face-based judgements?",
+      "correctAnswer": "C",
+      "explanation": "Parçadaki 'We are born to judge others by how they look... our brains come hardwired with a specific face-processing area' ifadesinden, sadece yüzüne bakarak bir insan hakkında yargıda bulunmaya doğuştan yatkın (innately predisposed) olduğumuz anlaşılmaktadır.",
+      "options": [
+        "A) Babies cannot make judgements concerning human faces because they are not yet capable of discriminating between different faces.",
+        "B) We begin to make assumptions about a person's character or status after we have seen them several times.",
+        "C) We are innately predisposed to form opinions about a person just by looking at his or her face.",
+        "D) The face-processing area in our brains functions more effectively during infancy than it does in our adult years.",
+        "E) Regardless of how they look, all human faces can attract babies' attention within their first year."
+      ]
+    },
+    {
+      "questionText": "44. One can understand from the passage that our shortcuts ----",
+      "correctAnswer": "D",
+      "explanation": "Parçada kestirme yollarımız (kısa yargılarımız) için 'Unfair or unethical, it may be, but it makes good evolutionary sense' denmiştir. Bu da ahlaki olarak kabul edilemez görülse de sosyal hayatta veya evrimsel olarak hayatta kalmada yardımcı olabileceklerini gösterir.",
+      "options": [
+        "A) become less helpful in adulthood as we tend to ignore them",
+        "B) are generally accompanied by careful assessments of others",
+        "C) produce more beneficial results than they did in prehistoric times",
+        "D) might be considered morally unacceptable although they can provide help in our social lives",
+        "E) are unreliable because each person can interpret traits as trustworthiness differently"
+      ]
+    },
+    {
+      "questionText": "45. How does Todorov explain why our shortcuts sometimes do not provide help?",
+      "correctAnswer": "C",
+      "explanation": "Todorov, tarih öncesi atalarımızdan çok daha fazla yabancıyla karşılaştığımızı ('we meet many more strangers than our prehistoric ancestors would have') ve bunun ilk izlenimlerimizin yanlış olmasında rol oynayabileceğini ileri sürüyor.",
+      "options": [
+        "A) He states that our modern world requires us to make very quick assessments of strangers, and therefore our first impressions are usually wrong.",
+        "B) He believes that unlike our prehistoric ancestors, we do not live in a hazardous world, so we do not need to rely on shortcuts to survive.",
+        "C) He thinks it is because we encounter so many faces in our modern world that our shortcuts may not guide us accurately.",
+        "D) He claims that we live in a more complex world, which requires us to rely on detailed assessments rather than simple shortcuts.",
+        "E) He puts forward that our shortcuts are mostly based on people's facial characteristics, so they cannot provide precise information."
+      ]
+    },
+    {
+      "questionText": "46. Which could be the best title for this passage?",
+      "correctAnswer": "E",
+      "explanation": "Metnin geneli, doğuştan gelen mekanizmalarla insanların yüzlerine bakarak onlar hakkında hızla hüküm verme ve kalıplaşmış yargılar oluşturma (stereotype) yönündeki güçlü eğilimimizi anlatmaktadır.",
+      "options": [
+        "A) Learning Survival Information from Our Ancestors",
+        "B) Major Drawbacks of Our Cognitive Shortcuts",
+        "C) How to Reject Unethical Stereotypes",
+        "D) Transferring Our Cognitive Shortcuts into Adulthood",
+        "E) Our Strong Tendency to Stereotype People"
+      ]
+    },
+    {
+      "questionText": "47. Which of the following does consumer psychology deal with?",
+      "correctAnswer": "C",
+      "explanation": "Metinde tüketici psikolojisinin tüketici davranışını iki temel yolla (tüketicinin ne istediği / neye ihtiyaç duyduğu) açıklamaya çalıştığı ('what the consumer wants and what the consumer needs') belirtilmektedir.",
+      "options": [
+        "A) What marketers can do to effectively reach out to potential customers",
+        "B) The challenge experienced by psychologists to understand consumer behaviour",
+        "C) How basic requirements and desires influence consumer behaviour",
+        "D) Whether certain goods and services chosen by consumers satisfy them or not",
+        "E) How to help consumers avoid the conflict of desires when making a purchase"
+      ]
+    },
+    {
+      "questionText": "48. Which of the following can be inferred from the passage about the relationship between needs and purchases?",
+      "correctAnswer": "D",
+      "explanation": "Metinde temel bir ihtiyacın karşılanmasının (örn. soğuktan korunmak için kışlık mont almak) mantıklı bir açıklaması olduğu, ancak belirli bir tarzın veya rengin seçilmesinin daha karmaşık arzulara dayandığı anlatılmıştır. Yani ihtiyaçlar satın almaya aracılık etse de, detayları (stil, renk) açıklamada yetersiz kalır.",
+      "options": [
+        "A) Advertisers should take into account what consumers need, irrespective of what they desire, in order to persuade them to buy particular products.",
+        "B) Consumers are overwhelmed by their inner voice telling them to buy what they need rather than what they want.",
+        "C) Economic factors far outweigh psychological ones when it comes to purchases based on fundamental needs.",
+        "D) Although needs intervene in consumer purchases, they fall short in accounting for the details of choices consumers make.",
+        "E) Advertisers should acknowledge the battle between desires and needs usually ends in the victory of the latter."
+      ]
+    },
+    {
+      "questionText": "49. It can be inferred from the passage that in order to better understand consumer psychology, one should ----",
+      "correctAnswer": "A",
+      "explanation": "Pasajın sonlarında 'consumer psychology utilises more than simply psychology, because it also studies economics and culture' denmektedir. Buradan, tüketici alışkanlıklarını incelerken birden fazla faktörün devrede olduğunu (several factors at play) dikkate almak gerektiği çıkarılır.",
+      "options": [
+        "A) keep in mind that there are several factors at play when examining consumers' buying habits",
+        "B) acknowledge that financial factors rather than psychological ones play a key role in advertising a product",
+        "C) concentrate more on seemingly rational reasons rather than superficial ones in buying decisions",
+        "D) pay special attention to the fact that advertisers often try to persuade people to buy what they actually do not need",
+        "E) realise that consumers often tend to buy what they need rather than what they desire"
+      ]
+    },
+    {
+      "questionText": "50. What is the main purpose of the passage?",
+      "correctAnswer": "E",
+      "explanation": "Paragrafın ana amacı, tüketici psikolojisinin tüketici davranışını anlamak için kullandığı yöntemleri ve neleri incelediğini (ekonomi, kültür, ihtiyaçlar, arzular) açıklamaktır.",
+      "options": [
+        "A) To analyse people's buying habits from an economic viewpoint",
+        "B) To highlight the huge number of products consumers are offered",
+        "C) To stress the significant effect of advertising on consumer psychology",
+        "D) To describe the change in consumer psychology in the modern world",
+        "E) To explain what consumer psychology does to understand consumer behaviour"
+      ]
+    },
+    {
+      "questionText": "51. What can be understood about the adaptation process of plants?",
+      "correctAnswer": "A",
+      "explanation": "Metinde etiyolasyon (etiolation) adı verilen adaptasyonun, bitkinin kalan kaynaklarını (enerjisini) güneşe yeniden ulaşmak için mümkün olduğunca büyümeye odakladığı ('focuses the plant's remaining resources into growing as far as possible to try and reach sunlight again') belirtilmiştir.",
+      "options": [
+        "A) They tend to use their remaining energy in an attempt to access sunlight.",
+        "B) They are not really affected by permanent darkness due to etiolation.",
+        "C) Even short periods of darkness cause plants to lose their ability to adapt.",
+        "D) Some plants such as grass are more adaptable to darkness than others.",
+        "E) They adjust to complete darkness by reducing their energy, so they no longer need photosynthesis."
+      ]
+    },
+    {
+      "questionText": "52. Which of the following is given as a feature of broomrape?",
+      "correctAnswer": "C",
+      "explanation": "Canavar otunun (broomrape) klorofili olmadığı ve besinlerini yakındaki bitkilerin köklerine parazit olarak yapışıp aldığı belirtilmiştir ('parasitically attaching to the roots of nearby plants'). Bu nedenle kendi kendine beslenemez.",
+      "options": [
+        "A) It provides energy for many nearby plants thanks to its roots that harness sunlight.",
+        "B) It can photosynthesise only when it is connected to another plant.",
+        "C) It cannot feed itself without attaching to a plant that photosynthesises.",
+        "D) It never depends on sunlight to harness energy thanks to its adaptation skill.",
+        "E) All the nutrients it gets are used up by the host it is attached to."
+      ]
+    },
+    {
+      "questionText": "53. Which of the following is stated about the survival mechanism of mycoheterotrophs?",
+      "correctAnswer": "A",
+      "explanation": "Bu tür bitkilerin mantarlarla beslendiği ve mantarların da ölü bitkileri sindirerek enerji aldığı, dolayısıyla tamamen karanlık bir dünyada bu yiyecek kaynağının (ölü bitkilerin) eninde sonunda tükeneceği belirtilmiştir.",
+      "options": [
+        "A) Their source of energy is limited to the amount of dead plants in their habitat.",
+        "B) They have to depend on direct and permanent sunlight to survive.",
+        "C) The fungi they attach to fungi to help them digest nutrients.",
+        "D) They are heavily exploited by parasitic plants such as broomrape to harness energy.",
+        "E) The longer their habitat is in darkness, the stronger their survival skill gets."
+      ]
+    },
+    {
+      "questionText": "54. What is the main idea of the passage?",
+      "correctAnswer": "B",
+      "explanation": "Metin genel olarak bitkilerin kısa süreli karanlığa uyum sağlayabildiklerini, bazılarının güneş ışığı olmadan daha uzun süre hayatta kalabildiklerini ancak nihayetinde kalıcı karanlıkta (güneş ışığı olmadan) yaşamlarını sürdüremeyeceklerini anlatmaktadır.",
+      "options": [
+        "A) All plants need one another to store energy and produce food.",
+        "B) Plants can adapt to darkness, but none of them can live forever without sunlight.",
+        "C) The sun is the eternal source of energy for living beings on our planet.",
+        "D) Nature has so many defects that it is difficult for us to make up for all of them.",
+        "E) Darkness makes some plant species more susceptible to parasites."
+      ]
+    },
+    {
+      "questionText": "55. One can understand from the passage that Pierce's disease ----",
+      "correctAnswer": "C",
+      "explanation": "Pierce hastalığının, bitkilerin taşıma damarlarının tıkanmasına yol açtığı ve yapraklara giden su ile besin kaynağını kestiği ('cutting the supply of water and nutrients to the leaves') ifade edilmektedir.",
+      "options": [
+        "A) originated in the Americas in 2013, killing many plant species",
+        "B) has already devastated the wine industry both in the Americas and Europe",
+        "C) causes the leaves of a plant to be deprived of water and necessary ingredients",
+        "D) is spread by a bacterium that targets water and nutrients in the leaves of a plant",
+        "E) has caused more damage in Europe than the Great French Wine Blight"
+      ]
+    },
+    {
+      "questionText": "56. Which could be inferred from the passage?",
+      "correctAnswer": "D",
+      "explanation": "Hastalığın Avrupa'da şimdiye kadar 359 bitki türünde (şeftali, lavanta, biberiye, zeytin vb.) tespit edilmesi ve her iki kıtadaki bitkileri vurabilmesi, etkisinin çok geniş çaplı (far-reaching) olduğunu göstermektedir.",
+      "options": [
+        "A) Throughout Europe, 359 plant species have been found to show the symptoms of Pierce's disease.",
+        "B) Although Pierce's disease affects a lot of plants in Europe, it only develops in vines in the Americas.",
+        "C) California has been unable to cope with the insects that transmit X. fastidiosa, which has destroyed the wine industry.",
+        "D) The impact of X. fastidiosa is far-reaching when the variety of infected plant species is considered.",
+        "E) Southern Italy is known to be the place where the disease appeared for the first time."
+      ]
+    },
+    {
+      "questionText": "57. Which of the following conclusion could be drawn from the passage?",
+      "correctAnswer": "D",
+      "explanation": "Metnin son cümlesinde 'however, as the planet warms, there is every chance the disease's ranges could increase' denilmiştir. Bu da gezegen ısındıkça (iklim değişikliğiyle) hastalığın yayılma hızının artabileceği sonucunu doğurur.",
+      "options": [
+        "A) Agricultural damage caused by Pierce's disease peaks in winter months.",
+        "B) Plants are able to defend themselves soon after they catch Pierce's disease.",
+        "C) The origin of Pierce's disease has not been revealed yet.",
+        "D) Climate change may increase the speed at which Pierce's disease is spreading.",
+        "E) Only the plant species infected with X. fastidiosa show the exact symptoms of Pierce's disease."
+      ]
+    },
+    {
+      "questionText": "58. What is the primary purpose of the author?",
+      "correctAnswer": "B",
+      "explanation": "Yazar bu metni, Amerika'dan çıkıp Avrupa'ya yayılan Pierce hastalığının (X. fastidiosa bakterisi) zeytinlerden asmalara kadar çok çeşitli bitki türleri için oluşturduğu ciddi tehlikeye (serious danger) dikkat çekmek için yazmıştır.",
+      "options": [
+        "A) To emphasise the great amount of money spent to protect the wine industry against Pierce's disease",
+        "B) To point out the serious danger Pierce's disease poses to various plant species",
+        "C) To explain why X. fastidiosa is called the 'Ebola of olive trees' in Europe",
+        "D) To warn that insects carrying X. fastidiosa increase in number as the planet warms",
+        "E) To draw attention to the fact that a cure to eradicate Pierce's disease is to arrive shortly"
+      ]
+    },
+    {
+      "questionText": "59. What was the initial aim of the study conducted by Lepers and his colleagues?",
+      "correctAnswer": "D",
+      "explanation": "Metinde Lepers ve ekibinin, yaşın atletik performansı nasıl etkilediğini araştırdığı ('investigated how age affects athletic performance') açıkça belirtilmiştir.",
+      "options": [
+        "A) To show that old people can also display excellent performance in several sports",
+        "B) To explain how world record holders in sports achieved extraordianary success",
+        "C) To find out when athletic performance starts to decline dramatically",
+        "D) To study the relationship between age and athletic performance in middle-aged sportspeople",
+        "E) To discover what distinguishes Robert Marchand from other 100-plus sportspeople"
+      ]
+    },
+    {
+      "questionText": "60. To find the world's best 100-plus sportsperson, Lepers and his colleagues ----.",
+      "correctAnswer": "C",
+      "explanation": "Araştırmacılar 100 yaş üstü atletlerin en iyi performanslarını belirlemiş ve sonra her bir atleti kendi branşındaki dünya rekortmeniyle karşılaştırmışlardır ('Then they compared each athlete with the world record holder in their discipline').",
+      "options": [
+        "A) checked whether a centenarian athlete was able to break the world record in his or her discipline in the past",
+        "B) examined the most successful performances by 100-plus athletes and compared them with each other",
+        "C) looked at the differences between centenarians' performances and those of the world record holders",
+        "D) asked the world record holders in athletics, swimming and cycling to lay out selection criteria",
+        "E) compared the performances of centenarian athletes with those of the middle-aged athletes"
+      ]
+    },
+    {
+      "questionText": "61. It is clear from the passage that Robert Marchand's athletic ability ----",
+      "correctAnswer": "A",
+      "explanation": "Normalde atletik yeteneğin her on yılda %10 düştüğü ancak Marchand'ın yeteneğinin olağanüstü biyolojik fonksiyonları sayesinde çok daha yavaş azaldığı ('declined much more slowly') belirtilmiştir.",
+      "options": [
+        "A) has been declining far slower due to his exceptional physical characters",
+        "B) has been suffering the same decline in athletic ability by 8 to 10 percent per decade",
+        "C) causes him to be a great inspiration to the athletes under 40",
+        "D) is slightly less sharp than the decrease in Bradley Wiggins's athletic ability",
+        "E) has been occurring at a rapid pace due to his weakening bodily functions"
+      ]
+    },
+    {
+      "questionText": "62. Why does Lepers put a special emphasis on Withlock's performance?",
+      "correctAnswer": "E",
+      "explanation": "Lepers, Ed Withlock'un performansını 'Aktif olmak için asla çok geç değildir' ('It's never too late to be active') fikrini vurgulamak ve her yaşta parlak bir sporcu olunabileceğini göstermek için kullanmıştır.",
+      "options": [
+        "A) To suggest that 3 hours is not sufficient for a 70-plus athlete to run a marathon",
+        "B) To show that marathons are races where we can see powerful athletes over 70",
+        "C) To stress that an athlete must be a record-breaker to gain worldwide recognition",
+        "D) To prove that Withlock was a more successful sportsperson than Marchand",
+        "E) To indicate that one could be a brilliant sportsperson at any age"
+      ]
+    },
+    {
+      "questionText": "63. Johanna: Today, our psychology professor talked about a biological process called 'neuroplasticity'. He said that even the adult brain can grow new brain cells in response to new experiences. Stan: ---- Johanna: Yeah, he said the exact same thing. I'd never thought of them as being beneficial at all. I used to think they only cause aggressive behaviour and addiction. Stan: Well, apparently some scientists still have those fears, but it all depends on how effectively you use them.",
+      "correctAnswer": "A",
+      "explanation": "Stan'in video oyunlarından ('action video games') ve onların bilişsel becerileri geliştirebileceğinden bahsetmesi üzerine Johanna, daha önceleri sadece bağımlılık yaptığını düşündüğü bu konuya şaşırdığını belirtir.",
+      "options": [
+        "A) Such as playing action video games? I remember reading that they help the brain and improve cognitive skills.",
+        "B) That's really interesting. I've always thought that the human brain couldn't grow new cells after a certain age.",
+        "C) Did he say what kind of experiences? I've been playing chess for years hoping that it'll give me a cognitive advantage at school.",
+        "D) I've seen scientists trying it with patients suffering from Alzheimer's disease to prevent them from losing cognitive skills.",
+        "E) But, don't forget that outdoor games are more educational than indoor games, no matter how entertaining they are."
+      ]
+    },
+    {
+      "questionText": "64. Debby: I was recently offered a job at a different firm with a higher salary. I feel as if I'm at a crossroads in my career. I'll have to make a decision soon. Lucy: ---- Debby: I love my job and the team, but I feel the company is asking too much of me. Lucy: I think you'll easily get used to working with a new team. And this change will be to your advantage. You know it's much easier to set your limits at the beginning. If you do so, I'm sure you'll manage your professional life more easily.",
+      "correctAnswer": "B",
+      "explanation": "Debby'nin mevcut işini çok sevdiğini ancak kendisinden çok şey beklendiğini söylemesi üzerine Lucy'nin sorması gereken mantıklı soru 'Şu anki işinden çok memnun görünüyordun. Sorun ne?' olmalıdır.",
+      "options": [
+        "A) What stops you from negotiating a better deal with your current employer?",
+        "B) Until now you seemed really happy with your current job. What's the problem?",
+        "C) I know it's quite a hard decision. What's attractive about the new offer?",
+        "D) You've always dreamed of working in a big company. Why would you let yourself miss such an opportunity?",
+        "E) Have you ever practised building appropriate boundaries in your professional life?"
+      ]
+    },
+    {
+      "questionText": "65. Daisy: Last week, I was in a situation where things went from bad to worse. I failed to meet my end-of-year targets at work, the central heating system in my apartment broke, and my car was hit by an unknown car. All these happened in the same week! Sally: Terrible! How do you keep calm in such situations? Daisy: ---- Sally: What do you do with that information? Daisy: I look at the list and focus on the ones I can do something about. Then I think about the actions I can take, including asking for help if necessary.",
+      "correctAnswer": "C",
+      "explanation": "Sally'nin 'Bu bilgiyle (information) ne yapıyorsun?' diye sorması için Daisy'nin sorunları ve çözümleri bir yere 'yazdığından' ('write everything down') bahsetmesi gerekir.",
+      "options": [
+        "A) I can think and worry about many things at the same time, but when I'm in the action phase, I try to avoid that.",
+        "B) The truth is, it's hard not to lose it in these moments. I may end up giving up because of the never-ending list of problems.",
+        "C) I write everything down. I draw a line, and on the left I put down all the problems, and on the right what to do about those problems.",
+        "D) In my experience, the easiest way to keep calm is to regain control of the situation by collecting information from as many people as possible.",
+        "E) No matter how bad things are, keeping my calm always helps me come up with a possible solution."
+      ]
+    },
+    {
+      "questionText": "66. Kelsey: Now, more and more experts are complaining about modern parenting styles. They say parents try to create an image of success that has little to do with their childen's desires, talents or needs. Jill: ---- Kelsey: Actually, this makes children less independent. They always feel the need to meet their parents' wishes and ask them what to do in their lives. Jill: So, overparenting may prevent children from building self-confidence and gaining the ability to adapt to an unpredictable world.",
+      "correctAnswer": "C",
+      "explanation": "Kelsey'in, aşırı ebeveynliğin çocukları daha az bağımsız (less independent) hale getirdiğinden şikayet etmesini gerektirecek söz, Jill'in ailelerin çocukları sonsuz programlar ve ağır beklentilerle (endless schedules and heavy expectations) belirli bir başarı türüne zorladığını tasdik etmesidir.",
+      "options": [
+        "A) Parents tend to bring up their kids the way they were raised in the past, but it's really difficult in this ever-changing world.",
+        "B) I think every child has a particular kind of talent, but it may remain undiscovered unless their parents help them recognise it.",
+        "C) That's true. They want to sculpt their kids into a particular kind of successful adult, stressing them with endless schedules and heavy expectations.",
+        "D) I agree that parents should offer advice to their kids about the future plans, but they shouldn't forget to consider their wishes too.",
+        "E) In today's world, parents are bombarded with information from books and experts, so they can't often decide how to contribute to their children's success."
+      ]
+    },
+    {
+      "questionText": "67. Robert: The article I read this morning says whales stop singing when ships are nearby. Leonie: ---- Robert: It said that they used two underwater recorders to capture their singing in a remote area where a cargo liner was the only large ship around, and they found that whales within 500 metres of the ship when it passed tended to stop singing. Leonie: So, it's obvious that for some reason shipping interferes with whale songs.",
+      "correctAnswer": "B",
+      "explanation": "Robert'in deneyin yönteminden ('used two underwater recorders') ve sonuçlarından bahsetmesi için, Leonie'nin araştırmacıların bu tepkiyi 'nasıl' gözlemlediğini ('How did researchers observe...') sormuş olması gerekir.",
+      "options": [
+        "A) Does the article say which kind of whales were examined in their research?",
+        "B) How did researchers observe the whales' response to shipping noise?",
+        "C) Do researchers think that whales feel threatened and try to remain undetected?",
+        "D) Then, how do whales communicate with each other when they don't sing?",
+        "E) Why does shipping noise have a considerable impact on whale behaviour?"
+      ]
+    },
+    {
+      "questionText": "68. Lightning sensors can pinpoint lightning strikes and provide initial attack crews with accurate locations; however, there are too many strikes to check them all, and not every strike results in a fire.",
+      "correctAnswer": "A",
+      "explanation": "Orijinal cümlenin içindeki zıtlık ('Yıldırım sensörleri doğru konum verse de çok fazla çarpma var ve hepsi yangına yol açmaz') A seçeneğinde 'Although there are too many lightning strikes... lightning sensors are effective at detecting them...' şeklinde hatasız verilmiştir.",
+      "options": [
+        "A) Although there are too many lightning strikes to check, and not all lead to a fire, lightning sensors are effective at detecting them and giving initial attack crews precise locations.",
+        "B) There are too many lightning strikes to be checked, most of which do not cause a fire, but lightning sensors help initial attack crews identify their precise locations.",
+        "C) It is impossible to check all lightning strikes and find the ones that cause a fire as there are too many of them; nevertheless, lightning sensors can provide specific locations so that initial attack crews can check.",
+        "D) Lightning sensors can help to cope with fires from lightning strikes by providing initial attack crews with the exact location, though it is not easy to check them all since there are too many strikes.",
+        "E) Lightning sensors can detect so many fires caused by lightning strikes that even if they show initial attack crews the exact location of these strikes, it is not easy to check them all."
+      ]
+    },
+    {
+      "questionText": "69. The birthday cake tradition in the United States is little more than a century old, but the relationship of cakes and celebration has a much longer history.",
+      "correctAnswer": "D",
+      "explanation": "ABD'de doğum günü pastası geleneğinin tarihinin yalnızca bir asırdan biraz fazla olduğu (is little more than a century old) ile pasta ve kutlama ilişkisinin daha köklü bir geçmişi olduğu (much longer history) arasındaki zıtlık D seçeneğinde en doğru şekilde aktarılır.",
+      "options": [
+        "A) People in the United States have been traditionally celebrating birthdays with cakes for a long time since the two concepts were linked to each other around a century ago",
+        "B) It was thanks to the emergence of the birthday cake tradition in the United States less than a century ago that the enduring relationship between cakes and celebration was established.",
+        "C) Despite the interconnection between cakes and celebration, it was not until a little more than a century ago that people in the United States began to celebrate birthdays with cakes.",
+        "D) Although the birthday cake tradition in the United States has a history of slightly more than a century, cakes and celebration have been associated with each other for a considerably longer time.",
+        "E) Until a little more than a century ago, people in the United States celebrated birthdays with cakes, but the traditional connection between cakes and celebration is a bit older than that."
+      ]
+    },
+    {
+      "questionText": "70. People had long known of petroleum, but there seemed to be little commercial use until 1853 when Samuel Kier began using it to make kerosene, a cheap substitute for the whale oil commonly used in lamps.",
+      "correctAnswer": "B",
+      "explanation": "İnsanların petrolü uzun süredir bilmelerine rağmen (Though being known for a long time), Samuel Kier'in 1853'te onu balina yağına alternatif olan ucuz gazyağına (kerosene) dönüştürmesine kadar ticari kullanımının pek olmadığı gerçeği en iyi B seçeneğinde verilmiştir.",
+      "options": [
+        "A) The development of kerosene in 1853 by Samuel Kier as an economical alternative to whale oil for lamps was not the first commercial use of petroleum because people had known about it for so long, but it was the most commercially successful enterprise.",
+        "B) Though being known for a long time, petroleum did not seem to be much commercial until Samuel Kier developed it into kerosene In 1853 - a cheaper alternative to the whale oil commonly used in lamps.",
+        "C) Although most people had long known about the commercial uses of petroleum, there was little development of the substance until 1853 when Samuel Kier started using it to make kerosene and marketing it as a cheaper substitute to whale oil commonly used in lamps.",
+        "D) It was in 1853 that people had long known of petroleum but did not seem to have much interest in the substance which was used commercially for the first time by Samuel Kier to make kerosene, which was a more economical substitute to power lamps than the whale oil.",
+        "E) In 1853, when the need for a more economical alternative to whale oil to power lamps arose, Samuel Kier saw an opportunity to make kerosene from petroleum - a substance long known for both its history and commercial uses."
+      ]
+    },
+    {
+      "questionText": "71. Ageing is a complicated process, involving DNA damage, chronic inflammation, and worn-out cells, but we do not yet know which of these has the biggest impact on ageing.",
+      "correctAnswer": "C",
+      "explanation": "Karmaşık bir süreç olan yaşlanmanın DNA hasarı, kronik inflamasyon vb. içerdiği (As a complex process, ageing includes...) ancak bunlardan hangisinin süreci en çok etkilediğinin net olmadığı (it is not clear which affects the ageing process the most) en doğru şekilde C seçeneğinde eşleştirilmiştir.",
+      "options": [
+        "A) The combination of DNA damage, chronic inflammation and worn-out cells affects ageing to unknown extents, making it a complicated process.",
+        "B) Because ageing is a complex process, the relationship between ageing and resultant effects of DNA damage, chronic inflammation and worn-out cells is largely unknown.",
+        "C) As a complex process, ageing includes DNA damage, chronic inflammation and worn-out cells, though it is not clear which affects the ageing process the most.",
+        "D) Ageing, which itself is a complicated process, damages DNA, causes chronic inflammation and wears out cells; however, we do not yet know which symptom is triggered by ageing the most.",
+        "E) Ageing is characterised by damaged DNA, chronic inflammation and worn-out cells, but which one of these makes the process more complicated is yet to be determined."
+      ]
+    },
+    {
+      "questionText": "72. ---- Yet even today, when objective evidence is valued highly, most people would admit to secretly cherishing one, or two, or many superstitions. Across America, tens of thousands of lottery tickets are pencilled in every day based on nothing more or less than people's lucky numbers. Though we now have scientific explanations for a number of once-mysterious phenomena, daily life still holds enough unpredictability that we turn to superstitions to account for the implausible.",
+      "correctAnswer": "D",
+      "explanation": "Boşluktan sonra 'Ancak bugün bile, çoğu insan bazı batıl inançları gizlice benimsediğini itiraf eder' denilmiştir. Demek ki öncesinde 'eğitimin ve aklın gelişiyle birlikte batıl inançların yok olmuş olması gerekirdi' şeklindeki D şıkkı gelmelidir ki bu zıtlık ('Yet') bağlanabilsin.",
+      "options": [
+        "A) Bad-luck superstitions still keep many people from walking under a ladder, opening an umbrella indoors, or boarding an airplane on Friday the thirteenth.",
+        "B) Scientific studies reveal that most of the superstitious beliefs we inherit involve ways to protect ourselves from evil.",
+        "C) Archaeologists identify Neanderthal man, who roamed throughout Western Europe 50,000 years ago, as having produced the first superstitious belief.",
+        "D) Superstitious beliefs should have vanished with the arrival of education and reason.",
+        "E) Superstitions come into being when particular events happen in a way that cannot be explained by reason and are followed by superstitions to help understand them."
+      ]
+    },
+    {
+      "questionText": "73. Braille is a tactile (touch-based) system of written language that features patterns of raised dots to represent letters of the alphabet, common words and contractions, mathematical symbols, and punctuation. Named after its developer, Louis Braille, braille allows people who are blind to read and, with adaptive technology, to write. Learning each of the different forms of braille code is like learning a new language. ---- Therefore, most people only learn the one or two of those they are most likely to use in their daily lives.",
+      "correctAnswer": "B",
+      "explanation": "Farklı Braille türlerini öğrenmenin yeni bir dil öğrenmek gibi olduğu söylendikten sonra, insanların neden sadece birkaç tanesini öğrendiğini ('Therefore, most people only learn...') haklı çıkarmak için ABD'de müzik, matematik, fen vb. alanlara özgü birçok farklı Braille çeşidinin kullanıldığını anlatan B şıkkı gereklidir.",
+      "options": [
+        "A) People whose vision is still intact can also learn braille, and should if they have regular interactions with people who are blind.",
+        "B) There are a number of braille variations in common use in the US, including braille specific to music, mathematics, science, and computer programming.",
+        "C) Many communities have schools and consultants who teach braille as well as libraries that provide braille publications.",
+        "D) Nemeth braille code provides a mix of American literary braille, Nemeth braille, and unique symbols for instruction documentation.",
+        "E) American literary braille code uses about 250 patterns to create book-length materials using short-form words, contractions, and single-cell words."
+      ]
+    },
+    {
+      "questionText": "74. Gothic is the style of architecture and art that succeeded Romanesque and prevailed in Europe from the mid-12th century to the 16th century. Like many other stylistic labels, the word was originally a term of abuse. It was coined by Italian artists of the Renaissance to denote the type of medieval architecture they condemned as barbaric. ---- None of these features was first used in the Gothic period, but when employed together they created a new type of skeletal structure and a sense of graceful resilience that was very different in spirit from the massive solidity of Romanesque buildings.",
+      "correctAnswer": "A",
+      "explanation": "Boşluktan sonra 'Bu özelliklerin hiçbiri' (None of these features) denildiği için, boşlukta Gotik mimariyi tanımlayan özellikler sayılmalıdır. A seçeneğinde sivri kemerler, kaburgalı tonozlar ve uçan payandalar gibi mimari özellikler belirtilerek mükemmel bir geçiş sağlanmıştır.",
+      "options": [
+        "A) The Gothic style is still characterised chiefly in terms of architecture in particular by the use of pointed arches, rib vaults, and flying buttresses.",
+        "B) The term 'Gothic' has also been applied to the ornament, sculpture, and painting of the period in which Gothic architecture flourished.",
+        "C) A swaying elegance is often characteristic of Gothic figures, which are generally more naturalistic and less remote than the ordered typical of Romanesque period.",
+        "D) This architecture was created by the Gothic tribes who had destroyed the Classical art of the Roman Empire.",
+        "E) From about 1250, the movement became more serious in tone and developed into a major strand in art."
+      ]
+    },
+    {
+      "questionText": "75. The fossil record of dinosaurs in Africa extends from the Late Triassic Period, over 200 million years ago, until the Late Cretaceous Period, presumably 65 million years ago. However, the extinction event that ended the reign of dinosaurs has yet to be documented. Throughout this length of time, Africa remained relatively stable geologically, changing position only slightly by drifting and rotating northward. The changing geography of Africa and its neighbours throughout the Mesozoic Period is fundamental to understanding the dinosaur fossils found there. ----",
+      "correctAnswer": "D",
+      "explanation": "Paragrafta Afrika'nın coğrafi olarak nispeten istikrarlı (stable) kaldığı anlatıldıktan sonra, komşularındaki coğrafi değişime (changing geography) geçilmiştir. 'Buna karşılık (By contrast), Afrika'yı çevreleyen kıtalar büyük ölçüde hareket etti...' diyen D seçeneği bu zıtlığı ve coğrafi değişimi doğru şekilde bağlar.",
+      "options": [
+        "A) During the Late Triassic through the Early Jurassic, major continental land masses were united into the supercontinent of Pangaea.",
+        "B) Late Triassic dinosaur sites are found extensively in southern Africa (particularly South Africa, Lesotho, and Zimbabwe) and to a lesser extent in northern Africa (Morocco).",
+        "C) Thus, the dinosaur fauna of the Late Triassic and Early Jurassic are generally similar across the globe because there was only one continent rather than several continents.",
+        "D) By contrast, the continents surrounding Africa moved greatly, resulting in ocean barriers between what were once contiguous land masses.",
+        "E) The boundary between the Triassic and Jurassic Period is marked by extinctions globally, but it has not been studied in detail in Africa."
+      ]
+    },
+    {
+      "questionText": "76. (I) Science that presents an organised view of the universe developed with the rise of Greek civilisation, starting about 600 BC. (II) Scholars from the Egyptian and Mesopotamian civilisations already had learned many scientific results before the start of Greek civilisation. (III) The Greeks developed institutions, such as the Academy, the Lyceum, and the Museum, that pursued science in somewhat the way the universities do today. (IV) When the Academy and Lyceum were closed, and the Museum was destroyed, the Greek era in science was over. (V) This period, from the birth of Western civilisation in Europe to the start of what is often called the Dark Ages, can be termed Antiquity.",
+      "correctAnswer": "B",
+      "explanation": "Paragraf Yunan uygarlığında bilimin gelişimi, bu amaçla kurulan kurumlar ve bu kurumların yok olmasıyla Yunan bilim çağının kapanması üzerine bir bütünlük sergilerken, (II) numaralı cümle konu dışına çıkarak Mısır ve Mezopotamya uygarlıklarının kazanımlarından bahseder.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "77. (I) The Magna Carta was written to satisfy the grievances of England's barons and the Church by clearly defining their rights and responsibilities, as well as those of the King. (II) The agreement covered such topics as the giving of heirs in marriage, a widow's right to choose not to re-marry, and the handling of debts following a debtor's death. (III) Of particular note though were the promises that no free man would be imprisoned except by lawful justice, nor would they be denied the right to justice. (IV) The Magna Carta was written in medieval Latin and agreed to and sealed by King John in 1215. (V) There were also restrictions placed on the use of taxation by the King and his barons, including the formation of a council that could approve or reject proposed taxes.",
+      "correctAnswer": "D",
+      "explanation": "Metin Magna Carta belgesinin içeriğinde yer alan konuları ve kısıtlamaları (sorunların çözümü, evlilik ve borç hakları, adalet, vergilendirme kuralları) peş peşe anlatmaktadır. (IV) numaralı cümle, belgenin Latince yazılıp kral tarafından mühürlendiğini ifade ederek metnin maddelerinden oluşan akışı gereksiz yere böler.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "78. (I) The world's reef systems face overwhelming stress-threats from overfishing, pollution and climate change being the main causes. (II) Most threatened is the Caribbean reef system, with more than 80 percent of its live coral cover having disappeared since the 1970s, largely due to global warming. (III) Coral has evolved a spectacular way of maximising its chances of survival. (IV) A visual example of the damage being done is coral bleaching, which turns coral from a natural pink shade to a ghostly white. (V) It is the result of warmer waters destroying the algae that give coral its usual colour.",
+      "correctAnswer": "C",
+      "explanation": "Paragraf resif sistemlerinin karşılaştığı stres ve yok olma tehdidini, bunun boyutlarını (Karayipler örneği) ve bu hasarın görsel bir belirtisi olan mercan ağarmasını aktarırken, (III) numaralı cümlede mercanların hayatta kalma şansını muazzam bir şekilde artırmış olmasından (olumlu bir özellikten) bahsedilmesi paragrafın anlam akışına uymaz.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "79. (I) Allergies, like many conditions, tend to become worse if a person is run-down, stressed, over-tired, has a poor diet, or does not get adequate exercise. (II) An allergy is defined as a condition caused by an inappropriate or exaggerated reaction by the body's immune system. (III) Harmless substances are misidentified by it as potentially dangerous, so the immune response is to form antibodies. (IV) These attack the perceived irritants or allergens on the surface of the offending substance. (V) The reaction between antibodies and allergens stimulates the release of substances within the body, such as histamine, which cause a variety of irritating symptoms.",
+      "correctAnswer": "A",
+      "explanation": "II, III, IV ve V numaralı cümleler alerjinin bilimsel tanımını ve bağışıklık sisteminin alerjen maddelere karşı hatalı olarak verdiği tepkinin süreçlerini birbirine sıkı sıkıya bağlı şekilde (it, these gibi göndergelerle) açıklarken; I. cümle alerjinin stres veya diyetle nasıl kötüleştiğinden bahsederek konunun ana bilimsel açıklama çizgisinden tamamen bağımsız durur.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    },
+    {
+      "questionText": "80. (I) The voyages of discovery of the 15th and 16th centuries unveiled whole new worlds to the European eye, worlds full of new animals, plants and people. (II) The passage to new worlds was regarded by many as a commercial opportunity. (III) These new lands were rich in raw materials, which could be traded for manufactured goods. (IV) They also offered possibilities of settlement, and a number of countries began to plant their flags in distant parts of the globe. (V) The cultivation of sugar, tobacco and other crops on the plantations depended on slave labour.",
+      "correctAnswer": "E",
+      "explanation": "İlk dört cümle (I, II, III, IV), 15. ve 16. yüzyıllardaki keşif yolculuklarının Avrupalılar için sağladığı ticari fırsatları, yeni hayvan ve bitkileri, hammadde zenginliklerini ve yerleşim olasılıklarını geniş bir perspektiften incelerken; V. cümlede doğrudan tarlalarda köle işçiliğinin kullanılmasına geçilmesi metnin genel 'keşiflerin fırsatları' temasını saptırmaktadır.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    }
+  ]
+}

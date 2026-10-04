@@ -1,0 +1,101 @@
+{
+  "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2025-YDS/1) İNGİLİZCE",
+  "questions": [
+    {
+      "questionText": "Every year, thousands of high school graduates from all over the world compete to enter Harvard University, having ---- hundreds of hours of their time to achieve their dream.",
+      "correctAnswer": "A) sacrificed",
+      "explanation": "Boşluğa zaman harcamak veya feda etmek anlamına gelen bir kelime gelmelidir. 'have sacrificed time' (zamanı feda etmek/zaman harcamak) doğru kalıptır. Diğer seçenekler (alleviated - hafifletmek, prolonged - uzatmak, earned - kazanmak, yielded - ürün vermek/boyun eğmek) anlamsızdır. Bu yüzden doğru yanıt A seçeneğidir.",
+      "options": [
+        "A) sacrificed",
+        "B) alleviated",
+        "C) prolonged",
+        "D) earned",
+        "E) yielded"
+      ]
+    },
+    {
+      "questionText": "Ready meals labelled ---- phrases like 'finest' and 'best' are marketed as premium shortcuts ---- a balanced meal, but cooking equivalent dishes from scratch is still a nutritionally better option.",
+      "correctAnswer": "E) with / to",
+      "explanation": "Birinci boşlukta 'ile etiketlenmiş' anlamını veren 'with' edatı kullanılmalıdır ('labelled with'). İkinci boşlukta ise 'bir şeye giden kısa yol' anlamında 'shortcut to' kalıbı kullanılır. Dolayısıyla her iki tarafı da bağlama uygun olarak tamamlayan edatlar 'with' ve 'to' olmalıdır. Doğru yanıt E seçeneğidir.",
+      "options": [
+        "A) about / over",
+        "B) in / from",
+        "C) for / on",
+        "D) through / at",
+        "E) with / to"
+      ]
+    },
+    {
+      "questionText": "Shy people often refrain from interacting with others or taking part in events, ----.",
+      "correctAnswer": "A) as they generally find themselves unable to do so, consumed by a sense of dread, anxiousness, or uncertainty",
+      "explanation": "Cümle utangaç insanların neden başkalarıyla etkileşim kurmaktan kaçındığını ifade etmektedir. Bu duruma mantıklı bir açıklama veya neden sunan cümle A seçeneğidir. 'as' bağlacı 'çünkü' anlamı katarak 'çünkü genellikle korku, kaygı veya belirsizlik duygusuna kapılarak bunu yapamayacaklarını hissederler' anlamını verir ve cümleyi anlamca kusursuz bir şekilde tamamlar.",
+      "options": [
+        "A) as they generally find themselves unable to do so, consumed by a sense of dread, anxiousness, or uncertainty",
+        "B) thus they communicate with other people to fulfil daily obligations though they find it challenging",
+        "C) but participating in social activities can feel more like difficult hurdles to overcome",
+        "D) although they might be temperamentally shy and feel psychological discomfort when accompanied by strangers",
+        "E) instead shyness is often grouped in with other conditions and traits, such as fear and introversion"
+      ]
+    },
+    {
+      "questionText": "The decline in biological diversity, which mostly results from habitat destruction and overhunting, is one of the most important environmental issues that require international collaboration.",
+      "correctAnswer": "C) Çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanan biyolojik çeşitlilikteki azalma, uluslararası iş birliği gerektiren en önemli çevresel sorunlardan biridir.",
+      "explanation": "İngilizce cümlenin ana öznesi 'The decline in biological diversity' (biyolojik çeşitlilikteki azalma) olup, bu özneyi niteleyen yan tümce 'which mostly results from habitat destruction and overhunting' (çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanan) şeklindedir. Cümlenin yüklem kısmı ise 'is one of the most important environmental issues that require international collaboration' (... uluslararası iş birliği gerektiren en önemli çevresel sorunlardan biridir) olarak çevrilmelidir. Özne, sıfat yan tümcesi ve ana yüklem bağlamını eksiksiz ve en doğal şekilde yansıtan çeviri C seçeneğidir.",
+      "options": [
+        "A) Biyolojik çeşitlilikteki azalma, çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanmakta olup uluslararası iş birliği gerektiren en önemli çevresel sorunlardan biridir.",
+        "B) Biyolojik çeşitlilikteki azalma, çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanmaktadır ve bu, uluslararası iş birliği gerektiren en önemli çevresel sorunlardan biridir.",
+        "C) Çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanan biyolojik çeşitlilikteki azalma, uluslararası iş birliği gerektiren en önemli çevresel sorunlardan biridir.",
+        "D) Biyolojik çeşitlilikteki azalma, çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanan en önemli çevresel sorunlardan biri olduğu için uluslararası iş birliği gerektirmektedir.",
+        "E) Uluslararası iş birliği gerektiren en önemli çevresel sorunlardan biri olan biyolojik çeşitlilikteki azalma, çoğunlukla yaşam alanı tahribatı ve aşırı avlanmadan kaynaklanmaktadır."
+      ]
+    },
+    {
+      "questionText": "Podcaster: - Today, we have Dr. Turner, who's going to answer your questions about the permafrost. Let's start with the first one. Linda from Melbourne asks whether any life form can exist inside frozen ground. Scientist: - In recent years, an abundance of microorganisms have been discovered frozen in the permafrost, and I can safely say many are still alive. Podcaster: - ---- Scientist: - Well, in 2016, there was an anthrax outbreak that killed one person and many animals in Siberia. It's thought that bacteria from the permafrost led to this outbreak. So, it seems we may experience outbreaks of ancient microbes in the future.",
+      "correctAnswer": "D) With the melting of the permafrost because of climate change, is it possible that some of these frozen microorganisms can cause disease?",
+      "explanation": "Bilim insanı boşluktan sonraki cümlesinde, 2016 yılındaki bir şarbon (anthrax) salgınından ve donmuş topraktan çıkan eski mikropların gelecekte de hastalık salgınlarına yol açabileceğinden bahsetmektedir. Buna göre podcaster'ın sorusu, eriyen permafrostun içindeki donmuş mikroorganizmaların hastalık (disease) oluşturup oluşturamayacağı yönünde olmalıdır. D seçeneği bu bağlama ve bilim insanının verdiği somut salgın örneğine tam olarak oturmaktadır.",
+      "options": [
+        "A) Is there a platform where our listeners can learn more about the permafrost and the former outbreaks caused by the ancient microorganisms?",
+        "B) Is there any difference in the degree of infectiousness between ancient bacteria and viruses?",
+        "C) Why do most researchers not agree that a new virus emerging from the permafrost could cause a global pandemic?",
+        "D) With the melting of the permafrost because of climate change, is it possible that some of these frozen microorganisms can cause disease?",
+        "E) Taking into account earlier pandemics, are there any precautions that we can take against the now-dormant viruses?"
+      ]
+    },
+    {
+      "questionText": "Hypochondriacs, those who have an excessive preoccupation with personal health, may falsely believe that they have a deadly disease and persist in this belief even after being assured by a physician that they do not have the disease.",
+      "correctAnswer": "D) Feeling an overriding concern for personal health, hypochondriacs might hold an erroneous belief that they suffer from a fatal disease and stick to this belief even if a physician confirms that they do not have the disease.",
+      "explanation": "Orijinal cümlede hastalık hastalarının sağlıklarıyla aşırı ilgilenmeleri, ölümcül bir hastalıkları olduğuna dair asılsız bir inanca kapılmaları ve bir doktor aksini temin etse dahi bu inançta diretmeleri (persist) ifade edilmektedir. D seçeneği 'feeling an overriding concern', 'hold an erroneous belief', 'fatal disease' ve 'stick to this belief even if a physician confirms' kalıplarıyla cümlenin tüm yapıtaşlarını ve koşul anlamını en iyi veren, anlama en yakın yeniden ifade (paraphrase) seçeneğidir.",
+      "options": [
+        "A) People who are extremely worried about personal health might erroneously believe that they have a life-threatening disease, and those who cling to this belief although they are told by a physician that they do not have the disease are called hypochondriacs.",
+        "B) Hypochondriacs, strongly fixated on personal health, might mistakenly believe that they have been struck by a fatal disease, and because of this belief, they assert that a physician must absolutely guarantee that they do not have the disease.",
+        "C) As hypochondriacs are highly obsessed with personal health, they might wrongly believe that they have a fatal disease and do not abandon this belief unless a physician ensures that they do not have the disease.",
+        "D) Feeling an overriding concern for personal health, hypochondriacs might hold an erroneous belief that they suffer from a fatal disease and stick to this belief even if a physician confirms that they do not have the disease.",
+        "E) Hypochondriacs, who are deeply interested in personal health, might wrongly believe that they suffer from a fatal disease, and therefore they have to see a physician to make sure that they do not have the disease so that they give up this belief."
+      ]
+    },
+    {
+      "questionText": "Much has been written about the rising rates of mental health problems in children, with many possible explanations proposed. ---- The problems start with modern child-rearing practices that greatly differ from those of previous generations. Much of this difference is due to 'helicopter parenting', in which parents closely monitor their children's lives to ensure they are mentally and physically nurtured all the time. But this monitoring may lead children to feel overstressed. What is more, children are regularly subjected to mental health screening tests including questions like \"Have you ever thought of cutting or burning yourself?\", but no one seems to consider the potential for putting such ideas in their heads.",
+      "correctAnswer": "C) A bold hypothesis suggests that this crisis is being perpetuated by the very measures supposed to prevent it - used by families and professionals.",
+      "explanation": "Paragraf, çocuklardaki ruh sağlığı sorunlarının artışını modern çocuk yetiştirme pratiklerine (özellikle helikopter ebeveynlik) ve koruma amaçlı yapılan tarama testlerine bağlamaktadır. C seçeneği, 'bu krizin, onu önlemesi beklenen önlemler (ailelerin aşırı korumacı tutumu ve tarama testleri) tarafından daha da sürdürüldüğünü' öne sürerek bir sonraki cümlenin giriş fikrini kusursuz şekilde inşa eder. Boşluktan hemen sonra gelen modern ebeveynlik ve sürekli gözlemleme örneği bu cümlenin doğrudan açılımıdır.",
+      "options": [
+        "A) However, overburdening children with strict routines and chores may be counterproductive; they may feel overwhelmed and crave for self-reliance.",
+        "B) Most of the mental health problems children face have been shown to result from lack of parental and peer support.",
+        "C) A bold hypothesis suggests that this crisis is being perpetuated by the very measures supposed to prevent it - used by families and professionals.",
+        "D) When parents realise that their actions yield unexpected results in their child, they should seek professional help to see if the child has a certain mental health problem.",
+        "E) Apart from parenting styles, poor academic performance and low self-esteem are partly to blame for mental health problems in children."
+      ]
+    },
+    {
+      "questionText": "(I) The chemical Bisphenol A, also called BPA, has been used to make lightweight, hard plastics since the 1960s. (II) While the primary source of daily human exposure to BPA is through the diet, air and water are other possible sources of exposure that should be carefully examined. (III) BPA may be found in many food and beverage packaging, including baby bottles, infant feeding cups, water bottles, and storage boxes. (IV) Although BPA was once considered safe, some recent studies have reported subtle effects of low doses of BPA in laboratory animals. (V) Certain precautions have been proposed while research continues, such as avoiding BPA containers to heat food and opting for glass or porcelain containers.",
+      "correctAnswer": "B) II",
+      "explanation": "Paragraf genel olarak Bisphenol A (BPA) kimyasalının ambalajlarda/kaplarda kullanımı (I ve III), buna bağlı olarak insanlardaki olası etkileri (IV) ve yiyecek kaplarına dair alınabilecek güvenlik önlemlerini (V) konu almaktadır. Ancak II numaralı cümle konu dışına çıkarak diet dışındaki kaynaklara (hava ve su) odaklanılmasını söylemektedir. Metnin geri kalanı ambalajlar ve gıda kapları ekseninde ilerlediği için II numaralı cümle paragrafın anlam bütünlüğünü ve akışını bozan cümledir.",
+      "options": [
+        "A) I",
+        "B) II",
+        "C) III",
+        "D) IV",
+        "E) V"
+      ]
+    }
+  ]
+}
