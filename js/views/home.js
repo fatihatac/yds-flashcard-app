@@ -1,6 +1,6 @@
 import { h } from '../ui.js';
 import { DECKS, loadDeck, loadQuestions } from '../data.js';
-import { get, getCard, newDoneToday, streak, todayKey } from '../store.js';
+import { get, getCard, newDoneToday, streak, todayKey, reviewDueIds } from '../store.js';
 import { isDue, status } from '../srs.js';
 
 export async function counts(deckId) {
@@ -46,8 +46,10 @@ export async function render(root) {
   }
 
   const qs = await loadQuestions();
+  const due = reviewDueIds().length;
   root.append(h('section', { class: 'card deck' },
-    h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, '📝'), h('div', null, h('h2', null, 'Soru Çözümü'), h('p', { class: 'muted' }, `${qs.length} YDS tarzı bağlaç sorusu, açıklamalı çözümlerle`))),
+    h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, '📝'), h('div', null, h('h2', null, 'Soru Çözümü'), h('p', { class: 'muted' }, `${qs.length} bağlaç sorusu (temel, tuzak, çıkmış) ve çıkmış YDS sınavları`))),
+    due ? h('a', { class: 'btn btn-primary', href: '#/quiz?mode=review' }, `Tekrar modu (${due} soru)`) : null,
     h('a', { class: 'btn btn-ghost', href: '#/quiz' }, 'Soru çözmeye git')));
 }
 

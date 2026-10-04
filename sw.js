@@ -1,11 +1,11 @@
 // Çevrimdışı çalışma: uygulama dosyaları önbelleğe alınır, veri dosyaları "önce ağ, olmazsa önbellek" ile okunur.
-const VERSION = 'v1';
+const VERSION = 'v2';
 const CACHE = `yds-cards-${VERSION}`;
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'css/styles.css', 'icons/icon.svg',
-  'js/main.js', 'js/ui.js', 'js/store.js', 'js/srs.js', 'js/data.js', 'js/render.js', 'js/validate.js',
+  'js/main.js', 'js/ui.js', 'js/store.js', 'js/srs.js', 'js/data.js', 'js/render.js', 'js/validate.js', 'js/exams.js',
   'js/views/home.js', 'js/views/study.js', 'js/views/quiz.js', 'js/views/library.js', 'js/views/settings.js',
-  'data/conjunctions.json', 'data/questions.json',
+  'data/conjunctions.json', 'data/questions.json', 'data/questions-trap.json', 'data/exam-conjunction-questions.json', 'data/exams.json',
 ];
 
 self.addEventListener('install', (e) => {

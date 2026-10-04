@@ -6,7 +6,9 @@ YDS bağlaçları (ve kelimeleri) için **aralıklı tekrar** sistemli, mobil ö
 - **Bağlaç kartları (64):** ön yüzde Türkçe anlam + gramer kuralı, arka yüzde İngilizce bağlaç grubu, anlam, kullanım, YDS örnek cümlesi + Türkçe çevirisi ve "YDS Tüyosu".
 - **Kelime kartları (3769):** `data/words.json` (İngilizce → Türkçe, eş anlamlılarla).
 - **Tekrar algoritması:** SM-2 tabanlı, Tekrar / Zor / İyi / Kolay; günlük yeni kart limiti.
-- **Soru çözümü (65 soru):** konuya göre, açıklamalı; yanlış yapılan sorunun kartı tekrar sırasına döner.
+- **Soru çözümü (329 bağlaç sorusu):** temel (65), **tuzak tipi** (128, her karta 2 soru) ve çıkmış YDS sorularından otomatik ayıklanan bağlaç soruları (136); konuya göre, açıklamalı.
+- **Tekrar modu:** yanlış yapılan sorular 1 - 3 - 7 - 14 gün aralıkla yeniden gelir; yanlış sorunun bağlaç kartı da kart tekrarına geri döner. "Zayıf konuların" listesi en düşük başarılı konuları gösterir.
+- **Çıkmış sınavlar:** `data/20xx_YDS_n.json` dosyalarındaki 28 sınav (okuma parçası gerektirmeyen sorular) orijinal sırasıyla çözülür.
 - **Kartlar:** arama ve kategori filtresiyle tüm bağlaçlara göz atma.
 - **Ayarlar:** günlük hedefler, tema, yedek indir/yükle, kendi soru setini ekleme.
 
@@ -27,10 +29,15 @@ npm test         # SRS testleri + veri doğrulama
 ```
 data/conjunctions.json   bağlaç kartları
 data/questions.json      sorular
+data/questions-trap.json tuzak soruları (scripts/build-trap-questions.py ile üretilir)
+data/20xx_YDS_n.json     çıkmış sınavlar (ham)
+data/exams.json          sınav listesi (node scripts/build-exam-data.mjs)
+data/exam-conjunction-questions.json  sınavlardan ayıklanan bağlaç soruları (aynı betik)
 data/words.json          kelimeler
 js/srs.js                tekrar algoritması (saf fonksiyonlar)
 js/store.js              localStorage: ilerleme, ayarlar
 js/data.js               deste kaydı (DECKS)
+js/exams.js              ham sınav biçimini soru biçimine çevirir
 js/render.js             deste türüne göre kart yüzleri
 js/views/*.js            ekranlar (home, study, quiz, library, settings)
 ```
@@ -39,6 +46,9 @@ js/views/*.js            ekranlar (home, study, quiz, library, settings)
 - **Yeni deste:** `js/data.js` içindeki `DECKS` dizisine kayıt ekle, `js/render.js`'e aynı `type` için `front/back` çizici ekle.
 - **Yeni ekran (ör. deneme sınavı):** `js/views/<ad>.js` oluştur (`export async function render(root, ctx)`), `js/main.js` içindeki `ROUTES` ve `NAV`'a ekle.
 - **Yeni kart:** `data/conjunctions.json`'a ekle (`id`, `category`, `tr`, `rule`, `group`, `meaning`, `usage`, `example{en,tr}`, `tip`). `npm run validate` ile kontrol et.
+
+### Yeni sınav eklemek
+`data/2027_YDS_1.json` gibi dosyayı ekle (`title` + `questions[]`; `correctAnswer` harf ya da şık metni olabilir), sonra `node scripts/build-exam-data.mjs` çalıştır ve `npm test` ile kontrol et.
 
 ### Soru biçimi
 `data/questions.json` (veya Ayarlar → Soru ekle ile yüklenen JSON) şu şekilde bir dizidir:

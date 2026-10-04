@@ -1,0 +1,2590 @@
+[
+ {
+  "id": "2013_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ lead was widely known to be dangerous, by the early years of the 20th century, it could be found in all manners of consumer products.",
+  "options": [
+   "Since",
+   "Once",
+   "Only when",
+   "Even though",
+   "Given that"
+  ],
+  "answer": 3,
+  "explanation": "Kurşunun tehlikeli olduğunun yaygın olarak bilinmesine 'rağmen' (Even though), 20. yüzyılın başlarında her türlü tüketici ürününde bulunabiliyordu.",
+  "grammarTopic": "Conjunctions & Transitions",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 12"
+ },
+ {
+  "id": "2013_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "Animals trapped in a stone called 'amber' are sometimes so well preserved that they look ____ they have just died.",
+  "options": [
+   "so that",
+   "in case",
+   "as though",
+   "even if",
+   "now that"
+  ],
+  "answer": 2,
+  "explanation": "'Kehribar' adı verilen bir taşa hapsolmuş hayvanlar bazen o kadar iyi korunurlar ki sanki yeni ölmüşler 'gibi' (as though / as if) görünürler.",
+  "grammarTopic": "Conjunctions & Transitions",
+  "cardIds": [
+   "as-if"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 13"
+ },
+ {
+  "id": "2013_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "The European Commission has put forward that policies to cut greenhouse gases will not work ____ individuals share the vision of a low-carbon society.",
+  "options": [
+   "provided that",
+   "after",
+   "but",
+   "while",
+   "unless"
+  ],
+  "answer": 4,
+  "explanation": "Bireyler düşük karbonlu bir toplum vizyonunu paylaşmadıkça / paylaşmazlarsa (unless), sera gazlarını azaltma politikaları işe yaramayacaktır.",
+  "grammarTopic": "Conjunctions & Transitions",
+  "cardIds": [
+   "unless"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 14"
+ },
+ {
+  "id": "2013_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ deriving two-thirds of its power supply from fossil fuels, power producers in India cannot get enough pipeline space to distribute natural gas.",
+  "options": [
+   "Despite",
+   "Besides",
+   "As a result of",
+   "By means of",
+   "Rather than"
+  ],
+  "answer": 0,
+  "explanation": "Hindistan'daki güç üreticilerinin enerji kaynaklarının üçte ikisini fosil yakıtlardan elde etmesine 'rağmen' (Despite), doğal gazı dağıtmak için yeterli boru hattı alanı bulamadıkları belirtilmiştir.",
+  "grammarTopic": "Conjunctions & Transitions",
+  "cardIds": [
+   "concession-noun"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 16"
+ },
+ {
+  "id": "2013_YDS_1:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "Many urban areas are growing (17)____ their rural hinterlands are depressed, which forces impoverished rural people to move to the cities in search of work.",
+  "options": [
+   "unless",
+   "in case",
+   "so that",
+   "whenever",
+   "because"
+  ],
+  "answer": 4,
+  "explanation": "Birçok kentsel alanın büyümesinin sebebi, kırsal iç bölgelerinin depresyonda olmasıdır. Sebep bildiren 'çünkü' (because) bağlacı uygundur.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 17"
+ },
+ {
+  "id": "2013_YDS_1:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "(21)____ dealing with poor sanitation and pollution from dirty cooking fuels and primitive stoves, they are exposed to modern environmental hazards, such as urban air pollution, exhaust fumes and industrial pollution.",
+  "options": [
+   "Despite",
+   "Owing to",
+   "For the sake of",
+   "In addition to",
+   "Unlike"
+  ],
+  "answer": 3,
+  "explanation": "Kötü sağlık koşulları ve kirlilikle uğraşmalarına 'ek olarak / ilaveten' (In addition to), modern çevresel tehlikelere de maruz kaldıkları ifade edilmiştir.",
+  "cardIds": [
+   "addition-noun"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 21"
+ },
+ {
+  "id": "2013_YDS_1:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "Unfortunately, this means that (26)____ many countries follow the spirit of cooperation of the Treaty, there are still disputes over territory that remain unresolved and come up from time to time.",
+  "options": [
+   "as if",
+   "although",
+   "just as",
+   "because",
+   "before"
+  ],
+  "answer": 1,
+  "explanation": "Birçok ülkenin Antlaşma'nın işbirliği ruhunu izlemesine 'rağmen' (although), hala zaman zaman gündeme gelen ve çözülmemiş toprak anlaşmazlıkları vardır.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ · Soru 26"
+ },
+ {
+  "id": "2013_YDS_2:8",
+  "number": 8,
+  "kind": "exam",
+  "stem": "____ certain conceptual strategies can be learned, specific levels of cognitive development must be achieved in early childhood education.",
+  "options": [
+   "In case",
+   "Now that",
+   "Unless",
+   "Before",
+   "Just as"
+  ],
+  "answer": 3,
+  "explanation": "Belirli kavramsal stratejiler öğrenilebilme'den önce' (Before), erken çocukluk eğitiminde belirli bilişsel gelişim seviyelerine ulaşılması gerektiği ifade edilmiştir.",
+  "cardIds": [
+   "time-before"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 8"
+ },
+ {
+  "id": "2013_YDS_2:11",
+  "number": 11,
+  "kind": "exam",
+  "stem": "When we think of war films, we often think of places like Vietnam and Europe, ____ the location for these films is generally the United States.",
+  "options": [
+   "only if",
+   "as",
+   "but",
+   "given that",
+   "thus"
+  ],
+  "answer": 2,
+  "explanation": "Savaş filmleri dendiğinde genellikle Vietnam ve Avrupa gibi yerleri düşünmemize rağmen, 'fakat' (but) bu filmlerin mekanının genellikle Amerika Birleşik Devletleri olması bir zıtlık oluşturur.",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 11"
+ },
+ {
+  "id": "2013_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "In a workplace, standardization of skills involves considerable training of personnel ____ they can carry out organizational policies with few faults.",
+  "options": [
+   "because",
+   "whereas",
+   "even though",
+   "as if",
+   "so that"
+  ],
+  "answer": 4,
+  "explanation": "Personelin az hatayla kurumsal politikaları uygulayabilmesi 'için / amacıyla / -sın diye' (so that) ciddi bir eğitimden geçirilmesi gerekir.",
+  "cardIds": [
+   "purpose-clause"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2013_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "The crimes of the rich and the powerful can be explained ____ the same motives as any other criminal act.",
+  "options": [
+   "in terms of",
+   "prior to",
+   "apart from",
+   "in spite of",
+   "instead of"
+  ],
+  "answer": 0,
+  "explanation": "Zengin ve güçlülerin işledikleri suçların, diğer suç eylemleriyle aynı güdüler 'açısından / bağlamında' (in terms of) açıklanabileceği ifade edilmiştir.",
+  "cardIds": [
+   "in-terms-of"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2013_YDS_2:19",
+  "number": 19,
+  "kind": "exam",
+  "stem": "We literally trade our health with self-image for a few minutes of pleasant mouth feel and belly comfort, as the latter is right here, right now, (19)____ the former, which is months, years and decades away.",
+  "options": [
+   "in spite of",
+   "as well as",
+   "as opposed to",
+   "as a result of",
+   "owing to"
+  ],
+  "answer": 2,
+  "explanation": "Anlık ağız zevki tam olarak buradayken, sağlık gibi faktörlerin aylar, yıllar uzakta olması birbirine 'zıt' (as opposed to) iki durumdur.",
+  "cardIds": [
+   "unlike"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 19"
+ },
+ {
+  "id": "2013_YDS_2:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "Scientists think this trait may have been programmed into us by evolution at a time (21)____ the environment, with its many threats to our survival, favoured those who grabbed whatever they could whenever they could get it.",
+  "options": [
+   "when",
+   "if",
+   "unless",
+   "although",
+   "but"
+  ],
+  "answer": 0,
+  "explanation": "Evrimin bizi bu özellikle programladığı 'zamanı' belirten bir relative pronoun (when) kullanılmalıdır (at a time when...).",
+  "cardIds": [
+   "time-while"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 21"
+ },
+ {
+  "id": "2013_YDS_2:25",
+  "number": 25,
+  "kind": "exam",
+  "stem": "With autism, (25)____, the American Academy of Paediatrics has issued guidelines for parents and physicians as a result of lobbying efforts by autism advocacy organizations.",
+  "options": [
+   "consequently",
+   "for example",
+   "in short",
+   "otherwise",
+   "unfortunately"
+  ],
+  "answer": 1,
+  "explanation": "Çeşitli hastalıklara ve rehberlere değindikten sonra otizmi bir 'örnek' (for example) olarak sunmaktadır.",
+  "cardIds": [
+   "for-example"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 25"
+ },
+ {
+  "id": "2013_YDS_2:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "Parents are to watch for possible problems (26)____ a baby avoiding eye contact, being slow to babble, or developmental issues.",
+  "options": [
+   "due to",
+   "despite",
+   "besides",
+   "such as",
+   "unlike"
+  ],
+  "answer": 3,
+  "explanation": "Olası problemlere dair (göz temasından kaçınma vb.) örnekler sıralandığı için 'gibi' (such as) edatı kullanılmalıdır.",
+  "cardIds": [
+   "for-example"
+  ],
+  "source": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2014_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ the role of calcium has received an enormous amount of attention, very few people realise that without its partner, magnesium, calcium does not serve the body nearly as well as it should.",
+  "options": [
+   "If",
+   "Whereas",
+   "Whenever",
+   "Since",
+   "Once"
+  ],
+  "answer": 1,
+  "explanation": "Kalsiyumun rolü çok dikkat çekmesine RAĞMEN (Whereas / Although), çok az insan magnezyum olmadan kalsiyumun vücuda iyi hizmet edemediğini fark eder (Zıtlık ilişkisi).",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2014_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "Whether in the countryside or in city, a hotel should not be built ____ there is a proven need for it.",
+  "options": [
+   "in case",
+   "unless",
+   "though",
+   "because",
+   "after"
+  ],
+  "answer": 1,
+  "explanation": "İster kırsalda ister şehirde olsun, kanıtlanmış bir ihtiyaç 'olmadıkça / -mezse' (unless) otel inşa edilmemelidir.",
+  "cardIds": [
+   "unless"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2014_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "For centuries, people have thought that we have two brains ____ we have two lungs or two kidneys.",
+  "options": [
+   "until",
+   "even though",
+   "whether",
+   "so long as",
+   "just as"
+  ],
+  "answer": 4,
+  "explanation": "İnsanlar yüzyıllardır, 'tıpkı' (just as) iki akciğerimiz veya iki böbreğimiz olduğu gibi iki beynimiz olduğunu düşünmüşlerdir.",
+  "cardIds": [
+   "just-as"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2014_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ children and older people, who suffer most of their unintentional injuries at home, young and middle-aged adults are often injured in the workplace.",
+  "options": [
+   "In contrast to",
+   "Instead of",
+   "Due to",
+   "Thanks to",
+   "In case of"
+  ],
+  "answer": 0,
+  "explanation": "Evde yaralanan çocukların ve yaşlıların 'aksine / -den farklı olarak' (In contrast to), genç ve orta yaşlı yetişkinler genellikle işyerinde yaralanırlar.",
+  "cardIds": [
+   "unlike"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2014_YDS_1:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "Most scholars agree that Attention-Deficit Hyperactivity Disorder (ADHD) is overdiagnosed today. To them, such overdiagnosis leads to relying too heavily on pills (17)____ skills, such as teaching children better ways of coping with stress.",
+  "options": [
+   "by means of",
+   "owing to",
+   "rather than",
+   "with regard to",
+   "in terms of"
+  ],
+  "answer": 2,
+  "explanation": "Aşırı teşhis, beceriler 'yerine / -den ziyade' (rather than) haplara çok fazla güvenmeye yol açar.",
+  "cardIds": [
+   "instead-of"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 17"
+ },
+ {
+  "id": "2014_YDS_1:20",
+  "number": 20,
+  "kind": "exam",
+  "stem": "For accurate diagnosis, a child must display at least six of the nine listed symptoms for at least half a year across these categories. (20)____, at least some problems must be present before the age of seven...",
+  "options": [
+   "In addition",
+   "Therefore",
+   "Nonetheless",
+   "Otherwise",
+   "Still"
+  ],
+  "answer": 0,
+  "explanation": "Doğru teşhis kriterleri sayıldıktan sonra 'Buna ek olarak / Ayrıca' (In addition) bazı sorunların da yedi yaşından önce mevcut olması gerektiği kuralı eklenmiştir.",
+  "cardIds": [
+   "addition-adv"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 20"
+ },
+ {
+  "id": "2014_YDS_1:23",
+  "number": 23,
+  "kind": "exam",
+  "stem": "(23)____ there is one individual's name that often appears on road names as well as the front or back covers of history books, it is that of Henry Flagler.",
+  "options": [
+   "Although",
+   "Whereas",
+   "If",
+   "Whether",
+   "Unless"
+  ],
+  "answer": 2,
+  "explanation": "'Eğer' (If) tarih kitaplarında veya yollarda sıklıkla görünen bir isim varsa, o Henry Flagler'ın adıdır şeklinde şart cümlesi kurulmuştur.",
+  "cardIds": [
+   "if-basic"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 23"
+ },
+ {
+  "id": "2014_YDS_1:24",
+  "number": 24,
+  "kind": "exam",
+  "stem": "His determination (24)____ his vision transformed Florida from a wilderness into a 20th-century state in a matter of years.",
+  "options": [
+   "together with",
+   "in terms of",
+   "owing to",
+   "despite",
+   "as opposed to"
+  ],
+  "answer": 0,
+  "explanation": "Vizyonu 'ile birlikte' (together with) kararlılığının Florida'yı dönüştürdüğü ifade ediliyor.",
+  "cardIds": [
+   "along-with"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 24"
+ },
+ {
+  "id": "2014_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "By the age of three, a child's brain is almost fully grown ____ her bones and muscles are still underdeveloped.",
+  "options": [
+   "since",
+   "but",
+   "if",
+   "unless",
+   "once"
+  ],
+  "answer": 1,
+  "explanation": "Üç yaşına gelindiğinde bir çocuğun beyninin neredeyse tamamen büyümesi ile kemiklerinin ve kaslarının hala tam gelişmemiş olması arasında bir zıtlık söz konusudur. Bu zıtlığı 'fakat / ancak' (but) bağlar.",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2014_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ the world has been changing more rapidly than ever before, managers and other employees throughout an organization must perform at higher and higher levels.",
+  "options": [
+   "Because",
+   "In case",
+   "As if",
+   "Although",
+   "Unless"
+  ],
+  "answer": 0,
+  "explanation": "Dünya her zamankinden daha hızlı değiştiği 'için / -den dolayı' (Because), yöneticiler ve çalışanlar sürekli daha yüksek seviyelerde performans göstermelidir (Sebep-sonuç ilişkisi).",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2014_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "____ evidence of the civilization of the ancient Egypt was apparent everywhere, little was known of its detailed history until its hieroglyphic writing was deciphered in the early 19th century.",
+  "options": [
+   "Since",
+   "Just as",
+   "Although",
+   "Given that",
+   "Only if"
+  ],
+  "answer": 2,
+  "explanation": " Eski Mısır uygarlığının kanıtları her yerde belirgin olmasına RAĞMEN (Although), 19. yüzyılın başlarında hiyeroglif yazısı çözülene kadar tarihi hakkında çok az şey biliniyordu.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2014_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "Being very significant ____ economical and geopolitical aspects, control of the Bosphorus was always demanded by many countries.",
+  "options": [
+   "in spite of",
+   "rather than",
+   "instead of",
+   "regardless of",
+   "in terms of"
+  ],
+  "answer": 4,
+  "explanation": "İstanbul Boğazı'nın ekonomik ve jeopolitik yönler 'açısından / bakımından' (in terms of) çok önemli olması vurgulanmaktadır.",
+  "cardIds": [
+   "in-terms-of"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2014_YDS_2:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "Human societies have centralized control. In other words, someone tells us what to do. Ants, (21)____, have decentralized control, and neither the queen nor any other ant directs work.",
+  "options": [
+   "in contrast",
+   "in addition",
+   "accordingly",
+   "for instance",
+   "in short"
+  ],
+  "answer": 0,
+  "explanation": "İnsanların merkezi kontrolü varken, 'buna karşılık / aksine' (in contrast) karıncaların merkezi olmayan bir kontrolü vardır.",
+  "cardIds": [
+   "contrast-adv"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 21"
+ },
+ {
+  "id": "2014_YDS_2:22",
+  "number": 22,
+  "kind": "exam",
+  "stem": "There is an important difference between good teaching and effective teaching. Good teaching refers to a process of instruction (22)____ effective teaching refers to the outcomes of instruction.",
+  "options": [
+   "while",
+   "provided that",
+   "even if",
+   "because",
+   "until"
+  ],
+  "answer": 0,
+  "explanation": "İyi öğretimin sürece atıfta bulunduğu, etkili öğretimin İSE/BUNA KARŞILIK (while/whereas) öğretimin sonuçlarına atıfta bulunduğu zıtlıkla anlatılmıştır.",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 22"
+ },
+ {
+  "id": "2014_YDS_2:24",
+  "number": 24,
+  "kind": "exam",
+  "stem": "... engages students in the learning process (24)____ emphasizing important points during instruction.",
+  "options": [
+   "except for",
+   "in spite of",
+   "owing to",
+   "as well as",
+   "instead of"
+  ],
+  "answer": 3,
+  "explanation": "Öğrencileri öğrenme sürecine dahil etmenin 'yanı sıra / ilaveten' (as well as) önemli noktaları vurguladığı belirtilir.",
+  "cardIds": [
+   "addition-noun"
+  ],
+  "source": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 24"
+ },
+ {
+  "id": "2015_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Digital media communication differs significantly from conventional marketing communication ____ digital media enable new forms of interaction and new models for information exchange.",
+  "options": [
+   "although",
+   "since",
+   "only if",
+   "in case",
+   "even if"
+  ],
+  "answer": 1,
+  "explanation": "Dijital medya iletişiminin geleneksel pazarlamadan farklı olmasının 'nedeni', yeni etkileşim formlarına olanak sağlamasıdır. Sebep-sonuç ilişkisini 'çünkü / -dığı için' anlamındaki 'since' bağlacı bağlar.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2015_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "The mouth is the first part of the digestive system, where food is broken and chewed ____ it can easily be swallowed.",
+  "options": [
+   "so that",
+   "since",
+   "just as",
+   "as long as",
+   "once"
+  ],
+  "answer": 0,
+  "explanation": "Yiyeceklerin kolayca yutulabilmesi 'için / amacı ile / -sın diye' ağızda parçalanıp çiğnendiği belirtilmiştir. Amaç bildiren 'so that' bağlacı doğrudur.",
+  "cardIds": [
+   "purpose-clause"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2015_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "Prejudice may be expressed by people who have developed generally negative personalities, perhaps ____ being raised in harsh and restrictive families.",
+  "options": [
+   "as a result of",
+   "in terms of",
+   "rather than",
+   "in contrast with",
+   "in place of"
+  ],
+  "answer": 0,
+  "explanation": "Sert ve kısıtlayıcı ailelerde yetiştirilmelerinin 'bir sonucu olarak' (as a result of) insanların negatif kişilikler geliştirdiği ve önyargı ifade ettikleri nedensel bağlaç yapısıyla anlatılmıştır.",
+  "cardIds": [
+   "as-a-result-of"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2015_YDS_1:20",
+  "number": 20,
+  "kind": "exam",
+  "stem": "(20)____, both hemispheres work together in almost everything we do and creativity is a whole-brain process.",
+  "options": [
+   "However",
+   "In addition",
+   "Thus",
+   "For instance",
+   "Accordingly"
+  ],
+  "answer": 0,
+  "explanation": "Önceki cümlede dil alanlarının sol yarımkürede olmasından bahsedilirken, 'Ancak / Bununla birlikte' (However), her iki yarımkürenin de hemen hemen her şeyde birlikte çalıştığı söylenerek yapısal bir zıtlık kurulmuştur.",
+  "cardIds": [
+   "adv-contrast"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 20"
+ },
+ {
+  "id": "2015_YDS_1:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "Painters and sculptors may draw on mathematical and logical ideas (21)____ visual imagery and words, just as scientists inventing a new theory may do the reverse.",
+  "options": [
+   "as well as",
+   "because of",
+   "contrary to",
+   "in case of",
+   "for the sake of"
+  ],
+  "answer": 0,
+  "explanation": "Ressamların ve heykeltıraşların görsel imgeler ve kelimelerin 'yanı sıra' (as well as) matematiksel ve mantıksal fikirlerden de yararlanabileceği anlamı 'as well as' ile sağlanmıştır.",
+  "cardIds": [
+   "addition-noun"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 21"
+ },
+ {
+  "id": "2015_YDS_1:23",
+  "number": 23,
+  "kind": "exam",
+  "stem": "The EU has helped strengthen democracy, human rights and legal reforms in many member states and aspiring candidate countries (23)____ continuing its original role as a mechanism for peace.",
+  "options": [
+   "in spite of",
+   "as opposed to",
+   "except for",
+   "in addition to",
+   "such as"
+  ],
+  "answer": 3,
+  "explanation": "AB'nin barış mekanizması olarak orijinal rolünü sürdürmesine 'ek olarak / ilaveten' (in addition to), demokrasi ve insan haklarını güçlendirmeye de yardımcı olduğu ifade edilmiştir.",
+  "cardIds": [
+   "addition-noun"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 23"
+ },
+ {
+  "id": "2015_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Telecommunication companies install cell towers in places where the network will get sufficient use, ____ sparsely populated areas do not qualify, which means people there lack access to reliable phone service.",
+  "options": [
+   "in case",
+   "even if",
+   "so",
+   "although",
+   "just as"
+  ],
+  "answer": 2,
+  "explanation": "Telekomünikasyon şirketleri baz istasyonlarını kullanımın yeterli olacağı yerlere kurarlar, 'bu yüzden / dolayısıyla' (so) seyrek nüfuslu alanlar buna uymaz.",
+  "cardIds": [
+   "result-so"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2015_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ the 50-second silent film Train Pulling Into A Station was first shown in 1895, people were so terrified by the locomotive racing towards them that they hurried to the back of the theatre.",
+  "options": [
+   "Before",
+   "Although",
+   "Since",
+   "When",
+   "As if"
+  ],
+  "answer": 3,
+  "explanation": "Trenin İstansyona Gelişi adlı sessiz film ilk kez 1895'te gösterildiğin'de' (When), insanlar kendilerine doğru gelen lokomotiften dehşete düştüler.",
+  "cardIds": [
+   "time-while"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2015_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Much evidence points to a relationship between stress and disease ____ claims that stressful life events and daily routines cause various diseases are still premature.",
+  "options": [
+   "since",
+   "if",
+   "once",
+   "only when",
+   "but"
+  ],
+  "answer": 4,
+  "explanation": "Çoğu kanıt stres ve hastalık arasında bir ilişkiye işaret etse 'de / ancak' (but), stresli olayların çeşitli hastalıklara neden olduğu iddiaları hala erkendir (Zıtlık).",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2015_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "One way to reduce the negative impact people have on the environment is to make sure that as much garbage as possible is recycled ____ being put in a landfill.",
+  "options": [
+   "because of",
+   "in terms of",
+   "for the sake of",
+   "instead of",
+   "in case of"
+  ],
+  "answer": 3,
+  "explanation": "İnsanların çevre üzerindeki olumsuz etkisini azaltmanın bir yolu, çöplerin çöplüğe atılmak 'yerine' (instead of) olabildiğince çok geri dönüştürülmesini sağlamaktır.",
+  "cardIds": [
+   "instead-of"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2015_YDS_2:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "Some aeroplanes waste valuable fuel. (17)____, there are attempts to redesign such planes for maximum efficiency.",
+  "options": [
+   "Therefore",
+   "Otherwise",
+   "In short",
+   "However",
+   "Furthermore"
+  ],
+  "answer": 0,
+  "explanation": "Bazı uçaklar değerli yakıtı israf eder. 'Bu nedenle / Bundan dolayı' (Therefore) bu uçakları maksimum verimlilik için yeniden tasarlama girişimleri vardır.",
+  "cardIds": [
+   "result-adv"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 17"
+ },
+ {
+  "id": "2015_YDS_2:23",
+  "number": 23,
+  "kind": "exam",
+  "stem": "For example, humans are capable of sophisticated communication (23)____ the fact that our languages follow systems of rules.",
+  "options": [
+   "instead of",
+   "except for",
+   "due to",
+   "in spite of",
+   "in contrast with"
+  ],
+  "answer": 2,
+  "explanation": "İnsanlar, dillerimizin kurallar sistemini takip etmesi gerçeği 'sayesinde / yüzünden' (due to) sofistike iletişim kurabilirler.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 23"
+ },
+ {
+  "id": "2015_YDS_2:25",
+  "number": 25,
+  "kind": "exam",
+  "stem": "One approach to this problem is to study our language system (25)____ it is being acquired.",
+  "options": [
+   "unless",
+   "even though",
+   "in case",
+   "while",
+   "after"
+  ],
+  "answer": 3,
+  "explanation": "Bu probleme bir yaklaşım, dil sistemimizi o edinilir'ken / eşzamanlı olarak' (while) incelemektir.",
+  "cardIds": [
+   "time-while"
+  ],
+  "source": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 25"
+ },
+ {
+  "id": "2016_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Astronomers discover thousands of new members of the solar system every month, most of which, ____, are insignificant bodies like small asteroids or comets.",
+  "options": [
+   "however",
+   "therefore",
+   "otherwise",
+   "accordingly",
+   "in other words"
+  ],
+  "answer": 0,
+  "explanation": "Her ay binlerce yeni üye keşfedilir, 'ancak / yine de' (however) bunların çoğu küçük asteroitler gibi önemsiz cisimlerdir (Zıtlık).",
+  "cardIds": [
+   "adv-contrast"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2016_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ sustainable technologies usually cost a lot of money to set up, they save money in the long run.",
+  "options": [
+   "Even if",
+   "After",
+   "Just as",
+   "Unless",
+   "Once"
+  ],
+  "answer": 0,
+  "explanation": "Sürdürülebilir teknolojilerin kurulumu genellikle çok paraya mal 'olsa da / bile' (Even if), uzun vadede para tasarrufu sağlarlar (Zıtlık).",
+  "cardIds": [
+   "even-if"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2016_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "With normal ocean waves, only the surface of the water body is in motion; a tsunami, ____, brings not only the surface into motion but lifts and then drops an entire water column in the ocean.",
+  "options": [
+   "namely",
+   "though",
+   "for example",
+   "similarly",
+   "hence"
+  ],
+  "answer": 1,
+  "explanation": "Normal okyanus dalgalarında sadece yüzey hareket halindeyken; bir tsunami 'ise / buna karşın' (though) sadece yüzeyi değil tüm su sütununu hareket ettirir.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2016_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "The henna, which may have spiritual significance in various cultures, is applied ____ different graphic rules, with different symbolic relations.",
+  "options": [
+   "due to",
+   "except for",
+   "unlike",
+   "according to",
+   "prior to"
+  ],
+  "answer": 3,
+  "explanation": "Çeşitli kültürlerde manevi önemi olan kına, farklı grafik kurallara 'göre / uygun olarak' (according to) uygulanır.",
+  "cardIds": [
+   "according-to"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2016_YDS_1:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "Accordingly, an extensive testing and approval process is mandated for foods of this kind, including individual ingredients and additives (18)____ whole foods.",
+  "options": [
+   "in terms of",
+   "regarding",
+   "thanks to",
+   "despite",
+   "as well as"
+  ],
+  "answer": 4,
+  "explanation": "Bireysel bileşenler ve katkı maddelerinin 'yanı sıra' (as well as) bütün gıdalar için de test süreci zorunludur.",
+  "cardIds": [
+   "addition-noun"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 18"
+ },
+ {
+  "id": "2016_YDS_1:19",
+  "number": 19,
+  "kind": "exam",
+  "stem": "Approval is granted (19)____ the food is shown to be safe in accordance with scientific standards.",
+  "options": [
+   "though",
+   "only if",
+   "unless",
+   "as if",
+   "in case"
+  ],
+  "answer": 1,
+  "explanation": "Onay, 'sadece' gıdanın bilimsel standartlara uygun olarak güvenli olduğu gösterilirse (only if) verilir (Koşul).",
+  "cardIds": [
+   "condition-strict"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 19"
+ },
+ {
+  "id": "2016_YDS_1:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "(26)____ these methods maximized overall productivity, they caused some areas within fields to underperform.",
+  "options": [
+   "Given that",
+   "Even though",
+   "Just as",
+   "In case",
+   "Because"
+  ],
+  "answer": 1,
+  "explanation": "Bu yöntemler genel üretkenliği maksimize etmesine 'rağmen' (Even though), tarlalardaki bazı alanların düşük performans göstermesine neden oldu (Zıtlık).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2016_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ using renewable energy is potentially a means of combating global warming, renewable energy facilities can be very expensive to establish.",
+  "options": [
+   "Unless",
+   "Although",
+   "Just as",
+   "Until",
+   "When"
+  ],
+  "answer": 1,
+  "explanation": "Yenilenebilir enerji kullanımı küresel ısınmayla mücadelenin bir aracı olmasına 'rağmen' (Although), tesisleri kurmanın çok pahalı olması bir zıtlıktır.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 13"
+ },
+ {
+  "id": "2016_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Standard Mail Transfer Protocol employs an elaborate letter-and-number code that tells each computer station what it must do with a message ____ it can reach its destination.",
+  "options": [
+   "as though",
+   "in case",
+   "so that",
+   "even if",
+   "now that"
+  ],
+  "answer": 2,
+  "explanation": "Mesajın hedefine ulaşabilmesi 'için / ulaşabilsin diye' (so that) her bilgisayar istasyonuna ne yapması gerektiğini anlatan bir kod kullanılır (Amaç bildirir).",
+  "cardIds": [
+   "purpose-clause"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 14"
+ },
+ {
+  "id": "2016_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ the promising prospects that carbon capture and storage technology offers to prevent air pollution, it is still a rather new technique requiring much more research before it can be utilized on a large scale.",
+  "options": [
+   "Owing to",
+   "Rather than",
+   "In spite of",
+   "Similar to",
+   "Except for"
+  ],
+  "answer": 2,
+  "explanation": "Sunduğu umut verici beklentilere/ihtimallere 'rağmen' (In spite of), büyük ölçekte kullanılmadan önce çok daha fazla araştırma gerektirmesi bir zıtlık oluşturur.",
+  "cardIds": [
+   "concession-noun"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 16"
+ },
+ {
+  "id": "2016_YDS_2:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "Thereafter, the proportion of manufacturing carried out in northern factories steadily rose (18)____ individual and primitive ways of production.",
+  "options": [
+   "as a result of",
+   "such as",
+   "by means of",
+   "due to",
+   "as opposed to"
+  ],
+  "answer": 4,
+  "explanation": "Kuzey fabrikalarındaki imalat oranının, bireysel ve ilkel üretim yollarının 'aksine / onlara zıt olarak' (as opposed to) sürekli arttığı ifade ediliyor.",
+  "cardIds": [
+   "unlike"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 18"
+ },
+ {
+  "id": "2016_YDS_2:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "Industrialization fell behind in the South, (21)____ it was not unknown.",
+  "options": [
+   "as if",
+   "though",
+   "in case",
+   "only if",
+   "just as"
+  ],
+  "answer": 1,
+  "explanation": "Sanayileşme Güney'de geride kalmıştı, 'ancak / yine de / her ne kadar' (though) bu durum hiç bilinmiyor değildi (it was not unknown).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 21"
+ },
+ {
+  "id": "2016_YDS_2:22",
+  "number": 22,
+  "kind": "exam",
+  "stem": "Reading does not come naturally; it is a difficult skill that must be acquired painfully. (22)____ learnt, however, it is rarely, if ever, forgotten.",
+  "options": [
+   "Unless",
+   "Once",
+   "Until",
+   "Before",
+   "Though"
+  ],
+  "answer": 1,
+  "explanation": "Ancak 'bir kere / bir defa' (Once) öğrenildiğinde, nadiren unutulur. 'Once' zaman ve koşul bağlacı olarak işlev görür.",
+  "cardIds": [
+   "time-as-soon"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 22"
+ },
+ {
+  "id": "2016_YDS_2:24",
+  "number": 24,
+  "kind": "exam",
+  "stem": "(24)____ the retention of the reading skill in permanent memory, an entirely different type of memory is required during the active process of reading itself.",
+  "options": [
+   "Thanks to",
+   "In terms of",
+   "On behalf of",
+   "Despite",
+   "According to"
+  ],
+  "answer": 3,
+  "explanation": "Okuma becerisinin kalıcı bellekte tutulmasına 'rağmen' (Despite) - veya orijinal manasıyla kalıcı bellekteki tutulma bir yana / buna karşın - okumanın aktif sürecinde tamamen farklı bir tür bellek (kısa süreli bellek) gereklidir.",
+  "cardIds": [
+   "concession-noun"
+  ],
+  "source": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi) · Soru 24"
+ },
+ {
+  "id": "2017_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "70 percent of the Earth's surface is liquid, ____ water scarcity affects more than a billion people each year.",
+  "options": [
+   "as if",
+   "yet",
+   "given that",
+   "instead",
+   "thus"
+  ],
+  "answer": 1,
+  "explanation": "Dünya yüzeyinin yüzde 70'inin sıvı (su) olmasına karşılık, su kıtlığının bir milyardan fazla insanı etkilemesi bir zıtlık oluşturur. Bu yüzden 'fakat / ancak' anlamındaki 'yet' kullanılır.",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2017_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "Alphabetic writing systems are easy to learn and maximally efficient for transcribing any human language, ____ they are considered one of the major achievements of civilisation.",
+  "options": [
+   "otherwise",
+   "but",
+   "so",
+   "whether",
+   "as"
+  ],
+  "answer": 2,
+  "explanation": "Alfabetik yazı sistemlerinin öğrenmesi kolay ve verimli olması, onların medeniyetin en büyük başarılarından biri olarak kabul edilmesinin 'nedenidir'. Bu sebep-sonuç ilişkisini 'bu yüzden / bu nedenle' anlamındaki 'so' bağlar.",
+  "cardIds": [
+   "result-so"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2017_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "____ historians cannot agree on when gold was first discovered, there is some evidence to suggest that the Egyptians were the first to mine it.",
+  "options": [
+   "Now that",
+   "Just as",
+   "Even though",
+   "As long as",
+   "In case"
+  ],
+  "answer": 2,
+  "explanation": "Tarihçiler altının ilk ne zaman keşfedildiği konusunda hemfikir 'olamamalarına rağmen' (Even though), Mısırlıların onu ilk çıkaranlar olduğunu öne süren kanıtlar vardır (Zıtlık).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2017_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ its similarities with other Italian cities, it is important to emphasise that Venice's aquatic environment and associations with foreign lands via the sea endowed it with a uniqueness.",
+  "options": [
+   "Due to",
+   "By means of",
+   "In terms of",
+   "In case of",
+   "Despite"
+  ],
+  "answer": 4,
+  "explanation": "Diğer İtalyan şehirleriyle olan benzerliklerine 'rağmen' (Despite), Venedik'in su ortamının ona bir benzersizlik kazandırdığını vurgulamak önemlidir.",
+  "cardIds": [
+   "concession-noun"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2017_YDS_1:20",
+  "number": 20,
+  "kind": "exam",
+  "stem": "(20)____, this hardiness comes at a price: the plants are thought to grow just 1.5 cm a year.",
+  "options": [
+   "For instance",
+   "However",
+   "Therefore",
+   "Similarly",
+   "Otherwise"
+  ],
+  "answer": 1,
+  "explanation": "Önceki cümlede bitkinin ne kadar güçlü olduğundan bahsedilmiş, bu cümlede ise bu dayanıklılığın bir bedeli olduğu (yavaş büyümesi) söylenmiştir. Bu zıtlığı 'Ancak' (However) bağlacı sağlar.",
+  "cardIds": [
+   "adv-contrast"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 20"
+ },
+ {
+  "id": "2017_YDS_1:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "According to Catherine Kleier, a researcher from Regis University, Colorado, the llareta became very strong (21)____ a combination of environmental factors (cold at night and hot in the day) and it is compact to trap heat.",
+  "options": [
+   "rather than",
+   "in addition to",
+   "contrary to",
+   "except for",
+   "because of"
+  ],
+  "answer": 4,
+  "explanation": "Bitkinin çok güçlü hale gelmesi çevresel faktörlerin bir kombinasyonu 'yüzünden / sayesinde' (because of) gerçekleşmiştir.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 21"
+ },
+ {
+  "id": "2017_YDS_1:22",
+  "number": 22,
+  "kind": "exam",
+  "stem": "Both Mars and Venus have been objects of scientific and popular speculation since at least the beginning of the 20th century, and since the 1960s spacefaring nations have been sending robotic probes to explore these two planets. (22)____, Mars has drawn far more attention.",
+  "options": [
+   "Accordingly",
+   "Nevertheless",
+   "Furthermore",
+   "That is",
+   "At first"
+  ],
+  "answer": 1,
+  "explanation": "Her iki gezegen de keşfedilmek için araçlar gönderilen hedefler olsa da, 'Buna rağmen / Yine de' (Nevertheless) Mars çok daha fazla ilgi çekmiştir.",
+  "cardIds": [
+   "adv-contrast"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 22"
+ },
+ {
+  "id": "2017_YDS_1:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "Venus is far more Earth-like than Mars in its size, composition and surface gravity, but (26)____ its harsh environment, it could never host life.",
+  "options": [
+   "due to",
+   "instead of",
+   "in comparison to",
+   "unlike",
+   "such as"
+  ],
+  "answer": 0,
+  "explanation": "Venüs boyut olarak Dünya'ya daha çok benzese de, zorlu çevresi 'nedeniyle / yüzünden' (due to) asla hayata ev sahipliği yapamaz.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2017_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Home-grown produce tastes better than grocery store produce ____ it is freshly picked and perfectly ripe, which shines through even when cooked or preserved.",
+  "options": [
+   "although",
+   "whereas",
+   "whether",
+   "because",
+   "unless"
+  ],
+  "answer": 3,
+  "explanation": "Evde yetiştirilen ürünlerin market ürünlerinden daha lezzetli olmasının 'nedeni', taze koparılmış ve tam olgunlaşmış olmasıdır. Bu sebep-sonuç ilişkisini 'because' (çünkü) bağlacı verir.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2017_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ there have been dozens of proposals for gender-neutral third-person pronouns in English over the past two centuries, none has gained acceptance.",
+  "options": [
+   "Now that",
+   "As long as",
+   "In case",
+   "Once",
+   "Even though"
+  ],
+  "answer": 4,
+  "explanation": "İngilizcede cinsiyetsiz üçüncü tekil şahıs zamirleri için onlarca teklif olmasına 'rağmen' (Even though), hiçbirinin kabul görmediği zıtlığı ifade edilmiştir.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2017_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "The story of the cat's domestication is one of mutual appreciation: early farming communities benefited from cats' rodent-catching skills ____ cats won themselves protection and their independence.",
+  "options": [
+   "even if",
+   "in case",
+   "as soon as",
+   "while",
+   "just as"
+  ],
+  "answer": 3,
+  "explanation": "Karşılıklı takdirden (mutual appreciation) bahsediliyor. Erken tarım toplulukları kedilerin kemirgen yakalama yeteneklerinden yararlanır'ken' (while), kediler de kendilerine koruma ve bağımsızlık kazandı. 'While' eş zamanlılık veya karşılaştırma bildirir.",
+  "cardIds": [
+   "time-while"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2017_YDS_2:15",
+  "number": 15,
+  "kind": "exam",
+  "stem": "Heart disease is the number one killer of both men and women ____ physical and occupational differences.",
+  "options": [
+   "in case of",
+   "in spite of",
+   "regardless of",
+   "similar to",
+   "as well as"
+  ],
+  "answer": 2,
+  "explanation": "Fiziksel ve mesleki farklılıklara 'bakılmaksızın / onlardan bağımsız olarak' (regardless of), kalp hastalığı hem erkeklerin hem de kadınların bir numaralı katilidir.",
+  "cardIds": [
+   "regardless-of"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 15"
+ },
+ {
+  "id": "2017_YDS_2:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "In the 1960s, people had greater employment opportunities and a new buying power. (17)____ this growing affluence, music and fashion became mass-market industries and were quick to cater to the demands of the youth market.",
+  "options": [
+   "Instead of",
+   "Rather than",
+   "As a result of",
+   "Contrary to",
+   "Regardless of"
+  ],
+  "answer": 2,
+  "explanation": "Artan zenginliğin/refahın 'bir sonucu olarak' (As a result of), müzik ve moda kitlesel pazar endüstrileri haline geldi ve gençlik pazarının taleplerini karşılamada hızlı davrandı.",
+  "cardIds": [
+   "as-a-result-of"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 17"
+ },
+ {
+  "id": "2017_YDS_2:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "The growing popularity of television helped to spread popular culture throughout the world, (18)____ new trends could develop rapidly.",
+  "options": [
+   "though",
+   "otherwise",
+   "instead",
+   "just as",
+   "so"
+  ],
+  "answer": 4,
+  "explanation": "Televizyonun artan popülaritesi popüler kültürün tüm dünyaya yayılmasına yardımcı oldu, 'böylece / bu yüzden' (so) yeni trendler hızla gelişebildi.",
+  "cardIds": [
+   "result-so"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 18"
+ },
+ {
+  "id": "2017_YDS_2:22",
+  "number": 22,
+  "kind": "exam",
+  "stem": "Since ancient times, architecture has been considered the 'mother' of the arts. (22)____ music, painting, and sculpture that exist in a way separate from life, architecture incorporates life.",
+  "options": [
+   "As well as",
+   "By means of",
+   "As opposed to",
+   "In terms of",
+   "Because of"
+  ],
+  "answer": 2,
+  "explanation": "Yaşamdan ayrı bir şekilde var olan müzik, resim ve heykelin 'aksine' (As opposed to), mimarinin yaşamı kendi içine dahil ettiği vurgulanıyor.",
+  "cardIds": [
+   "unlike"
+  ],
+  "source": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 22"
+ },
+ {
+  "id": "2018_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ there is no consensus among folklorists on how to define folklore nor how to explain the issues of the meaning and the function of it, folklore generally refers to cultural expressions, such as narratives, music, dance, beliefs and festivals.",
+  "options": [
+   "Once",
+   "While",
+   "Until",
+   "As",
+   "In case"
+  ],
+  "answer": 1,
+  "explanation": "Folklorcular arasında tanım ve işlevler üzerine bir fikir birliği olmamasına 'rağmen / oysa' (While), folklor genel olarak belirli kültürel ifadelere atıfta bulunur (Zıtlık ilişkisi).",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 12"
+ },
+ {
+  "id": "2018_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "Industrial nations consume nearly 75 to 80 percent of the fossil fuels burned each year; ____, they are responsible for the majority of greenhouse gas emissions.",
+  "options": [
+   "instead",
+   "on the contrary",
+   "as a result",
+   "for example",
+   "however"
+  ],
+  "answer": 2,
+  "explanation": "Sanayileşmiş ülkelerin her yıl yanan fosil yakıtların %75-80'ini tüketmesi ile sera gazı emisyonlarının çoğundan sorumlu olmaları arasında bir sebep-sonuç ilişkisi vardır. Bu nedenle 'sonuç olarak' (as a result) doğru yanıttır.",
+  "cardIds": [
+   "result-adv"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 13"
+ },
+ {
+  "id": "2018_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Buildings such as the Hagia Sophia in Istanbul, Turkey date back to the sixth century and yet are still standing ____ they are located in earthquake-prone areas.",
+  "options": [
+   "as long as",
+   "unless",
+   "as if",
+   "although",
+   "since"
+  ],
+  "answer": 3,
+  "explanation": "Altıncı yüzyıldan kalma Ayasofya gibi binaların hala ayakta durması ile depreme eğilimli bölgelerde bulunmaları arasında bir zıtlık olduğu için 'rağmen' (although) bağlacı getirilmelidir.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 14"
+ },
+ {
+  "id": "2018_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "The idea of the Internet was initially to provide redundancy of communications ____ a catastrophic event like a nuclear blast, which might destroy a single connection or computer but not the entire network.",
+  "options": [
+   "such as",
+   "on behalf of",
+   "in terms of",
+   "in addition to",
+   "in case of"
+  ],
+  "answer": 4,
+  "explanation": "Nükleer patlama gibi feci bir olay 'durumunda' (in case of) iletişim yedeği / fazlalığı sağlamak internetin ilk amacıydı.",
+  "cardIds": [
+   "in-case"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 16"
+ },
+ {
+  "id": "2018_YDS_1:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "Fossil fuel use is one of the main causes of climate change and the greenhouse effect. (17)____, we must significantly reduce carbon dioxide emissions from activities like heating and transportation.",
+  "options": [
+   "Conversely",
+   "Similarly",
+   "Otherwise",
+   "However",
+   "Therefore"
+  ],
+  "answer": 4,
+  "explanation": "İlk cümlede fosil yakıtların iklim değişikliğinin nedenlerinden biri olduğu, ikinci cümlede ise karbon emisyonlarını önemli ölçüde azaltmamız gerektiği belirtiliyor. Sebep-sonuç bağlayan 'Bu yüzden / Dolayısıyla' (Therefore) uygundur.",
+  "cardIds": [
+   "result-adv"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 17"
+ },
+ {
+  "id": "2018_YDS_1:19",
+  "number": 19,
+  "kind": "exam",
+  "stem": "Another important step is to reduce our individual energy footprint. For example, driving a car places a particularly high burden on the environment (19)____ the carbon dioxide emissions into the air.",
+  "options": [
+   "regardless of",
+   "rather than",
+   "as opposed to",
+   "due to",
+   "in spite of"
+  ],
+  "answer": 3,
+  "explanation": "Araba kullanmanın çevreye büyük bir yük bindirmesinin sebebi, havaya salınan karbondioksit emisyonlarıdır. Sebep bildiren edat 'yüzünden / sebebiyle' (due to) şeklindedir.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 19"
+ },
+ {
+  "id": "2018_YDS_1:23",
+  "number": 23,
+  "kind": "exam",
+  "stem": "But most of these tempters can also be reversed to make us slimmer and healthier.. (23)____ there are many solutions to mindless eating, most of them will go undiscovered because if we have a problem with our diet, we tend to focus on food itself, not on our surroundings.",
+  "options": [
+   "Given that",
+   "Just as",
+   "Before",
+   "Unless",
+   "Although"
+  ],
+  "answer": 4,
+  "explanation": "Düşüncesizce yemenin pek çok çözümü olmasına 'rağmen' (Although), gıdaya odaklanıp çevremize dikkat etmediğimiz için bu çözümlerin çoğu keşfedilmemiş olarak kalacaktır (Zıtlık).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 23"
+ },
+ {
+  "id": "2018_YDS_1:25",
+  "number": 25,
+  "kind": "exam",
+  "stem": "Research has found subtle ways to change our homes, workplaces, schools, or modify our approach to restaurant dining and grocery shopping, so we mindlessly eat less (25)____ eating more.",
+  "options": [
+   "due to",
+   "instead of",
+   "with regard to",
+   "in terms of",
+   "together with"
+  ],
+  "answer": 1,
+  "explanation": "Daha fazla yemek 'yerine' (instead of), farkında olmadan daha az yiyeceğimiz yollardan bahsedilmektedir.",
+  "cardIds": [
+   "instead-of"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) · Soru 25"
+ },
+ {
+  "id": "2018_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Most cheesemakers believe that the brilliant nuances of flavour found in raw milk, with its naturally present 'good' bacteria, simply cannot be duplicated in a pasteurised milk cheese ____ some well-respected cheeses, including British Stilton, are made only from pasteurised milk.",
+  "options": [
+   "now that",
+   "after",
+   "although",
+   "because",
+   "only if"
+  ],
+  "answer": 2,
+  "explanation": "Çiğ sütün lezzetinin pastörize sütte taklit edilemeyeceğine inanılmasına 'rağmen' (although), bazı saygın peynirlerin sadece pastörize sütten yapılması bir zıtlık oluşturur.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2018_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "Surprisingly, the symbol for zero emerged later than the concepts for other numbers, and ____ the Babylonians used a symbol for zero, it was merely a placeholder and not used for computational purposes.",
+  "options": [
+   "just as",
+   "as if",
+   "in case",
+   "because",
+   "even though"
+  ],
+  "answer": 4,
+  "explanation": "Babilliler sıfır için bir sembol kullanmalarına 'rağmen' (even though), bunun sadece yer tutucu olması ve hesaplama amacıyla kullanılmaması zıtlık bağlacı gerektirir.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2018_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Studies have found that the effects of a cup of coffee or a glass of cola are noticeable after just 10 minutes ____ the peak caffeine concentration in the blood occurs after 45 minutes.",
+  "options": [
+   "since",
+   "but",
+   "provided that",
+   "as",
+   "unless"
+  ],
+  "answer": 1,
+  "explanation": "Etkilerin sadece 10 dakika sonra fark edilebilmesi 'fakat / ancak' (but) kandaki en yüksek kafein yoğunluğunun 45 dakika sonra meydana gelmesi zıtlığını belirtir.",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2018_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ its notoriety as a naval weapon, the modern torpedo was developed in landlocked Austria, or rather in what was then the Austrian Empire stretching down to the Adriatic.",
+  "options": [
+   "Along with",
+   "Instead of",
+   "Despite",
+   "Because of",
+   "Thanks to"
+  ],
+  "answer": 2,
+  "explanation": "Bir donanma silahı olarak kötü şöhretine 'rağmen' (Despite), denize kıyısı olmayan (landlocked) Avusturya'da geliştirilmesi bir tezat oluşturur.",
+  "cardIds": [
+   "concession-noun"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2018_YDS_2:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "We know the rules are there (18)____ the way the speakers behave. They use similar structures...",
+  "options": [
+   "because of",
+   "despite",
+   "contrary to",
+   "instead of",
+   "similar to"
+  ],
+  "answer": 0,
+  "explanation": "Konuşmacıların davranış biçimleri 'yüzünden / sayesinde / sebebiyle' (because of) o kuralların orada olduğunu biliyoruz.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 18"
+ },
+ {
+  "id": "2018_YDS_2:20",
+  "number": 20,
+  "kind": "exam",
+  "stem": "If you hear the sentence for \"Give me some water.\" in a rarely spoken language such as Spelitzian, you can be pretty sure you can use the same pattern for \"Give me some food.\", (20)____ there are other possible patterns as well.",
+  "options": [
+   "provided",
+   "once",
+   "in case",
+   "because",
+   "even if"
+  ],
+  "answer": 4,
+  "explanation": "Başka olası kalıplar 'olsa bile' (even if) aynı kalıbı yiyecek istemek için de kullanabileceğinizden emin olabilirsiniz.",
+  "cardIds": [
+   "even-if"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 20"
+ },
+ {
+  "id": "2018_YDS_2:23",
+  "number": 23,
+  "kind": "exam",
+  "stem": "(23)____, another element, cobalt, is a bigger concern. The best lithium battery cathodes (negative electrodes) all contain cobalt, and its production is limited.",
+  "options": [
+   "Consequently",
+   "In conclusion",
+   "At least",
+   "However",
+   "Otherwise"
+  ],
+  "answer": 3,
+  "explanation": "Lityum arzıyla ilgili endişelerden bahsedildikten sonra, 'Ancak' (However) kobaltın daha büyük bir endişe kaynağı olduğuna geçiş yapılmıştır.",
+  "cardIds": [
+   "adv-contrast"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE · Soru 23"
+ },
+ {
+  "id": "2018_YDS_3:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Scientists have grown more aware of the social implications of their work ____ people have become more conscious of the ways in which science and technology affect their lives.",
+  "options": [
+   "but",
+   "in case",
+   "just as",
+   "only if",
+   "unless"
+  ],
+  "answer": 2,
+  "explanation": "İnsanların bilim ve teknolojinin hayatlarını nasıl etkilediğinin daha fazla farkına varmalarıyla 'aynı anda / tıpkı onun gibi' (just as) bilim insanları da çalışmalarının etkilerinin farkına varmıştır.",
+  "cardIds": [
+   "just-as"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2018_YDS_3:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ the organic food industry is relatively small and new, it is important that consumers become aware of its claims, limitations, and potential benefits.",
+  "options": [
+   "Just as",
+   "Once",
+   "Unless",
+   "Even if",
+   "Until"
+  ],
+  "answer": 3,
+  "explanation": "Organik gıda endüstrisi nispeten küçük ve yeni olsa 'bile / rağmen' (Even if), tüketicilerin bunun fayda ve sınırlarının farkına varması önemlidir zıtlığı kurulmuştur.",
+  "cardIds": [
+   "even-if"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2018_YDS_3:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Early conceptualisations of acculturation described an interpersonal transformation that occurs ____ cultures come into sustained contact.",
+  "options": [
+   "whereas",
+   "when",
+   "as",
+   "even though",
+   "in case"
+  ],
+  "answer": 1,
+  "explanation": "Kültürleşmenin erken kavramsallaştırmaları, kültürler sürekli temas haline 'geldiğinde' (when) meydana gelen bir dönüşümü tanımlamıştır.",
+  "cardIds": [
+   "time-while"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2018_YDS_3:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ expansion west across the Mississippi River to the Pacific coast, settlers from Europe were brought into conflict with Native American tribes who lived in the area, upon whose lands the settlers were encroaching.",
+  "options": [
+   "Rather than",
+   "Along with",
+   "As opposed to",
+   "Unlike",
+   "Due to"
+  ],
+  "answer": 4,
+  "explanation": "Mississippi Nehri'nin batısına doğru olan genişleme 'yüzünden / sebebiyle' (Due to) Avrupalı yerleşimciler Kızılderili kabileleriyle çatışmaya girmişlerdir.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2018_YDS_3:19",
+  "number": 19,
+  "kind": "exam",
+  "stem": "When he asked a colleague if plastic might be used to store carbonated beverages (19)____ coke, he was told that they would explode.",
+  "options": [
+   "contrary to",
+   "rather than",
+   "by means of",
+   "such as",
+   "in terms of"
+  ],
+  "answer": 3,
+  "explanation": "Kola 'gibi' (such as) karbonatlı içecekler şeklinde bir örneklendirme yapılmıştır.",
+  "cardIds": [
+   "for-example"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 19"
+ },
+ {
+  "id": "2018_YDS_3:21",
+  "number": 21,
+  "kind": "exam",
+  "stem": "(21)____ initial results were far from successful and it took 10,000 attempts to solve that problem, he finally replaced the nylon with polyethylene-terphathalate (PET)...",
+  "options": [
+   "Since",
+   "As long as",
+   "In order that",
+   "Although",
+   "In case"
+  ],
+  "answer": 3,
+  "explanation": "İlk sonuçlar başarılı olmaktan uzak 'olmasına rağmen' (Although), sonunda naylonu PET ile değiştirmeyi başardı.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 21"
+ },
+ {
+  "id": "2018_YDS_3:24",
+  "number": 24,
+  "kind": "exam",
+  "stem": "(24)____ using cables and signal boosters, he connected the antenna to his appliance store.",
+  "options": [
+   "until",
+   "though",
+   "thus",
+   "after",
+   "but"
+  ],
+  "answer": 3,
+  "explanation": "Kabloları ve sinyal güçlendiricileri 'kullandıktan sonra' (After) anteni mağazasına bağladığı olayların sırasını belirtir.",
+  "cardIds": [
+   "time-after"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 24"
+ },
+ {
+  "id": "2018_YDS_3:25",
+  "number": 25,
+  "kind": "exam",
+  "stem": "Along the way he dropped the signal directly off at his customers' homes, (25)____ creating the first community antenna television system.",
+  "options": [
+   "until",
+   "though",
+   "thus",
+   "after",
+   "but"
+  ],
+  "answer": 2,
+  "explanation": "Sinyali müşterilerin evlerine bırakarak, 'böylece' (thus) ilk topluluk anten televizyon sistemini yarattığı bir sonuç/çıkarım bildirir.",
+  "cardIds": [
+   "result-adv"
+  ],
+  "source": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE · Soru 25"
+ },
+ {
+  "id": "2019_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ Renaissance art evolved from a common set of principles, it took many directions and changed considerably in the following centuries.",
+  "options": [
+   "instead",
+   "provided that",
+   "but",
+   "for",
+   "so"
+  ],
+  "answer": 2,
+  "explanation": "Rönesans sanatı ortak bir dizi ilkeden evrimleşmiş 'olsa da / ama' (but - Although anlamı verecek şekilde cümleye yedirilmiş zıtlık), sonraki yüzyıllarda birçok yöne kaymış ve önemli ölçüde değişmiştir.",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2019_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ palaeontologists still like to argue about what role the asteroid played in the dinosaur extinction, there really is not much of a mystery left.",
+  "options": [
+   "Once",
+   "In case",
+   "Given that",
+   "Although",
+   "Because"
+  ],
+  "answer": 3,
+  "explanation": "Paleontologlar asteroidin rolü hakkında tartışmayı hala sevseler de (Although), geriye pek bir gizem kalmamıştır şeklinde bir zıtlık ilişkisi vardır.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2019_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "To psychology professionals, the name Anne Anastasi is synonymous with psychometrics, ____ it was she who pioneered understanding how psychological traits are influenced, developed, and measured.",
+  "options": [
+   "so",
+   "even if",
+   "while",
+   "yet",
+   "since"
+  ],
+  "answer": 4,
+  "explanation": "Anne Anastasi adının psikometri ile eşanlamlı olmasının sebebi (because/since), psikolojik özelliklerin nasıl etkilendiğini anlamaya öncülük etmesidir. Burada sebep bildiren bir bağlaç gereklidir.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2019_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "Although genetically modified seed is more expensive than conventional equivalents, the extra cost can be seen as an insurance policy against crop losses ____ weeds or pests.",
+  "options": [
+   "contrary to",
+   "due to",
+   "in terms of",
+   "despite",
+   "along with"
+  ],
+  "answer": 1,
+  "explanation": "Yabani otlar veya haşerelerden 'kaynaklanan / dolayı' meydana gelen ekin kayıpları anlamını katmak için 'due to' edatı kullanılır.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2019_YDS_1:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "Today the deadly poliomyelitis virus is only endemic to four countries Afghanistan, India, Nigeria, and Pakistan. This is (17)____ the groundbreaking research undertaken by doctor and biologist Jonas Salk.",
+  "options": [
+   "rather than",
+   "such as",
+   "thanks to",
+   "except for",
+   "along with"
+  ],
+  "answer": 2,
+  "explanation": "Çocuk felci virüsünün sadece birkaç ülkeyle sınırlı kalması, Jonas Salk'ın çığır açan araştırması 'sayesinde' (thanks to) gerçekleşmiştir.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 17"
+ },
+ {
+  "id": "2019_YDS_1:19",
+  "number": 19,
+  "kind": "exam",
+  "stem": "The virus was deadly in 5 to 10 percent of cases where patients became paralysed, and (19)____ were unable to breathe.",
+  "options": [
+   "even so",
+   "thus",
+   "conversely",
+   "instead",
+   "otherwise"
+  ],
+  "answer": 1,
+  "explanation": "Hastalar felç oluyorlar ve 'bu yüzden / böylece' (thus) nefes alamıyorlardı. Sebep-sonuç bağlamı vardır.",
+  "cardIds": [
+   "result-adv"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 19"
+ },
+ {
+  "id": "2019_YDS_1:22",
+  "number": 22,
+  "kind": "exam",
+  "stem": "Indian mythology considers snakes to be the 'bringers of life', (22)____ the Bible tells the story of a snake as the first deceiver.",
+  "options": [
+   "once",
+   "while",
+   "otherwise",
+   "on",
+   "therefore"
+  ],
+  "answer": 1,
+  "explanation": "Hint mitolojisi yılanları yaşam getiren olarak kabul eder'ken' (while), İncil yılanı ilk aldatıcı olarak anlatır diyerek bir zıtlık / karşılaştırma yapılmıştır.",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE · Soru 22"
+ },
+ {
+  "id": "2019_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ immigrants to North America's new colonies were primarily British in the 17th and 18th centuries, significant numbers of people of other nationalities also established a presence in the Americas.",
+  "options": [
+   "Because",
+   "While",
+   "As long as",
+   "Provided that",
+   "Once"
+  ],
+  "answer": 1,
+  "explanation": "Göçmenlerin çoğunlukla İngiliz 'olmasına rağmen' (While), diğer milletlerden insanların da orada varlık gösterdiği zıtlığı işlenmiştir.",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 2 (2019-YDS/2) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2019_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "Not much had been accomplished with the phenomena of magnetism and static electricity ____ the Chinese began to use the magnetic compass for navigation around 1000 AD.",
+  "options": [
+   "in case",
+   "while",
+   "until",
+   "if",
+   "as soon as"
+  ],
+  "answer": 2,
+  "explanation": "Çinliler MS 1000 civarında manyetik pusulayı kullanmaya başlayana 'kadar' (until) manyetizma ve statik elektrik alanında pek bir şey başarılamamıştı.",
+  "cardIds": [
+   "time-until"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 2 (2019-YDS/2) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2019_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Liquid water covers more than two-thirds of the Blue Planet's surface, ____ exactly how it got there has always been puzzling.",
+  "options": [
+   "so",
+   "instead",
+   "but",
+   "otherwise",
+   "as"
+  ],
+  "answer": 2,
+  "explanation": "Sıvı su gezegenin üçte ikisini kaplar 'fakat' (but) oraya tam olarak nasıl geldiği hep kafa karıştırıcı olmuştur (zıtlık).",
+  "cardIds": [
+   "but"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 2 (2019-YDS/2) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2019_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "Having a geopolitical significance ____ its unique aspect of dividing two continents, the Bosphorus stands among distinguished landmarks of Istanbul.",
+  "options": [
+   "similar to",
+   "in spite of",
+   "in place of",
+   "along with",
+   "rather than"
+  ],
+  "answer": 3,
+  "explanation": "İki kıtayı ayırma yönündeki benzersiz yönüyle 'birlikte / yanı sıra' (along with) jeopolitik bir öneme sahip olan İstanbul Boğazı.",
+  "cardIds": [
+   "along-with"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 2 (2019-YDS/2) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2019_YDS_2:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "Most cultures have particular dress for ceremonial occasions and life celebrations. (26)____ dress holds a central role in ritual, social, and political life.",
+  "options": [
+   "For example",
+   "Instead",
+   "However",
+   "Otherwise",
+   "Therefore"
+  ],
+  "answer": 4,
+  "explanation": "Törensel giysilerin olduğu gerçeğinden hareketle, 'Bu nedenle / Dolayısıyla' (Therefore) kıyafet sosyal ve politik hayatta merkezi bir role sahiptir çıkarımı yapılmıştır.",
+  "cardIds": [
+   "result-adv"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 2 (2019-YDS/2) İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2019_YDS_3:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "Among the drawbacks of aging is a creeping tendency to put on weight, ____ our resting metabolism slows down - by roughly 1 to 2 percent every decade.",
+  "options": [
+   "but",
+   "since",
+   "as if",
+   "if only",
+   "even if"
+  ],
+  "answer": 1,
+  "explanation": "Yaşlanmanın dezavantajları arasında kilo alma eğilimi vardır, 'çünkü / olduğu için' (since) dinlenme metabolizmamız yavaşlar. (Sebep-sonuç ilişkisi).",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 3 (2019-YDS/3) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2019_YDS_3:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "Surpassed by tennis in the 19th century, croquet is today more of a recreational activity than competitive sport ____ intense competition has not disappeared entirely in croquet clubs.",
+  "options": [
+   "just as",
+   "even though",
+   "provided that",
+   "so that",
+   "as long as"
+  ],
+  "answer": 1,
+  "explanation": "Günümüzde kroket rekabetçi bir spordan ziyade eğlence aktivitesi olmasına 'rağmen' (even though), kroket kulüplerinde yoğun rekabet tamamen ortadan kalkmamıştır (Zıtlık ilişkisi).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 3 (2019-YDS/3) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2019_YDS_3:19",
+  "number": 19,
+  "kind": "exam",
+  "stem": "But younger mice aged prematurely. Such experiments suggest that (19)____ young blood can be restorative, there is something in old blood that is actively harmful.",
+  "options": [
+   "while",
+   "until",
+   "when",
+   "as soon as",
+   "after"
+  ],
+  "answer": 0,
+  "explanation": "Genç kan onarıcı 'olabilirken / olmasına rağmen' (while), yaşlı kanda aktif olarak zararlı olan bir şey vardır (Zıtlık).",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 3 (2019-YDS/3) İNGİLİZCE · Soru 19"
+ },
+ {
+  "id": "2019_YDS_3:23",
+  "number": 23,
+  "kind": "exam",
+  "stem": "The nearest exit might still be many kilometres away. The solution is that, (23)____ a fire, two emergency stations will allow trains to cross over from one tunnel to the other.",
+  "options": [
+   "instead of",
+   "by means of",
+   "apart from",
+   "in case of",
+   "as well as"
+  ],
+  "answer": 3,
+  "explanation": "Bir yangın 'durumunda' (in case of), iki acil durum istasyonu trenlerin bir tünelden diğerine geçmesine izin verecektir.",
+  "cardIds": [
+   "in-case"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 3 (2019-YDS/3) İNGİLİZCE · Soru 23"
+ },
+ {
+  "id": "2019_YDS_3:24",
+  "number": 24,
+  "kind": "exam",
+  "stem": "(24)____, there are escape routes to a connecting corridor every 325 metres.",
+  "options": [
+   "To sum up",
+   "In other words",
+   "On the contrary",
+   "However",
+   "In addition"
+  ],
+  "answer": 4,
+  "explanation": "Tüneller arası geçiş istasyonlarının varlığına 'ek olarak' (In addition), her 325 metrede bir kaçış rotaları bulunmaktadır.",
+  "cardIds": [
+   "addition-adv"
+  ],
+  "source": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 3 (2019-YDS/3) İNGİLİZCE · Soru 24"
+ },
+ {
+  "id": "2020_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ electricity and heat account for 41 percent of global carbon dioxide emissions today, curbing climate change will require satisfying that much demand with renewables rather than fossil fuels.",
+  "options": [
+   "Since",
+   "While",
+   "Until",
+   "Unless",
+   "As if"
+  ],
+  "answer": 0,
+  "explanation": "Elektrik ve ısı, emisyonların yüzde 41'ini oluşturduğu 'için/nedeniyle' (Since), iklim değişikliğini engellemek yenilenebilir enerjiyi gerektirecektir (Sebep-Sonuç ilişkisi).",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2020_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ all dogs show signs of having 'theory of mind', which enables them to grasp that we think differently from them, it is unlikely that they are capable of extending this to knowing the reason why one person behaves differently to another.",
+  "options": [
+   "In case",
+   "Only if",
+   "As far as",
+   "Given that",
+   "Even though"
+  ],
+  "answer": 4,
+  "explanation": "Tüm köpekler zihin kuramına sahip olma belirtileri gösterse 'de / rağmen' (Even though), bu durumu bir kişinin diğerinden neden farklı davrandığını bilecek kadar genişletebilmeleri pek olası değildir (Zıtlık ilişkisi).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2020_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "____ there are hundreds of school-and community-based aggression prevention and skills promotion programmes, only a few of these appear to be effective.",
+  "options": [
+   "Provided that",
+   "Since",
+   "Although",
+   "Just as",
+   "Unless"
+  ],
+  "answer": 2,
+  "explanation": "Yüzlerce program 'olmasına rağmen' (Although), sadece birkaç tanesi etkili görünmektedir (Zıtlık ilişkisi).",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2020_YDS_1:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "____ the Sun's constant stream of energy, water molecules are continually evaporating from the surfaces of oceans and lakes, adding to the water vapour in the air.",
+  "options": [
+   "Rather than",
+   "Thanks to",
+   "As opposed to",
+   "In terms of",
+   "Unlike"
+  ],
+  "answer": 1,
+  "explanation": "Güneş'in sürekli enerji akışı 'sayesinde / yüzünden' (Thanks to) su molekülleri sürekli olarak buharlaşır.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2020_YDS_1:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "Craft specialisation developed, trade flourished, writing began, and rulers were often given elaborate burials. (18)____, each civilisation also had unique features rooted in its own cultural background and environment.",
+  "options": [
+   "Instead",
+   "However",
+   "For instance",
+   "Otherwise",
+   "That is"
+  ],
+  "answer": 1,
+  "explanation": "Bir önceki cümlede medeniyetlerin ortak/genel gelişimi sayılırken, burada 'bununla birlikte / ancak' (However) her medeniyetin kendine has özellikleri de vardı diyerek zıtlık kurulur.",
+  "cardIds": [
+   "adv-contrast"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 18"
+ },
+ {
+  "id": "2020_YDS_1:25",
+  "number": 25,
+  "kind": "exam",
+  "stem": "Many lakes have become polluted (25)____ the chemicals added by household wastewater and the overfertilisation with phosphates in agriculture.",
+  "options": [
+   "except for",
+   "because of",
+   "contrary to",
+   "rather than",
+   "in pursuit of"
+  ],
+  "answer": 1,
+  "explanation": "Birçok göl, evsel atıksular ve aşırı gübreleme tarafından eklenen kimyasallar 'yüzünden / sebebiyle' (because of) kirlenmiştir.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 25"
+ },
+ {
+  "id": "2020_YDS_1:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "(26)____, unknown effluents from industry and acid rain add to the acidification of water bodies, which contributes to the decrease of biodiversity.",
+  "options": [
+   "For instance",
+   "Therefore",
+   "Even so",
+   "Moreover",
+   "Instead"
+  ],
+  "answer": 3,
+  "explanation": "Sayılan kirlilik sebeplerine ek olarak 'ayrıca/dahası' (Moreover) sanayi atıkları ve asit yağmuru da suların asitlenmesine katkıda bulunur.",
+  "cardIds": [
+   "addition-adv"
+  ],
+  "source": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2021_YDS_1:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ certain types of fungi have been used throughout history for a variety of beneficial purposes, others have been found to contain dangerous toxins that are poisonous to humans.",
+  "options": [
+   "Once",
+   "Although",
+   "Since",
+   "Provided that",
+   "Only when"
+  ],
+  "answer": 1,
+  "explanation": "Bazı mantarların faydalı olması ile diğerlerinin zehirli olması arasındaki karşıtlığı 'Although' (rağmen) bağlacı en iyi şekilde sağlar.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2021_YDS_1:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ such an intimate connection existed between agricultural intensification and the appearance of cities, it is not surprising that the earliest evidence for cities comes from regions with ancient agricultural traditions.",
+  "options": [
+   "Because",
+   "As if",
+   "Before",
+   "Although",
+   "While"
+  ],
+  "answer": 0,
+  "explanation": "Şehirlerin ortaya çıkması ile tarım arasındaki yakın bağlantının varlığı, ilk kanıtların tarım bölgelerinden gelmesinin 'nedenidir'. 'Because' (-dığı için, çünkü) bu sebep-sonuç ilişkisini kurar.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2021_YDS_1:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "____ children can be easy targets for exploitation and victimization, supervision is a necessary component of any Internet safety.",
+  "options": [
+   "Even if",
+   "Although",
+   "Since",
+   "Before",
+   "Unless"
+  ],
+  "answer": 2,
+  "explanation": "Çocukların kolay hedef 'olduğu için' internet güvenliğinin gerekli olduğu anlatılmaktadır. Bu neden-sonuç ilişkisini 'Since' (-dığı için, çünkü) bağlacı verir.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2021_YDS_1:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)____ the many social changes inspired by that upheaval.",
+  "options": [
+   "unlike",
+   "despite",
+   "due to",
+   "instead of",
+   "except for"
+  ],
+  "answer": 2,
+  "explanation": "Modernitenin Fransız Devrimi ile başlamasının ardındaki nedenlerden bahsediliyor. 'due to' (-den dolayı) ifadesi, devrimin ilham verdiği sosyal değişiklikler sebebiyle bu durumun yaşandığını belirtir.",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 17"
+ },
+ {
+  "id": "2021_YDS_1:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "It is also because of the political change, marking the break between the former regime and modernity (18)____ the French Revolution represents the beginning of modern political culture.",
+  "options": [
+   "as if",
+   "because",
+   "although",
+   "once",
+   "unless"
+  ],
+  "answer": 1,
+  "explanation": "Bir önceki fikri destekleyen başka bir nedeni (because of) açıklıyor. Siyasi değişim sebebiyle ve ayrıca devrimin siyasi kültürün başlangıcını temsil ettiği 'için' (because) böyledir.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 18"
+ },
+ {
+  "id": "2021_YDS_1:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)____ some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+  "options": [
+   "given that",
+   "only when",
+   "even though",
+   "as long as",
+   "as if"
+  ],
+  "answer": 2,
+  "explanation": "Filmin sanatsal olarak çok başarılı bir noktaya gelmesi ile bazı kişilerin filmin suçluları aşırı sempatik gösterdiğini eleştirmesi arasında zıtlık vardır. 'Even though' (-e rağmen) bu zıtlığı bağlar.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2021_YDS_2:12",
+  "number": 12,
+  "kind": "exam",
+  "stem": "____ certain types of fungi have been used throughout history for a variety of beneficial purposes, others have been found to contain dangerous toxins that are poisonous to humans.",
+  "options": [
+   "Once",
+   "Although",
+   "Since",
+   "Provided that",
+   "Only when"
+  ],
+  "answer": 1,
+  "explanation": "Bazı mantar türleri faydalıyken diğerlerinin zehirli olması bir zıtlık belirtir, bu nedenle 'Although' (rağmen) kullanılır.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 12"
+ },
+ {
+  "id": "2021_YDS_2:13",
+  "number": 13,
+  "kind": "exam",
+  "stem": "____ such an intimate connection existed between agricultural intensification and the appearance of cities, it is not surprising that the earliest evidence for cities comes from regions with ancient agricultural traditions.",
+  "options": [
+   "Because",
+   "As if",
+   "Before",
+   "Although",
+   "While"
+  ],
+  "answer": 0,
+  "explanation": "Tarımın yoğunlaşması ile şehirlerin ortaya çıkması arasında bağlantı 'olduğu için/çünkü' (Because), en eski kanıtların tarım bölgelerinden gelmesi şaşırtıcı değildir.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 13"
+ },
+ {
+  "id": "2021_YDS_2:14",
+  "number": 14,
+  "kind": "exam",
+  "stem": "____ children can be easy targets for exploitation and victimization, supervision is a necessary ____ of any Internet safety.",
+  "options": [
+   "Even if",
+   "As if",
+   "Since",
+   "Until",
+   "Unless"
+  ],
+  "answer": 2,
+  "explanation": "Çocuklar sömürü ve mağduriyet için kolay hedefler 'olduğu için/olduğundan' (Since), gözetim gereklidir.",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 14"
+ },
+ {
+  "id": "2021_YDS_2:17",
+  "number": 17,
+  "kind": "exam",
+  "stem": "According to classical Western historiography, modernity begins in 1789 with the advent of the French Revolution. This is, perhaps, not entirely (17)____ the many social changes inspired by that upheaval.",
+  "options": [
+   "unlike",
+   "despite",
+   "due to",
+   "instead of",
+   "except for"
+  ],
+  "answer": 2,
+  "explanation": "Bu durum, Fransız Devrimi'nin ilham verdiği pek çok sosyal değişiklikten 'kaynaklanmaktadır / dolayıdır' (due to).",
+  "cardIds": [
+   "cause-noun"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 17"
+ },
+ {
+  "id": "2021_YDS_2:18",
+  "number": 18,
+  "kind": "exam",
+  "stem": "It is also because of the political change, marking the break between the former regime and modernity (18)____ the French Revolution represents the beginning of modern political culture.",
+  "options": [
+   "as if",
+   "because",
+   "although",
+   "once",
+   "unless"
+  ],
+  "answer": 1,
+  "explanation": "Siyasi değişim 'yüzünden'dir ki Fransız Devrimi modern siyasi kültürün başlangıcını temsil eder, 'çünkü' (because).",
+  "cardIds": [
+   "cause-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 18"
+ },
+ {
+  "id": "2021_YDS_2:26",
+  "number": 26,
+  "kind": "exam",
+  "stem": "Martin Scorsese sustains the fast tempo of the tale to an exciting, artful climax, (26)____ some questioned whether Goodfellas glamorised or made criminals appear too sympathetic.",
+  "options": [
+   "given that",
+   "only when",
+   "even though",
+   "as long as",
+   "as if"
+  ],
+  "answer": 2,
+  "explanation": "Scorsese harika bir tempo yakalasa da ('buna rağmen' - even though), bazıları filmin suçluları çok sempatik gösterip göstermediğini sorguladı.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE · Soru 26"
+ },
+ {
+  "id": "2022_YDS_1:2",
+  "number": 2,
+  "kind": "exam",
+  "stem": "____ even kings and high statesmen have a daily life, when that concept is used in history, it refers to the lives of the ordinary people who became the protagonists of much historiography in the late 20th century.",
+  "options": [
+   "Whether",
+   "Seeing that",
+   "While",
+   "Unless",
+   "Until"
+  ],
+  "answer": 2,
+  "explanation": "Cümlede kralların ve üst düzey devlet adamlarının günlük yaşantıları olması gerçeği ile, tarih yazımında 'günlük yaşam' kavramının daha çok sıradan insanların hayatlarına atıfta bulunması arasında bir zıtlık ve karşılaştırma ilişkisi kurulmaktadır. 'While' bağlacı '-iken' veya 'olmasına rağmen' anlamı katarak bu karşıtlık ilişkisini (krallar/devlet adamları vs. sıradan insanlar) en doğru şekilde sağlar. Whether (olup olmadığı), Seeing that (mademki), Unless (-medikçe) ve Until (-e kadar) bu anlamı veremez.",
+  "cardIds": [
+   "contrast-clause"
+  ],
+  "source": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2022-YDS/1) İNGİLİZCE · Soru 2"
+ },
+ {
+  "id": "2022_YDS_2:16",
+  "number": 16,
+  "kind": "exam",
+  "stem": "In many countries today, professions that traditionally were dominated by males, such as law, medicine, and engineering, are becoming more balanced ____ gender.",
+  "options": [
+   "in case of",
+   "in terms of",
+   "as a result of",
+   "as opposed to",
+   "thanks to"
+  ],
+  "answer": 1,
+  "explanation": "Cümlede günümüzde geleneksel olarak erkeklerin egemen olduğu mesleklerin cinsiyet 'bakımından' veya cinsiyet 'açısından' daha dengeli hale geldiği belirtilmektedir. 'In terms of' ifadesi -açısından, -bakımından anlamına gelerek boşluğa en uygun düşen yapıdır.",
+  "cardIds": [
+   "in-terms-of"
+  ],
+  "source": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2022-YDS/2) İNGİLİZCE · Soru 16"
+ },
+ {
+  "id": "2023_YDS_1:2",
+  "number": 2,
+  "kind": "exam",
+  "stem": "It is a strange twist of fate that both the Ötzi, an ancient iceman, and Helmut Simon were found dead on the ice ____ Helmut Simon was the man who discovered the Ötzi’s remains in 1991.",
+  "options": [
+   "until",
+   "given that",
+   "only when",
+   "unless",
+   "provided that"
+  ],
+  "answer": 1,
+  "explanation": "Cümlede, eski bir buz adamı olan Ötzi ve Helmut Simon'ın buz üzerinde ölü bulunmalarının garip bir kader cilvesi olduğundan bahsedilmektedir. Boşluktan sonraki cümlede 'Helmut Simon'ın 1991'de Ötzi'nin kalıntılarını keşfeden adam olduğu' gerçeği verilmektedir. Bu iki durumu birbirine bağlayıp söz konusu olayı 'garip bir kader cilvesi' (strange twist of fate) olarak mantıklı kılan bağlaç, '-dığı göz önüne alındığında, mademki' anlamına gelen 'given that' bağlacıdır. Diğer bağlaçlar cümlenin kurgusunda anlamlı bir neden-sonuç/durum ilişkisi kuramaz.",
+  "cardIds": [
+   "cause-given"
+  ],
+  "source": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2023-YDS/1) İNGİLİZCE · Soru 2"
+ },
+ {
+  "id": "2023_YDS_2:2",
+  "number": 2,
+  "kind": "exam",
+  "stem": "____ recent droughts and urbanisation have challenged the traditional lifestyle of the Sahara Desert's Tuareg people, many still practice nomadism, with communities still moving locations over the vast spaces.",
+  "options": [
+   "Although",
+   "In case",
+   "Because",
+   "As long as",
+   "Until"
+  ],
+  "answer": 0,
+  "explanation": "Cümlede zıtlık bildiren bir durum söz konusudur. Kuraklık ve kentleşmenin Sahra Çölü'ndeki Tuareg halkının geleneksel yaşam tarzına meydan okumasına 'rağmen', birçoğunun hâlâ göçebelik yaptığı ifade edilmektedir. Bu nedenle 'rağmen' veya '-e karşın' anlamına gelen 'Although' bağlacı doğru cevaptır.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2023-YDS/2) İNGİLİZCE · Soru 2"
+ },
+ {
+  "id": "2026_YDS_1:2",
+  "number": 2,
+  "kind": "exam",
+  "stem": "____ ground-breaking discoveries in scientific papers are curated to be succinct and organised, the journey to get there is full of surprises, failures, and perseverance with which every scientist can connect.",
+  "options": [
+   "As if",
+   "Since",
+   "In case",
+   "Even though",
+   "As long as"
+  ],
+  "answer": 3,
+  "explanation": "Cümlede bilimsel makalelerdeki çığır açan keşiflerin kısa ve düzenli olması ile bu noktaya gelene kadar yaşanan sürecin sürprizler ve başarısızlıklarla dolu olması arasında bir zıtlık kurulmaktadır. 'Even though' (rağmen / -sa bile) bağlacı bu zıtlığı anlamsal olarak kusursuz bir şekilde sağlar.",
+  "cardIds": [
+   "concession-clause"
+  ],
+  "source": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2026-YDS/1) İNGİLİZCE · Soru 2"
+ }
+]
