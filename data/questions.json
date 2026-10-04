@@ -1,0 +1,818 @@
+[
+  {
+    "id": "q001",
+    "cardIds": [
+      "concession-clause"
+    ],
+    "stem": "The committee declined to revise the regulation ____ it had received numerous complaints.",
+    "options": [
+      "despite",
+      "in spite of",
+      "even though",
+      "because of",
+      "therefore"
+    ],
+    "answer": 2,
+    "explanation": "Boşluktan sonra tam cümle (it had received ...) var ve zıtlık anlamı isteniyor. Despite / In spite of isim alır; Even though tam cümle alır."
+  },
+  {
+    "id": "q002",
+    "cardIds": [
+      "concession-noun"
+    ],
+    "stem": "____ the unfavourable weather conditions, the expedition reached the summit on schedule.",
+    "options": [
+      "Although",
+      "Despite",
+      "Even though",
+      "Whereas",
+      "However"
+    ],
+    "answer": 1,
+    "explanation": "Boşluktan sonra isim grubu (the unfavourable weather conditions) geliyor. Zıtlık + isim = Despite."
+  },
+  {
+    "id": "q003",
+    "cardIds": [
+      "contrast-clause"
+    ],
+    "stem": "Some analysts believe the recovery will be rapid, ____ others expect a prolonged slowdown.",
+    "options": [
+      "because",
+      "unless",
+      "whereas",
+      "despite",
+      "so that"
+    ],
+    "answer": 2,
+    "explanation": "Cümlenin iki yarısı birbirine zıt görüşler içeriyor ve ikinci yarıda tam cümle var: Whereas ('oysa')."
+  },
+  {
+    "id": "q004",
+    "cardIds": [
+      "adv-contrast"
+    ],
+    "stem": "The new drug has proven effective in trials; ____, it is not yet available to patients because of licensing delays.",
+    "options": [
+      "because",
+      "however",
+      "although",
+      "in case",
+      "so that"
+    ],
+    "answer": 1,
+    "explanation": "Noktalı virgülden sonra virgülle ayrılmış, zıtlık bildiren bir zarf gerekiyor: However. Although, noktalı virgülden sonra iki cümleyi bağlayamaz."
+  },
+  {
+    "id": "q005",
+    "cardIds": [
+      "contrast-adv"
+    ],
+    "stem": "Exports of manufactured goods have grown steadily; ____, agricultural exports have fallen sharply.",
+    "options": [
+      "likewise",
+      "therefore",
+      "moreover",
+      "on the other hand",
+      "in other words"
+    ],
+    "answer": 3,
+    "explanation": "İki zıt bilgi (artış – düşüş) karşılaştırılıyor: On the other hand."
+  },
+  {
+    "id": "q006",
+    "cardIds": [
+      "unlike"
+    ],
+    "stem": "____ most of his colleagues, Dr. Aydın rejected the proposed theory.",
+    "options": [
+      "Despite",
+      "Unlike",
+      "Because of",
+      "Instead",
+      "Whereas"
+    ],
+    "answer": 1,
+    "explanation": "Kişiler arasında zıtlık ve sonrasında isim grubu var: Unlike. Whereas tam cümle gerektirir."
+  },
+  {
+    "id": "q007",
+    "cardIds": [
+      "cause-clause"
+    ],
+    "stem": "____ the bridge was structurally unsafe, the authorities closed it to traffic.",
+    "options": [
+      "Because of",
+      "Despite",
+      "Since",
+      "Unless",
+      "Whereas"
+    ],
+    "answer": 2,
+    "explanation": "Boşluktan sonra tam cümle ve neden anlamı var. Because of isim alır; Since tam cümle alır."
+  },
+  {
+    "id": "q008",
+    "cardIds": [
+      "cause-noun"
+    ],
+    "stem": "The flight was cancelled ____ the dense fog that covered the entire region.",
+    "options": [
+      "because",
+      "although",
+      "owing to",
+      "so that",
+      "while"
+    ],
+    "answer": 2,
+    "explanation": "Boşluktan sonra isim grubu (the dense fog ...) var: Owing to. Because ve although tam cümle ister."
+  },
+  {
+    "id": "q009",
+    "cardIds": [
+      "cause-given"
+    ],
+    "stem": "____ the funding has finally been approved, the researchers can begin the second phase.",
+    "options": [
+      "Unless",
+      "Now that",
+      "Even if",
+      "Whereas",
+      "Lest"
+    ],
+    "answer": 1,
+    "explanation": "Gerçekleşmiş bir durumdan yola çıkarak sonuç bildiriliyor: Now that ('madem ki')."
+  },
+  {
+    "id": "q010",
+    "cardIds": [
+      "result-adv"
+    ],
+    "stem": "The factory failed to meet safety standards; ____, it was ordered to suspend production.",
+    "options": [
+      "nevertheless",
+      "in contrast",
+      "consequently",
+      "besides",
+      "although"
+    ],
+    "answer": 2,
+    "explanation": "İkinci cümle birincinin sonucunu bildiriyor: Consequently."
+  },
+  {
+    "id": "q011",
+    "cardIds": [
+      "so-that-degree"
+    ],
+    "stem": "The instructions were ____ ambiguous that most participants misinterpreted them.",
+    "options": [
+      "such",
+      "too",
+      "so",
+      "very",
+      "enough"
+    ],
+    "answer": 2,
+    "explanation": "'ambiguous' sıfatı tek başına duruyor ve 'that' ile sonuç cümlesi geliyor: so ... that."
+  },
+  {
+    "id": "q012",
+    "cardIds": [
+      "such-that"
+    ],
+    "stem": "It was ____ a challenging task that only a few candidates managed to complete it.",
+    "options": [
+      "so",
+      "such",
+      "too",
+      "enough",
+      "very"
+    ],
+    "answer": 1,
+    "explanation": "'a challenging task' isim grubu olduğu için such + a + sıfat + isim + that kullanılır."
+  },
+  {
+    "id": "q013",
+    "cardIds": [
+      "purpose-clause"
+    ],
+    "stem": "The researchers anonymised the data ____ participants' privacy would be protected.",
+    "options": [
+      "so as to",
+      "in order to",
+      "so that",
+      "lest",
+      "despite"
+    ],
+    "answer": 2,
+    "explanation": "Yeni özne (participants' privacy) ve modal (would) var: so that. In order to / so as to sonrasında yalın fiil gelir."
+  },
+  {
+    "id": "q014",
+    "cardIds": [
+      "purpose-inf"
+    ],
+    "stem": "Several countries have imposed stricter regulations ____ reduce carbon emissions.",
+    "options": [
+      "so that",
+      "in order to",
+      "in order that",
+      "because",
+      "lest"
+    ],
+    "answer": 1,
+    "explanation": "Sonrasında yalın fiil (reduce) var ve özne değişmiyor: in order to + V1."
+  },
+  {
+    "id": "q015",
+    "cardIds": [
+      "lest"
+    ],
+    "stem": "He kept the documents locked in a safe lest they ____ stolen.",
+    "options": [
+      "will be",
+      "would be",
+      "should be",
+      "are",
+      "were not"
+    ],
+    "answer": 2,
+    "explanation": "Lest + should + V1 (veya yalın fiil). Lest zaten olumsuz anlam taşır; 'not' kullanılmaz."
+  },
+  {
+    "id": "q016",
+    "cardIds": [
+      "in-case"
+    ],
+    "stem": "Take a spare key with you ____ you lose the first one.",
+    "options": [
+      "unless",
+      "in case",
+      "although",
+      "in case of",
+      "as long as"
+    ],
+    "answer": 1,
+    "explanation": "Önlem anlamı var ve sonrasında tam cümle geliyor: in case. 'In case of' isim alır."
+  },
+  {
+    "id": "q017",
+    "cardIds": [
+      "condition-strict"
+    ],
+    "stem": "Visitors are permitted to take photographs ____ they do not use a flash.",
+    "options": [
+      "unless",
+      "provided that",
+      "even if",
+      "in case",
+      "whereas"
+    ],
+    "answer": 1,
+    "explanation": "'Sadece flaş kullanmamaları şartıyla' anlamı isteniyor: provided that."
+  },
+  {
+    "id": "q018",
+    "cardIds": [
+      "unless"
+    ],
+    "stem": "The negotiations will collapse ____ both parties make concessions.",
+    "options": [
+      "unless",
+      "provided that",
+      "as long as",
+      "in case",
+      "so that"
+    ],
+    "answer": 0,
+    "explanation": "'Her iki taraf taviz vermedikçe' anlamı için unless gerekir (unless = if not)."
+  },
+  {
+    "id": "q019",
+    "cardIds": [
+      "even-if"
+    ],
+    "stem": "____ the treatment proves effective, patients will need regular check-ups for several years.",
+    "options": [
+      "Despite",
+      "Even if",
+      "Unless",
+      "Whereas",
+      "Because of"
+    ],
+    "answer": 1,
+    "explanation": "Henüz kesin olmayan bir olasılık söz konusu ve tam cümle var: Even if."
+  },
+  {
+    "id": "q020",
+    "cardIds": [
+      "inverted-conditionals"
+    ],
+    "stem": "____ the government acted earlier, the crisis might have been prevented.",
+    "options": [
+      "Have",
+      "Had",
+      "Were",
+      "Should",
+      "Unless"
+    ],
+    "answer": 1,
+    "explanation": "Ana cümlede might have been prevented (3. tip koşul) var. If'siz devrik yapı: Had + özne + V3."
+  },
+  {
+    "id": "q021",
+    "cardIds": [
+      "but-for"
+    ],
+    "stem": "____ the volunteers' tireless efforts, the festival could not have taken place.",
+    "options": [
+      "Unless",
+      "But for",
+      "Although",
+      "Because",
+      "While"
+    ],
+    "answer": 1,
+    "explanation": "Sonrasında isim grubu var ve anlam 'olmasaydı': But for (= if it had not been for)."
+  },
+  {
+    "id": "q022",
+    "cardIds": [
+      "otherwise"
+    ],
+    "stem": "You must register before the deadline; ____, you will lose your right to apply.",
+    "options": [
+      "moreover",
+      "therefore",
+      "otherwise",
+      "however",
+      "besides"
+    ],
+    "answer": 2,
+    "explanation": "Önceki cümlede zorunluluk var, ikinci cümle olumsuz sonuç bildiriyor: otherwise."
+  },
+  {
+    "id": "q023",
+    "cardIds": [
+      "addition-adv"
+    ],
+    "stem": "The new policy will lower administrative costs; ____, it will make the process more transparent.",
+    "options": [
+      "nevertheless",
+      "on the other hand",
+      "furthermore",
+      "otherwise",
+      "consequently"
+    ],
+    "answer": 2,
+    "explanation": "İkinci cümle aynı yönde ek bir olumlu bilgi ekliyor: furthermore."
+  },
+  {
+    "id": "q024",
+    "cardIds": [
+      "addition-noun"
+    ],
+    "stem": "____ offering free tuition, the university provides accommodation for gifted students.",
+    "options": [
+      "Despite",
+      "In addition to",
+      "Instead of",
+      "Because of",
+      "In spite of"
+    ],
+    "answer": 1,
+    "explanation": "Sonrasında V-ing var ve anlam 'ek olarak': In addition to."
+  },
+  {
+    "id": "q025",
+    "cardIds": [
+      "not-only"
+    ],
+    "stem": "Not only ____ the company lose its largest client, but it also had to lay off hundreds of workers.",
+    "options": [
+      "it did",
+      "did",
+      "was",
+      "has",
+      "is"
+    ],
+    "answer": 1,
+    "explanation": "Not only cümle başındayken devrik yapı gerekir: Not only did the company lose ..."
+  },
+  {
+    "id": "q026",
+    "cardIds": [
+      "both-and"
+    ],
+    "stem": "Both the manager ____ the assistant were present at the meeting.",
+    "options": [
+      "or",
+      "nor",
+      "and",
+      "as well",
+      "but"
+    ],
+    "answer": 2,
+    "explanation": "Both yalnızca and ile eşleşir."
+  },
+  {
+    "id": "q027",
+    "cardIds": [
+      "either-neither"
+    ],
+    "stem": "Neither the director nor the employees ____ aware of the changes.",
+    "options": [
+      "was",
+      "is",
+      "were",
+      "has been",
+      "being"
+    ],
+    "answer": 2,
+    "explanation": "Neither ... nor yapısında fiil, nor'a yakın özneye uyar: the employees → were."
+  },
+  {
+    "id": "q028",
+    "cardIds": [
+      "time-while"
+    ],
+    "stem": "____ the delegates were discussing the proposal, a fire alarm went off.",
+    "options": [
+      "During",
+      "While",
+      "Despite",
+      "Since",
+      "Whereas"
+    ],
+    "answer": 1,
+    "explanation": "Sonrasında tam cümle (past continuous) var ve eş zamanlılık anlatılıyor: While. During isim alır."
+  },
+  {
+    "id": "q029",
+    "cardIds": [
+      "time-as-soon"
+    ],
+    "stem": "As soon as the new system ____ installed, the staff will receive training.",
+    "options": [
+      "will be",
+      "would be",
+      "is",
+      "was",
+      "being"
+    ],
+    "answer": 2,
+    "explanation": "Zaman bağlaçlarından sonra gelecek için present simple kullanılır: is installed."
+  },
+  {
+    "id": "q030",
+    "cardIds": [
+      "time-until"
+    ],
+    "stem": "The committee did not announce its decision ____ all the evidence had been reviewed.",
+    "options": [
+      "while",
+      "until",
+      "since",
+      "although",
+      "by"
+    ],
+    "answer": 1,
+    "explanation": "'Not ... until' kalıbı: kanıtlar gözden geçirilene kadar karar açıklanmadı."
+  },
+  {
+    "id": "q031",
+    "cardIds": [
+      "time-by-the-time"
+    ],
+    "stem": "By the time the ambulance arrived, the patient ____ consciousness.",
+    "options": [
+      "loses",
+      "lost",
+      "had lost",
+      "will lose",
+      "has lost"
+    ],
+    "answer": 2,
+    "explanation": "By the time + past simple → ana cümlede past perfect (had lost)."
+  },
+  {
+    "id": "q032",
+    "cardIds": [
+      "time-whenever"
+    ],
+    "stem": "____ the economy slows down, unemployment tends to rise.",
+    "options": [
+      "Whenever",
+      "Although",
+      "Unless",
+      "Whereas",
+      "So that"
+    ],
+    "answer": 0,
+    "explanation": "Genelleme ve tekrar eden durum anlatılıyor: Whenever."
+  },
+  {
+    "id": "q033",
+    "cardIds": [
+      "time-since"
+    ],
+    "stem": "Inflation ____ steadily since the central bank changed its policy last year.",
+    "options": [
+      "rises",
+      "rose",
+      "has been rising",
+      "is rising",
+      "will rise"
+    ],
+    "answer": 2,
+    "explanation": "Since + past simple olduğu için ana cümlede present perfect (continuous) gerekir."
+  },
+  {
+    "id": "q034",
+    "cardIds": [
+      "time-hardly"
+    ],
+    "stem": "Hardly had the speaker finished ____ the audience burst into applause.",
+    "options": [
+      "than",
+      "when",
+      "while",
+      "as if",
+      "until"
+    ],
+    "answer": 1,
+    "explanation": "Hardly / Scarcely ... WHEN; No sooner ... THAN."
+  },
+  {
+    "id": "q035",
+    "cardIds": [
+      "time-before"
+    ],
+    "stem": "____ launching the product, the company carried out extensive market research.",
+    "options": [
+      "Prior to",
+      "Despite",
+      "Because",
+      "Unless",
+      "Whereas"
+    ],
+    "answer": 0,
+    "explanation": "Sonrasında V-ing var ve zaman önceliği anlatılıyor: Prior to."
+  },
+  {
+    "id": "q036",
+    "cardIds": [
+      "time-after"
+    ],
+    "stem": "____ the earthquake, thousands of residents were left homeless.",
+    "options": [
+      "Following",
+      "Prior to",
+      "Unless",
+      "Whereas",
+      "Lest"
+    ],
+    "answer": 0,
+    "explanation": "Sonrasında isim grubu var ve olayın ardından anlamı isteniyor: Following."
+  },
+  {
+    "id": "q037",
+    "cardIds": [
+      "time-during"
+    ],
+    "stem": "Many historic buildings were damaged ____ the war.",
+    "options": [
+      "while",
+      "during",
+      "since",
+      "as",
+      "although"
+    ],
+    "answer": 1,
+    "explanation": "Sonrasında isim (the war) var: during."
+  },
+  {
+    "id": "q038",
+    "cardIds": [
+      "instead-of"
+    ],
+    "stem": "Many students prefer studying at home ____ going to the library.",
+    "options": [
+      "instead",
+      "rather",
+      "instead of",
+      "in spite of",
+      "because of"
+    ],
+    "answer": 2,
+    "explanation": "Sonrasında V-ing var ve tercih anlamı isteniyor: instead of."
+  },
+  {
+    "id": "q039",
+    "cardIds": [
+      "except"
+    ],
+    "stem": "All the applicants ____ one were invited to the interview.",
+    "options": [
+      "except",
+      "despite",
+      "unless",
+      "instead of",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "'Biri hariç' anlamı için except gerekir."
+  },
+  {
+    "id": "q040",
+    "cardIds": [
+      "whatever-however"
+    ],
+    "stem": "____ hard he tried, he could not solve the problem.",
+    "options": [
+      "Whatever",
+      "However",
+      "Whoever",
+      "Whenever",
+      "Wherever"
+    ],
+    "answer": 1,
+    "explanation": "However + sıfat / zarf + özne + fiil: 'Ne kadar uğraşsa da'."
+  },
+  {
+    "id": "q041",
+    "cardIds": [
+      "whether"
+    ],
+    "stem": "____ the project succeeds or not, the team will receive a bonus.",
+    "options": [
+      "If",
+      "Unless",
+      "Whether",
+      "Because",
+      "Lest"
+    ],
+    "answer": 2,
+    "explanation": "'İster ... ister' anlamı için whether ... or (not) kullanılır."
+  },
+  {
+    "id": "q042",
+    "cardIds": [
+      "as-if"
+    ],
+    "stem": "She behaves as if she ____ the owner of the company.",
+    "options": [
+      "is",
+      "has been",
+      "were",
+      "will be",
+      "being"
+    ],
+    "answer": 2,
+    "explanation": "Gerçek dışı karşılaştırmada as if + were (şimdiki zaman)."
+  },
+  {
+    "id": "q043",
+    "cardIds": [
+      "according-to"
+    ],
+    "stem": "____ the latest report, the number of tourists increased by 12 per cent.",
+    "options": [
+      "Regarding",
+      "According to",
+      "Owing to",
+      "Instead of",
+      "Despite"
+    ],
+    "answer": 1,
+    "explanation": "Bir kaynağa dayanarak bilgi veriliyor: According to."
+  },
+  {
+    "id": "q044",
+    "cardIds": [
+      "regarding"
+    ],
+    "stem": "____ the question of funding, no decision has been made yet.",
+    "options": [
+      "Despite",
+      "Unlike",
+      "With regard to",
+      "Because of",
+      "Instead of"
+    ],
+    "answer": 2,
+    "explanation": "Konuyu belirten ifade: With regard to (-e ilişkin)."
+  },
+  {
+    "id": "q045",
+    "cardIds": [
+      "similarly"
+    ],
+    "stem": "The first treatment reduced symptoms in most patients; ____, the second proved equally effective.",
+    "options": [
+      "however",
+      "similarly",
+      "otherwise",
+      "consequently",
+      "on the contrary"
+    ],
+    "answer": 1,
+    "explanation": "İki cümle benzer yönde olduğu için Similarly gerekir."
+  },
+  {
+    "id": "q046",
+    "cardIds": [
+      "for-example"
+    ],
+    "stem": "Several industries, ____ textiles and steel, were severely affected.",
+    "options": [
+      "such as",
+      "as a result",
+      "in contrast",
+      "otherwise",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "Örnek verirken isim grubundan önce such as kullanılır."
+  },
+  {
+    "id": "q047",
+    "cardIds": [
+      "in-other-words"
+    ],
+    "stem": "The company aims to be carbon-neutral by 2035; ____, it will eliminate all net emissions within a decade.",
+    "options": [
+      "otherwise",
+      "in other words",
+      "however",
+      "nevertheless",
+      "despite"
+    ],
+    "answer": 1,
+    "explanation": "İkinci cümle birincinin yeniden ifadesi: In other words."
+  },
+  {
+    "id": "q048",
+    "cardIds": [
+      "in-conclusion"
+    ],
+    "stem": "____, the evidence suggests that early intervention is far more cost-effective.",
+    "options": [
+      "In conclusion",
+      "Moreover",
+      "Nevertheless",
+      "For example",
+      "Meanwhile"
+    ],
+    "answer": 0,
+    "explanation": "Metnin genel çıkarımı ve sonucu: In conclusion."
+  },
+  {
+    "id": "q049",
+    "cardIds": [
+      "in-fact"
+    ],
+    "stem": "Many assumed the project would fail; ____, it exceeded every expectation.",
+    "options": [
+      "in fact",
+      "in case",
+      "unless",
+      "lest",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "Önceki yanlış varsayımı düzeltiyor: In fact."
+  },
+  {
+    "id": "q050",
+    "cardIds": [
+      "meanwhile"
+    ],
+    "stem": "The engineers repaired the generator. ____, the technicians restored power to the east wing.",
+    "options": [
+      "Meanwhile",
+      "Otherwise",
+      "Whereas",
+      "Unless",
+      "Because"
+    ],
+    "answer": 0,
+    "explanation": "İki olay aynı anda gerçekleşiyor: Meanwhile."
+  },
+  {
+    "id": "q051",
+    "cardIds": [
+      "afterwards"
+    ],
+    "stem": "The patients were examined first; ____, they were referred to specialists.",
+    "options": [
+      "Subsequently",
+      "Whereas",
+      "Despite",
+      "Lest",
+      "Owing to"
+    ],
+    "answer": 0,
+    "explanation": "Olaylar kronolojik sıradadır: Subsequently."
+  }
+]

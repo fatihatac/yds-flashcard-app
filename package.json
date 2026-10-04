@@ -1,0 +1,12 @@
+{
+  "name": "yds-flashcard-app",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "YDS bağlaç ve kelime flashcard uygulaması (aralıklı tekrar)",
+  "scripts": {
+    "start": "npx http-server . -p 8080 -c-1",
+    "validate": "node scripts/validate-data.mjs",
+    "test": "node --test scripts/srs.test.mjs && node scripts/validate-data.mjs"
+  }
+}
