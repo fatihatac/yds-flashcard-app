@@ -128,3 +128,7 @@ input[type="search"] { width: 100%; } input[type="number"] { width: 90px; }
 .list-text { display: flex; flex-direction: column; gap: 2px; }
 .review-card { flex-direction: row; justify-content: space-between; align-items: center; border-color: var(--primary); }
 .review-card.disabled { border-color: var(--line); opacity: .7; }
+.front-group { display: flex; flex-direction: column; gap: 6px; }
+.front-en { font-size: 1.9rem; font-weight: 700; line-height: 1.25; word-break: break-word; }
+.front-group .front-en + .front-en { font-size: 1.5rem; opacity: .85; }
+.small-tr { font-size: 1.35rem; text-align: left; } .small-rule { font-size: 1rem; text-align: left; margin-top: -4px; }
