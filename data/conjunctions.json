@@ -15,7 +15,12 @@
       "en": "Although the company had invested heavily in research, it failed to develop a competitive product.",
       "tr": "Şirket araştırmaya büyük yatırım yapmış olmasına rağmen rekabetçi bir ürün geliştirmeyi başaramadı."
     },
-    "tip": "Although / Though / Even though ile başlayan cümlede 'but' veya 'yet' kullanılmaz; zıtlık zaten bağlaçta vardır. Despite / In spite of ile karıştırma: onlar isim alır."
+    "tip": "Although / Though / Even though ile başlayan cümlede 'but' veya 'yet' kullanılmaz; zıtlık zaten bağlaçta vardır. Despite / In spite of ile karıştırma: onlar isim alır.",
+    "meanings": {
+      "Although": "Rağmen, olmasına rağmen",
+      "Even though": "Rağmen, -sa bile, -e rağmen, zıtlık bildiren \"de\"",
+      "Though": "İse, buna karşın"
+    }
   },
   {
     "id": "concession-noun",
@@ -32,7 +37,10 @@
       "en": "Despite the heavy rain, the match was not postponed.",
       "tr": "Şiddetli yağmura rağmen maç ertelenmedi."
     },
-    "tip": "'Despite of' diye bir kalıp yoktur (of eklenmez). Şıklarda 'the fact that' görürsen sonrasında tam cümle gelebilir; yoksa isim / V-ing ara."
+    "tip": "'Despite of' diye bir kalıp yoktur (of eklenmez). Şıklarda 'the fact that' görürsen sonrasında tam cümle gelebilir; yoksa isim / V-ing ara.",
+    "meanings": {
+      "Despite": "Rağmen"
+    }
   },
   {
     "id": "contrast-clause",
@@ -49,7 +57,11 @@
       "en": "Whereas some economists favour tighter regulation, others argue that markets should correct themselves.",
       "tr": "Bazı ekonomistler daha sıkı düzenlemeden yanayken diğerleri piyasaların kendini düzeltmesi gerektiğini savunuyor."
     },
-    "tip": "Whereas yalnızca zıtlık anlamı taşır (zaman değil). Boşluğun iki yanındaki bilgiler birbirine zıtsa Whereas / While aday olur."
+    "tip": "Whereas yalnızca zıtlık anlamı taşır (zaman değil). Boşluğun iki yanındaki bilgiler birbirine zıtsa Whereas / While aday olur.",
+    "meanings": {
+      "Whereas": "Oysa, rağmen",
+      "While": "Zıtlıkta: rağmen, oysa, olmasına rağmen; zamanda: -iken, eşzamanlı olarak"
+    }
   },
   {
     "id": "adv-contrast",
@@ -69,7 +81,10 @@
       "en": "The experiment was carefully designed; nevertheless, the results could not be replicated.",
       "tr": "Deney dikkatle tasarlanmıştı; yine de sonuçlar tekrar elde edilemedi."
     },
-    "tip": "Virgülle birleştirilmiş iki cümle arasına however koyamazsın. Şıklarda noktalı virgül / nokta + virgül ile birlikte gelen seçeneği tercih et. İki fiili tek cümlede bağlıyorsa Although, cümleler arasındaysa However."
+    "tip": "Virgülle birleştirilmiş iki cümle arasına however koyamazsın. Şıklarda noktalı virgül / nokta + virgül ile birlikte gelen seçeneği tercih et. İki fiili tek cümlede bağlıyorsa Although, cümleler arasındaysa However.",
+    "meanings": {
+      "However": "Ancak, yine de"
+    }
   },
   {
     "id": "contrast-adv",
@@ -107,7 +122,11 @@
       "en": "Unlike his predecessor, the new director encourages open debate among staff.",
       "tr": "Selefinden farklı olarak yeni müdür çalışanlar arasında açık tartışmayı teşvik ediyor."
     },
-    "tip": "Kıyaslamada paralellik şarttır: 'Unlike Ankara, Istanbul ...' doğru; 'Unlike the climate of Ankara, Istanbul ...' yanlış (iklim ile şehir kıyaslanmaz). Unlike sonrası fiilli cümle gelmez."
+    "tip": "Kıyaslamada paralellik şarttır: 'Unlike Ankara, Istanbul ...' doğru; 'Unlike the climate of Ankara, Istanbul ...' yanlış (iklim ile şehir kıyaslanmaz). Unlike sonrası fiilli cümle gelmez.",
+    "meanings": {
+      "In contrast to": "Aksine",
+      "As opposed to": "Zıt olarak, aksine"
+    }
   },
   {
     "id": "cause-clause",
@@ -125,7 +144,12 @@
       "en": "Since the government has cut subsidies, farmers are struggling to cover their costs.",
       "tr": "Hükümet sübvansiyonları kestiği için çiftçiler maliyetlerini karşılamakta zorlanıyor."
     },
-    "tip": "Sonrasında fiilli cümle varsa because / since / as; isim varsa because of / due to. Since zaman anlamıyla da gelir: ana cümlede present perfect varsa 'beri' anlamına bak."
+    "tip": "Sonrasında fiilli cümle varsa because / since / as; isim varsa because of / due to. Since zaman anlamıyla da gelir: ana cümlede present perfect varsa 'beri' anlamına bak.",
+    "meanings": {
+      "Because": "İçin, -den dolayı, çünkü, -dığı için",
+      "Since": "İçin, nedenden ötürü, -dığı için, çünkü, sebebiyle, olduğu için",
+      "As": "İçin, nedenden ötürü, çünkü, -dığı için, -dıkça"
+    }
   },
   {
     "id": "cause-noun",
@@ -145,7 +169,12 @@
       "en": "Owing to the sudden drop in temperature, the harvest was severely damaged.",
       "tr": "Sıcaklıktaki ani düşüş nedeniyle hasat ağır biçimde zarar gördü."
     },
-    "tip": "Because + cümle; because of + isim. Sonrasında 'the fact that' varsa tam cümle gelebilir. Olumlu, minnet içeren sonuçta Thanks to; olumsuzda genelde Because of / Due to."
+    "tip": "Because + cümle; because of + isim. Sonrasında 'the fact that' varsa tam cümle gelebilir. Olumlu, minnet içeren sonuçta Thanks to; olumsuzda genelde Because of / Due to.",
+    "meanings": {
+      "Due to": "-den dolayı, yüzünden, sebebiyle (kaynaklanan durum)",
+      "Because of": "Yüzünden, sayesinde, sebebiyle",
+      "On account of": "Yüzünden, -den dolayı, sayesinde"
+    }
   },
   {
     "id": "cause-given",
@@ -185,7 +214,11 @@
       "en": "Global demand for oil has fallen sharply; consequently, producers have been forced to reduce output.",
       "tr": "Küresel petrol talebi keskin biçimde düştü; bu nedenle üreticiler üretimi azaltmak zorunda kaldı."
     },
-    "tip": "Önceki cümle sebep, sonraki cümle sonuçsa bu grubu seç. 'As a result of' + isim = -in sonucunda; 'As a result' tek başına cümleler arasındadır."
+    "tip": "Önceki cümle sebep, sonraki cümle sonuçsa bu grubu seç. 'As a result of' + isim = -in sonucunda; 'As a result' tek başına cümleler arasındadır.",
+    "meanings": {
+      "Therefore": "Bu nedenle, bundan dolayı, bu yüzden, dolayısıyla",
+      "As a result": "Sonuç olarak"
+    }
   },
   {
     "id": "so-that-degree",
@@ -202,7 +235,10 @@
       "en": "The lecture was so complex that even the experts struggled to follow it.",
       "tr": "Ders o kadar karmaşıktı ki uzmanlar bile onu takip etmekte zorlandı."
     },
-    "tip": "So ile such ayrımı: sıfat veya zarf tek başınaysa so; (a / an +) sıfat + isim varsa such. Bir de 'so + sıfat + a / an + isim' kalıbını bil: so beautiful a day."
+    "tip": "So ile such ayrımı: sıfat veya zarf tek başınaysa so; (a / an +) sıfat + isim varsa such. Bir de 'so + sıfat + a / an + isim' kalıbını bil: so beautiful a day.",
+    "meanings": {
+      "so + adj / adv + that": "O kadar ... ki, öylesine ... ki"
+    }
   },
   {
     "id": "such-that",
@@ -218,7 +254,10 @@
       "en": "It was such a persuasive argument that the committee changed its decision.",
       "tr": "O kadar ikna edici bir argümandı ki komite kararını değiştirdi."
     },
-    "tip": "Sonrasında isim grubu varsa such, yalnız sıfat / zarf varsa so. Such + a + sıfat + tekil isim; sıralamayı bozan şıkları ele."
+    "tip": "Sonrasında isim grubu varsa such, yalnız sıfat / zarf varsa so. Such + a + sıfat + tekil isim; sıralamayı bozan şıkları ele.",
+    "meanings": {
+      "such (a / an) + (adj) + noun + that": "O kadar ... ki, öylesine ... ki"
+    }
   },
   {
     "id": "purpose-clause",
@@ -235,7 +274,10 @@
       "en": "The data were encrypted so that unauthorized users could not access them.",
       "tr": "Veriler, yetkisiz kullanıcıların onlara erişememesi için şifrelendi."
     },
-    "tip": "Boşluktan sonra özne + modal varsa so that / in order that. Sonrasında yalın fiil varsa in order to / so as to. Zaman uyumuna da dikkat: ana fiil geçmişse could / would."
+    "tip": "Boşluktan sonra özne + modal varsa so that / in order that. Sonrasında yalın fiil varsa in order to / so as to. Zaman uyumuna da dikkat: ana fiil geçmişse could / would.",
+    "meanings": {
+      "So that": "İçin, amacıyla, -sın diye"
+    }
   },
   {
     "id": "purpose-inf",
@@ -252,7 +294,10 @@
       "en": "The government introduced new measures in order to curb inflation.",
       "tr": "Hükümet enflasyonu dizginlemek amacıyla yeni önlemler getirdi."
     },
-    "tip": "In order to / So as to + V-ing yazılmaz. 'for + V-ing' bir aracın işlevini anlatır (a tool for cutting). Özne değişiyorsa so that kullan."
+    "tip": "In order to / So as to + V-ing yazılmaz. 'for + V-ing' bir aracın işlevini anlatır (a tool for cutting). Özne değişiyorsa so that kullan.",
+    "meanings": {
+      "In order to": "Amacıyla, için"
+    }
   },
   {
     "id": "lest",
@@ -287,7 +332,10 @@
       "en": "Employees should keep a printed copy of the report in case the server fails.",
       "tr": "Çalışanlar, sunucu çökerse diye raporun basılı bir kopyasını yanlarında bulundurmalıdır."
     },
-    "tip": "If = olay gerçekleşirse yapılır; in case = olay olmadan önce önlem alınır. In case + cümle; in case of + isim. Her ikisinde de gelecek için will kullanılmaz."
+    "tip": "If = olay gerçekleşirse yapılır; in case = olay olmadan önce önlem alınır. In case + cümle; in case of + isim. Her ikisinde de gelecek için will kullanılmaz.",
+    "meanings": {
+      "In case of (+ isim)": "Durumunda"
+    }
   },
   {
     "id": "condition-strict",
@@ -308,7 +356,10 @@
       "en": "Employees may work remotely provided that they attend the weekly meeting.",
       "tr": "Çalışanlar, haftalık toplantıya katılmaları şartıyla uzaktan çalışabilir."
     },
-    "tip": "Anlam 'sadece bu şartla / yeter ki' ise bu grup. Sonrasında will gelmez. 'As long as' zaman anlamında ('-diği sürece') da kullanılır; bağlama bak."
+    "tip": "Anlam 'sadece bu şartla / yeter ki' ise bu grup. Sonrasında will gelmez. 'As long as' zaman anlamında ('-diği sürece') da kullanılır; bağlama bak.",
+    "meanings": {
+      "Only if": "Sadece ... ise"
+    }
   },
   {
     "id": "unless",
@@ -325,7 +376,10 @@
       "en": "The project will not succeed unless all departments cooperate.",
       "tr": "Tüm bölümler iş birliği yapmadıkça proje başarılı olmayacaktır."
     },
-    "tip": "Unless ile birlikte 'not' yazılmaz. Ana cümlede will (not) / present simple; Unless cümlesinde present simple. Anlamı 'if not' ile değiştirerek kontrol et."
+    "tip": "Unless ile birlikte 'not' yazılmaz. Ana cümlede will (not) / present simple; Unless cümlesinde present simple. Anlamı 'if not' ile değiştirerek kontrol et.",
+    "meanings": {
+      "Unless": "Olmadıkça, -medikçe, -mezse (olumsuz koşul)"
+    }
   },
   {
     "id": "even-if",
@@ -341,7 +395,10 @@
       "en": "Even if the proposal is approved, it will take years to implement.",
       "tr": "Teklif onaylansa bile uygulanması yıllar alacaktır."
     },
-    "tip": "Durum gerçekleşmişse even though / although; gerçekleşmesi ihtimalse even if. Even if sonrasında gelecek için will gelmez."
+    "tip": "Durum gerçekleşmişse even though / although; gerçekleşmesi ihtimalse even if. Even if sonrasında gelecek için will gelmez.",
+    "meanings": {
+      "Even if": "Olsa da, bile, olsa bile"
+    }
   },
   {
     "id": "inverted-conditionals",
@@ -437,7 +494,12 @@
       "en": "In addition to providing financial aid, the foundation offers mentoring programmes.",
       "tr": "Mali yardım sağlamanın yanı sıra vakıf mentorluk programları da sunuyor."
     },
-    "tip": "In addition to + V-ing (V1 yanlış). As well as ile iki özne varsa fiil ilk özneye uyar: The teacher, as well as the students, is ..."
+    "tip": "In addition to + V-ing (V1 yanlış). As well as ile iki özne varsa fiil ilk özneye uyar: The teacher, as well as the students, is ...",
+    "meanings": {
+      "In addition to": "Ek olarak, ilaveten",
+      "Apart from": "Yanı sıra, dışında",
+      "As well as": "Yanı sıra"
+    }
   },
   {
     "id": "not-only",
@@ -453,7 +515,10 @@
       "en": "Not only did the scheme reduce costs, but it also improved customer satisfaction.",
       "tr": "Plan yalnızca maliyetleri düşürmekle kalmadı, aynı zamanda müşteri memnuniyetini de artırdı."
     },
-    "tip": "Not only başta ise yardımcı fiil özneden önce gelir. Her iki tarafta aynı yapı olmalı (isim–isim, sıfat–sıfat, V-ing–V-ing). Özneler farklıysa fiil but also'a yakın özneye uyar."
+    "tip": "Not only başta ise yardımcı fiil özneden önce gelir. Her iki tarafta aynı yapı olmalı (isim–isim, sıfat–sıfat, V-ing–V-ing). Özneler farklıysa fiil but also'a yakın özneye uyar.",
+    "meanings": {
+      "Not only ... but also": "Sadece ... değil, aynı zamanda"
+    }
   },
   {
     "id": "both-and",
@@ -469,7 +534,10 @@
       "en": "Both the manager and the assistant were present at the meeting.",
       "tr": "Hem müdür hem de asistan toplantıda hazır bulundu."
     },
-    "tip": "Both yalnız and ile eşleşir (both ... or yanlış). İki tarafın dilbilgisel türü aynı olmalıdır."
+    "tip": "Both yalnız and ile eşleşir (both ... or yanlış). İki tarafın dilbilgisel türü aynı olmalıdır.",
+    "meanings": {
+      "Both ... and": "Hem ... hem de (olumlu durumları bağlar)"
+    }
   },
   {
     "id": "either-neither",
@@ -486,7 +554,11 @@
       "en": "Neither the director nor the employees were aware of the changes.",
       "tr": "Ne müdür ne de çalışanlar değişikliklerden haberdardı."
     },
-    "tip": "Neither ile 'not' kullanılmaz. Neither ... nor / Either ... or eşleşmesini bozan şıkları ele. Fiil nor / or'dan sonraki özneye uyar."
+    "tip": "Neither ile 'not' kullanılmaz. Neither ... nor / Either ... or eşleşmesini bozan şıkları ele. Fiil nor / or'dan sonraki özneye uyar.",
+    "meanings": {
+      "Either ... or": "Cümlede zaten olumsuz bir özne (no one gibi) varsa \"ne ... ne de\" anlamı verir",
+      "Neither ... nor": "Ne ... ne de"
+    }
   },
   {
     "id": "time-while",
@@ -504,7 +576,11 @@
       "en": "While the committee was debating the proposal, the delegates from the north left the hall.",
       "tr": "Komite öneriyi tartışırken kuzeyden gelen delegeler salondan ayrıldı."
     },
-    "tip": "While + past continuous, ana cümle past simple (kesintiye uğratan eylem). During ile karıştırma: during + isim, while + cümle."
+    "tip": "While + past continuous, ana cümle past simple (kesintiye uğratan eylem). During ile karıştırma: during + isim, while + cümle.",
+    "meanings": {
+      "When": "-de, -dığında",
+      "While": "-iken, eşzamanlı olarak"
+    }
   },
   {
     "id": "time-as-soon",
@@ -540,7 +616,10 @@
       "en": "The committee did not announce its decision until all the evidence had been reviewed.",
       "tr": "Komite, tüm kanıtlar gözden geçirilene kadar kararını açıklamadı."
     },
-    "tip": "Until sürekliliği, by (the time) ise o ana kadar bitirmeyi anlatır. 'Not ... until' kalıbı başa gelirse devrik yapı gerekir: Not until the evidence ... did the committee ..."
+    "tip": "Until sürekliliği, by (the time) ise o ana kadar bitirmeyi anlatır. 'Not ... until' kalıbı başa gelirse devrik yapı gerekir: Not until the evidence ... did the committee ...",
+    "meanings": {
+      "Until": "-e kadar"
+    }
   },
   {
     "id": "time-by-the-time",
@@ -627,7 +706,10 @@
       "en": "Prior to signing the contract, both parties reviewed every clause.",
       "tr": "Sözleşmeyi imzalamadan önce her iki taraf da her maddeyi inceledi."
     },
-    "tip": "Prior to + V-ing (V1 değil). Before + cümle de olabilir; ancak Prior to + cümle olmaz."
+    "tip": "Prior to + V-ing (V1 değil). Before + cümle de olabilir; ancak Prior to + cümle olmaz.",
+    "meanings": {
+      "Before": "-den önce"
+    }
   },
   {
     "id": "time-after",
@@ -664,7 +746,10 @@
       "en": "Several species disappeared during the last Ice Age.",
       "tr": "Birkaç tür son Buzul Çağı sırasında yok oldu."
     },
-    "tip": "During + isim; while + cümle; for + süre miktarı. 'During the war' ama 'for two years'. Throughout bütün dönem boyunca kesintisizliği vurgular."
+    "tip": "During + isim; while + cümle; for + süre miktarı. 'During the war' ama 'for two years'. Throughout bütün dönem boyunca kesintisizliği vurgular.",
+    "meanings": {
+      "Throughout": "Boyunca"
+    }
   },
   {
     "id": "instead-of",
@@ -682,7 +767,10 @@
       "en": "Many commuters choose to cycle instead of driving to work.",
       "tr": "Birçok işe gidip gelen kişi işe araba kullanmak yerine bisiklete binmeyi seçiyor."
     },
-    "tip": "Instead of + isim / V-ing; Instead tek başına cümlede zarf olur. Rather than paralellik ister; iki tarafın biçimi aynı olmalı."
+    "tip": "Instead of + isim / V-ing; Instead tek başına cümlede zarf olur. Rather than paralellik ister; iki tarafın biçimi aynı olmalı.",
+    "meanings": {
+      "Instead of": "Yerine (bir seçeneği diğerine tercih)"
+    }
   },
   {
     "id": "except",
@@ -736,7 +824,10 @@
       "en": "Whether the project succeeds or fails, the team will receive a bonus.",
       "tr": "Proje başarılı olsa da olmasa da ekip prim alacaktır."
     },
-    "tip": "Edat sonrasında (the question of whether ...) ve whether to V1 yapısında if kullanılmaz. Whether ... or birlikte gelir."
+    "tip": "Edat sonrasında (the question of whether ...) ve whether to V1 yapısında if kullanılmaz. Whether ... or birlikte gelir.",
+    "meanings": {
+      "Whether ... or (not)": "Olup olmadığı, yoksa ... mi, mi ... yoksa"
+    }
   },
   {
     "id": "as-if",
@@ -753,7 +844,11 @@
       "en": "He talks about the project as if he were the manager.",
       "tr": "Projeden sanki yöneticiymiş gibi bahsediyor."
     },
-    "tip": "Gerçek dışılık: as if + were (tüm öznelerle) veya had V3. Gerçek bir çıkarım varsa: It looks as if it is going to rain."
+    "tip": "Gerçek dışılık: as if + were (tüm öznelerle) veya had V3. Gerçek bir çıkarım varsa: It looks as if it is going to rain.",
+    "meanings": {
+      "As if": "Gibi, sanki ... gibi",
+      "As though": "Gibi, sanki ... gibi"
+    }
   },
   {
     "id": "according-to",
@@ -772,7 +867,10 @@
       "en": "According to recent studies, sleep deprivation impairs memory.",
       "tr": "Son çalışmalara göre uykusuzluk belleği zayıflatır."
     },
-    "tip": "According to kişinin kendi görüşünde kullanılmaz ('According to me' yanlış; In my opinion denir). Kurala uygunlukta In accordance with."
+    "tip": "According to kişinin kendi görüşünde kullanılmaz ('According to me' yanlış; In my opinion denir). Kurala uygunlukta In accordance with.",
+    "meanings": {
+      "According to": "Göre, uygun olarak"
+    }
   },
   {
     "id": "regarding",
@@ -830,7 +928,10 @@
       "en": "Several industries, such as textiles and steel, were severely affected.",
       "tr": "Tekstil ve çelik gibi birçok sektör ciddi biçimde etkilendi."
     },
-    "tip": "Such as + isim; For example + cümle veya isim. Such as virgülsüz de kullanılabilir; for example virgül gerektirir."
+    "tip": "Such as + isim; For example + cümle veya isim. Such as virgülsüz de kullanılabilir; for example virgül gerektirir.",
+    "meanings": {
+      "Such as": "Gibi (örneklendirme)"
+    }
   },
   {
     "id": "in-other-words",
@@ -944,7 +1045,10 @@
       "en": "The pipeline burst during the night, so the entire district was left without water.",
       "tr": "Boru gece patladı, bu yüzden bütün mahalle susuz kaldı."
     },
-    "tip": "So (sonuç) ile so that (amaç) karıştırma: so that + can / would; so + düz sonuç cümlesi. Bağlaç olduğu için önünde virgül bulunur."
+    "tip": "So (sonuç) ile so that (amaç) karıştırma: so that + can / would; so + düz sonuç cümlesi. Bağlaç olduğu için önünde virgül bulunur.",
+    "meanings": {
+      "So": "Böylece, bu yüzden, dolayısıyla"
+    }
   },
   {
     "id": "as-a-result-of",
@@ -962,7 +1066,10 @@
       "en": "As a result of the merger, more than 2,000 employees lost their jobs.",
       "tr": "Birleşmenin sonucunda 2.000'den fazla çalışan işini kaybetti."
     },
-    "tip": "\"As a result\" (of yok) cümleler arasındadır: As a result, ... \"As a result of\" ise isim alır. Boşluktan sonra isim varsa of'lu olanı seç."
+    "tip": "\"As a result\" (of yok) cümleler arasındadır: As a result, ... \"As a result of\" ise isim alır. Boşluktan sonra isim varsa of'lu olanı seç.",
+    "meanings": {
+      "As a result of": "Bir sonucu olarak"
+    }
   },
   {
     "id": "by-means-of",
@@ -981,7 +1088,10 @@
       "en": "The data were collected by means of structured interviews.",
       "tr": "Veriler yapılandırılmış görüşmeler aracılığıyla toplandı."
     },
-    "tip": "By means of sonrasında fiilli cümle gelmez. Eylemle yöntem anlatıyorsan by + V-ing tercih et."
+    "tip": "By means of sonrasında fiilli cümle gelmez. Eylemle yöntem anlatıyorsan by + V-ing tercih et.",
+    "meanings": {
+      "By means of": "Aracılığıyla, vasıtasıyla"
+    }
   },
   {
     "id": "but",
@@ -998,7 +1108,10 @@
       "en": "The proposal was innovative, but it was too expensive to implement.",
       "tr": "Teklif yenilikçiydi, ancak uygulanması çok pahalıydı."
     },
-    "tip": "Although / Even though ile but aynı cümlede kullanılmaz. But virgülle bağlanır; however ise cümleler arasındadır (önünde nokta / noktalı virgül)."
+    "tip": "Although / Even though ile but aynı cümlede kullanılmaz. But virgülle bağlanır; however ise cümleler arasındadır (önünde nokta / noktalı virgül).",
+    "meanings": {
+      "But": "Fakat, ancak, ama, olsa da, de"
+    }
   },
   {
     "id": "regardless-of",
@@ -1016,7 +1129,10 @@
       "en": "Admission is based on merit, regardless of an applicant's background.",
       "tr": "Kabul, adayın geçmişine bakılmaksızın liyakate göre yapılır."
     },
-    "tip": "Regardless of + isim / V-ing / whether. Fiilli düz cümle gelmez; \"regardless of the fact that\" = despite the fact that."
+    "tip": "Regardless of + isim / V-ing / whether. Fiilli düz cümle gelmez; \"regardless of the fact that\" = despite the fact that.",
+    "meanings": {
+      "Regardless of": "Bakılmaksızın, onlardan bağımsız olarak"
+    }
   },
   {
     "id": "as-as",
@@ -1034,7 +1150,11 @@
       "en": "The new model is as reliable as the older one, but considerably cheaper.",
       "tr": "Yeni model eskisi kadar güvenilir, ancak belirgin biçimde daha ucuz."
     },
-    "tip": "İki as arasında sıfat / zarf kalır; as ... than yanlıştır (than yalnızca üstünlükte). Olumsuzda not as ... as = daha az."
+    "tip": "İki as arasında sıfat / zarf kalır; as ... than yanlıştır (than yalnızca üstünlükte). Olumsuzda not as ... as = daha az.",
+    "meanings": {
+      "as + adj / adv + as": "Kadar çok, eşitlik",
+      "as much / many ... as": "Kadar (eşitlik veya kıyaslama)"
+    }
   },
   {
     "id": "just-as",
@@ -1052,7 +1172,10 @@
       "en": "Just as technology has transformed communication, so has it reshaped education.",
       "tr": "Teknoloji iletişimi nasıl dönüştürdüyse eğitimi de öyle yeniden şekillendirdi."
     },
-    "tip": "So'dan sonra devrik yapı gelebilir (so has it). Like + isim; as / just as + cümle farkını bil: Like his father / As his father did."
+    "tip": "So'dan sonra devrik yapı gelebilir (so has it). Like + isim; as / just as + cümle farkını bil: Like his father / As his father did.",
+    "meanings": {
+      "Just as ... so": "Tıpkı ... gibi (denklik, benzerlik)"
+    }
   },
   {
     "id": "if-basic",
@@ -1071,7 +1194,10 @@
       "en": "If the government raises interest rates, borrowing will become more expensive.",
       "tr": "Hükümet faiz oranlarını artırırsa borçlanma daha pahalı hale gelecektir."
     },
-    "tip": "If cümlesine bakarak ana cümleyi eşleştir: present → will V1; past → would V1; had V3 → would have V3. If cümlesinde will / would olmaz."
+    "tip": "If cümlesine bakarak ana cümleyi eşleştir: present → will V1; past → would V1; had V3 → would have V3. If cümlesinde will / would olmaz.",
+    "meanings": {
+      "If": "-ersek, edersek, eğer (koşul-sonuç)"
+    }
   },
   {
     "id": "time-upon",
@@ -1089,7 +1215,10 @@
       "en": "Upon arriving at the airport, the delegation was welcomed by the minister.",
       "tr": "Havalimanına varır varmaz heyet bakan tarafından karşılandı."
     },
-    "tip": "Upon / On + V-ing yapısının öznesi ana cümlenin öznesiyle aynı olmalıdır. As soon as ise kendi öznesini alır."
+    "tip": "Upon / On + V-ing yapısının öznesi ana cümlenin öznesiyle aynı olmalıdır. As soon as ise kendi öznesini alır.",
+    "meanings": {
+      "Upon arrival": "Varır varmaz"
+    }
   },
   {
     "id": "in-terms-of",
@@ -1108,7 +1237,10 @@
       "en": "In terms of cost, the second option is clearly preferable.",
       "tr": "Maliyet açısından ikinci seçenek açıkça tercih edilebilir."
     },
-    "tip": "In terms of sonrası isim grubu gelir. As far as ... is concerned yapısında isim araya girer: As far as cost is concerned, ..."
+    "tip": "In terms of sonrası isim grubu gelir. As far as ... is concerned yapısında isim araya girer: As far as cost is concerned, ...",
+    "meanings": {
+      "In terms of": "Açısından, bakımından, bağlamında"
+    }
   },
   {
     "id": "along-with",
@@ -1126,7 +1258,10 @@
       "en": "The director, along with his deputies, was invited to the ceremony.",
       "tr": "Müdür, yardımcılarıyla birlikte törene davet edildi."
     },
-    "tip": "Along with / together with / as well as araya girdiğinde fiil ilk özneye uyar (The director ... was). And ile bağlansaydı fiil çoğul olurdu."
+    "tip": "Along with / together with / as well as araya girdiğinde fiil ilk özneye uyar (The director ... was). And ile bağlansaydı fiil çoğul olurdu.",
+    "meanings": {
+      "Along with": "Birlikte, yanı sıra"
+    }
   },
   {
     "id": "by-ving",
@@ -1144,7 +1279,10 @@
       "en": "The firm reduced its costs by outsourcing part of its production.",
       "tr": "Firma üretiminin bir kısmını dışarıya vererek maliyetlerini düşürdü."
     },
-    "tip": "By sonrasında V-ing gelir (V1 yanlıştır). Yöntem → by cutting costs; amaç → in order to cut costs."
+    "tip": "By sonrasında V-ing gelir (V1 yanlıştır). Yöntem → by cutting costs; amaç → in order to cut costs.",
+    "meanings": {
+      "By + V-ing": "Ederek, sayesinde, yoluyla"
+    }
   },
   {
     "id": "instead-adv",
@@ -1162,6 +1300,9 @@
       "en": "The council rejected the plan to widen the road. Instead, it proposed building a new tram line.",
       "tr": "Meclis yolu genişletme planını reddetti. Bunun yerine yeni bir tramvay hattı yapılmasını önerdi."
     },
-    "tip": "Instead (of'suz) cümleler arasındadır; isim / V-ing gelecekse instead of. Rather tek başına bu anlamda resmi dilde nadirdir; rather than ayrıdır."
+    "tip": "Instead (of'suz) cümleler arasındadır; isim / V-ing gelecekse instead of. Rather tek başına bu anlamda resmi dilde nadirdir; rather than ayrıdır.",
+    "meanings": {
+      "Instead": "Bunun yerine"
+    }
   }
 ]
