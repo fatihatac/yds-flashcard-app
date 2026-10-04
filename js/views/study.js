@@ -50,7 +50,8 @@ async function session(root, deck, query) {
   const total = queue.length;
   const stats = { done: 0, again: 0 };
   const view = renderers[deck.type];
-  let flipped = false;
+  let showingBack = false; // kartın hangi yüzü açık
+  let revealed = false; // cevap en az bir kez görüldü mü (puanlamayı açar)
 
   if (!total) {
     root.append(h('div', { class: 'empty' },
@@ -67,36 +68,47 @@ async function session(root, deck, query) {
   root.append(top, stage, rateBar);
 
   function draw() {
-    flipped = false;
+    showingBack = false;
+    revealed = false;
     if (!queue.length) return finish();
     const card = byId.get(queue[0]);
-    const state = getCard(deck.id, card.id);
     top.replaceChildren(
       h('a', { class: 'icon-btn', href: '#/home', 'aria-label': 'Kapat' }, '✕'),
       h('div', { class: 'progress grow' }, h('span', { style: `width:${(stats.done / total) * 100}%` })),
-      h('span', { class: 'muted small' }, `${queue.length} kaldı`));
-    const face = h('div', { class: 'flashcard', role: 'button', tabindex: '0', onclick: flip, onkeydown: (e) => { if (e.key === 'Enter') flip(); } }, view.front(card));
+      h('span', { class: 'muted small' }, `${queue.length} kaldı`),
+      h('button', { class: 'icon-btn flip-btn', 'aria-label': 'Kartı çevir', title: 'Ön / arka yüzü çevir', onclick: toggle }, '⇄'));
+    const face = h('div', { class: 'flashcard', role: 'button', tabindex: '0', onclick: onCardClick, onkeydown: (e) => { if (e.key === 'Enter') toggle(); } }, view.front(card));
     stage.replaceChildren(face);
-    rateBar.replaceChildren(h('button', { class: 'btn btn-primary btn-wide', onclick: flip }, 'Cevabı göster'));
-    stage.dataset.state = status(state);
-    stage.scrollTop = 0;
+    rateBar.replaceChildren(h('button', { class: 'btn btn-primary btn-wide', onclick: toggle }, 'Cevabı göster'));
+    stage.dataset.state = status(getCard(deck.id, card.id));
     window.scrollTo(0, 0);
   }
 
-  function flip() {
-    if (flipped) return;
-    flipped = true;
+  // Karta dokununca ön / arka yüz arasında gidip gelinir; metin seçerken çevrilmez.
+  function onCardClick() {
+    if (window.getSelection().toString()) return;
+    toggle();
+  }
+
+  function toggle() {
     const card = byId.get(queue[0]);
-    const labels = previewLabels(getCard(deck.id, card.id));
     const face = stage.querySelector('.flashcard');
-    face.classList.add('flipped');
-    face.replaceChildren(view.back(card, deck.type === 'conjunction' ? { onQuiz: () => { location.hash = `#/quiz?card=${encodeURIComponent(card.id)}`; } } : {}));
-    rateBar.replaceChildren(...RATE_BUTTONS.map((b, i) => h('button', { class: `rate rate-${b.cls}`, onclick: () => rate(b.r) }, h('span', null, b.label), h('small', null, labels[i]))));
-    stage.scrollTop = 0;
+    if (!card || !face) return;
+    showingBack = !showingBack;
+    face.classList.toggle('flipped', showingBack);
+    face.replaceChildren(showingBack
+      ? view.back(card, deck.type === 'conjunction' ? { onQuiz: () => { location.hash = `#/quiz?card=${encodeURIComponent(card.id)}`; } } : {})
+      : view.front(card));
+    if (showingBack && !revealed) {
+      revealed = true;
+      const labels = previewLabels(getCard(deck.id, card.id));
+      rateBar.replaceChildren(...RATE_BUTTONS.map((b, i) => h('button', { class: `rate rate-${b.cls}`, onclick: () => rate(b.r) }, h('span', null, b.label), h('small', null, labels[i]))));
+    }
+    window.scrollTo(0, 0);
   }
 
   function rate(r) {
-    if (!flipped) return;
+    if (!revealed) return;
     const id = queue.shift();
     const prev = getCard(deck.id, id);
     setCard(deck.id, id, schedule(prev, r));
@@ -118,8 +130,8 @@ async function session(root, deck, query) {
 
   const onKey = (e) => {
     if (e.target.closest('input,textarea')) return;
-    if (e.code === 'Space' && !flipped) { e.preventDefault(); flip(); }
-    else if (flipped && /^[1-4]$/.test(e.key)) rate(Number(e.key) - 1);
+    if (e.code === 'Space') { e.preventDefault(); toggle(); }
+    else if (revealed && /^[1-4]$/.test(e.key)) rate(Number(e.key) - 1);
   };
   document.addEventListener('keydown', onKey);
   draw();

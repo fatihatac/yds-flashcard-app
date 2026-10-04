@@ -65,5 +65,8 @@ document.addEventListener('click', (e) => {
 route();
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {
+  const hadController = !!navigator.serviceWorker.controller;
   navigator.serviceWorker.register('sw.js').catch(() => {});
+  // Yeni sürüm yayınlanınca (yeni service worker devreye girince) sayfayı bir kez otomatik yenile.
+  navigator.serviceWorker.addEventListener('controllerchange', () => { if (hadController) location.reload(); });
 }
