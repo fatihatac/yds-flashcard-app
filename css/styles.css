@@ -57,7 +57,7 @@ a { color: inherit; text-decoration: none; }
 .study-top { display: flex; align-items: center; gap: 10px; }
 .stage { display: flex; flex-direction: column; }
 .flashcard { background: var(--surface); border: 1px solid var(--line); border-radius: 22px; padding: 22px 18px; min-height: 52vh; cursor: pointer; box-shadow: 0 6px 24px rgba(30, 30, 80, .08); animation: pop .18s ease-out; }
-.flashcard.flipped { cursor: default; animation: flip .22s ease-out; }
+.flashcard.flipped { animation: flip .22s ease-out; }
 @keyframes pop { from { transform: scale(.97); opacity: .6; } }
 @keyframes flip { from { transform: rotateX(70deg); opacity: .4; } }
 .face-front { min-height: calc(52vh - 44px); display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; gap: 14px; }
@@ -132,3 +132,4 @@ input[type="search"] { width: 100%; } input[type="number"] { width: 90px; }
 .front-en { font-size: 1.9rem; font-weight: 700; line-height: 1.25; word-break: break-word; }
 .front-group .front-en + .front-en { font-size: 1.5rem; opacity: .85; }
 .small-tr { font-size: 1.35rem; text-align: left; } .small-rule { font-size: 1rem; text-align: left; margin-top: -4px; }
+.flip-btn { font-size: 1.25rem; color: var(--primary); border: 1px solid var(--line); background: var(--surface); }

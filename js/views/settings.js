@@ -2,6 +2,7 @@ import { h } from '../ui.js';
 import { loadDeck } from '../data.js';
 import { get, setSetting, exportData, importData, resetAll, addCustomQuestions } from '../store.js';
 import { validateQuestion } from '../validate.js';
+import { VERSION } from '../version.js';
 
 export async function render(root, { applyTheme }) {
   const s = get().settings;
@@ -55,6 +56,7 @@ export async function render(root, { applyTheme }) {
       h('button', { class: 'btn btn-ghost', onclick: download }, 'Yedeği indir'),
       h('button', { class: 'btn btn-ghost', onclick: () => restoreInput.click() }, 'Yedeği yükle'), restoreInput,
       h('button', { class: 'btn btn-danger', onclick: () => { if (confirm('Tüm ilerleme silinecek. Emin misin?')) { resetAll(); applyTheme(); say('İlerleme sıfırlandı.'); } } }, 'İlerlemeyi sıfırla')),
+    h('p', { class: 'muted small' }, `Sürüm: ${VERSION}`),
     msg);
 
   function download() {

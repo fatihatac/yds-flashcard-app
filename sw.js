@@ -1,9 +1,9 @@
 // Çevrimdışı çalışma: uygulama dosyaları önbelleğe alınır, veri dosyaları "önce ağ, olmazsa önbellek" ile okunur.
-const VERSION = 'v2';
+const VERSION = 'dev'; // dağıtımda commit kısaltmasıyla değiştirilir (pages.yml)
 const CACHE = `yds-cards-${VERSION}`;
 const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'css/styles.css', 'icons/icon.svg',
-  'js/main.js', 'js/ui.js', 'js/store.js', 'js/srs.js', 'js/data.js', 'js/render.js', 'js/validate.js', 'js/exams.js',
+  'js/main.js', 'js/ui.js', 'js/store.js', 'js/srs.js', 'js/data.js', 'js/render.js', 'js/validate.js', 'js/exams.js', 'js/version.js',
   'js/views/home.js', 'js/views/study.js', 'js/views/quiz.js', 'js/views/library.js', 'js/views/settings.js',
   'data/conjunctions.json', 'data/questions.json', 'data/questions-trap.json', 'data/exam-conjunction-questions.json', 'data/exams.json',
 ];
@@ -20,7 +20,7 @@ self.addEventListener('fetch', (e) => {
   const req = e.request;
   if (req.method !== 'GET' || new URL(req.url).origin !== location.origin) return;
   e.respondWith(
-    fetch(req)
+    fetch(req, { cache: 'no-cache' })
       .then((res) => {
         if (res.ok) { const copy = res.clone(); caches.open(CACHE).then((c) => c.put(req, copy)); }
         return res;

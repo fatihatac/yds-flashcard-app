@@ -30,6 +30,9 @@ jobs:
         run: |
           mkdir _site
           cp -r index.html sw.js manifest.webmanifest css js data icons _site/
+          SHA="${GITHUB_SHA::7}"
+          echo "export const VERSION = '$SHA';" > _site/js/version.js
+          sed -i "s/const VERSION = 'dev'/const VERSION = '$SHA'/" _site/sw.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
