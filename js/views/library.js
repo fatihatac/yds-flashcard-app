@@ -27,7 +27,7 @@ export async function render(root) {
       const st = status(getCard('conjunctions', c.id));
       return h('details', { class: 'card lib-item' },
         h('summary', null,
-          h('div', null, h('strong', null, c.tr), h('span', { class: 'muted small' }, ' (', c.rule, ')')),
+          h('div', null, h('strong', null, c.group.join(' / ')), h('span', { class: 'muted small' }, ' · ', c.tr)),
           h('span', { class: `dot dot-${st}`, title: LABEL[st] })),
         renderers.conjunction.back(c, { onQuiz: () => { location.hash = `#/quiz?card=${encodeURIComponent(c.id)}`; } }));
     }) : [h('p', { class: 'muted' }, 'Sonuç bulunamadı.')]));

@@ -10,6 +10,7 @@ function defaults() {
     customQuestions: [],
     settings: {
       theme: 'auto',
+      cardDirection: 'en-tr',
       maxReviews: 100,
       newPerDay: { conjunctions: 10, words: 10 },
     },
