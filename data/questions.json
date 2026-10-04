@@ -814,5 +814,229 @@
     ],
     "answer": 0,
     "explanation": "Olaylar kronolojik sıradadır: Subsequently."
+  },
+  {
+    "id": "q052",
+    "cardIds": [
+      "result-so"
+    ],
+    "stem": "The pipeline burst during the night, ____ the entire district was left without water.",
+    "options": [
+      "because",
+      "although",
+      "so",
+      "unless",
+      "whereas"
+    ],
+    "answer": 2,
+    "explanation": "İkinci cümle birincinin sonucu ve araya virgül giriyor: so ('bu yüzden')."
+  },
+  {
+    "id": "q053",
+    "cardIds": [
+      "as-a-result-of"
+    ],
+    "stem": "____ the merger, more than 2,000 employees lost their jobs.",
+    "options": [
+      "As a result",
+      "As a result of",
+      "Despite",
+      "Unless",
+      "Whereas"
+    ],
+    "answer": 1,
+    "explanation": "Sonrasında isim grubu (the merger) var: As a result of. 'As a result' tek başına cümleler arasında kullanılır."
+  },
+  {
+    "id": "q054",
+    "cardIds": [
+      "by-means-of"
+    ],
+    "stem": "The data were collected ____ structured interviews.",
+    "options": [
+      "by means of",
+      "in spite of",
+      "instead",
+      "unless",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "Yöntem / araç belirten ve isim alan ifade: by means of."
+  },
+  {
+    "id": "q055",
+    "cardIds": [
+      "but"
+    ],
+    "stem": "The proposal was innovative, ____ it was too expensive to implement.",
+    "options": [
+      "so",
+      "but",
+      "because",
+      "unless",
+      "therefore"
+    ],
+    "answer": 1,
+    "explanation": "Virgülden sonra zıt bir bilgi geliyor: but."
+  },
+  {
+    "id": "q056",
+    "cardIds": [
+      "unlike"
+    ],
+    "stem": "The study focused on long-term outcomes ____ short-term gains.",
+    "options": [
+      "as opposed to",
+      "because of",
+      "provided that",
+      "in case",
+      "so that"
+    ],
+    "answer": 0,
+    "explanation": "İki isim grubu karşıtlık içinde: as opposed to."
+  },
+  {
+    "id": "q057",
+    "cardIds": [
+      "regardless-of"
+    ],
+    "stem": "Admission is based on merit, ____ an applicant's background.",
+    "options": [
+      "regardless of",
+      "in case of",
+      "such as",
+      "so that",
+      "otherwise"
+    ],
+    "answer": 0,
+    "explanation": "'Geçmişine bakılmaksızın' anlamı için regardless of gerekir."
+  },
+  {
+    "id": "q058",
+    "cardIds": [
+      "as-as"
+    ],
+    "stem": "The new model is as reliable ____ the older one.",
+    "options": [
+      "than",
+      "as",
+      "like",
+      "that",
+      "so"
+    ],
+    "answer": 1,
+    "explanation": "Eşitlik kalıbı: as + sıfat + as."
+  },
+  {
+    "id": "q059",
+    "cardIds": [
+      "just-as"
+    ],
+    "stem": "Just as technology has transformed communication, so ____ it reshaped education.",
+    "options": [
+      "it has",
+      "has it",
+      "is it",
+      "does it",
+      "it is"
+    ],
+    "answer": 1,
+    "explanation": "Just as ... so yapısında so'dan sonra devrik yapı gelir: so has it reshaped."
+  },
+  {
+    "id": "q060",
+    "cardIds": [
+      "if-basic"
+    ],
+    "stem": "If the government ____ interest rates, borrowing will become more expensive.",
+    "options": [
+      "will raise",
+      "raised",
+      "raises",
+      "would raise",
+      "had raised"
+    ],
+    "answer": 2,
+    "explanation": "Ana cümlede will var (1. tip koşul): if + present simple."
+  },
+  {
+    "id": "q061",
+    "cardIds": [
+      "time-upon"
+    ],
+    "stem": "____ at the airport, the delegation was welcomed by the minister.",
+    "options": [
+      "Upon arriving",
+      "Upon arrived",
+      "Upon to arrive",
+      "Upon arrive",
+      "After arrive"
+    ],
+    "answer": 0,
+    "explanation": "Upon / On + V-ing = varır varmaz."
+  },
+  {
+    "id": "q062",
+    "cardIds": [
+      "in-terms-of"
+    ],
+    "stem": "____ cost, the second option is clearly preferable.",
+    "options": [
+      "In terms of",
+      "Because",
+      "Although",
+      "Whereas",
+      "Unless"
+    ],
+    "answer": 0,
+    "explanation": "Sonrasında isim var ve 'açısından' anlamı isteniyor: In terms of."
+  },
+  {
+    "id": "q063",
+    "cardIds": [
+      "along-with"
+    ],
+    "stem": "The director, along with his deputies, ____ invited to the ceremony.",
+    "options": [
+      "were",
+      "are",
+      "was",
+      "have been",
+      "have"
+    ],
+    "answer": 2,
+    "explanation": "Along with araya girse de özne tekil (the director) olduğu için fiil tekil: was."
+  },
+  {
+    "id": "q064",
+    "cardIds": [
+      "by-ving"
+    ],
+    "stem": "The firm reduced its costs ____ part of its production.",
+    "options": [
+      "by outsource",
+      "by outsourcing",
+      "in order outsourcing",
+      "for outsource",
+      "to outsourcing"
+    ],
+    "answer": 1,
+    "explanation": "Yöntem anlatırken by + V-ing kullanılır."
+  },
+  {
+    "id": "q065",
+    "cardIds": [
+      "instead-adv"
+    ],
+    "stem": "The council rejected the plan to widen the road. ____, it proposed building a new tram line.",
+    "options": [
+      "Instead",
+      "Instead of",
+      "Although",
+      "Unless",
+      "Because"
+    ],
+    "answer": 0,
+    "explanation": "Cümle başında tek başına gelen zarf: Instead. Instead of isim / V-ing ister."
   }
 ]

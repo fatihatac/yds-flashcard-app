@@ -4,7 +4,11 @@
     "category": "Zıtlık",
     "tr": "-e rağmen, -diği halde",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Although", "Even though", "Though"],
+    "group": [
+      "Although",
+      "Even though",
+      "Though"
+    ],
     "meaning": "Zıtlık kurar: ana cümleyle çelişen bir durumu belirtir.",
     "usage": "Zıtlık yan cümlesi başlatır. Even though, gerçek bir durumu daha vurgulu anlatır. Though cümle sonunda 'yine de' anlamında zarf olarak da gelebilir.",
     "example": {
@@ -18,7 +22,10 @@
     "category": "Zıtlık",
     "tr": "-e rağmen",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["Despite", "In spite of"],
+    "group": [
+      "Despite",
+      "In spite of"
+    ],
     "meaning": "Zıtlık kurar; ancak sonrasında yan cümle değil isim grubu gelir.",
     "usage": "Despite + isim / V-ing. Tam cümle getirmek için 'the fact that' eklenir: Despite the fact that + cümle.",
     "example": {
@@ -32,7 +39,10 @@
     "category": "Zıtlık",
     "tr": "oysa, -ken (zıtlık)",
     "rule": "Arkasından tam cümle alır; iki cümle birbirine zıttır",
-    "group": ["Whereas", "While"],
+    "group": [
+      "Whereas",
+      "While"
+    ],
     "meaning": "İki durumu veya iki tarafı birbiriyle karşılaştırıp aradaki farkı gösterir.",
     "usage": "Genellikle virgülle ayrılır ve cümlenin iki yarısı zıt bilgiler taşır. While zaman anlamıyla da kullanılır; zıtlık varsa 'oysa' demektir.",
     "example": {
@@ -46,7 +56,13 @@
     "category": "Zıtlık",
     "tr": "Ancak, yine de",
     "rule": "İki cümle arasında kullanılan zarf; arkasından tam cümle gelir",
-    "group": ["However", "Nevertheless", "Nonetheless", "Even so", "Still"],
+    "group": [
+      "However",
+      "Nevertheless",
+      "Nonetheless",
+      "Even so",
+      "Still"
+    ],
     "meaning": "Önceki cümleyle zıt veya beklenmedik bir bilgi ekler.",
     "usage": "Önünde nokta veya noktalı virgül, arkasında virgül bulunur. Tek başına iki cümleyi bağlayan bir bağlaç değildir.",
     "example": {
@@ -60,7 +76,12 @@
     "category": "Zıtlık",
     "tr": "Öte yandan, buna karşılık",
     "rule": "İki cümle arasında kullanılan zarf; arkasından tam cümle gelir",
-    "group": ["On the other hand", "In contrast", "By contrast", "Conversely"],
+    "group": [
+      "On the other hand",
+      "In contrast",
+      "By contrast",
+      "Conversely"
+    ],
     "meaning": "İki durumu karşılaştırır; ikinci cümle birinciyle zıt bir yönü gösterir.",
     "usage": "'On the one hand ... on the other hand ...' ikilisi tamamlanır. Cümle başında veya ortasında virgüllerle ayrılır.",
     "example": {
@@ -72,10 +93,15 @@
   {
     "id": "unlike",
     "category": "Zıtlık",
-    "tr": "-in aksine, -den farklı olarak",
+    "tr": "-in aksine, -e karşıt olarak",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["Unlike", "In contrast to", "Contrary to"],
-    "meaning": "İki kişi, nesne veya durum arasındaki farkı gösterir. Contrary to ise beklentinin / söylenenin tersini anlatır.",
+    "group": [
+      "Unlike",
+      "In contrast to",
+      "As opposed to",
+      "Contrary to"
+    ],
+    "meaning": "İki kişi, nesne veya durum arasındaki farkı gösterir. Contrary to ise beklentinin / söylenenin tersini anlatır. As opposed to + isim / V-ing de aynı biçimde karşıtlık kurar.",
     "usage": "Unlike + isim grubu, ana cümlenin öznesiyle kıyaslanır. Contrary to + belief / expectation / opinion gibi isimlerle sık kullanılır.",
     "example": {
       "en": "Unlike his predecessor, the new director encourages open debate among staff.",
@@ -88,7 +114,11 @@
     "category": "Sebep",
     "tr": "çünkü, -diği için",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Because", "Since", "As"],
+    "group": [
+      "Because",
+      "Since",
+      "As"
+    ],
     "meaning": "Ana cümledeki durumun nedenini bildirir.",
     "usage": "Because en güçlü neden vurgusunu yapar. As ve Since genellikle cümle başında, karşı tarafça bilinen nedeni anlatır.",
     "example": {
@@ -102,7 +132,13 @@
     "category": "Sebep",
     "tr": "-den dolayı, yüzünden",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["Because of", "Due to", "Owing to", "On account of", "Thanks to"],
+    "group": [
+      "Because of",
+      "Due to",
+      "Owing to",
+      "On account of",
+      "Thanks to"
+    ],
     "meaning": "Nedeni bir isim grubuyla bildirir. Thanks to olumlu bir sonucun nedenini verir.",
     "usage": "Because of / Owing to / On account of genellikle cümle başında veya fiilden sonra gelir. Due to özellikle 'be' fiilinden sonra yüklem olarak da kullanılır: The delay was due to ...",
     "example": {
@@ -116,7 +152,12 @@
     "category": "Sebep",
     "tr": "madem ki, -diğine göre",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Now that", "Seeing that", "Given that", "Considering that"],
+    "group": [
+      "Now that",
+      "Seeing that",
+      "Given that",
+      "Considering that"
+    ],
     "meaning": "Bilinen veya yeni gerçekleşmiş bir durumu neden olarak ele alıp ona dayanan bir sonuç bildirir.",
     "usage": "Now that, durumun artık gerçekleştiğini vurgular. Given / Considering + isim de olabilir: Given the circumstances ...",
     "example": {
@@ -130,7 +171,14 @@
     "category": "Sonuç",
     "tr": "Bu nedenle, dolayısıyla",
     "rule": "İki cümle arasında kullanılan zarf; arkasından tam cümle gelir",
-    "group": ["Therefore", "Thus", "Hence", "Consequently", "As a result", "Accordingly"],
+    "group": [
+      "Therefore",
+      "Thus",
+      "Hence",
+      "Consequently",
+      "As a result",
+      "Accordingly"
+    ],
     "meaning": "Önceki cümlenin sonucunu bildirir.",
     "usage": "Noktalı virgül veya nokta sonrasında, virgülle birlikte kullanılır. Hence kısa isim grubuyla da gelebilir: Hence the delay. Thus bazen V-ing ile gelir: ..., thus creating ...",
     "example": {
@@ -144,7 +192,10 @@
     "category": "Sonuç",
     "tr": "o kadar ... ki",
     "rule": "So + sıfat / zarf + that cümle",
-    "group": ["so + adj / adv + that", "so many / much / few / little + isim + that"],
+    "group": [
+      "so + adj / adv + that",
+      "so many / much / few / little + isim + that"
+    ],
     "meaning": "Bir niteliğin o derece fazla olduğunu ve bunun bir sonuç doğurduğunu belirtir.",
     "usage": "So sıfat veya zarfı güçlendirir; that ile başlayan yan cümle sonucu verir. Sayılabilir isimde so many / few, sayılamayan isimde so much / little kullanılır.",
     "example": {
@@ -158,7 +209,9 @@
     "category": "Sonuç",
     "tr": "öyle bir ... ki",
     "rule": "Such + (a / an) + (sıfat) + isim + that cümle",
-    "group": ["such (a / an) + (adj) + noun + that"],
+    "group": [
+      "such (a / an) + (adj) + noun + that"
+    ],
     "meaning": "Bir kişi, nesne veya durumun niteliğini abartarak sonucunu belirtir.",
     "usage": "Such isimle birlikte kullanılır. Sayılabilir tekil isimden önce a / an gelir; çoğul ve sayılamayan isimlerde gelmez.",
     "example": {
@@ -172,7 +225,10 @@
     "category": "Amaç",
     "tr": "-mesi için, -sin diye",
     "rule": "Arkasından tam cümle alır (can / could / will / would / may ile)",
-    "group": ["So that", "In order that"],
+    "group": [
+      "So that",
+      "In order that"
+    ],
     "meaning": "Eylemin amacını yeni bir özneli yan cümleyle anlatır.",
     "usage": "Ana cümle şimdi veya gelecekse can / will / may; geçmişse could / would kullanılır. In order that daha resmidir.",
     "example": {
@@ -186,7 +242,10 @@
     "category": "Amaç",
     "tr": "-mek için",
     "rule": "Arkasından V1 (yalın fiil) alır",
-    "group": ["In order to", "So as to"],
+    "group": [
+      "In order to",
+      "So as to"
+    ],
     "meaning": "Aynı öznenin eylemindeki amacı bildirir.",
     "usage": "Olumsuzu: in order not to / so as not to + V1. Özne aynı kaldığı için yeni bir özne gelmez.",
     "example": {
@@ -200,7 +259,10 @@
     "category": "Amaç",
     "tr": "-mesin diye, -mesi ihtimaline karşı (olumsuz amaç)",
     "rule": "Arkasından tam cümle alır; fiil V1 veya should + V1 olur",
-    "group": ["Lest", "For fear that"],
+    "group": [
+      "Lest",
+      "For fear that"
+    ],
     "meaning": "Kötü bir şeyin olmaması için yapılan eylemi anlatır.",
     "usage": "Lest zaten olumsuz anlam taşır. Resmi anlatımda kullanılır ve fiil genellikle should + V1 veya yalın fiildir. For fear that + might / would / should.",
     "example": {
@@ -214,7 +276,11 @@
     "category": "Amaç",
     "tr": "-me ihtimaline karşı, -ebilir diye",
     "rule": "Arkasından tam cümle alır (in case of + isim)",
-    "group": ["In case", "Just in case", "In case of (+ isim)"],
+    "group": [
+      "In case",
+      "Just in case",
+      "In case of (+ isim)"
+    ],
     "meaning": "Olasılığa karşı önceden alınan önlemi anlatır. In case of + isim, '-mesi durumunda' demektir.",
     "usage": "Gelecek için present simple kullanılır; will gelmez. Önlem, olaydan önce alınır.",
     "example": {
@@ -228,7 +294,14 @@
     "category": "Koşul",
     "tr": "yeter ki, -mesi şartıyla",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Provided that", "Providing that", "As long as", "So long as", "On condition that", "Only if"],
+    "group": [
+      "Provided that",
+      "Providing that",
+      "As long as",
+      "So long as",
+      "On condition that",
+      "Only if"
+    ],
     "meaning": "Ana cümlenin gerçekleşmesi için yalnızca bu şartın yerine getirilmesini ister.",
     "usage": "If'e göre daha kısıtlayıcıdır. Gelecek için present simple kullanılır. Only if cümle başına gelirse devrik yapı gerekir: Only if you ..., will you ...",
     "example": {
@@ -242,7 +315,10 @@
     "category": "Koşul",
     "tr": "-mediği sürece, -mezse",
     "rule": "Arkasından tam cümle alır (fiil olumlu, anlam olumsuz)",
-    "group": ["Unless", "If ... not"],
+    "group": [
+      "Unless",
+      "If ... not"
+    ],
     "meaning": "Koşulun gerçekleşmemesi halinde sonucun doğacağını bildirir.",
     "usage": "Unless = if not. Fiil olumlu yazılır. Unless otherwise stated / specified = aksi belirtilmedikçe.",
     "example": {
@@ -256,7 +332,9 @@
     "category": "Koşul",
     "tr": "-se bile (olasılık)",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Even if"],
+    "group": [
+      "Even if"
+    ],
     "meaning": "Varsayımsal bir durum gerçekleşse bile sonucun değişmeyeceğini anlatır.",
     "usage": "Even if (olsa bile; ihtimal) ile Even though (gerçek durum) farklıdır.",
     "example": {
@@ -270,7 +348,11 @@
     "category": "Koşul",
     "tr": "Eğer (If'siz, devrik yapı)",
     "rule": "Cümle Had / Were / Should ile başlar",
-    "group": ["Had + özne + V3", "Were + özne (to V1)", "Should + özne + V1"],
+    "group": [
+      "Had + özne + V3",
+      "Were + özne (to V1)",
+      "Should + özne + V1"
+    ],
     "meaning": "If kullanılmadan kurulan koşul cümlesidir; resmi dilde ve YDS'de sık çıkar.",
     "usage": "Had + S + V3 → 3. tip. Were + S → 2. tip. Should + S + V1 → 1. tip. Olumsuz: Had it not been ...",
     "example": {
@@ -284,7 +366,12 @@
     "category": "Koşul",
     "tr": "-meseydi, olmasaydı",
     "rule": "Arkasından isim alır",
-    "group": ["But for", "Without", "Had it not been for", "Were it not for"],
+    "group": [
+      "But for",
+      "Without",
+      "Had it not been for",
+      "Were it not for"
+    ],
     "meaning": "Bir şeyin varlığı veya yokluğu olmasaydı sonucun farklı olacağını anlatır.",
     "usage": "But for + isim = if it had not been for + isim. Ana cümlede would have V3 veya would V1 gelir.",
     "example": {
@@ -298,7 +385,11 @@
     "category": "Koşul",
     "tr": "yoksa, aksi takdirde",
     "rule": "İki cümle arasında kullanılan zarf",
-    "group": ["Otherwise", "Or else", "If not"],
+    "group": [
+      "Otherwise",
+      "Or else",
+      "If not"
+    ],
     "meaning": "Önceki cümlede istenen şey yapılmazsa ne olacağını bildirir.",
     "usage": "Otherwise önceki cümlenin tersini şart yapar. Sonrasında will / would ile sonuç gelir.",
     "example": {
@@ -312,7 +403,14 @@
     "category": "Ekleme",
     "tr": "Ayrıca, üstelik",
     "rule": "İki cümle arasında kullanılan zarf; arkasından tam cümle gelir",
-    "group": ["Moreover", "Furthermore", "In addition", "Besides", "Additionally", "What is more"],
+    "group": [
+      "Moreover",
+      "Furthermore",
+      "In addition",
+      "Besides",
+      "Additionally",
+      "What is more"
+    ],
     "meaning": "Aynı yönde yeni bir bilgi ekler.",
     "usage": "Furthermore / Moreover önceki bilgiye daha güçlü bir bilgi ekler. Cümle başında veya noktalı virgülden sonra virgülle gelir.",
     "example": {
@@ -326,7 +424,13 @@
     "category": "Ekleme",
     "tr": "-e ek olarak, -in yanı sıra",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["In addition to", "Besides", "Apart from", "As well as", "Aside from"],
+    "group": [
+      "In addition to",
+      "Besides",
+      "Apart from",
+      "As well as",
+      "Aside from"
+    ],
     "meaning": "Zaten var olan bir şeye başka bir şey eklendiğini belirtir.",
     "usage": "In addition to ifadesindeki to bir edattır; bu yüzden V-ing gelir. Apart from hem 'hariç' hem 'ek olarak' anlamına gelebilir.",
     "example": {
@@ -340,7 +444,9 @@
     "category": "Ekleme",
     "tr": "yalnızca ... değil, aynı zamanda ... da",
     "rule": "Not only başa gelirse devrik yapı gerekir",
-    "group": ["Not only ... but also"],
+    "group": [
+      "Not only ... but also"
+    ],
     "meaning": "İki bilgiyi birlikte vurgular.",
     "usage": "Cümle başında: Not only + yardımcı fiil + özne + ana fiil, but ... also ... Paralellik gerekir.",
     "example": {
@@ -354,7 +460,9 @@
     "category": "Ekleme",
     "tr": "hem ... hem de",
     "rule": "İki öğe paralel olur; çoğul fiil alır",
-    "group": ["Both ... and"],
+    "group": [
+      "Both ... and"
+    ],
     "meaning": "İki öğenin de geçerli olduğunu belirtir.",
     "usage": "Both A and B her zaman çoğul özne sayılır. 'Both ... or' veya 'both ... as well' gibi karışık yapılar yanlıştır.",
     "example": {
@@ -368,9 +476,12 @@
     "category": "Ekleme",
     "tr": "ya ... ya da / ne ... ne de",
     "rule": "Either ... or / Neither ... nor; fiil yakın özneye uyar",
-    "group": ["Either ... or", "Neither ... nor"],
+    "group": [
+      "Either ... or",
+      "Neither ... nor"
+    ],
     "meaning": "İki seçenekten birini veya her ikisinin olumsuzluğunu anlatır.",
-    "usage": "Neither ... nor zaten olumsuzdur; fiil olumlu yazılır. Fiil, nor / or'a daha yakın özneye uyar.",
+    "usage": "Neither ... nor zaten olumsuzdur; fiil olumlu yazılır. Fiil, nor / or'a daha yakın özneye uyar. Cümlede zaten olumsuz bir ifade varsa (not, no one, never) either ... or ile \"ne ... ne de\" anlamı elde edilir: She cannot speak either French or German.",
     "example": {
       "en": "Neither the director nor the employees were aware of the changes.",
       "tr": "Ne müdür ne de çalışanlar değişikliklerden haberdardı."
@@ -382,7 +493,11 @@
     "category": "Zaman",
     "tr": "-ken, -diği sırada",
     "rule": "Arkasından tam cümle alır",
-    "group": ["While", "As", "When"],
+    "group": [
+      "While",
+      "As",
+      "When"
+    ],
     "meaning": "İki eylemin aynı anda gerçekleştiğini anlatır.",
     "usage": "While genellikle sürmekte olan eylemle (past continuous) kullanılır. Özneler aynıysa özne + be düşebilir: While (he was) walking ...",
     "example": {
@@ -396,7 +511,12 @@
     "category": "Zaman",
     "tr": "-ir -mez, -diği anda",
     "rule": "Arkasından tam cümle alır",
-    "group": ["As soon as", "The moment", "The instant", "Once"],
+    "group": [
+      "As soon as",
+      "The moment",
+      "The instant",
+      "Once"
+    ],
     "meaning": "Bir eylemin hemen ardından diğerinin geldiğini anlatır.",
     "usage": "Gelecek için present simple veya present perfect kullanılır. Once + V3 kısaltması da çıkar: Once completed, the system ...",
     "example": {
@@ -410,7 +530,10 @@
     "category": "Zaman",
     "tr": "-e kadar (eylem o ana dek sürer)",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Until", "Till"],
+    "group": [
+      "Until",
+      "Till"
+    ],
     "meaning": "Bir eylemin belirtilen ana kadar devam ettiğini ya da başlamadığını gösterir.",
     "usage": "Olumsuz ana cümle: not ... until = ... -ene kadar ... olmadı / ... -inceye dek ... yapmadı.",
     "example": {
@@ -424,7 +547,9 @@
     "category": "Zaman",
     "tr": "-diği zamana kadar, -diği vakit",
     "rule": "Arkasından tam cümle alır; ana cümlede perfect zaman",
-    "group": ["By the time"],
+    "group": [
+      "By the time"
+    ],
     "meaning": "Belirli bir andan önce bir eylemin tamamlanmış olduğunu gösterir.",
     "usage": "By the time + past simple → ana cümlede past perfect. By the time + present simple → ana cümlede future perfect.",
     "example": {
@@ -438,7 +563,11 @@
     "category": "Zaman",
     "tr": "-diği her seferde, her ... -diğinde",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Whenever", "Every time", "Each time"],
+    "group": [
+      "Whenever",
+      "Every time",
+      "Each time"
+    ],
     "meaning": "Bir eylemin tekrar eden bir koşulda her seferinde gerçekleştiğini belirtir.",
     "usage": "Genelleme ve alışkanlık anlatırken present simple ile kullanılır.",
     "example": {
@@ -452,7 +581,10 @@
     "category": "Zaman",
     "tr": "-diği günden beri",
     "rule": "Arkasından tam cümle alır; ana cümlede present perfect",
-    "group": ["Since", "Ever since"],
+    "group": [
+      "Since",
+      "Ever since"
+    ],
     "meaning": "Bir eylemin belirli bir başlangıç noktasından itibaren sürdüğünü anlatır.",
     "usage": "Since + past simple, ana cümle present perfect (continuous). Since neden anlamı da taşıyabilir; ana cümlenin zamanına bak.",
     "example": {
@@ -466,7 +598,11 @@
     "category": "Zaman",
     "tr": "-er -mez, ... -diği anda (devrik yapı)",
     "rule": "Başa gelen Hardly / No sooner / Scarcely'den sonra devrik yapı",
-    "group": ["Hardly ... when", "Scarcely ... when", "No sooner ... than"],
+    "group": [
+      "Hardly ... when",
+      "Scarcely ... when",
+      "No sooner ... than"
+    ],
     "meaning": "Bir eylemin hemen ardından başka bir eylemin gerçekleştiğini vurgular.",
     "usage": "Hardly / Scarcely + had + özne + V3 ... when + past simple. No sooner + had + özne + V3 ... than + past simple.",
     "example": {
@@ -480,7 +616,11 @@
     "category": "Zaman",
     "tr": "-den önce",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["Before", "Prior to", "Ahead of"],
+    "group": [
+      "Before",
+      "Prior to",
+      "Ahead of"
+    ],
     "meaning": "Bir eylemin başka bir eylemden veya zamandan önce olduğunu bildirir.",
     "usage": "Prior to ifadesindeki to bir edattır; V-ing gelir. Before hem edat hem bağlaçtır; Prior to yalnızca edattır.",
     "example": {
@@ -494,7 +634,11 @@
     "category": "Zaman",
     "tr": "-den sonra",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["Following", "After", "Subsequent to", "Upon", "On"],
+    "group": [
+      "Following",
+      "After",
+      "Subsequent to"
+    ],
     "meaning": "Bir eylemin başka bir olaydan sonra gerçekleştiğini anlatır.",
     "usage": "Following + isim: -in ardından. Upon / On + V-ing: -ir -mez. Subsequent to resmi dilde kullanılır ve isim / V-ing alır.",
     "example": {
@@ -508,7 +652,12 @@
     "category": "Zaman",
     "tr": "-süresince, -boyunca",
     "rule": "Arkasından isim alır",
-    "group": ["During", "Throughout", "In the course of", "Over"],
+    "group": [
+      "During",
+      "Throughout",
+      "In the course of",
+      "Over"
+    ],
     "meaning": "Bir eylemin bir olay veya dönem boyunca gerçekleştiğini belirtir.",
     "usage": "During + olay / dönem. While + tam cümle. For + süre miktarı (for two hours).",
     "example": {
@@ -522,7 +671,11 @@
     "category": "Karşılaştırma",
     "tr": "-mek yerine, yerine",
     "rule": "Arkasından isim / V-ing alır",
-    "group": ["Instead of", "Rather than", "In place of"],
+    "group": [
+      "Instead of",
+      "Rather than",
+      "In place of"
+    ],
     "meaning": "Bir şey yerine başka bir şeyin tercih edildiğini veya yapıldığını belirtir.",
     "usage": "Instead of + isim / V-ing. Rather than + V1 / V-ing / isim; iki tarafın paralel olması gerekir. Instead tek başına cümle sonunda veya başında zarf olarak gelir.",
     "example": {
@@ -536,7 +689,12 @@
     "category": "Karşılaştırma",
     "tr": "-in dışında, hariç",
     "rule": "Arkasından isim alır (except that + tam cümle)",
-    "group": ["Except (for)", "Apart from", "Other than", "But"],
+    "group": [
+      "Except (for)",
+      "Apart from",
+      "Other than",
+      "But"
+    ],
     "meaning": "Genellemenin dışında kalan bir öğeyi belirtir.",
     "usage": "Except that + tam cümle. All / no / every / nothing / anyone sözcüklerinden sonra but = except olabilir: nothing but the truth.",
     "example": {
@@ -550,7 +708,11 @@
     "category": "Karşılaştırma",
     "tr": "ne olursa olsun, ne kadar ... -sa da",
     "rule": "However + sıfat / zarf + özne + fiil; No matter + wh-",
-    "group": ["However + adj / adv", "Whatever / Whoever / Wherever", "No matter what / who / how", "Regardless of"],
+    "group": [
+      "However + adj / adv",
+      "Whatever / Whoever / Wherever",
+      "No matter what / who / how"
+    ],
     "meaning": "Koşulun veya niteliğin derecesi ne olursa olsun sonucun değişmeyeceğini anlatır.",
     "usage": "However hard = No matter how hard. Whatever = No matter what. Regardless of + isim / whether.",
     "example": {
@@ -564,7 +726,10 @@
     "category": "Karşılaştırma",
     "tr": "ister ... ister, -ip -mediği",
     "rule": "Arkasından tam cümle alır",
-    "group": ["Whether ... or (not)", "Regardless of whether"],
+    "group": [
+      "Whether ... or (not)",
+      "Regardless of whether"
+    ],
     "meaning": "İki olasılıktan hangisi olursa olsun sonucun aynı olduğunu anlatır veya dolaylı soru kurar.",
     "usage": "Whether ... or not; whether to + V1. Edatlardan sonra if değil whether kullanılır.",
     "example": {
@@ -578,7 +743,10 @@
     "category": "Karşılaştırma",
     "tr": "sanki, -mış gibi",
     "rule": "Arkasından tam cümle alır; gerçek dışı durumda geçmiş zaman",
-    "group": ["As if", "As though"],
+    "group": [
+      "As if",
+      "As though"
+    ],
     "meaning": "Gerçek olmayan veya belirsiz bir benzetme yapar.",
     "usage": "Şimdiki gerçek dışı: as if + past simple (were). Geçmişteki gerçek dışı: as if + past perfect. Gerçek olasılık varsa present kullanılabilir.",
     "example": {
@@ -592,7 +760,12 @@
     "category": "Diğer",
     "tr": "-e göre, -e uygun olarak",
     "rule": "Arkasından isim alır",
-    "group": ["According to", "In accordance with", "In line with", "Depending on"],
+    "group": [
+      "According to",
+      "In accordance with",
+      "In line with",
+      "Depending on"
+    ],
     "meaning": "Bir kaynağa, kurala veya duruma dayandığını belirtir.",
     "usage": "According to + kaynak (rapor, kişi). In accordance with / In line with + kural veya beklenti. Depending on + değişen duruma bağlılık.",
     "example": {
@@ -606,7 +779,13 @@
     "category": "Diğer",
     "tr": "-e gelince, -e ilişkin",
     "rule": "Arkasından isim alır",
-    "group": ["With regard to", "Regarding", "Concerning", "As for", "As to"],
+    "group": [
+      "With regard to",
+      "Regarding",
+      "Concerning",
+      "As for",
+      "As to"
+    ],
     "meaning": "Konuyu belirtir veya konuyu değiştirir.",
     "usage": "As for cümle başında yeni bir konuya geçmek için kullanılır. With regard to resmi ve yazılıdır.",
     "example": {
@@ -620,7 +799,12 @@
     "category": "Ekleme",
     "tr": "Benzer şekilde, aynı şekilde",
     "rule": "İki cümle arasında kullanılan zarf",
-    "group": ["Similarly", "Likewise", "In the same way", "Equally"],
+    "group": [
+      "Similarly",
+      "Likewise",
+      "In the same way",
+      "Equally"
+    ],
     "meaning": "İkinci cümlenin birinciye benzer olduğunu gösterir.",
     "usage": "Cümle başında veya noktalı virgülden sonra virgülle kullanılır.",
     "example": {
@@ -634,7 +818,12 @@
     "category": "Diğer",
     "tr": "örneğin",
     "rule": "For example / For instance cümle arasında; such as isimden önce",
-    "group": ["For example", "For instance", "Such as", "Like"],
+    "group": [
+      "For example",
+      "For instance",
+      "Such as",
+      "Like"
+    ],
     "meaning": "Genel bir ifadeyi örnekle destekler.",
     "usage": "For example / For instance virgülle ayrılır. Such as + isim grubu, listeyi tanıtır.",
     "example": {
@@ -648,7 +837,12 @@
     "category": "Diğer",
     "tr": "yani, başka bir deyişle",
     "rule": "İki cümle arasında kullanılan zarf",
-    "group": ["In other words", "That is", "Namely", "That is to say"],
+    "group": [
+      "In other words",
+      "That is",
+      "Namely",
+      "That is to say"
+    ],
     "meaning": "Önceki ifadeyi daha açık biçimde yeniden söyler.",
     "usage": "Namely belirli adları sıralar. That is / In other words açıklayıcıdır.",
     "example": {
@@ -662,7 +856,14 @@
     "category": "Diğer",
     "tr": "sonuç olarak, özetle",
     "rule": "Cümle başında kullanılan zarf",
-    "group": ["In conclusion", "To sum up", "In short", "All in all", "Overall", "To conclude"],
+    "group": [
+      "In conclusion",
+      "To sum up",
+      "In short",
+      "All in all",
+      "Overall",
+      "To conclude"
+    ],
     "meaning": "Metnin sonunda ana fikri veya genel sonucu belirtir.",
     "usage": "Paragraf sonlarında; virgülle ayrılır.",
     "example": {
@@ -676,7 +877,12 @@
     "category": "Diğer",
     "tr": "aslında, gerçekte",
     "rule": "Cümle arasında kullanılan zarf",
-    "group": ["In fact", "Actually", "As a matter of fact", "Indeed"],
+    "group": [
+      "In fact",
+      "Actually",
+      "As a matter of fact",
+      "Indeed"
+    ],
     "meaning": "Önceki ifadeyi güçlendirir veya düzeltir.",
     "usage": "Beklenenin tersini ya da bir bilginin daha güçlüsünü vermek için kullanılır.",
     "example": {
@@ -690,7 +896,11 @@
     "category": "Zaman",
     "tr": "bu arada, aynı sırada",
     "rule": "İki cümle arasında kullanılan zarf",
-    "group": ["Meanwhile", "In the meantime", "At the same time"],
+    "group": [
+      "Meanwhile",
+      "In the meantime",
+      "At the same time"
+    ],
     "meaning": "İki olayın aynı anda gerçekleştiğini belirtir.",
     "usage": "Önceki cümleyle aynı zaman diliminde gerçekleşen bir olayı anlatır.",
     "example": {
@@ -704,7 +914,13 @@
     "category": "Zaman",
     "tr": "sonrasında, daha sonra",
     "rule": "İki cümle arasında kullanılan zarf",
-    "group": ["Afterwards", "Subsequently", "Thereafter", "Later", "Then"],
+    "group": [
+      "Afterwards",
+      "Subsequently",
+      "Thereafter",
+      "Later",
+      "Then"
+    ],
     "meaning": "Bir olayın ardından gelen olayı belirtir.",
     "usage": "Kronolojik sıralamayı vurgular. Thereafter ve subsequently resmi dilde kullanılır.",
     "example": {
@@ -712,5 +928,240 @@
       "tr": "Hastalar önce muayene edildi; ardından uzmanlara yönlendirildi."
     },
     "tip": "Olaylar sırasıyla gerçekleşiyorsa Subsequently / Afterwards. Eş zamanlıysa Meanwhile."
+  },
+  {
+    "id": "result-so",
+    "category": "Sonuç",
+    "tr": "bu yüzden, böylece",
+    "rule": "Cümle ortasında virgülden sonra gelir; arkasından tam cümle alır",
+    "group": [
+      "So",
+      "and so"
+    ],
+    "meaning": "Önceki cümlenin doğrudan sonucunu bildirir.",
+    "usage": "So bir bağlaçtır; iki cümleyi virgülle birleştirir. Therefore / Thus ise cümleler arası zarftır.",
+    "example": {
+      "en": "The pipeline burst during the night, so the entire district was left without water.",
+      "tr": "Boru gece patladı, bu yüzden bütün mahalle susuz kaldı."
+    },
+    "tip": "So (sonuç) ile so that (amaç) karıştırma: so that + can / would; so + düz sonuç cümlesi. Bağlaç olduğu için önünde virgül bulunur."
+  },
+  {
+    "id": "as-a-result-of",
+    "category": "Sonuç",
+    "tr": "-in sonucunda, -in bir sonucu olarak",
+    "rule": "Arkasından isim / V-ing alır",
+    "group": [
+      "As a result of",
+      "As a consequence of",
+      "In consequence of"
+    ],
+    "meaning": "Bir olayın sonucunda ortaya çıkan durumu isim grubuyla belirtir.",
+    "usage": "Because of / due to ile aynı yapıdadır, ancak nedenden çok sonucu vurgular.",
+    "example": {
+      "en": "As a result of the merger, more than 2,000 employees lost their jobs.",
+      "tr": "Birleşmenin sonucunda 2.000'den fazla çalışan işini kaybetti."
+    },
+    "tip": "\"As a result\" (of yok) cümleler arasındadır: As a result, ... \"As a result of\" ise isim alır. Boşluktan sonra isim varsa of'lu olanı seç."
+  },
+  {
+    "id": "by-means-of",
+    "category": "Sebep",
+    "tr": "-aracılığıyla, vasıtasıyla",
+    "rule": "Arkasından isim alır",
+    "group": [
+      "By means of",
+      "Through",
+      "By way of",
+      "Via"
+    ],
+    "meaning": "Bir işin hangi araç veya yöntemle yapıldığını belirtir.",
+    "usage": "By means of + isim grubu. Yöntem eylem olarak verilecekse by + V-ing kullanılır.",
+    "example": {
+      "en": "The data were collected by means of structured interviews.",
+      "tr": "Veriler yapılandırılmış görüşmeler aracılığıyla toplandı."
+    },
+    "tip": "By means of sonrasında fiilli cümle gelmez. Eylemle yöntem anlatıyorsan by + V-ing tercih et."
+  },
+  {
+    "id": "but",
+    "category": "Zıtlık",
+    "tr": "fakat, ama",
+    "rule": "Cümle ortasında virgülden sonra gelir; arkasından tam cümle alır",
+    "group": [
+      "But",
+      "Yet"
+    ],
+    "meaning": "İki zıt fikri veya beklenmedik durumu bağlar.",
+    "usage": "But / Yet eş değerli (coordinating) bağlaçlardır; önlerinde virgül kullanılır. Yet daha vurguludur.",
+    "example": {
+      "en": "The proposal was innovative, but it was too expensive to implement.",
+      "tr": "Teklif yenilikçiydi, ancak uygulanması çok pahalıydı."
+    },
+    "tip": "Although / Even though ile but aynı cümlede kullanılmaz. But virgülle bağlanır; however ise cümleler arasındadır (önünde nokta / noktalı virgül)."
+  },
+  {
+    "id": "regardless-of",
+    "category": "Zıtlık",
+    "tr": "-e bakılmaksızın, -den bağımsız olarak",
+    "rule": "Arkasından isim / V-ing / whether alır",
+    "group": [
+      "Regardless of",
+      "Irrespective of",
+      "Regardless of whether"
+    ],
+    "meaning": "Bir etkenin sonucu değiştirmediğini belirtir.",
+    "usage": "Regardless of + isim / V-ing / wh- sözcüğü. Regardless tek başına \"yine de\" anlamlı zarf olabilir.",
+    "example": {
+      "en": "Admission is based on merit, regardless of an applicant's background.",
+      "tr": "Kabul, adayın geçmişine bakılmaksızın liyakate göre yapılır."
+    },
+    "tip": "Regardless of + isim / V-ing / whether. Fiilli düz cümle gelmez; \"regardless of the fact that\" = despite the fact that."
+  },
+  {
+    "id": "as-as",
+    "category": "Karşılaştırma",
+    "tr": "kadar (eşitlik)",
+    "rule": "as + sıfat / zarf + as",
+    "group": [
+      "as + adj / adv + as",
+      "as much / many ... as",
+      "not as / so ... as"
+    ],
+    "meaning": "İki şeyin aynı derecede olduğunu veya (olumsuzda) birinin diğerinden az olduğunu belirtir.",
+    "usage": "Sayılabilir isimle as many ... as, sayılamayan isimle as much ... as kullanılır.",
+    "example": {
+      "en": "The new model is as reliable as the older one, but considerably cheaper.",
+      "tr": "Yeni model eskisi kadar güvenilir, ancak belirgin biçimde daha ucuz."
+    },
+    "tip": "İki as arasında sıfat / zarf kalır; as ... than yanlıştır (than yalnızca üstünlükte). Olumsuzda not as ... as = daha az."
+  },
+  {
+    "id": "just-as",
+    "category": "Karşılaştırma",
+    "tr": "tıpkı ... gibi, ... nasıl ... öyle",
+    "rule": "Just as + cümle, so + cümle (so'dan sonra devrik yapı olabilir)",
+    "group": [
+      "Just as ... so",
+      "In the same way that",
+      "Like"
+    ],
+    "meaning": "İki durumun benzerliğini veya denkliğini vurgular.",
+    "usage": "Just as ile başlayan yan cümle karşılaştırılan durumu verir, so ise ana cümleyi başlatır.",
+    "example": {
+      "en": "Just as technology has transformed communication, so has it reshaped education.",
+      "tr": "Teknoloji iletişimi nasıl dönüştürdüyse eğitimi de öyle yeniden şekillendirdi."
+    },
+    "tip": "So'dan sonra devrik yapı gelebilir (so has it). Like + isim; as / just as + cümle farkını bil: Like his father / As his father did."
+  },
+  {
+    "id": "if-basic",
+    "category": "Koşul",
+    "tr": "eğer, -ise",
+    "rule": "Arkasından tam cümle alır",
+    "group": [
+      "If",
+      "Supposing (that)",
+      "Assuming (that)",
+      "In the event that"
+    ],
+    "meaning": "Bir koşulun gerçekleşmesi halinde sonucu bildirir.",
+    "usage": "Tip 0: If + present, present. Tip 1: If + present, will V1. Tip 2: If + past, would V1. Tip 3: If + had V3, would have V3. If cümlesinde will / would kullanılmaz.",
+    "example": {
+      "en": "If the government raises interest rates, borrowing will become more expensive.",
+      "tr": "Hükümet faiz oranlarını artırırsa borçlanma daha pahalı hale gelecektir."
+    },
+    "tip": "If cümlesine bakarak ana cümleyi eşleştir: present → will V1; past → would V1; had V3 → would have V3. If cümlesinde will / would olmaz."
+  },
+  {
+    "id": "time-upon",
+    "category": "Zaman",
+    "tr": "-ir -mez, -diği anda",
+    "rule": "Arkasından isim / V-ing alır",
+    "group": [
+      "Upon / On + V-ing",
+      "Upon arrival",
+      "On + isim"
+    ],
+    "meaning": "Bir eylemin hemen ardından başka bir eylemin geldiğini gösterir.",
+    "usage": "Upon / On + V-ing = As soon as + cümle. Upon arrival, upon request gibi kalıplarda isimle de gelir.",
+    "example": {
+      "en": "Upon arriving at the airport, the delegation was welcomed by the minister.",
+      "tr": "Havalimanına varır varmaz heyet bakan tarafından karşılandı."
+    },
+    "tip": "Upon / On + V-ing yapısının öznesi ana cümlenin öznesiyle aynı olmalıdır. As soon as ise kendi öznesini alır."
+  },
+  {
+    "id": "in-terms-of",
+    "category": "Diğer",
+    "tr": "açısından, bakımından",
+    "rule": "Arkasından isim / V-ing alır",
+    "group": [
+      "In terms of",
+      "With respect to",
+      "From the viewpoint of",
+      "As far as ... is concerned"
+    ],
+    "meaning": "Bir konuyu hangi yönden değerlendirdiğini belirtir.",
+    "usage": "In terms of + isim / V-ing. As far as + isim + is concerned aynı anlamdadır; yapısı farklıdır.",
+    "example": {
+      "en": "In terms of cost, the second option is clearly preferable.",
+      "tr": "Maliyet açısından ikinci seçenek açıkça tercih edilebilir."
+    },
+    "tip": "In terms of sonrası isim grubu gelir. As far as ... is concerned yapısında isim araya girer: As far as cost is concerned, ..."
+  },
+  {
+    "id": "along-with",
+    "category": "Ekleme",
+    "tr": "ile birlikte, -in yanı sıra",
+    "rule": "Arkasından isim alır",
+    "group": [
+      "Along with",
+      "Together with",
+      "Accompanied by"
+    ],
+    "meaning": "Ana özneye eşlik eden başka bir kişi veya şeyi belirtir.",
+    "usage": "Bu ifadeler özneye eklenir ama özneyi çoğul yapmaz.",
+    "example": {
+      "en": "The director, along with his deputies, was invited to the ceremony.",
+      "tr": "Müdür, yardımcılarıyla birlikte törene davet edildi."
+    },
+    "tip": "Along with / together with / as well as araya girdiğinde fiil ilk özneye uyar (The director ... was). And ile bağlansaydı fiil çoğul olurdu."
+  },
+  {
+    "id": "by-ving",
+    "category": "Diğer",
+    "tr": "-erek, -mesiyle, yoluyla",
+    "rule": "By + V-ing",
+    "group": [
+      "By + V-ing",
+      "By means of + isim",
+      "Through + V-ing"
+    ],
+    "meaning": "Bir sonucun hangi eylemle elde edildiğini belirtir.",
+    "usage": "By + V-ing nasıl sorusunu, in order to + V1 niçin sorusunu yanıtlar.",
+    "example": {
+      "en": "The firm reduced its costs by outsourcing part of its production.",
+      "tr": "Firma üretiminin bir kısmını dışarıya vererek maliyetlerini düşürdü."
+    },
+    "tip": "By sonrasında V-ing gelir (V1 yanlıştır). Yöntem → by cutting costs; amaç → in order to cut costs."
+  },
+  {
+    "id": "instead-adv",
+    "category": "Karşılaştırma",
+    "tr": "bunun yerine",
+    "rule": "İki cümle arasında kullanılan zarf",
+    "group": [
+      "Instead",
+      "Alternatively",
+      "Rather"
+    ],
+    "meaning": "Önceki cümlede reddedilen şeyin yerine geçen seçeneği bildirir.",
+    "usage": "Instead tek başına cümle başında / sonunda gelir. Sonrasında isim veya V-ing varsa instead of kullanılır.",
+    "example": {
+      "en": "The council rejected the plan to widen the road. Instead, it proposed building a new tram line.",
+      "tr": "Meclis yolu genişletme planını reddetti. Bunun yerine yeni bir tramvay hattı yapılmasını önerdi."
+    },
+    "tip": "Instead (of'suz) cümleler arasındadır; isim / V-ing gelecekse instead of. Rather tek başına bu anlamda resmi dilde nadirdir; rather than ayrıdır."
   }
 ]
