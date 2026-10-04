@@ -57,6 +57,11 @@ async function route() {
 nav.append(...NAV.map(([id, icon, label]) => h('a', { href: `#/${id}`, 'data-route': id }, h('span', { class: 'nav-icon' }, icon), h('span', null, label))));
 applyTheme();
 window.addEventListener('hashchange', route);
+// Aynı adrese verilen bağlantılar (ör. quiz sonucundaki "Yeni sınav") hashchange üretmez; ekranı elle yenile.
+document.addEventListener('click', (e) => {
+  const a = e.target.closest('a[href^="#/"]');
+  if (a && a.getAttribute('href') === location.hash) route();
+});
 route();
 
 if ('serviceWorker' in navigator && location.protocol !== 'file:') {

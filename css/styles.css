@@ -123,3 +123,8 @@ input[type="search"] { width: 100%; } input[type="number"] { width: 90px; }
 
 .meanings { margin: 4px 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 2px; font-size: .95rem; }
 .meanings b { color: var(--primary); }
+
+.section-title { margin-top: 8px; }
+.list-text { display: flex; flex-direction: column; gap: 2px; }
+.review-card { flex-direction: row; justify-content: space-between; align-items: center; border-color: var(--primary); }
+.review-card.disabled { border-color: var(--line); opacity: .7; }

@@ -67,14 +67,39 @@ export function streak() {
   return n;
 }
 
+// Yanlış yapılan sorular aralıklı tekrar sırasına girer (Leitner kutuları: 1 - 3 - 7 - 14 gün).
+const REVIEW_DAYS = [1, 3, 7, 14];
+
+function addDays(ts, days) {
+  const d = new Date(ts);
+  d.setHours(0, 0, 0, 0);
+  d.setDate(d.getDate() + days);
+  return d.getTime();
+}
+
 export function recordQuestion(id, correct) {
+  const now = Date.now();
   const q = (state.questions[id] ||= { seen: 0, correct: 0, lastCorrect: null, last: 0 });
   q.seen += 1;
   if (correct) q.correct += 1;
   q.lastCorrect = correct;
-  q.last = Date.now();
+  q.last = now;
+  if (!correct) q.review = { box: 0, due: now };
+  else if (q.review) {
+    const box = q.review.box + 1;
+    q.review = box > REVIEW_DAYS.length ? null : { box, due: addDays(now, REVIEW_DAYS[box - 1]) };
+  }
   save();
 }
+
+export function reviewDueIds(now = Date.now()) {
+  return Object.entries(state.questions)
+    .filter(([, q]) => q.review && q.review.due <= now)
+    .sort((a, b) => a[1].review.due - b[1].review.due)
+    .map(([id]) => id);
+}
+
+export const reviewPendingCount = () => Object.values(state.questions).filter((q) => q.review).length;
 
 export function setSetting(path, value) {
   if (path === 'newPerDay.conjunctions' || path === 'newPerDay.words') state.settings.newPerDay[path.split('.')[1]] = value;

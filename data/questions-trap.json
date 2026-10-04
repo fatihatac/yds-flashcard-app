@@ -1,0 +1,2178 @@
+[
+  {
+    "id": "t001",
+    "cardIds": [
+      "concession-clause"
+    ],
+    "kind": "trap",
+    "stem": "____ the new regulations were widely criticised, the government refused to amend them.",
+    "options": [
+      "Despite",
+      "Even though",
+      "However",
+      "In spite of",
+      "Nevertheless"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: Even though. Tuzak: Boşluktan sonra tam cümle var. Despite / In spite of isim ister; However / Nevertheless ise cümleler arası zarftır, cümle başında bağlaç görevi görmez."
+  },
+  {
+    "id": "t002",
+    "cardIds": [
+      "concession-clause"
+    ],
+    "kind": "trap",
+    "stem": "The hotel was expensive. The service, ____, was poor.",
+    "options": [
+      "though",
+      "although",
+      "even though",
+      "despite",
+      "because"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: though. Tuzak: Though cümle ortasında / sonunda virgülle zarf olarak 'ama, yine de' anlamı taşır; although ve even though bu konumda kullanılmaz."
+  },
+  {
+    "id": "t003",
+    "cardIds": [
+      "concession-noun"
+    ],
+    "kind": "trap",
+    "stem": "____ the fact that the experiment had failed twice, the team decided to repeat it.",
+    "options": [
+      "Despite",
+      "Although",
+      "Even though",
+      "However",
+      "Whereas"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Despite. Tuzak: 'Despite the fact that + tam cümle' kalıbı vardır. Although / Even though 'the fact that' ile birlikte kullanılmaz."
+  },
+  {
+    "id": "t004",
+    "cardIds": [
+      "concession-noun"
+    ],
+    "kind": "trap",
+    "stem": "____ having studied for months, he failed the exam.",
+    "options": [
+      "Although",
+      "In spite of",
+      "Even though",
+      "However",
+      "Nevertheless"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: In spite of. Tuzak: Sonrasında V-ing var. Edat olan In spite of / Despite V-ing alır; Although / Even though tam cümle ister."
+  },
+  {
+    "id": "t005",
+    "cardIds": [
+      "contrast-clause"
+    ],
+    "kind": "trap",
+    "stem": "The first group of students performed well, ____ the second group did poorly.",
+    "options": [
+      "whereas",
+      "during",
+      "despite",
+      "owing to",
+      "instead of"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: whereas. Tuzak: Whereas tam cümle alır. During, despite, owing to ve instead of isim ister."
+  },
+  {
+    "id": "t006",
+    "cardIds": [
+      "contrast-clause"
+    ],
+    "kind": "trap",
+    "stem": "Sales of electric cars rose sharply last year; ____, sales of petrol cars fell.",
+    "options": [
+      "whereas",
+      "while",
+      "on the other hand",
+      "although",
+      "because"
+    ],
+    "answer": 2,
+    "explanation": "Doğru cevap: on the other hand. Tuzak: Noktalı virgülden sonra bağlaç (whereas, while, although) gelmez; cümleler arası zarf (on the other hand) gerekir."
+  },
+  {
+    "id": "t007",
+    "cardIds": [
+      "adv-contrast"
+    ],
+    "kind": "trap",
+    "stem": "The weather was terrible. ____, the match went ahead as planned.",
+    "options": [
+      "Although",
+      "Nevertheless",
+      "Despite",
+      "In spite of",
+      "Because"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: Nevertheless. Tuzak: Önceki cümle noktayla bitiyor; yeni cümleyi başlatan zıtlık zarfı gerekir. Although tek başına cümle başlatamaz, Despite / In spite of isim ister."
+  },
+  {
+    "id": "t008",
+    "cardIds": [
+      "adv-contrast"
+    ],
+    "kind": "trap",
+    "stem": "She was exhausted, ____ she kept working until midnight.",
+    "options": [
+      "however",
+      "nevertheless",
+      "yet",
+      "although",
+      "therefore"
+    ],
+    "answer": 2,
+    "explanation": "Doğru cevap: yet. Tuzak: Virgülle iki cümleyi bağlamak için bağlaç gerekir. However / Nevertheless zarftır, therefore sonuç bildirir; yet eş değerli bağlaçtır."
+  },
+  {
+    "id": "t009",
+    "cardIds": [
+      "contrast-adv"
+    ],
+    "kind": "trap",
+    "stem": "Some experts predict inflation will fall; ____, others warn it will rise further.",
+    "options": [
+      "on the other hand",
+      "furthermore",
+      "therefore",
+      "for instance",
+      "similarly"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: on the other hand. Tuzak: İki zıt görüş karşılaştırılıyor. Furthermore ve similarly aynı yönde bilgi ekler."
+  },
+  {
+    "id": "t010",
+    "cardIds": [
+      "contrast-adv"
+    ],
+    "kind": "trap",
+    "stem": "On the one hand, remote work saves commuting time; on the ____ hand, it can lead to isolation.",
+    "options": [
+      "another",
+      "other",
+      "second",
+      "next",
+      "contrary"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: other. Tuzak: 'On the one hand ... on the other hand' ikilisi sabit bir kalıptır."
+  },
+  {
+    "id": "t011",
+    "cardIds": [
+      "unlike"
+    ],
+    "kind": "trap",
+    "stem": "____ the climate in Spain, the climate in England is cool and wet.",
+    "options": [
+      "Unlike",
+      "Whereas",
+      "Although",
+      "However",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Unlike. Tuzak: Unlike isim alır. Whereas / Although tam cümle ister, However cümleler arası zarftır, Despite zıtlık değil taviz bildirir."
+  },
+  {
+    "id": "t012",
+    "cardIds": [
+      "unlike"
+    ],
+    "kind": "trap",
+    "stem": "The new policy, ____ the previous one, focuses on prevention.",
+    "options": [
+      "in contrast to",
+      "in contrast",
+      "however",
+      "whereas",
+      "although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in contrast to. Tuzak: In contrast to + isim; 'in contrast' ise tek başına cümle başında / arasında zarf olarak kullanılır."
+  },
+  {
+    "id": "t013",
+    "cardIds": [
+      "cause-clause"
+    ],
+    "kind": "trap",
+    "stem": "____ the road was icy, many drivers decided to stay at home.",
+    "options": [
+      "Because of",
+      "Since",
+      "Despite",
+      "Owing to",
+      "In spite of"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: Since. Tuzak: Sonrasında tam cümle var. Because of / Owing to isim ister; Despite / In spite of zıtlık bildirir."
+  },
+  {
+    "id": "t014",
+    "cardIds": [
+      "cause-clause"
+    ],
+    "kind": "trap",
+    "stem": "The match was postponed ____ the heavy rain.",
+    "options": [
+      "because",
+      "since",
+      "as",
+      "because of",
+      "although"
+    ],
+    "answer": 3,
+    "explanation": "Doğru cevap: because of. Tuzak: Sonrasında isim grubu var: because of. Because / since / as tam cümle ister."
+  },
+  {
+    "id": "t015",
+    "cardIds": [
+      "cause-noun"
+    ],
+    "kind": "trap",
+    "stem": "The company went bankrupt ____ it failed to adapt to changing markets.",
+    "options": [
+      "due to",
+      "owing to",
+      "because of",
+      "because",
+      "in spite of"
+    ],
+    "answer": 3,
+    "explanation": "Doğru cevap: because. Tuzak: Sonrasında tam cümle (it failed ...) var; due to / owing to / because of isim ister."
+  },
+  {
+    "id": "t016",
+    "cardIds": [
+      "cause-noun"
+    ],
+    "kind": "trap",
+    "stem": "____ the generous scholarship, she was able to continue her studies abroad.",
+    "options": [
+      "Thanks to",
+      "Despite",
+      "Although",
+      "Unless",
+      "Whereas"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Thanks to. Tuzak: Olumlu bir sonucun nedeni isimle verilmiş: Thanks to. Although / Whereas / Unless tam cümle ister."
+  },
+  {
+    "id": "t017",
+    "cardIds": [
+      "cause-given"
+    ],
+    "kind": "trap",
+    "stem": "____ you have already paid for the ticket, you may as well use it.",
+    "options": [
+      "Now that",
+      "Unless",
+      "Even if",
+      "Whereas",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Now that. Tuzak: Gerçekleşmiş durumdan sonuç çıkarılıyor: Now that ('madem ki'). Unless ve Even if varsayım bildirir."
+  },
+  {
+    "id": "t018",
+    "cardIds": [
+      "cause-given"
+    ],
+    "kind": "trap",
+    "stem": "____ the limited budget, the committee had to cut several projects.",
+    "options": [
+      "Given",
+      "Now that",
+      "Seeing that",
+      "Provided that",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Given. Tuzak: Sonrasında isim grubu var: Given. Now that / Seeing that / Provided that tam cümle ister."
+  },
+  {
+    "id": "t019",
+    "cardIds": [
+      "result-adv"
+    ],
+    "kind": "trap",
+    "stem": "The treatment is expensive; ____ few patients can afford it.",
+    "options": [
+      "therefore",
+      "because",
+      "although",
+      "despite",
+      "unless"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: therefore. Tuzak: Noktalı virgülden sonra sonuç bildiren zarf gerekir. Because / although bağlaçtır; despite isim ister."
+  },
+  {
+    "id": "t020",
+    "cardIds": [
+      "result-adv"
+    ],
+    "kind": "trap",
+    "stem": "He had not prepared well for the interview. ____, he did not get the job.",
+    "options": [
+      "As a result",
+      "As a result of",
+      "Because",
+      "Due to",
+      "Since"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: As a result. Tuzak: 'As a result' cümleler arası zarftır. 'As a result of' isim ister; because / due to / since neden bildirir, sonuç değil."
+  },
+  {
+    "id": "t021",
+    "cardIds": [
+      "so-that-degree"
+    ],
+    "kind": "trap",
+    "stem": "The results were ____ surprising that the team repeated the experiment.",
+    "options": [
+      "so",
+      "such",
+      "very",
+      "too",
+      "quite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: so. Tuzak: Sıfat (surprising) tek başına ve that ile sonuç cümlesi var: so ... that."
+  },
+  {
+    "id": "t022",
+    "cardIds": [
+      "so-that-degree"
+    ],
+    "kind": "trap",
+    "stem": "There were ____ many applicants that the company had to extend the deadline.",
+    "options": [
+      "so",
+      "such",
+      "too",
+      "very",
+      "enough"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: so. Tuzak: so many / so much + isim + that. Such doğrudan many ile kullanılmaz."
+  },
+  {
+    "id": "t023",
+    "cardIds": [
+      "such-that"
+    ],
+    "kind": "trap",
+    "stem": "It was ____ cold day that all the schools were closed.",
+    "options": [
+      "so",
+      "such a",
+      "such",
+      "so a",
+      "too"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: such a. Tuzak: Tekil sayılabilir isim (day) önünde such a gerekir; 'so a' kalıbı yoktur."
+  },
+  {
+    "id": "t024",
+    "cardIds": [
+      "such-that"
+    ],
+    "kind": "trap",
+    "stem": "They are ____ talented players that every club wants to sign them.",
+    "options": [
+      "so",
+      "such",
+      "such a",
+      "too",
+      "very"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: such. Tuzak: Çoğul isimde such kullanılır, a gelmez."
+  },
+  {
+    "id": "t025",
+    "cardIds": [
+      "purpose-clause"
+    ],
+    "kind": "trap",
+    "stem": "She spoke slowly ____ everyone could understand her.",
+    "options": [
+      "in order to",
+      "so that",
+      "in spite of",
+      "because of",
+      "unless"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: so that. Tuzak: Yeni özne (everyone) ve modal (could) var: so that. In order to özne değişmediğinde yalın fiille kullanılır."
+  },
+  {
+    "id": "t026",
+    "cardIds": [
+      "purpose-clause"
+    ],
+    "kind": "trap",
+    "stem": "He told her the truth ____ she would not worry.",
+    "options": [
+      "so that",
+      "in order to",
+      "lest she",
+      "in order not",
+      "so as to"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: so that. Tuzak: Hem özne (she) hem de modal (would) var: so that. Olumsuz amaç cümlesi 'so that ... not' ile de kurulabilir; lest ise 'she' için should / V1 ister."
+  },
+  {
+    "id": "t027",
+    "cardIds": [
+      "purpose-inf"
+    ],
+    "kind": "trap",
+    "stem": "____ avoid delays, passengers are advised to arrive two hours early.",
+    "options": [
+      "In order to",
+      "So that",
+      "In order that",
+      "Because",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In order to. Tuzak: Sonrasında yalın fiil (avoid) var: In order to. So that / In order that yeni özne ister."
+  },
+  {
+    "id": "t028",
+    "cardIds": [
+      "purpose-inf"
+    ],
+    "kind": "trap",
+    "stem": "This device is used ____ measuring air pressure.",
+    "options": [
+      "for",
+      "in order to",
+      "so as to",
+      "so that",
+      "lest"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: for. Tuzak: Aracın işlevi 'for + V-ing' ile anlatılır; in order to / so as to V-ing almaz."
+  },
+  {
+    "id": "t029",
+    "cardIds": [
+      "lest"
+    ],
+    "kind": "trap",
+    "stem": "He spoke quietly lest he ____ the baby.",
+    "options": [
+      "wakes",
+      "would wake",
+      "wake",
+      "woke",
+      "will wake"
+    ],
+    "answer": 2,
+    "explanation": "Doğru cevap: wake. Tuzak: Lest sonrasında yalın fiil (veya should + V1) gelir; zaman uyumu aranmaz."
+  },
+  {
+    "id": "t030",
+    "cardIds": [
+      "lest"
+    ],
+    "kind": "trap",
+    "stem": "They locked the gates ____ intruders should enter.",
+    "options": [
+      "lest",
+      "unless",
+      "so that",
+      "in order to",
+      "although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: lest. Tuzak: Olumsuz amaç + should: lest. So that ile 'should enter' olumsuz anlam vermez."
+  },
+  {
+    "id": "t031",
+    "cardIds": [
+      "in-case"
+    ],
+    "kind": "trap",
+    "stem": "We should save some money ____ an emergency.",
+    "options": [
+      "in case of",
+      "in case",
+      "if",
+      "unless",
+      "although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in case of. Tuzak: Sonrasında isim grubu var: in case of. In case tam cümle ister."
+  },
+  {
+    "id": "t032",
+    "cardIds": [
+      "in-case"
+    ],
+    "kind": "trap",
+    "stem": "She wrote down the address ____ she should forget it.",
+    "options": [
+      "in case",
+      "in case of",
+      "despite",
+      "because of",
+      "as long as"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in case. Tuzak: Sonrasında tam cümle var ve önlem anlamı isteniyor: in case. In case of isim ister."
+  },
+  {
+    "id": "t033",
+    "cardIds": [
+      "condition-strict"
+    ],
+    "kind": "trap",
+    "stem": "You can borrow my car ____ you return it by six.",
+    "options": [
+      "provided that",
+      "even if",
+      "in case",
+      "unless",
+      "although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: provided that. Tuzak: 'Şartıyla' anlamı: provided that. Unless ve even if anlamı bozar."
+  },
+  {
+    "id": "t034",
+    "cardIds": [
+      "condition-strict"
+    ],
+    "kind": "trap",
+    "stem": "____ you finish your homework will you be allowed to play.",
+    "options": [
+      "Only if",
+      "Even if",
+      "Unless",
+      "Whether",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Only if. Tuzak: Cümle başında 'Only if' devrik yapı (will you ...) gerektirir."
+  },
+  {
+    "id": "t035",
+    "cardIds": [
+      "unless"
+    ],
+    "kind": "trap",
+    "stem": "The company will not survive ____ it cuts costs.",
+    "options": [
+      "unless",
+      "if not",
+      "if",
+      "whether",
+      "although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: unless. Tuzak: 'Maliyetleri kesmedikçe' anlamı: unless + olumlu fiil. 'If not' ile birlikte fiil de olumsuz olurdu."
+  },
+  {
+    "id": "t036",
+    "cardIds": [
+      "unless"
+    ],
+    "kind": "trap",
+    "stem": "We will go for a picnic ____ it rains.",
+    "options": [
+      "unless",
+      "if",
+      "provided that",
+      "as long as",
+      "in case"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: unless. Tuzak: 'Yağmur yağmadıkça' anlamı: unless. If / provided that / as long as anlamı tersine çevirir."
+  },
+  {
+    "id": "t037",
+    "cardIds": [
+      "even-if"
+    ],
+    "kind": "trap",
+    "stem": "____ he apologised sincerely, she refused to forgive him.",
+    "options": [
+      "Even though",
+      "Even if",
+      "Unless",
+      "Provided that",
+      "In case"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Even though. Tuzak: Geçmişte gerçekleşmiş bir durum var: even though. Even if olasılık bildirir."
+  },
+  {
+    "id": "t038",
+    "cardIds": [
+      "even-if"
+    ],
+    "kind": "trap",
+    "stem": "____ it rains tomorrow, we will still go hiking.",
+    "options": [
+      "Even if",
+      "Even though",
+      "Despite",
+      "Because",
+      "So that"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Even if. Tuzak: Henüz gerçekleşmemiş bir olasılık var: even if. Even though gerçekleşmiş durum için kullanılır."
+  },
+  {
+    "id": "t039",
+    "cardIds": [
+      "inverted-conditionals"
+    ],
+    "kind": "trap",
+    "stem": "____ I known about the problem, I would have helped.",
+    "options": [
+      "Have",
+      "Had",
+      "Would",
+      "Did",
+      "If"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: Had. Tuzak: Ana cümlede would have helped (3. tip). If'siz devrik yapı: Had + özne + V3."
+  },
+  {
+    "id": "t040",
+    "cardIds": [
+      "inverted-conditionals"
+    ],
+    "kind": "trap",
+    "stem": "____ you need any help, please do not hesitate to contact us.",
+    "options": [
+      "Should",
+      "Would",
+      "Had",
+      "Were",
+      "Did"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Should. Tuzak: Gelecek / olasılık anlamlı 1. tip koşulda devrik yapı: Should + özne + V1."
+  },
+  {
+    "id": "t041",
+    "cardIds": [
+      "but-for"
+    ],
+    "kind": "trap",
+    "stem": "____ your advice, I would have made a terrible mistake.",
+    "options": [
+      "But for",
+      "Unless",
+      "Although",
+      "Because",
+      "While"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: But for. Tuzak: Sonrasında isim var ve 'olmasaydı' anlamı isteniyor: But for. Unless / Although / Because / While tam cümle ister."
+  },
+  {
+    "id": "t042",
+    "cardIds": [
+      "but-for"
+    ],
+    "kind": "trap",
+    "stem": "Had it not been ____ her support, the project would have failed.",
+    "options": [
+      "for",
+      "of",
+      "to",
+      "by",
+      "with"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: for. Tuzak: Kalıp: Had it not been for + isim."
+  },
+  {
+    "id": "t043",
+    "cardIds": [
+      "otherwise"
+    ],
+    "kind": "trap",
+    "stem": "Please keep the receipt; ____ we cannot refund your money.",
+    "options": [
+      "otherwise",
+      "however",
+      "moreover",
+      "therefore",
+      "besides"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: otherwise. Tuzak: Önceki cümlede istenen yapılmazsa olacak sonuç: otherwise."
+  },
+  {
+    "id": "t044",
+    "cardIds": [
+      "otherwise"
+    ],
+    "kind": "trap",
+    "stem": "We must act quickly ____ we will lose the opportunity.",
+    "options": [
+      "or else",
+      "but",
+      "so that",
+      "although",
+      "since"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: or else. Tuzak: 'Yoksa' anlamı: or else. But zıtlık, so that amaç bildirir."
+  },
+  {
+    "id": "t045",
+    "cardIds": [
+      "addition-adv"
+    ],
+    "kind": "trap",
+    "stem": "The hotel is cheap and clean; ____, it is close to the beach.",
+    "options": [
+      "moreover",
+      "however",
+      "nevertheless",
+      "consequently",
+      "instead"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: moreover. Tuzak: Aynı yönde ek bir olumlu bilgi var: moreover. However / nevertheless zıtlık bildirir."
+  },
+  {
+    "id": "t046",
+    "cardIds": [
+      "addition-adv"
+    ],
+    "kind": "trap",
+    "stem": "The plan is practical. ____, it is cheaper than the alternatives.",
+    "options": [
+      "In addition",
+      "In addition to",
+      "Besides of",
+      "Because",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In addition. Tuzak: Cümle arası ekleme zarfı: In addition. 'In addition to' isim ister; 'besides of' diye kalıp yoktur."
+  },
+  {
+    "id": "t047",
+    "cardIds": [
+      "addition-noun"
+    ],
+    "kind": "trap",
+    "stem": "____ being intelligent, she is also very hardworking.",
+    "options": [
+      "Besides",
+      "Despite",
+      "Instead of",
+      "Unlike",
+      "In spite of"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Besides. Tuzak: Sonrasında V-ing var ve anlam 'ek olarak': Besides. Despite / In spite of zıtlık, instead of tercih bildirir."
+  },
+  {
+    "id": "t048",
+    "cardIds": [
+      "addition-noun"
+    ],
+    "kind": "trap",
+    "stem": "____ the fee, you must pay a deposit.",
+    "options": [
+      "In addition to",
+      "Moreover",
+      "Furthermore",
+      "However",
+      "Consequently"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In addition to. Tuzak: Sonrasında isim grubu var: In addition to. Moreover / Furthermore cümleler arası zarftır."
+  },
+  {
+    "id": "t049",
+    "cardIds": [
+      "not-only"
+    ],
+    "kind": "trap",
+    "stem": "Not only ____ the exam, but he also won the top prize.",
+    "options": [
+      "he passed",
+      "did he pass",
+      "he did pass",
+      "passed he",
+      "does he pass"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: did he pass. Tuzak: Not only cümle başındayken devrik yapı gerekir: Not only did he pass ..."
+  },
+  {
+    "id": "t050",
+    "cardIds": [
+      "not-only"
+    ],
+    "kind": "trap",
+    "stem": "She is not only intelligent but also ____.",
+    "options": [
+      "hardworking",
+      "works hard",
+      "a hard working person",
+      "to work hard",
+      "working hard"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: hardworking. Tuzak: Paralellik: sıfat (intelligent) ile sıfat (hardworking) eşleşir."
+  },
+  {
+    "id": "t051",
+    "cardIds": [
+      "both-and"
+    ],
+    "kind": "trap",
+    "stem": "Both the teachers ____ the students were excited about the trip.",
+    "options": [
+      "and",
+      "or",
+      "nor",
+      "as well as",
+      "but"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: and. Tuzak: Both yalnızca and ile eşleşir."
+  },
+  {
+    "id": "t052",
+    "cardIds": [
+      "both-and"
+    ],
+    "kind": "trap",
+    "stem": "The new phone is both fast ____ reliable.",
+    "options": [
+      "and",
+      "or",
+      "but",
+      "as",
+      "also"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: and. Tuzak: Both ... and; both ... or / both ... but yoktur."
+  },
+  {
+    "id": "t053",
+    "cardIds": [
+      "either-neither"
+    ],
+    "kind": "trap",
+    "stem": "Neither Tom nor his parents ____ the news yet.",
+    "options": [
+      "has heard",
+      "have heard",
+      "hears",
+      "did heard",
+      "having heard"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: have heard. Tuzak: Neither ... nor yapısında fiil, nor'a yakın özneye uyar: his parents → have heard."
+  },
+  {
+    "id": "t054",
+    "cardIds": [
+      "either-neither"
+    ],
+    "kind": "trap",
+    "stem": "He could not find the keys, and ____ could he find his wallet.",
+    "options": [
+      "neither",
+      "either",
+      "so",
+      "too",
+      "also"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: neither. Tuzak: Olumsuz cümleden sonra devrik 'neither could he' kullanılır; either / so / too / also bu yapıyı kuramaz."
+  },
+  {
+    "id": "t055",
+    "cardIds": [
+      "time-while"
+    ],
+    "kind": "trap",
+    "stem": "She was reading a book ____ the lights went out.",
+    "options": [
+      "when",
+      "while",
+      "during",
+      "as soon as",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: when. Tuzak: Past continuous eylem ve onu kesen kısa olay: 'when the lights went out'. While + kısa olay kullanılmaz; during isim ister."
+  },
+  {
+    "id": "t056",
+    "cardIds": [
+      "time-while"
+    ],
+    "kind": "trap",
+    "stem": "____ the lecture, several students fell asleep.",
+    "options": [
+      "While",
+      "During",
+      "When",
+      "As",
+      "Although"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: During. Tuzak: Sonrasında isim grubu (the lecture) var: During. While / When / As tam cümle ister."
+  },
+  {
+    "id": "t057",
+    "cardIds": [
+      "time-as-soon"
+    ],
+    "kind": "trap",
+    "stem": "I will call you as soon as I ____ home.",
+    "options": [
+      "will get",
+      "get",
+      "got",
+      "am getting",
+      "would get"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: get. Tuzak: Zaman bağlacından sonra gelecek için present simple kullanılır."
+  },
+  {
+    "id": "t058",
+    "cardIds": [
+      "time-as-soon"
+    ],
+    "kind": "trap",
+    "stem": "____ the sun rose, the birds began to sing.",
+    "options": [
+      "The moment",
+      "During",
+      "Throughout",
+      "Despite",
+      "Prior to"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: The moment. Tuzak: Sonrasında tam cümle ve 'ir -mez' anlamı: The moment. During / Throughout / Despite / Prior to isim ister."
+  },
+  {
+    "id": "t059",
+    "cardIds": [
+      "time-until"
+    ],
+    "kind": "trap",
+    "stem": "Don't open the box ____ I tell you to.",
+    "options": [
+      "until",
+      "by",
+      "during",
+      "since",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: until. Tuzak: Eylemin o ana kadar sürmemesi gerektiği anlatılıyor: until. By tek seferlik bitiş anlatır."
+  },
+  {
+    "id": "t060",
+    "cardIds": [
+      "time-until"
+    ],
+    "kind": "trap",
+    "stem": "I will finish the report ____ Friday.",
+    "options": [
+      "until",
+      "by",
+      "by the time",
+      "while",
+      "since"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: by. Tuzak: Bitiş zamanı (en geç Cuma) için by kullanılır; until sürekliliği anlatır."
+  },
+  {
+    "id": "t061",
+    "cardIds": [
+      "time-by-the-time"
+    ],
+    "kind": "trap",
+    "stem": "By the time we arrived, the film ____.",
+    "options": [
+      "started",
+      "had started",
+      "starts",
+      "has started",
+      "was starting"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: had started. Tuzak: By the time + past simple → ana cümlede past perfect."
+  },
+  {
+    "id": "t062",
+    "cardIds": [
+      "time-by-the-time"
+    ],
+    "kind": "trap",
+    "stem": "By the time she retires, she ____ here for forty years.",
+    "options": [
+      "works",
+      "worked",
+      "will have worked",
+      "is working",
+      "has worked"
+    ],
+    "answer": 2,
+    "explanation": "Doğru cevap: will have worked. Tuzak: By the time + present simple → ana cümlede future perfect."
+  },
+  {
+    "id": "t063",
+    "cardIds": [
+      "time-whenever"
+    ],
+    "kind": "trap",
+    "stem": "____ I visit my grandmother, she bakes a cake.",
+    "options": [
+      "Whenever",
+      "Wherever",
+      "Whatever",
+      "Whoever",
+      "However"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Whenever. Tuzak: Zaman anlamı ve tekrar eden durum: Whenever."
+  },
+  {
+    "id": "t064",
+    "cardIds": [
+      "time-whenever"
+    ],
+    "kind": "trap",
+    "stem": "Call me ____ you need help.",
+    "options": [
+      "whenever",
+      "whatever",
+      "whoever",
+      "wherever",
+      "however"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: whenever. Tuzak: Zaman anlamlı genelleme: whenever."
+  },
+  {
+    "id": "t065",
+    "cardIds": [
+      "time-since"
+    ],
+    "kind": "trap",
+    "stem": "I ____ him since 2015.",
+    "options": [
+      "don't see",
+      "didn't see",
+      "haven't seen",
+      "am not seeing",
+      "won't see"
+    ],
+    "answer": 2,
+    "explanation": "Doğru cevap: haven't seen. Tuzak: Since ile present perfect kullanılır."
+  },
+  {
+    "id": "t066",
+    "cardIds": [
+      "time-since"
+    ],
+    "kind": "trap",
+    "stem": "It has been five years ____ we last met.",
+    "options": [
+      "since",
+      "for",
+      "ago",
+      "before",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: since. Tuzak: 'It has been + süre + since + past simple' kalıbı."
+  },
+  {
+    "id": "t067",
+    "cardIds": [
+      "time-hardly"
+    ],
+    "kind": "trap",
+    "stem": "Hardly had he sat down ____ the phone rang.",
+    "options": [
+      "when",
+      "than",
+      "that",
+      "as",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: when. Tuzak: Hardly ... WHEN; No sooner ... THAN."
+  },
+  {
+    "id": "t068",
+    "cardIds": [
+      "time-hardly"
+    ],
+    "kind": "trap",
+    "stem": "No sooner had the film started ____ the power went out.",
+    "options": [
+      "than",
+      "when",
+      "that",
+      "then",
+      "as"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: than. Tuzak: No sooner ... THAN; Hardly ... WHEN."
+  },
+  {
+    "id": "t069",
+    "cardIds": [
+      "time-before"
+    ],
+    "kind": "trap",
+    "stem": "____ signing the contract, read it carefully.",
+    "options": [
+      "Prior to",
+      "Prior",
+      "Previously",
+      "Until",
+      "After"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Prior to. Tuzak: Sonrasında V-ing var: Prior to + V-ing."
+  },
+  {
+    "id": "t070",
+    "cardIds": [
+      "time-before"
+    ],
+    "kind": "trap",
+    "stem": "She had worked as a nurse ____ she became a doctor.",
+    "options": [
+      "before",
+      "prior to",
+      "previous to",
+      "ahead of",
+      "earlier"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: before. Tuzak: Sonrasında tam cümle var: before. Prior to / ahead of isim ister."
+  },
+  {
+    "id": "t071",
+    "cardIds": [
+      "time-after"
+    ],
+    "kind": "trap",
+    "stem": "____ the speech, there was a long applause.",
+    "options": [
+      "Following",
+      "Next",
+      "Later",
+      "Then",
+      "Afterwards"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Following. Tuzak: Sonrasında isim var: Following. Next / later / then / afterwards zarftır."
+  },
+  {
+    "id": "t072",
+    "cardIds": [
+      "time-after"
+    ],
+    "kind": "trap",
+    "stem": "____ completing the course, students receive a certificate.",
+    "options": [
+      "Upon",
+      "Upon to",
+      "After to",
+      "Following to",
+      "While to"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Upon. Tuzak: Upon + V-ing kalıbı."
+  },
+  {
+    "id": "t073",
+    "cardIds": [
+      "time-during"
+    ],
+    "kind": "trap",
+    "stem": "He fell asleep ____ the film.",
+    "options": [
+      "during",
+      "while",
+      "for",
+      "since",
+      "when"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: during. Tuzak: Sonrasında isim (the film) var: during. While / when tam cümle ister."
+  },
+  {
+    "id": "t074",
+    "cardIds": [
+      "time-during"
+    ],
+    "kind": "trap",
+    "stem": "She worked abroad ____ three years.",
+    "options": [
+      "for",
+      "during",
+      "while",
+      "since",
+      "throughout"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: for. Tuzak: Süre miktarı için for kullanılır."
+  },
+  {
+    "id": "t075",
+    "cardIds": [
+      "instead-of"
+    ],
+    "kind": "trap",
+    "stem": "Why don't you walk ____ taking the bus?",
+    "options": [
+      "instead of",
+      "instead",
+      "rather",
+      "in place",
+      "besides"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: instead of. Tuzak: Sonrasında V-ing var: instead of. Instead tek başına zarftır."
+  },
+  {
+    "id": "t076",
+    "cardIds": [
+      "instead-of"
+    ],
+    "kind": "trap",
+    "stem": "I would rather stay home ____ go out in this weather.",
+    "options": [
+      "than",
+      "to",
+      "of",
+      "instead",
+      "from"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: than. Tuzak: Would rather + V1 + than + V1."
+  },
+  {
+    "id": "t077",
+    "cardIds": [
+      "except"
+    ],
+    "kind": "trap",
+    "stem": "Everyone ____ Mark attended the meeting.",
+    "options": [
+      "except",
+      "besides",
+      "apart",
+      "unless",
+      "beyond"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: except. Tuzak: 'Mark hariç' anlamı: except."
+  },
+  {
+    "id": "t078",
+    "cardIds": [
+      "except"
+    ],
+    "kind": "trap",
+    "stem": "The shop is open every day ____ Sundays.",
+    "options": [
+      "except",
+      "instead of",
+      "unless",
+      "without",
+      "until"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: except. Tuzak: 'Pazar günleri hariç' anlamı: except."
+  },
+  {
+    "id": "t079",
+    "cardIds": [
+      "whatever-however"
+    ],
+    "kind": "trap",
+    "stem": "____ happens, I will support you.",
+    "options": [
+      "Whatever",
+      "However",
+      "Whenever",
+      "Wherever",
+      "Whichever"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Whatever. Tuzak: 'Ne olursa olsun' anlamı: whatever."
+  },
+  {
+    "id": "t080",
+    "cardIds": [
+      "whatever-however"
+    ],
+    "kind": "trap",
+    "stem": "____ hard she tries, she cannot win.",
+    "options": [
+      "However",
+      "Whatever",
+      "Whoever",
+      "Whenever",
+      "Wherever"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: However. Tuzak: However + sıfat / zarf + özne + fiil."
+  },
+  {
+    "id": "t081",
+    "cardIds": [
+      "whether"
+    ],
+    "kind": "trap",
+    "stem": "I wonder ____ she will accept the offer.",
+    "options": [
+      "whether",
+      "unless",
+      "although",
+      "whereas",
+      "in case"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: whether. Tuzak: Dolaylı soru: whether."
+  },
+  {
+    "id": "t082",
+    "cardIds": [
+      "whether"
+    ],
+    "kind": "trap",
+    "stem": "The decision depends on ____ the funding is approved.",
+    "options": [
+      "whether",
+      "if",
+      "unless",
+      "that",
+      "what"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: whether. Tuzak: Edattan sonra if değil whether kullanılır."
+  },
+  {
+    "id": "t083",
+    "cardIds": [
+      "as-if"
+    ],
+    "kind": "trap",
+    "stem": "He behaves as if he ____ the boss, but he is just an intern.",
+    "options": [
+      "is",
+      "were",
+      "will be",
+      "has been",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: were. Tuzak: Gerçek dışı durumda as if + were."
+  },
+  {
+    "id": "t084",
+    "cardIds": [
+      "as-if"
+    ],
+    "kind": "trap",
+    "stem": "It looks ____ it is going to rain.",
+    "options": [
+      "as if",
+      "as",
+      "such as",
+      "despite",
+      "unless"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: as if. Tuzak: Benzetme: as if + cümle."
+  },
+  {
+    "id": "t085",
+    "cardIds": [
+      "according-to"
+    ],
+    "kind": "trap",
+    "stem": "____ me, this plan is too risky.",
+    "options": [
+      "In my opinion",
+      "According to",
+      "Based",
+      "Following",
+      "Owing to"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In my opinion. Tuzak: According to kişinin kendi görüşünde kullanılmaz; In my opinion denir."
+  },
+  {
+    "id": "t086",
+    "cardIds": [
+      "according-to"
+    ],
+    "kind": "trap",
+    "stem": "The work was done ____ the instructions.",
+    "options": [
+      "in accordance with",
+      "according",
+      "because",
+      "owing",
+      "regarding"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in accordance with. Tuzak: Kurala uygunluk: in accordance with."
+  },
+  {
+    "id": "t087",
+    "cardIds": [
+      "regarding"
+    ],
+    "kind": "trap",
+    "stem": "____ your question, I will reply tomorrow.",
+    "options": [
+      "With regard to",
+      "Because of",
+      "Unlike",
+      "Despite",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: With regard to. Tuzak: Konuyu belirtir: With regard to."
+  },
+  {
+    "id": "t088",
+    "cardIds": [
+      "regarding"
+    ],
+    "kind": "trap",
+    "stem": "I am writing with ____ to your recent application.",
+    "options": [
+      "regard",
+      "regards",
+      "regarding",
+      "respecting",
+      "regarded"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: regard. Tuzak: Kalıp: with regard to (regard tekil)."
+  },
+  {
+    "id": "t089",
+    "cardIds": [
+      "similarly"
+    ],
+    "kind": "trap",
+    "stem": "The first speaker supported the plan; ____, the second one expressed her approval.",
+    "options": [
+      "similarly",
+      "however",
+      "otherwise",
+      "on the other hand",
+      "instead"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: similarly. Tuzak: İki cümle aynı yönde: similarly."
+  },
+  {
+    "id": "t090",
+    "cardIds": [
+      "similarly"
+    ],
+    "kind": "trap",
+    "stem": "He enjoys cooking. ____, his wife loves baking.",
+    "options": [
+      "Likewise",
+      "Nevertheless",
+      "Otherwise",
+      "Whereas",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Likewise. Tuzak: Benzer durum: likewise."
+  },
+  {
+    "id": "t091",
+    "cardIds": [
+      "for-example"
+    ],
+    "kind": "trap",
+    "stem": "Many animals, ____ elephants and whales, are endangered.",
+    "options": [
+      "such as",
+      "such",
+      "as such",
+      "for example of",
+      "like as"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: such as. Tuzak: İsim grubu listesi için such as kullanılır."
+  },
+  {
+    "id": "t092",
+    "cardIds": [
+      "for-example"
+    ],
+    "kind": "trap",
+    "stem": "Some fruits are rich in vitamin C. ____, oranges and kiwis.",
+    "options": [
+      "For example",
+      "Therefore",
+      "However",
+      "Otherwise",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: For example. Tuzak: Örnek veren cümle arası ifade: For example."
+  },
+  {
+    "id": "t093",
+    "cardIds": [
+      "in-other-words"
+    ],
+    "kind": "trap",
+    "stem": "He is a vegetarian; ____, he doesn't eat meat.",
+    "options": [
+      "in other words",
+      "on the other hand",
+      "as a result",
+      "by contrast",
+      "instead"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in other words. Tuzak: İkinci cümle birincinin yeniden ifadesi: in other words."
+  },
+  {
+    "id": "t094",
+    "cardIds": [
+      "in-other-words"
+    ],
+    "kind": "trap",
+    "stem": "The company has gone bankrupt; ____, it can no longer pay its debts.",
+    "options": [
+      "in other words",
+      "on the contrary",
+      "nevertheless",
+      "likewise",
+      "for instance"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in other words. Tuzak: İkinci cümle birinciyi açıklıyor: in other words."
+  },
+  {
+    "id": "t095",
+    "cardIds": [
+      "in-conclusion"
+    ],
+    "kind": "trap",
+    "stem": "____, we can say that the project was a success.",
+    "options": [
+      "In conclusion",
+      "In contrast",
+      "In addition",
+      "Instead",
+      "However"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In conclusion. Tuzak: Genel sonuç: In conclusion."
+  },
+  {
+    "id": "t096",
+    "cardIds": [
+      "in-conclusion"
+    ],
+    "kind": "trap",
+    "stem": "He was late, he forgot his notes, and he was nervous. ____, the presentation was a disaster.",
+    "options": [
+      "All in all",
+      "On the other hand",
+      "Moreover",
+      "Whereas",
+      "Unless"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: All in all. Tuzak: Özetleyen sonuç: All in all."
+  },
+  {
+    "id": "t097",
+    "cardIds": [
+      "in-fact"
+    ],
+    "kind": "trap",
+    "stem": "People think he is rich. ____, he has huge debts.",
+    "options": [
+      "In fact",
+      "In case",
+      "In order",
+      "In spite",
+      "In addition"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In fact. Tuzak: Yanlış varsayımı düzeltir: In fact."
+  },
+  {
+    "id": "t098",
+    "cardIds": [
+      "in-fact"
+    ],
+    "kind": "trap",
+    "stem": "The task was not difficult; ____, it was surprisingly easy.",
+    "options": [
+      "in fact",
+      "unless",
+      "whereas",
+      "lest",
+      "provided"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in fact. Tuzak: Önceki ifadeyi güçlendirir: in fact."
+  },
+  {
+    "id": "t099",
+    "cardIds": [
+      "meanwhile"
+    ],
+    "kind": "trap",
+    "stem": "Ann was cooking dinner. ____, Tom was setting the table.",
+    "options": [
+      "Meanwhile",
+      "Moreover",
+      "Instead",
+      "Otherwise",
+      "Besides"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Meanwhile. Tuzak: Aynı anda gerçekleşen olay: Meanwhile."
+  },
+  {
+    "id": "t100",
+    "cardIds": [
+      "meanwhile"
+    ],
+    "kind": "trap",
+    "stem": "The results will be announced next week. ____, please be patient.",
+    "options": [
+      "In the meantime",
+      "In contrast",
+      "In case",
+      "In addition",
+      "In fact"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In the meantime. Tuzak: Beklenen süre boyunca: In the meantime."
+  },
+  {
+    "id": "t101",
+    "cardIds": [
+      "afterwards"
+    ],
+    "kind": "trap",
+    "stem": "We had dinner, and ____ we went for a walk.",
+    "options": [
+      "afterwards",
+      "after",
+      "before",
+      "during",
+      "while"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: afterwards. Tuzak: Zarf olarak 'sonrasında' anlamı: afterwards."
+  },
+  {
+    "id": "t102",
+    "cardIds": [
+      "afterwards"
+    ],
+    "kind": "trap",
+    "stem": "The patient was given medicine; ____, his fever dropped.",
+    "options": [
+      "subsequently",
+      "previously",
+      "in contrast",
+      "however",
+      "unless"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: subsequently. Tuzak: Kronolojik sıra: subsequently."
+  },
+  {
+    "id": "t103",
+    "cardIds": [
+      "result-so"
+    ],
+    "kind": "trap",
+    "stem": "It was raining heavily, ____ we stayed at home.",
+    "options": [
+      "so",
+      "because",
+      "although",
+      "unless",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: so. Tuzak: Virgülden sonra sonuç bildiren bağlaç: so."
+  },
+  {
+    "id": "t104",
+    "cardIds": [
+      "result-so"
+    ],
+    "kind": "trap",
+    "stem": "He studied hard, ____ he passed the exam.",
+    "options": [
+      "so",
+      "because",
+      "but",
+      "although",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: so. Tuzak: Sonuç bildirir: so. But / although zıtlık bildirir."
+  },
+  {
+    "id": "t105",
+    "cardIds": [
+      "as-a-result-of"
+    ],
+    "kind": "trap",
+    "stem": "____ the strike, all flights were cancelled.",
+    "options": [
+      "As a result of",
+      "As a result",
+      "Therefore",
+      "Consequently",
+      "Because"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: As a result of. Tuzak: Sonrasında isim var: As a result of."
+  },
+  {
+    "id": "t106",
+    "cardIds": [
+      "as-a-result-of"
+    ],
+    "kind": "trap",
+    "stem": "The factory closed down. ____, hundreds of people lost their jobs.",
+    "options": [
+      "As a result",
+      "As a result of",
+      "Due to",
+      "Because of",
+      "Despite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: As a result. Tuzak: Cümleler arası zarf: As a result."
+  },
+  {
+    "id": "t107",
+    "cardIds": [
+      "by-means-of"
+    ],
+    "kind": "trap",
+    "stem": "They crossed the river ____ a rope bridge.",
+    "options": [
+      "by means of",
+      "owing to",
+      "in spite of",
+      "instead",
+      "because"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: by means of. Tuzak: Araç belirten isim grubu: by means of."
+  },
+  {
+    "id": "t108",
+    "cardIds": [
+      "by-means-of"
+    ],
+    "kind": "trap",
+    "stem": "The message was transmitted ____ a satellite.",
+    "options": [
+      "by means of",
+      "because of",
+      "thanks",
+      "despite",
+      "unlike"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: by means of. Tuzak: Araç / vasıta: by means of."
+  },
+  {
+    "id": "t109",
+    "cardIds": [
+      "but"
+    ],
+    "kind": "trap",
+    "stem": "He tried hard, ____ he failed.",
+    "options": [
+      "but",
+      "although",
+      "because",
+      "so",
+      "unless"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: but. Tuzak: Virgülden sonra zıtlık: but. Although ile ikinci yarı bağlanamaz."
+  },
+  {
+    "id": "t110",
+    "cardIds": [
+      "but"
+    ],
+    "kind": "trap",
+    "stem": "____ she was tired, she kept working.",
+    "options": [
+      "Although",
+      "But",
+      "Yet",
+      "However",
+      "Therefore"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Although. Tuzak: Cümle başında yan cümle başlatan bağlaç: Although. But / yet / however cümleyi başlatamaz."
+  },
+  {
+    "id": "t111",
+    "cardIds": [
+      "regardless-of"
+    ],
+    "kind": "trap",
+    "stem": "Everyone is welcome, ____ age or background.",
+    "options": [
+      "regardless of",
+      "regardless",
+      "regarding",
+      "despite of",
+      "instead"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: regardless of. Tuzak: Sonrasında isim var: regardless of."
+  },
+  {
+    "id": "t112",
+    "cardIds": [
+      "regardless-of"
+    ],
+    "kind": "trap",
+    "stem": "The law applies to all citizens ____ they are rich or poor.",
+    "options": [
+      "regardless of whether",
+      "regardless",
+      "despite",
+      "although",
+      "in spite"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: regardless of whether. Tuzak: Sonrasında whether cümlesi var: regardless of whether."
+  },
+  {
+    "id": "t113",
+    "cardIds": [
+      "as-as"
+    ],
+    "kind": "trap",
+    "stem": "She is as tall ____ her brother.",
+    "options": [
+      "as",
+      "than",
+      "like",
+      "that",
+      "so"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: as. Tuzak: Eşitlik kalıbı: as ... as."
+  },
+  {
+    "id": "t114",
+    "cardIds": [
+      "as-as"
+    ],
+    "kind": "trap",
+    "stem": "There aren't ____ students in this class as in the other one.",
+    "options": [
+      "as many",
+      "as much",
+      "so much",
+      "more",
+      "such"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: as many. Tuzak: Sayılabilir isim (students): as many ... as."
+  },
+  {
+    "id": "t115",
+    "cardIds": [
+      "just-as"
+    ],
+    "kind": "trap",
+    "stem": "Just as the sun rises in the east, ____ it sets in the west.",
+    "options": [
+      "so",
+      "however",
+      "although",
+      "unless",
+      "because"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: so. Tuzak: Just as ... so kalıbı."
+  },
+  {
+    "id": "t116",
+    "cardIds": [
+      "just-as"
+    ],
+    "kind": "trap",
+    "stem": "He treated her ____ he would treat his own sister.",
+    "options": [
+      "just as",
+      "such as",
+      "unlike",
+      "despite",
+      "whereas"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: just as. Tuzak: Benzetme: just as + cümle."
+  },
+  {
+    "id": "t117",
+    "cardIds": [
+      "if-basic"
+    ],
+    "kind": "trap",
+    "stem": "If it ____ tomorrow, we will cancel the picnic.",
+    "options": [
+      "rains",
+      "will rain",
+      "would rain",
+      "rained",
+      "had rained"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: rains. Tuzak: If cümlesinde will / would kullanılmaz; ana cümlede will var: present simple."
+  },
+  {
+    "id": "t118",
+    "cardIds": [
+      "if-basic"
+    ],
+    "kind": "trap",
+    "stem": "If I ____ you, I would accept the offer.",
+    "options": [
+      "am",
+      "were",
+      "would be",
+      "will be",
+      "have been"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: were. Tuzak: 2. tip koşul: If + were, would + V1."
+  },
+  {
+    "id": "t119",
+    "cardIds": [
+      "time-upon"
+    ],
+    "kind": "trap",
+    "stem": "____ the news, she burst into tears.",
+    "options": [
+      "Upon hearing",
+      "Upon heard",
+      "Upon hear",
+      "Upon to hear",
+      "Upon being hear"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Upon hearing. Tuzak: Upon + V-ing."
+  },
+  {
+    "id": "t120",
+    "cardIds": [
+      "time-upon"
+    ],
+    "kind": "trap",
+    "stem": "____ arrival, the guests were shown to their rooms.",
+    "options": [
+      "Upon",
+      "During",
+      "Until",
+      "Since",
+      "Although"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Upon. Tuzak: Upon arrival kalıbı."
+  },
+  {
+    "id": "t121",
+    "cardIds": [
+      "in-terms-of"
+    ],
+    "kind": "trap",
+    "stem": "The two cities are similar ____ size but different in climate.",
+    "options": [
+      "in terms of",
+      "because of",
+      "despite",
+      "according",
+      "owing"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: in terms of. Tuzak: Açısından: in terms of."
+  },
+  {
+    "id": "t122",
+    "cardIds": [
+      "in-terms-of"
+    ],
+    "kind": "trap",
+    "stem": "____ salary, the job is excellent.",
+    "options": [
+      "In terms of",
+      "As a result",
+      "Because",
+      "Although",
+      "Whereas"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: In terms of. Tuzak: Sonrasında isim var ve 'açısından': In terms of."
+  },
+  {
+    "id": "t123",
+    "cardIds": [
+      "along-with"
+    ],
+    "kind": "trap",
+    "stem": "The manager, along with his assistants, ____ attending the conference.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "Doğru cevap: is. Tuzak: Along with araya girse de özne tekildir (the manager)."
+  },
+  {
+    "id": "t124",
+    "cardIds": [
+      "along-with"
+    ],
+    "kind": "trap",
+    "stem": "Mary, together with her sisters, ____ visiting us tomorrow.",
+    "options": [
+      "is",
+      "are",
+      "were",
+      "have been",
+      "be"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: is. Tuzak: Together with araya girse de özne tekildir (Mary)."
+  },
+  {
+    "id": "t125",
+    "cardIds": [
+      "by-ving"
+    ],
+    "kind": "trap",
+    "stem": "You can improve your English ____ a lot.",
+    "options": [
+      "by reading",
+      "by read",
+      "for reading",
+      "to reading",
+      "with read"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: by reading. Tuzak: By + V-ing: yöntem."
+  },
+  {
+    "id": "t126",
+    "cardIds": [
+      "by-ving"
+    ],
+    "kind": "trap",
+    "stem": "He saved money ____ walking to work instead of driving.",
+    "options": [
+      "by",
+      "to",
+      "for",
+      "with",
+      "in order"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: by. Tuzak: Yöntem: by + V-ing."
+  },
+  {
+    "id": "t127",
+    "cardIds": [
+      "instead-adv"
+    ],
+    "kind": "trap",
+    "stem": "I didn't go to the party. ____, I stayed home and read.",
+    "options": [
+      "Instead",
+      "Instead of",
+      "Rather than",
+      "In place of",
+      "Unlike"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: Instead. Tuzak: Cümle başında tek başına: Instead."
+  },
+  {
+    "id": "t128",
+    "cardIds": [
+      "instead-adv"
+    ],
+    "kind": "trap",
+    "stem": "Don't waste money on sweets. Buy fruit ____.",
+    "options": [
+      "instead",
+      "instead of",
+      "in spite of",
+      "unlike",
+      "such as"
+    ],
+    "answer": 0,
+    "explanation": "Doğru cevap: instead. Tuzak: Cümle sonunda tek başına: instead."
+  }
+]
