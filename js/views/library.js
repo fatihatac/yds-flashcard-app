@@ -1,4 +1,4 @@
-import { h, chips } from '../ui.js';
+import { h } from '../ui.js';
 import { loadDeck } from '../data.js';
 import { getCard } from '../store.js';
 import { status } from '../srs.js';
@@ -29,7 +29,6 @@ export async function render(root) {
         h('summary', null,
           h('div', null, h('strong', null, c.tr), h('span', { class: 'muted small' }, ' (', c.rule, ')')),
           h('span', { class: `dot dot-${st}`, title: LABEL[st] })),
-        chips(c.group, 'chip'),
         renderers.conjunction.back(c, { onQuiz: () => { location.hash = `#/quiz?card=${encodeURIComponent(c.id)}`; } }));
     }) : [h('p', { class: 'muted' }, 'Sonuç bulunamadı.')]));
   }

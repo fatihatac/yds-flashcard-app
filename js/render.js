@@ -13,6 +13,7 @@ const conjunction = {
     return h('div', { class: 'face-back' },
       h('p', { class: 'label' }, 'İngilizce karşılıkları'),
       chips(c.group, 'chip chip-big'),
+      c.meanings && h('ul', { class: 'meanings' }, Object.entries(c.meanings).map(([k, v]) => h('li', null, h('b', null, k), ' → ', v))),
       h('p', { class: 'label' }, 'Anlamı'),
       h('p', null, c.meaning),
       h('p', { class: 'label' }, 'Ne zaman kullanılır?'),

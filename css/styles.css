@@ -120,3 +120,6 @@ input[type="search"] { width: 100%; } input[type="number"] { width: 90px; }
 
 @media (min-width: 700px) { .flashcard, .face-front { min-height: 420px; } .face-front { min-height: 376px; } }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+.meanings { margin: 4px 0 0; padding-left: 18px; display: flex; flex-direction: column; gap: 2px; font-size: .95rem; }
+.meanings b { color: var(--primary); }

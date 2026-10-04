@@ -3,10 +3,10 @@
 YDS bağlaçları (ve kelimeleri) için **aralıklı tekrar** sistemli, mobil öncelikli flashcard uygulaması. Derleme adımı yok: saf HTML / CSS / ES modülleri. GitHub Pages'te yayınlanır, telefonda "Ana ekrana ekle" ile uygulama gibi çalışır ve çevrimdışı açılır.
 
 ## Özellikler
-- **Bağlaç kartları (51):** ön yüzde Türkçe anlam + gramer kuralı, arka yüzde İngilizce bağlaç grubu, anlam, kullanım, YDS örnek cümlesi + Türkçe çevirisi ve "YDS Tüyosu".
+- **Bağlaç kartları (64):** ön yüzde Türkçe anlam + gramer kuralı, arka yüzde İngilizce bağlaç grubu, anlam, kullanım, YDS örnek cümlesi + Türkçe çevirisi ve "YDS Tüyosu".
 - **Kelime kartları (3769):** `data/words.json` (İngilizce → Türkçe, eş anlamlılarla).
 - **Tekrar algoritması:** SM-2 tabanlı, Tekrar / Zor / İyi / Kolay; günlük yeni kart limiti.
-- **Soru çözümü (51 soru):** konuya göre, açıklamalı; yanlış yapılan sorunun kartı tekrar sırasına döner.
+- **Soru çözümü (65 soru):** konuya göre, açıklamalı; yanlış yapılan sorunun kartı tekrar sırasına döner.
 - **Kartlar:** arama ve kategori filtresiyle tüm bağlaçlara göz atma.
 - **Ayarlar:** günlük hedefler, tema, yedek indir/yükle, kendi soru setini ekleme.
 
