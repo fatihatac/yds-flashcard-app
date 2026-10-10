@@ -61,6 +61,13 @@ for (const v of Object.values(MAP)) for (const c of [v].flat()) if (!cardIds.has
 
 const norm = (s) => s.toLowerCase().replace(/[.,;]+$/g, '').replace(/\s+/g, ' ').trim();
 const isConnector = (t) => t in MAP;
+// Şık metninin başındaki en uzun bağlaç ifadesi (şıkta yalnızca bağlaç varsa kendisi, yan cümle varsa ilk ifade).
+const PHRASES = Object.keys(MAP).sort((a, b) => b.length - a.length);
+const leadConnector = (opt) => {
+  if (isConnector(opt)) return opt;
+  if (opt.split(' ').length < 4) return null; // kısa şıklarda yalnızca birebir eşleşme geçerli
+  return PHRASES.find((p) => opt.startsWith(`${p} `)) || null;
+};
 
 function pickCard(key, q) {
   const cand = [MAP[key]].flat();
@@ -75,6 +82,7 @@ function pickCard(key, q) {
 const files = fs.readdirSync(dir).filter((f) => /^\d{4}_YDS_\d+\.json$/.test(f)).sort();
 const exams = [];
 const found = [];
+const seen = new Set();
 for (const f of files) {
   const raw = read(f);
   const id = examIdFromFile(f);
@@ -82,10 +90,15 @@ for (const f of files) {
   exams.push({ id, file: f, title: raw.title.replace(/\s+/g, ' ').trim(), count: qs.length, solvable: qs.filter((q) => isSolvable(q)).length });
   for (const q of qs) {
     if (!isSolvable(q)) continue;
+    const sig = `${q.stem}|${q.options.join('|')}`;
+    if (seen.has(sig)) continue; // aynı soru iki sınav dosyasında geçiyorsa bir kez al
+    seen.add(sig);
     const opts = q.options.map(norm);
-    if (opts.filter(isConnector).length < 4) continue; // çoğu şık bağlaç değilse bağlaç sorusu sayma
-    const key = opts[q.answer];
-    if (!isConnector(key)) continue;
+    // Şıklar ya tek bir bağlaç (Although) ya da bağlaçla başlayan yan cümle (although the committee ...) olabilir.
+    const heads = opts.map(leadConnector);
+    if (heads.filter(Boolean).length < 4) continue; // çoğu şık bağlaç değilse bağlaç sorusu sayma
+    const key = heads[q.answer];
+    if (!key) continue;
     const card = pickCard(key, q);
     if (!card) continue;
     found.push({ ...q, cardIds: [card], kind: 'exam', source: `${exams.at(-1).title} · Soru ${q.number}` });

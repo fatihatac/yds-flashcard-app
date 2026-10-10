@@ -34,6 +34,7 @@ const QUESTION_FILES = [
   ['data/questions-trap.json', 'trap'],
   ['data/exam-conjunction-questions.json', 'exam'],
   ['data/grammar-questions.json', 'grammar'],
+  ['data/exam-grammar-questions.json', 'exam'],
 ];
 
 // Bağlaç kartlarına bağlı tüm sorular: temel + tuzak + çıkmış sorulardan seçilenler + kullanıcının eklediği sorular.

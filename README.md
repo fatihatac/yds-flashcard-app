@@ -9,6 +9,7 @@ YDS bağlaçları (ve kelimeleri) için **aralıklı tekrar** sistemli, mobil ö
 - **Tekrar algoritması:** SM-2 tabanlı, Tekrar / Zor / İyi / Kolay; günlük yeni kart limiti.
 - **Soru çözümü (329 bağlaç sorusu):** temel (65), **tuzak tipi** (128, her karta 2 soru) ve çıkmış YDS sorularından otomatik ayıklanan bağlaç soruları (136); konuya göre, açıklamalı.
 - **Tekrar modu:** yanlış yapılan sorular 1 - 3 - 7 - 14 gün aralıkla yeniden gelir; yanlış sorunun bağlaç kartı da kart tekrarına geri döner. "Zayıf konuların" listesi en düşük başarılı konuları gösterir.
+- **Çıkmış sorular ↔ konular:** çıkmış sınavlardaki soruların şıklarına ve soru köküne bakan kurallar (`scripts/exam-grammar-rules.mjs`) kapalı küme ve biçim sorularını gramer konularına bağlar (edat, gerund / infinitive, modal, participle, passive, zaman uyumu ...); çıkmış bağlaç soruları bağlaç kartlarına bağlanır. Kurallar temkinlidir: emin olunmayan soru etiketsiz kalır. Veri setinde yer alan 28 sınavdaki sorular çoğunlukla kelime, çeviri, paragraf ve okuma olduğundan gramer eşleşmesi sınırlıdır.
 - **Çıkmış sınavlar:** `data/20xx_YDS_n.json` dosyalarındaki 28 sınav (okuma parçası gerektirmeyen sorular) orijinal sırasıyla çözülür.
 - **Kartlar:** arama ve kategori filtresiyle tüm bağlaçlara göz atma.
 - **Ayarlar:** günlük hedefler, tema, yedek indir/yükle, kendi soru setini ekleme.
@@ -36,6 +37,7 @@ data/questions-trap.json tuzak soruları (scripts/build-trap-questions.py ile ü
 data/20xx_YDS_n.json     çıkmış sınavlar (ham)
 data/exams.json          sınav listesi (node scripts/build-exam-data.mjs)
 data/exam-conjunction-questions.json  sınavlardan ayıklanan bağlaç soruları (aynı betik)
+data/exam-grammar-questions.json      sınavlardan gramer konularına bağlanan sorular (node scripts/build-exam-grammar.mjs; önce build-exam-data.mjs çalıştırılmalı)
 data/words.json          kelimeler
 js/srs.js                tekrar algoritması (saf fonksiyonlar)
 js/store.js              localStorage: ilerleme, ayarlar
