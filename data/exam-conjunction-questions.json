@@ -14,6 +14,7 @@
   "answer": 3,
   "explanation": "Kurşunun tehlikeli olduğunun yaygın olarak bilinmesine 'rağmen' (Even though), 20. yüzyılın başlarında her türlü tüketici ürününde bulunabiliyordu.",
   "grammarTopic": "Conjunctions & Transitions",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -34,6 +35,7 @@
   "answer": 2,
   "explanation": "'Kehribar' adı verilen bir taşa hapsolmuş hayvanlar bazen o kadar iyi korunurlar ki sanki yeni ölmüşler 'gibi' (as though / as if) görünürler.",
   "grammarTopic": "Conjunctions & Transitions",
+  "section": "grammar",
   "cardIds": [
    "as-if"
   ],
@@ -54,6 +56,7 @@
   "answer": 4,
   "explanation": "Bireyler düşük karbonlu bir toplum vizyonunu paylaşmadıkça / paylaşmazlarsa (unless), sera gazlarını azaltma politikaları işe yaramayacaktır.",
   "grammarTopic": "Conjunctions & Transitions",
+  "section": "grammar",
   "cardIds": [
    "unless"
   ],
@@ -74,6 +77,7 @@
   "answer": 0,
   "explanation": "Hindistan'daki güç üreticilerinin enerji kaynaklarının üçte ikisini fosil yakıtlardan elde etmesine 'rağmen' (Despite), doğal gazı dağıtmak için yeterli boru hattı alanı bulamadıkları belirtilmiştir.",
   "grammarTopic": "Conjunctions & Transitions",
+  "section": "grammar",
   "cardIds": [
    "concession-noun"
   ],
@@ -93,6 +97,7 @@
   ],
   "answer": 4,
   "explanation": "Birçok kentsel alanın büyümesinin sebebi, kırsal iç bölgelerinin depresyonda olmasıdır. Sebep bildiren 'çünkü' (because) bağlacı uygundur.",
+  "section": "cloze",
   "cardIds": [
    "cause-clause"
   ],
@@ -112,6 +117,7 @@
   ],
   "answer": 3,
   "explanation": "Kötü sağlık koşulları ve kirlilikle uğraşmalarına 'ek olarak / ilaveten' (In addition to), modern çevresel tehlikelere de maruz kaldıkları ifade edilmiştir.",
+  "section": "cloze",
   "cardIds": [
    "addition-noun"
   ],
@@ -131,6 +137,7 @@
   ],
   "answer": 1,
   "explanation": "Birçok ülkenin Antlaşma'nın işbirliği ruhunu izlemesine 'rağmen' (although), hala zaman zaman gündeme gelen ve çözülmemiş toprak anlaşmazlıkları vardır.",
+  "section": "cloze",
   "cardIds": [
    "concession-clause"
   ],
@@ -150,6 +157,7 @@
   ],
   "answer": 4,
   "explanation": "Kızılderili kültürünün öncelikle sözlü olması ve hikaye anlatımına değer vermesi, 'Bazı Kuzey Amerika kabilelerinin metinleri korumak için bir tür hiyeroglif geliştirmesine RAĞMEN' (Although some North American tribes developed a type of hieroglyphics...) zıtlığıyla en iyi şekilde desteklenir.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -169,6 +177,7 @@
   ],
   "answer": 2,
   "explanation": "İstenmeyen herhangi bir davranışı söndürmeye / ortadan kaldırmaya çalışabilirsiniz; 'Kendinizin başkalarıyla etkileşim halinde olduğunuzu görebildiğiniz zaman/gördükten sonra' (Once you are able to see yourself...).",
+  "section": "completion",
   "cardIds": [
    "time-as-soon"
   ],
@@ -188,6 +197,7 @@
   ],
   "answer": 4,
   "explanation": "Oturum açtığınız her web sitesi için farklı bir şifre kullanmak pratik olmayabilir 'fakat güvenlik nedenleriyle birden fazla şifreye sahip olmaya kesinlikle değer' (but it is definitely worth having more than one for security reasons).",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -207,6 +217,7 @@
   ],
   "answer": 1,
   "explanation": "Kuşların geride bıraktığı yuvalar onların yaşamları ve çevreleri hakkında ipuçları sağlar, 'tıpkı arkeolojik sit alanlarının insanlık tarihine dair kesitler (ipuçları) sunması gibi' (just as archaeological sites supply glimpses...).",
+  "section": "completion",
   "cardIds": [
    "just-as"
   ],
@@ -226,6 +237,7 @@
   ],
   "answer": 3,
   "explanation": "Belirli kavramsal stratejiler öğrenilebilme'den önce' (Before), erken çocukluk eğitiminde belirli bilişsel gelişim seviyelerine ulaşılması gerektiği ifade edilmiştir.",
+  "section": "grammar",
   "cardIds": [
    "time-before"
   ],
@@ -245,6 +257,7 @@
   ],
   "answer": 2,
   "explanation": "Savaş filmleri dendiğinde genellikle Vietnam ve Avrupa gibi yerleri düşünmemize rağmen, 'fakat' (but) bu filmlerin mekanının genellikle Amerika Birleşik Devletleri olması bir zıtlık oluşturur.",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -264,6 +277,7 @@
   ],
   "answer": 4,
   "explanation": "Personelin az hatayla kurumsal politikaları uygulayabilmesi 'için / amacıyla / -sın diye' (so that) ciddi bir eğitimden geçirilmesi gerekir.",
+  "section": "grammar",
   "cardIds": [
    "purpose-clause"
   ],
@@ -283,6 +297,7 @@
   ],
   "answer": 0,
   "explanation": "Zengin ve güçlülerin işledikleri suçların, diğer suç eylemleriyle aynı güdüler 'açısından / bağlamında' (in terms of) açıklanabileceği ifade edilmiştir.",
+  "section": "grammar",
   "cardIds": [
    "in-terms-of"
   ],
@@ -302,6 +317,7 @@
   ],
   "answer": 2,
   "explanation": "Anlık ağız zevki tam olarak buradayken, sağlık gibi faktörlerin aylar, yıllar uzakta olması birbirine 'zıt' (as opposed to) iki durumdur.",
+  "section": "cloze",
   "cardIds": [
    "unlike"
   ],
@@ -321,6 +337,7 @@
   ],
   "answer": 0,
   "explanation": "Evrimin bizi bu özellikle programladığı 'zamanı' belirten bir relative pronoun (when) kullanılmalıdır (at a time when...).",
+  "section": "cloze",
   "cardIds": [
    "time-while"
   ],
@@ -340,6 +357,7 @@
   ],
   "answer": 1,
   "explanation": "Çeşitli hastalıklara ve rehberlere değindikten sonra otizmi bir 'örnek' (for example) olarak sunmaktadır.",
+  "section": "cloze",
   "cardIds": [
    "for-example"
   ],
@@ -359,6 +377,7 @@
   ],
   "answer": 3,
   "explanation": "Olası problemlere dair (göz temasından kaçınma vb.) örnekler sıralandığı için 'gibi' (such as) edatı kullanılmalıdır.",
+  "section": "cloze",
   "cardIds": [
    "for-example"
   ],
@@ -378,6 +397,7 @@
   ],
   "answer": 4,
   "explanation": "Sağlıklı yiyecekler içeren diyetlerin uzun vadeli sonuçlar üretme olasılığının daha yüksek olduğu söyleniyor. E şıkkındaki 'İster resmi bir kilo verme programının bir parçası olsun, ister kişisel bir çaba olsun (Whether they are part of... or...)' ifadesi bu durumun her koşulda geçerli olacağını belirten güçlü bir tamamlayıcıdır.",
+  "section": "completion",
   "cardIds": [
    "whether"
   ],
@@ -397,6 +417,7 @@
   ],
   "answer": 1,
   "explanation": "Bazı müzik türlerinin kusursuzluklarıyla bizi çarptığı (etkilediği) söyleniyor. Bu pozitif duruma zıtlık oluşturacak bir yapı gerekir. B şıkkı 'hangi duyguyu ifade ettiklerini belirlemekte zorlanabilsek de / gerçi zorlansak da (though we may have difficulty identifying...)' diyerek bu zıtlığı sağlar.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -416,6 +437,7 @@
   ],
   "answer": 4,
   "explanation": "'... uyku düzenlerindeki değişikliklerin de ne kadar önemli bir etkiye sahip olabileceğini çok az kişi fark eder (few realize)' ifadesi uyku ile başka bir sağlık faktörü arasında kıyas gerektirir. E şıkkı, 'Çoğu insan sağlığının beslenme ve egzersizine ne kadar bağlı olduğunun farkındayken (While most people appreciate...)' diyerek uyku dışındaki diğer önemli sağlık faktörleriyle bir kontrast oluşturur.",
+  "section": "completion",
   "cardIds": [
    "time-while"
   ],
@@ -435,6 +457,7 @@
   ],
   "answer": 3,
   "explanation": "Metinde çocukların konuşma gelişiminden bahsedilmiştir. D şıkkındaki 'Çocuklar bebekken dili edinmeden ve ilk kelimelerini üretmeden önce' (Before children acquire language as infants and produce their first words) ifadesi, 'onlar başka (yetenekler / işaretler vb.) geliştirirler' (they develop others) ile zamir ve konu bakımından uyumludur.",
+  "section": "completion",
   "cardIds": [
    "time-before"
   ],
@@ -454,6 +477,7 @@
   ],
   "answer": 0,
   "explanation": "Sorumlulukların nasıl planlandığı ve yönetildiğinin birçok şirkette değişmekte olmasının nedeni (A şıkkı) 'mevcut olan en son teknolojik araçlar sayesinde'dir (due to the latest technological tools that are available).",
+  "section": "completion",
   "cardIds": [
    "cause-noun"
   ],
@@ -473,6 +497,7 @@
   ],
   "answer": 1,
   "explanation": "Kalsiyumun rolü çok dikkat çekmesine RAĞMEN (Whereas / Although), çok az insan magnezyum olmadan kalsiyumun vücuda iyi hizmet edemediğini fark eder (Zıtlık ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "contrast-clause"
   ],
@@ -492,6 +517,7 @@
   ],
   "answer": 1,
   "explanation": "İster kırsalda ister şehirde olsun, kanıtlanmış bir ihtiyaç 'olmadıkça / -mezse' (unless) otel inşa edilmemelidir.",
+  "section": "grammar",
   "cardIds": [
    "unless"
   ],
@@ -511,6 +537,7 @@
   ],
   "answer": 4,
   "explanation": "İnsanlar yüzyıllardır, 'tıpkı' (just as) iki akciğerimiz veya iki böbreğimiz olduğu gibi iki beynimiz olduğunu düşünmüşlerdir.",
+  "section": "grammar",
   "cardIds": [
    "just-as"
   ],
@@ -530,6 +557,7 @@
   ],
   "answer": 0,
   "explanation": "Evde yaralanan çocukların ve yaşlıların 'aksine / -den farklı olarak' (In contrast to), genç ve orta yaşlı yetişkinler genellikle işyerinde yaralanırlar.",
+  "section": "grammar",
   "cardIds": [
    "unlike"
   ],
@@ -549,6 +577,7 @@
   ],
   "answer": 2,
   "explanation": "Aşırı teşhis, beceriler 'yerine / -den ziyade' (rather than) haplara çok fazla güvenmeye yol açar.",
+  "section": "cloze",
   "cardIds": [
    "instead-of"
   ],
@@ -568,6 +597,7 @@
   ],
   "answer": 0,
   "explanation": "Doğru teşhis kriterleri sayıldıktan sonra 'Buna ek olarak / Ayrıca' (In addition) bazı sorunların da yedi yaşından önce mevcut olması gerektiği kuralı eklenmiştir.",
+  "section": "cloze",
   "cardIds": [
    "addition-adv"
   ],
@@ -587,6 +617,7 @@
   ],
   "answer": 2,
   "explanation": "'Eğer' (If) tarih kitaplarında veya yollarda sıklıkla görünen bir isim varsa, o Henry Flagler'ın adıdır şeklinde şart cümlesi kurulmuştur.",
+  "section": "cloze",
   "cardIds": [
    "if-basic"
   ],
@@ -606,6 +637,7 @@
   ],
   "answer": 0,
   "explanation": "Vizyonu 'ile birlikte' (together with) kararlılığının Florida'yı dönüştürdüğü ifade ediliyor.",
+  "section": "cloze",
   "cardIds": [
    "along-with"
   ],
@@ -625,6 +657,7 @@
   ],
   "answer": 3,
   "explanation": "Kahvenin uyku üzerindeki etkileri bireyden bireye değişebilmesine rağmen (While its effects on sleep may vary...), 'kahvenin hem zihinsel hem de fiziksel işlevler üzerinde etki göstererek sinir sistemini uyardığı kesin olarak bilinmektedir'.",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -644,6 +677,7 @@
   ],
   "answer": 0,
   "explanation": "Büyüyen bir araştırma bütünü, kötü olmanın aslında iyi olabileceğini gösteriyor, 'ancak işin püf noktası karanlık tarafınızı tam olarak ne zaman ve nerede göstereceğinizi bilmektir' (but the trick is knowing exactly...).",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -663,6 +697,7 @@
   ],
   "answer": 1,
   "explanation": "Üç yaşına gelindiğinde bir çocuğun beyninin neredeyse tamamen büyümesi ile kemiklerinin ve kaslarının hala tam gelişmemiş olması arasında bir zıtlık söz konusudur. Bu zıtlığı 'fakat / ancak' (but) bağlar.",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -682,6 +717,7 @@
   ],
   "answer": 0,
   "explanation": "Dünya her zamankinden daha hızlı değiştiği 'için / -den dolayı' (Because), yöneticiler ve çalışanlar sürekli daha yüksek seviyelerde performans göstermelidir (Sebep-sonuç ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -701,6 +737,7 @@
   ],
   "answer": 2,
   "explanation": " Eski Mısır uygarlığının kanıtları her yerde belirgin olmasına RAĞMEN (Although), 19. yüzyılın başlarında hiyeroglif yazısı çözülene kadar tarihi hakkında çok az şey biliniyordu.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -720,6 +757,7 @@
   ],
   "answer": 4,
   "explanation": "İstanbul Boğazı'nın ekonomik ve jeopolitik yönler 'açısından / bakımından' (in terms of) çok önemli olması vurgulanmaktadır.",
+  "section": "grammar",
   "cardIds": [
    "in-terms-of"
   ],
@@ -739,6 +777,7 @@
   ],
   "answer": 0,
   "explanation": "İnsanların merkezi kontrolü varken, 'buna karşılık / aksine' (in contrast) karıncaların merkezi olmayan bir kontrolü vardır.",
+  "section": "cloze",
   "cardIds": [
    "contrast-adv"
   ],
@@ -758,6 +797,7 @@
   ],
   "answer": 0,
   "explanation": "İyi öğretimin sürece atıfta bulunduğu, etkili öğretimin İSE/BUNA KARŞILIK (while/whereas) öğretimin sonuçlarına atıfta bulunduğu zıtlıkla anlatılmıştır.",
+  "section": "cloze",
   "cardIds": [
    "contrast-clause"
   ],
@@ -777,6 +817,7 @@
   ],
   "answer": 3,
   "explanation": "Öğrencileri öğrenme sürecine dahil etmenin 'yanı sıra / ilaveten' (as well as) önemli noktaları vurguladığı belirtilir.",
+  "section": "cloze",
   "cardIds": [
    "addition-noun"
   ],
@@ -796,6 +837,7 @@
   ],
   "answer": 0,
   "explanation": "Bütün ebeveynler 'çocuklarını yetiştirmeye gelince' (when it comes to raising their kids) teşvik ve disiplin arasında doğru dengeyi bulmakta zorlanırlar.",
+  "section": "completion",
   "cardIds": [
    "time-while"
   ],
@@ -815,6 +857,7 @@
   ],
   "answer": 3,
   "explanation": "'Brokoli ve lahana gibi vitamin açısından zengin sebzeleri tüketmeye alıştıktan SONRA' (Once you get used to consuming...), vücudunuza daha yüksek seviyelerde enerji sağlanacak ve hastalıklara karşı daha dirençli hale gelecektir.",
+  "section": "completion",
   "cardIds": [
    "time-as-soon"
   ],
@@ -834,6 +877,7 @@
   ],
   "answer": 1,
   "explanation": "Dijital medya iletişiminin geleneksel pazarlamadan farklı olmasının 'nedeni', yeni etkileşim formlarına olanak sağlamasıdır. Sebep-sonuç ilişkisini 'çünkü / -dığı için' anlamındaki 'since' bağlacı bağlar.",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -853,6 +897,7 @@
   ],
   "answer": 0,
   "explanation": "Yiyeceklerin kolayca yutulabilmesi 'için / amacı ile / -sın diye' ağızda parçalanıp çiğnendiği belirtilmiştir. Amaç bildiren 'so that' bağlacı doğrudur.",
+  "section": "grammar",
   "cardIds": [
    "purpose-clause"
   ],
@@ -872,6 +917,7 @@
   ],
   "answer": 0,
   "explanation": "Sert ve kısıtlayıcı ailelerde yetiştirilmelerinin 'bir sonucu olarak' (as a result of) insanların negatif kişilikler geliştirdiği ve önyargı ifade ettikleri nedensel bağlaç yapısıyla anlatılmıştır.",
+  "section": "grammar",
   "cardIds": [
    "as-a-result-of"
   ],
@@ -891,6 +937,7 @@
   ],
   "answer": 0,
   "explanation": "Önceki cümlede dil alanlarının sol yarımkürede olmasından bahsedilirken, 'Ancak / Bununla birlikte' (However), her iki yarımkürenin de hemen hemen her şeyde birlikte çalıştığı söylenerek yapısal bir zıtlık kurulmuştur.",
+  "section": "cloze",
   "cardIds": [
    "adv-contrast"
   ],
@@ -910,6 +957,7 @@
   ],
   "answer": 0,
   "explanation": "Ressamların ve heykeltıraşların görsel imgeler ve kelimelerin 'yanı sıra' (as well as) matematiksel ve mantıksal fikirlerden de yararlanabileceği anlamı 'as well as' ile sağlanmıştır.",
+  "section": "cloze",
   "cardIds": [
    "addition-noun"
   ],
@@ -929,6 +977,7 @@
   ],
   "answer": 3,
   "explanation": "AB'nin barış mekanizması olarak orijinal rolünü sürdürmesine 'ek olarak / ilaveten' (in addition to), demokrasi ve insan haklarını güçlendirmeye de yardımcı olduğu ifade edilmiştir.",
+  "section": "cloze",
   "cardIds": [
    "addition-noun"
   ],
@@ -948,6 +997,7 @@
   ],
   "answer": 0,
   "explanation": "İnsanların ne yaptığını izleyebilen uydular önümüzdeki yıllarda devreye girecek, 'böylece (so that) çevreyi kirletenler uzaydan kolayca tespit edilip cezalandırılabilecek' ifadesi bu teknolojinin amacını açıklar.",
+  "section": "completion",
   "cardIds": [
    "purpose-clause"
   ],
@@ -967,6 +1017,7 @@
   ],
   "answer": 1,
   "explanation": "Aristophanes'in otuz oyun yazdığına inanılmaktadır, 'fakat (but) bunların sadece yarısından azı günümüze ulaşmıştır ve bunlardan 411'de yazılan Lysistrata en ünlüsüdür' zıtlığı ve devamındaki ek bilgiyle cümle tamamlanır.",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -986,6 +1037,7 @@
   ],
   "answer": 0,
   "explanation": "Edebiyat ve sanat gibi alanlarda vurgu genellikle bireysel ve öznel (subjective) yargılar üzerindedir, 'oysa (whereas) psikoloji ve diğer doğa bilimlerinde vurgu nesnellik (objectivity) üzerindedir'. Karşılaştırma/zıtlık (whereas) yapılmıştır.",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -1005,6 +1057,7 @@
   ],
   "answer": 2,
   "explanation": "Telekomünikasyon şirketleri baz istasyonlarını kullanımın yeterli olacağı yerlere kurarlar, 'bu yüzden / dolayısıyla' (so) seyrek nüfuslu alanlar buna uymaz.",
+  "section": "grammar",
   "cardIds": [
    "result-so"
   ],
@@ -1024,6 +1077,7 @@
   ],
   "answer": 3,
   "explanation": "Trenin İstansyona Gelişi adlı sessiz film ilk kez 1895'te gösterildiğin'de' (When), insanlar kendilerine doğru gelen lokomotiften dehşete düştüler.",
+  "section": "grammar",
   "cardIds": [
    "time-while"
   ],
@@ -1043,6 +1097,7 @@
   ],
   "answer": 4,
   "explanation": "Çoğu kanıt stres ve hastalık arasında bir ilişkiye işaret etse 'de / ancak' (but), stresli olayların çeşitli hastalıklara neden olduğu iddiaları hala erkendir (Zıtlık).",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -1062,6 +1117,7 @@
   ],
   "answer": 3,
   "explanation": "İnsanların çevre üzerindeki olumsuz etkisini azaltmanın bir yolu, çöplerin çöplüğe atılmak 'yerine' (instead of) olabildiğince çok geri dönüştürülmesini sağlamaktır.",
+  "section": "grammar",
   "cardIds": [
    "instead-of"
   ],
@@ -1081,6 +1137,7 @@
   ],
   "answer": 0,
   "explanation": "Bazı uçaklar değerli yakıtı israf eder. 'Bu nedenle / Bundan dolayı' (Therefore) bu uçakları maksimum verimlilik için yeniden tasarlama girişimleri vardır.",
+  "section": "cloze",
   "cardIds": [
    "result-adv"
   ],
@@ -1100,6 +1157,7 @@
   ],
   "answer": 2,
   "explanation": "İnsanlar, dillerimizin kurallar sistemini takip etmesi gerçeği 'sayesinde / yüzünden' (due to) sofistike iletişim kurabilirler.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -1119,6 +1177,7 @@
   ],
   "answer": 3,
   "explanation": "Bu probleme bir yaklaşım, dil sistemimizi o edinilir'ken / eşzamanlı olarak' (while) incelemektir.",
+  "section": "cloze",
   "cardIds": [
    "time-while"
   ],
@@ -1138,6 +1197,7 @@
   ],
   "answer": 1,
   "explanation": "Bilim insanları insanların neden uykuya ihtiyaç duyduğundan hala emin olmasalar da, 'ancak (yet) uyku ruh halimizden organlarımızın işlevlerine kadar hayatımızın neredeyse her yönünü etkiler' zıtlığı doğru seçenektir.",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -1157,6 +1217,7 @@
   ],
   "answer": 2,
   "explanation": "Para, ekonomik faaliyette önemli bir rol oynamasına RAĞMEN (Although), insanları belirli kararlar almaya iten tek teşvik (incentive) değildir.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -1176,6 +1237,7 @@
   ],
   "answer": 1,
   "explanation": "Tropikal çayır veya savan bölgelerinde ağaçlar sık ​​sık bulunabilir, 'oysa / buna karşın' (whereas) ılıman veya yarı tropikal çayır alanlarında çok az ağaç büyümesi vardır.",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -1195,6 +1257,7 @@
   ],
   "answer": 0,
   "explanation": "Her ay binlerce yeni üye keşfedilir, 'ancak / yine de' (however) bunların çoğu küçük asteroitler gibi önemsiz cisimlerdir (Zıtlık).",
+  "section": "grammar",
   "cardIds": [
    "adv-contrast"
   ],
@@ -1214,6 +1277,7 @@
   ],
   "answer": 0,
   "explanation": "Sürdürülebilir teknolojilerin kurulumu genellikle çok paraya mal 'olsa da / bile' (Even if), uzun vadede para tasarrufu sağlarlar (Zıtlık).",
+  "section": "grammar",
   "cardIds": [
    "even-if"
   ],
@@ -1233,6 +1297,7 @@
   ],
   "answer": 1,
   "explanation": "Normal okyanus dalgalarında sadece yüzey hareket halindeyken; bir tsunami 'ise / buna karşın' (though) sadece yüzeyi değil tüm su sütununu hareket ettirir.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -1252,6 +1317,7 @@
   ],
   "answer": 3,
   "explanation": "Çeşitli kültürlerde manevi önemi olan kına, farklı grafik kurallara 'göre / uygun olarak' (according to) uygulanır.",
+  "section": "grammar",
   "cardIds": [
    "according-to"
   ],
@@ -1271,6 +1337,7 @@
   ],
   "answer": 4,
   "explanation": "Bireysel bileşenler ve katkı maddelerinin 'yanı sıra' (as well as) bütün gıdalar için de test süreci zorunludur.",
+  "section": "cloze",
   "cardIds": [
    "addition-noun"
   ],
@@ -1290,6 +1357,7 @@
   ],
   "answer": 1,
   "explanation": "Onay, 'sadece' gıdanın bilimsel standartlara uygun olarak güvenli olduğu gösterilirse (only if) verilir (Koşul).",
+  "section": "cloze",
   "cardIds": [
    "condition-strict"
   ],
@@ -1309,6 +1377,7 @@
   ],
   "answer": 1,
   "explanation": "Bu yöntemler genel üretkenliği maksimize etmesine 'rağmen' (Even though), tarlalardaki bazı alanların düşük performans göstermesine neden oldu (Zıtlık).",
+  "section": "cloze",
   "cardIds": [
    "concession-clause"
   ],
@@ -1328,6 +1397,7 @@
   ],
   "answer": 2,
   "explanation": "Dünya'nın kaynaklarını mevcut hızda kullanmaya devam 'edersek' (if), yakında çevreye zarar vermeyen yeni yaşama yolları bulmak zorunda kalacağız (Koşul - Sonuç).",
+  "section": "completion",
   "cardIds": [
    "if-basic"
   ],
@@ -1347,6 +1417,7 @@
   ],
   "answer": 0,
   "explanation": "Birçok vitamin ve mineral diyetimizin gerekli bileşenleridir, 'ancak aşırı tüketilmezlerse' (unless they are consumed excessively) yani aşırı miktarlarda tüketilmeleri durumunda zarar verebilirler.",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -1366,6 +1437,7 @@
   ],
   "answer": 0,
   "explanation": "Kozmetik şirketleri zararlı kimyasalları ürünlerinden çıkarmaya başlamışlardır, 'düzenleyici kurumlardan bunu yapmaları yönünde çok fazla baskı olmamasına rağmen' (even though there is not much pressure...).",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -1385,6 +1457,7 @@
   ],
   "answer": 2,
   "explanation": "Kral Tutankhamun 18 yıllık kısa hayatında büyüklüğe ulaşmak için çok az fırsata sahip olmasına 'rağmen' (While), gelecek nesiller tarafından çoğunlukla hazine dolu mezarı sayesinde çok iyi tanınmaktadır.",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -1404,6 +1477,7 @@
   ],
   "answer": 3,
   "explanation": "Teleskop mekanik bir arızadan sonra veri toplamayı durdurdu, 'ancak (yet) nispeten kısa ömründe zengin keşifler sağladı' diyerek görev süresinin kısalığıyla elde edilen verimin zıtlığı verilmiştir.",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -1423,6 +1497,7 @@
   ],
   "answer": 1,
   "explanation": "Yenilenebilir enerji kullanımı küresel ısınmayla mücadelenin bir aracı olmasına 'rağmen' (Although), tesisleri kurmanın çok pahalı olması bir zıtlıktır.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -1442,6 +1517,7 @@
   ],
   "answer": 2,
   "explanation": "Mesajın hedefine ulaşabilmesi 'için / ulaşabilsin diye' (so that) her bilgisayar istasyonuna ne yapması gerektiğini anlatan bir kod kullanılır (Amaç bildirir).",
+  "section": "grammar",
   "cardIds": [
    "purpose-clause"
   ],
@@ -1461,6 +1537,7 @@
   ],
   "answer": 2,
   "explanation": "Sunduğu umut verici beklentilere/ihtimallere 'rağmen' (In spite of), büyük ölçekte kullanılmadan önce çok daha fazla araştırma gerektirmesi bir zıtlık oluşturur.",
+  "section": "grammar",
   "cardIds": [
    "concession-noun"
   ],
@@ -1480,6 +1557,7 @@
   ],
   "answer": 4,
   "explanation": "Kuzey fabrikalarındaki imalat oranının, bireysel ve ilkel üretim yollarının 'aksine / onlara zıt olarak' (as opposed to) sürekli arttığı ifade ediliyor.",
+  "section": "cloze",
   "cardIds": [
    "unlike"
   ],
@@ -1499,6 +1577,7 @@
   ],
   "answer": 1,
   "explanation": "Sanayileşme Güney'de geride kalmıştı, 'ancak / yine de / her ne kadar' (though) bu durum hiç bilinmiyor değildi (it was not unknown).",
+  "section": "cloze",
   "cardIds": [
    "concession-clause"
   ],
@@ -1518,6 +1597,7 @@
   ],
   "answer": 1,
   "explanation": "Ancak 'bir kere / bir defa' (Once) öğrenildiğinde, nadiren unutulur. 'Once' zaman ve koşul bağlacı olarak işlev görür.",
+  "section": "cloze",
   "cardIds": [
    "time-as-soon"
   ],
@@ -1537,6 +1617,7 @@
   ],
   "answer": 3,
   "explanation": "Okuma becerisinin kalıcı bellekte tutulmasına 'rağmen' (Despite) - veya orijinal manasıyla kalıcı bellekteki tutulma bir yana / buna karşın - okumanın aktif sürecinde tamamen farklı bir tür bellek (kısa süreli bellek) gereklidir.",
+  "section": "cloze",
   "cardIds": [
    "concession-noun"
   ],
@@ -1556,6 +1637,7 @@
   ],
   "answer": 3,
   "explanation": "Deniz seviyelerinin 2080 yılına kadar küresel olarak en az bir metre yükselebileceği tahminleri, 'buzullar eridiği ve daha sıcak denizler genleştiği için' (since glaciers melt and warmer seas expand) şeklindeki gerekçeyle tamamlanır.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -1575,6 +1657,7 @@
   ],
   "answer": 0,
   "explanation": "Dünyadaki şehirlerin küresel nüfusun yarısından fazlasına ev sahipliği yapması, 'bu yüzden (so) altyapı ve kentsel gelişim yatırımları için benzeri görülmemiş bir baskı ve taleple karşı karşıya kalmalarına' yol açar (neden-sonuç uyumu).",
+  "section": "completion",
   "cardIds": [
    "result-so"
   ],
@@ -1594,6 +1677,7 @@
   ],
   "answer": 2,
   "explanation": "Üzgün hisseden birine neşelenmesini söylemek onları aslında daha kötü hissettirir, 'çünkü (because) bu durum sadece duygularının toplumsal beklentilere uymadığını hatırlatır'.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -1613,6 +1697,7 @@
   ],
   "answer": 0,
   "explanation": "Şirket kurucularının işletmelerini satması kolay bir karar değildir, 'iyi bir satış anlaşması sahibine ne kadar zenginlik/para getirmeyi vaat ederse etsin' (no matter how much wealth...).",
+  "section": "completion",
   "cardIds": [
    "whatever-however"
   ],
@@ -1632,6 +1717,7 @@
   ],
   "answer": 1,
   "explanation": "Dünya yüzeyinin yüzde 70'inin sıvı (su) olmasına karşılık, su kıtlığının bir milyardan fazla insanı etkilemesi bir zıtlık oluşturur. Bu yüzden 'fakat / ancak' anlamındaki 'yet' kullanılır.",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -1651,6 +1737,7 @@
   ],
   "answer": 2,
   "explanation": "Alfabetik yazı sistemlerinin öğrenmesi kolay ve verimli olması, onların medeniyetin en büyük başarılarından biri olarak kabul edilmesinin 'nedenidir'. Bu sebep-sonuç ilişkisini 'bu yüzden / bu nedenle' anlamındaki 'so' bağlar.",
+  "section": "grammar",
   "cardIds": [
    "result-so"
   ],
@@ -1670,6 +1757,7 @@
   ],
   "answer": 2,
   "explanation": "Tarihçiler altının ilk ne zaman keşfedildiği konusunda hemfikir 'olamamalarına rağmen' (Even though), Mısırlıların onu ilk çıkaranlar olduğunu öne süren kanıtlar vardır (Zıtlık).",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -1689,6 +1777,7 @@
   ],
   "answer": 4,
   "explanation": "Diğer İtalyan şehirleriyle olan benzerliklerine 'rağmen' (Despite), Venedik'in su ortamının ona bir benzersizlik kazandırdığını vurgulamak önemlidir.",
+  "section": "grammar",
   "cardIds": [
    "concession-noun"
   ],
@@ -1708,6 +1797,7 @@
   ],
   "answer": 1,
   "explanation": "Önceki cümlede bitkinin ne kadar güçlü olduğundan bahsedilmiş, bu cümlede ise bu dayanıklılığın bir bedeli olduğu (yavaş büyümesi) söylenmiştir. Bu zıtlığı 'Ancak' (However) bağlacı sağlar.",
+  "section": "cloze",
   "cardIds": [
    "adv-contrast"
   ],
@@ -1727,6 +1817,7 @@
   ],
   "answer": 4,
   "explanation": "Bitkinin çok güçlü hale gelmesi çevresel faktörlerin bir kombinasyonu 'yüzünden / sayesinde' (because of) gerçekleşmiştir.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -1746,6 +1837,7 @@
   ],
   "answer": 1,
   "explanation": "Her iki gezegen de keşfedilmek için araçlar gönderilen hedefler olsa da, 'Buna rağmen / Yine de' (Nevertheless) Mars çok daha fazla ilgi çekmiştir.",
+  "section": "cloze",
   "cardIds": [
    "adv-contrast"
   ],
@@ -1765,6 +1857,7 @@
   ],
   "answer": 0,
   "explanation": "Venüs boyut olarak Dünya'ya daha çok benzese de, zorlu çevresi 'nedeniyle / yüzünden' (due to) asla hayata ev sahipliği yapamaz.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -1784,6 +1877,7 @@
   ],
   "answer": 3,
   "explanation": "1960'larda okuyucu sayısındaki devasa iyileşme büyük ölçüde televizyonun gelişiyle aynı zamana denk geldi, 'bu yüzden televizyonun okumayı öldüreceğine dair ilk beklenti doğru değildi' cümlesi anlamca uygun sonucu verir.",
+  "section": "completion",
   "cardIds": [
    "result-so"
   ],
@@ -1803,6 +1897,7 @@
   ],
   "answer": 2,
   "explanation": "19. yüzyıl Avrupa'sında fabrikalarda kadınların ve çocukların yaygın olarak kullanılmasının nedeni (since), 'onların daha düşük ücretlerle çalışması ve isteksiz erkek işgücünü telafi etmesiydi'.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -1822,6 +1917,7 @@
   ],
   "answer": 4,
   "explanation": "Küçük kuşlar için zıplayarak hareket etmek enerji açısından daha verimlidir, 'çünkü (because of the fact that) hafif vücutları havaya kolayca seker/zıplar'.",
+  "section": "completion",
   "cardIds": [
    "cause-noun"
   ],
@@ -1841,6 +1937,7 @@
   ],
   "answer": 1,
   "explanation": "Birçoğumuz, 'ciddi bir sorun ortaya çıkana ve hayatımızdaki dengeyi kaybedene KADAR' (until) zihinsel sağlığımızı göz ardı etme eğilimindeyizdir.",
+  "section": "completion",
   "cardIds": [
    "time-until"
   ],
@@ -1860,6 +1957,7 @@
   ],
   "answer": 3,
   "explanation": "Evde yetiştirilen ürünlerin market ürünlerinden daha lezzetli olmasının 'nedeni', taze koparılmış ve tam olgunlaşmış olmasıdır. Bu sebep-sonuç ilişkisini 'because' (çünkü) bağlacı verir.",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -1879,6 +1977,7 @@
   ],
   "answer": 4,
   "explanation": "İngilizcede cinsiyetsiz üçüncü tekil şahıs zamirleri için onlarca teklif olmasına 'rağmen' (Even though), hiçbirinin kabul görmediği zıtlığı ifade edilmiştir.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -1898,6 +1997,7 @@
   ],
   "answer": 3,
   "explanation": "Karşılıklı takdirden (mutual appreciation) bahsediliyor. Erken tarım toplulukları kedilerin kemirgen yakalama yeteneklerinden yararlanır'ken' (while), kediler de kendilerine koruma ve bağımsızlık kazandı. 'While' eş zamanlılık veya karşılaştırma bildirir.",
+  "section": "grammar",
   "cardIds": [
    "time-while"
   ],
@@ -1917,6 +2017,7 @@
   ],
   "answer": 2,
   "explanation": "Fiziksel ve mesleki farklılıklara 'bakılmaksızın / onlardan bağımsız olarak' (regardless of), kalp hastalığı hem erkeklerin hem de kadınların bir numaralı katilidir.",
+  "section": "grammar",
   "cardIds": [
    "regardless-of"
   ],
@@ -1936,6 +2037,7 @@
   ],
   "answer": 2,
   "explanation": "Artan zenginliğin/refahın 'bir sonucu olarak' (As a result of), müzik ve moda kitlesel pazar endüstrileri haline geldi ve gençlik pazarının taleplerini karşılamada hızlı davrandı.",
+  "section": "cloze",
   "cardIds": [
    "as-a-result-of"
   ],
@@ -1955,6 +2057,7 @@
   ],
   "answer": 4,
   "explanation": "Televizyonun artan popülaritesi popüler kültürün tüm dünyaya yayılmasına yardımcı oldu, 'böylece / bu yüzden' (so) yeni trendler hızla gelişebildi.",
+  "section": "cloze",
   "cardIds": [
    "result-so"
   ],
@@ -1974,6 +2077,7 @@
   ],
   "answer": 2,
   "explanation": "Yaşamdan ayrı bir şekilde var olan müzik, resim ve heykelin 'aksine' (As opposed to), mimarinin yaşamı kendi içine dahil ettiği vurgulanıyor.",
+  "section": "cloze",
   "cardIds": [
    "unlike"
   ],
@@ -1993,6 +2097,7 @@
   ],
   "answer": 3,
   "explanation": "Sosyal medyadaki paylaşımlarımızla kendimizi ifade ederken ekonomik durumumuza dair dijital izler bırakmamız, 'para çoğumuzun herkesin önünde tartışmaktan kaçındığı bir konu olmasına rağmen' (Although money is a topic that most of us avoid discussing publicly) zıtlığıyla pekişir.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2012,6 +2117,7 @@
   ],
   "answer": 2,
   "explanation": "Hastalığın hayatın herhangi bir aşamasında kendini gösterebilmesi (yaştan bağımsızlık), 'gençlerde (ergenlerde) anoreksiyanın yaygınlığı kesinlikle var olmasına rağmen' (While there is certainly a prevalence of anorexia in teenagers) ifadesiyle karşıtlık bağlamında kullanılır.",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -2031,6 +2137,7 @@
   ],
   "answer": 1,
   "explanation": "Folklorcular arasında tanım ve işlevler üzerine bir fikir birliği olmamasına 'rağmen / oysa' (While), folklor genel olarak belirli kültürel ifadelere atıfta bulunur (Zıtlık ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "contrast-clause"
   ],
@@ -2050,6 +2157,7 @@
   ],
   "answer": 2,
   "explanation": "Sanayileşmiş ülkelerin her yıl yanan fosil yakıtların %75-80'ini tüketmesi ile sera gazı emisyonlarının çoğundan sorumlu olmaları arasında bir sebep-sonuç ilişkisi vardır. Bu nedenle 'sonuç olarak' (as a result) doğru yanıttır.",
+  "section": "grammar",
   "cardIds": [
    "result-adv"
   ],
@@ -2069,6 +2177,7 @@
   ],
   "answer": 3,
   "explanation": "Altıncı yüzyıldan kalma Ayasofya gibi binaların hala ayakta durması ile depreme eğilimli bölgelerde bulunmaları arasında bir zıtlık olduğu için 'rağmen' (although) bağlacı getirilmelidir.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -2088,6 +2197,7 @@
   ],
   "answer": 4,
   "explanation": "Nükleer patlama gibi feci bir olay 'durumunda' (in case of) iletişim yedeği / fazlalığı sağlamak internetin ilk amacıydı.",
+  "section": "grammar",
   "cardIds": [
    "in-case"
   ],
@@ -2107,6 +2217,7 @@
   ],
   "answer": 4,
   "explanation": "İlk cümlede fosil yakıtların iklim değişikliğinin nedenlerinden biri olduğu, ikinci cümlede ise karbon emisyonlarını önemli ölçüde azaltmamız gerektiği belirtiliyor. Sebep-sonuç bağlayan 'Bu yüzden / Dolayısıyla' (Therefore) uygundur.",
+  "section": "cloze",
   "cardIds": [
    "result-adv"
   ],
@@ -2126,6 +2237,7 @@
   ],
   "answer": 3,
   "explanation": "Araba kullanmanın çevreye büyük bir yük bindirmesinin sebebi, havaya salınan karbondioksit emisyonlarıdır. Sebep bildiren edat 'yüzünden / sebebiyle' (due to) şeklindedir.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -2145,6 +2257,7 @@
   ],
   "answer": 4,
   "explanation": "Düşüncesizce yemenin pek çok çözümü olmasına 'rağmen' (Although), gıdaya odaklanıp çevremize dikkat etmediğimiz için bu çözümlerin çoğu keşfedilmemiş olarak kalacaktır (Zıtlık).",
+  "section": "cloze",
   "cardIds": [
    "concession-clause"
   ],
@@ -2164,6 +2277,7 @@
   ],
   "answer": 1,
   "explanation": "Daha fazla yemek 'yerine' (instead of), farkında olmadan daha az yiyeceğimiz yollardan bahsedilmektedir.",
+  "section": "cloze",
   "cardIds": [
    "instead-of"
   ],
@@ -2183,6 +2297,7 @@
   ],
   "answer": 3,
   "explanation": "Adli araştırmacıların kanıtları olay yeri taze iken toplaması GEREKTİĞİ (must collect), 'bölge güvensiz olsa ve silahlı koruma altında çalışmaları gerekse bile' (even if the area is unsafe...) diyerek güçlü bir zıtlıkla pekiştirilmiştir.",
+  "section": "completion",
   "cardIds": [
    "even-if"
   ],
@@ -2202,6 +2317,7 @@
   ],
   "answer": 2,
   "explanation": "Bir yazar bir taslağın güçlü ve zayıf yönlerini 'bilmediği sürece' (Unless), taslağı bitmiş bir esere dönüştürmek mümkün olmayacaktır (Koşul - Sonuç).",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -2221,6 +2337,7 @@
   ],
   "answer": 1,
   "explanation": "Bazı kuşlar, yavruları kendilerine nasıl bakacaklarını ve doğada nasıl hayatta kalacaklarını öğrenene KADAR (until) onları korumak için yuva yaparlar.",
+  "section": "completion",
   "cardIds": [
    "time-until"
   ],
@@ -2240,6 +2357,7 @@
   ],
   "answer": 3,
   "explanation": "Tüm proteinleri oluşturan 20 amino asitten 9 tanesi esansiyel (temel) kabul edilir, 'çünkü (because) vücudumuzda üretilemezler ve yediğimiz gıdalardan alınmaları gerekir'.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -2259,6 +2377,7 @@
   ],
   "answer": 0,
   "explanation": "Trans yağ sağlığınız için doymuş yağ kadar zararlı olabilir, 'çünkü (because) diğer yan etkilerinin yanı sıra kan kolesterol seviyelerini artırır'.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -2278,6 +2397,7 @@
   ],
   "answer": 1,
   "explanation": "Thomas Edison kendini geniş bilimsel topluluğun bir üyesi olarak görmesine ve Ulusal Bilimler Akademisi'ne makaleler sunmasına RAĞMEN (While), o her şeyden önce bir mucitti ve bilimsel bilgiyi ilerletmekten çok halkın ilgisini çekmekle ilgileniyordu.",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -2297,6 +2417,7 @@
   ],
   "answer": 2,
   "explanation": "Çiğ sütün lezzetinin pastörize sütte taklit edilemeyeceğine inanılmasına 'rağmen' (although), bazı saygın peynirlerin sadece pastörize sütten yapılması bir zıtlık oluşturur.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -2316,6 +2437,7 @@
   ],
   "answer": 4,
   "explanation": "Babilliler sıfır için bir sembol kullanmalarına 'rağmen' (even though), bunun sadece yer tutucu olması ve hesaplama amacıyla kullanılmaması zıtlık bağlacı gerektirir.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -2335,6 +2457,7 @@
   ],
   "answer": 1,
   "explanation": "Etkilerin sadece 10 dakika sonra fark edilebilmesi 'fakat / ancak' (but) kandaki en yüksek kafein yoğunluğunun 45 dakika sonra meydana gelmesi zıtlığını belirtir.",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -2354,6 +2477,7 @@
   ],
   "answer": 2,
   "explanation": "Bir donanma silahı olarak kötü şöhretine 'rağmen' (Despite), denize kıyısı olmayan (landlocked) Avusturya'da geliştirilmesi bir tezat oluşturur.",
+  "section": "grammar",
   "cardIds": [
    "concession-noun"
   ],
@@ -2373,6 +2497,7 @@
   ],
   "answer": 0,
   "explanation": "Konuşmacıların davranış biçimleri 'yüzünden / sayesinde / sebebiyle' (because of) o kuralların orada olduğunu biliyoruz.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -2392,6 +2517,7 @@
   ],
   "answer": 4,
   "explanation": "Başka olası kalıplar 'olsa bile' (even if) aynı kalıbı yiyecek istemek için de kullanabileceğinizden emin olabilirsiniz.",
+  "section": "cloze",
   "cardIds": [
    "even-if"
   ],
@@ -2411,6 +2537,7 @@
   ],
   "answer": 3,
   "explanation": "Lityum arzıyla ilgili endişelerden bahsedildikten sonra, 'Ancak' (However) kobaltın daha büyük bir endişe kaynağı olduğuna geçiş yapılmıştır.",
+  "section": "cloze",
   "cardIds": [
    "adv-contrast"
   ],
@@ -2430,6 +2557,7 @@
   ],
   "answer": 2,
   "explanation": "'Soğuk hava bize rahatsızlık verebilse veya daha ciddi sağlık koşullarına neden olabilse de (While)', tarımı sürdürmek ve bedenlerimizi sağlıklı tutmak için bizzat yaşamlarımız ona [havaya] bağlıdır.",
+  "section": "completion",
   "cardIds": [
    "time-while"
   ],
@@ -2449,6 +2577,7 @@
   ],
   "answer": 3,
   "explanation": "'Teknolojik gelişmeler 19. yüzyılın sonlarında Afrika'nın iç kısımlarını kolayca erişilebilir hale getirdiğinde (When)', Avrupa ülkeleri kıtayı sömürgeleştirmek için yarıştı.",
+  "section": "completion",
   "cardIds": [
    "time-while"
   ],
@@ -2468,6 +2597,7 @@
   ],
   "answer": 0,
   "explanation": "'Romalı kıyafetleri nispeten basit olmasına rağmen (Although)' ya da statü göstermek için tasarlanmış olsa da, Romalılar nasıl giyindiklerine çok dikkat ederlerdi.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2487,6 +2617,7 @@
   ],
   "answer": 2,
   "explanation": "Son birkaç yüzyılda doğu etkisi çok güçlü olmasına rağmen (Even though), Balkan Yarımadası yemek kültürünün etnik özellikleri ve gelenekleri iyi korunmuştur.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2506,6 +2637,7 @@
   ],
   "answer": 3,
   "explanation": "Sung hanedanlığı döneminde Çinlilerin roket yapma teknolojisi vardı, 'ancak bunu yaptıklarına dair kesin bir kanıt yoktur' (but there is no definitive evidence that they did so).",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -2525,6 +2657,7 @@
   ],
   "answer": 2,
   "explanation": "İnsanların bilim ve teknolojinin hayatlarını nasıl etkilediğinin daha fazla farkına varmalarıyla 'aynı anda / tıpkı onun gibi' (just as) bilim insanları da çalışmalarının etkilerinin farkına varmıştır.",
+  "section": "grammar",
   "cardIds": [
    "just-as"
   ],
@@ -2544,6 +2677,7 @@
   ],
   "answer": 3,
   "explanation": "Organik gıda endüstrisi nispeten küçük ve yeni olsa 'bile / rağmen' (Even if), tüketicilerin bunun fayda ve sınırlarının farkına varması önemlidir zıtlığı kurulmuştur.",
+  "section": "grammar",
   "cardIds": [
    "even-if"
   ],
@@ -2563,6 +2697,7 @@
   ],
   "answer": 1,
   "explanation": "Kültürleşmenin erken kavramsallaştırmaları, kültürler sürekli temas haline 'geldiğinde' (when) meydana gelen bir dönüşümü tanımlamıştır.",
+  "section": "grammar",
   "cardIds": [
    "time-while"
   ],
@@ -2582,6 +2717,7 @@
   ],
   "answer": 4,
   "explanation": "Mississippi Nehri'nin batısına doğru olan genişleme 'yüzünden / sebebiyle' (Due to) Avrupalı yerleşimciler Kızılderili kabileleriyle çatışmaya girmişlerdir.",
+  "section": "grammar",
   "cardIds": [
    "cause-noun"
   ],
@@ -2601,6 +2737,7 @@
   ],
   "answer": 3,
   "explanation": "Kola 'gibi' (such as) karbonatlı içecekler şeklinde bir örneklendirme yapılmıştır.",
+  "section": "cloze",
   "cardIds": [
    "for-example"
   ],
@@ -2620,6 +2757,7 @@
   ],
   "answer": 3,
   "explanation": "İlk sonuçlar başarılı olmaktan uzak 'olmasına rağmen' (Although), sonunda naylonu PET ile değiştirmeyi başardı.",
+  "section": "cloze",
   "cardIds": [
    "concession-clause"
   ],
@@ -2639,6 +2777,7 @@
   ],
   "answer": 3,
   "explanation": "Kabloları ve sinyal güçlendiricileri 'kullandıktan sonra' (After) anteni mağazasına bağladığı olayların sırasını belirtir.",
+  "section": "cloze",
   "cardIds": [
    "time-after"
   ],
@@ -2658,6 +2797,7 @@
   ],
   "answer": 2,
   "explanation": "Sinyali müşterilerin evlerine bırakarak, 'böylece' (thus) ilk topluluk anten televizyon sistemini yarattığı bir sonuç/çıkarım bildirir.",
+  "section": "cloze",
   "cardIds": [
    "result-adv"
   ],
@@ -2677,6 +2817,7 @@
   ],
   "answer": 1,
   "explanation": "Çok sık olarak teknolojik cihazların yaşlıların ihtiyaçlarına yetersiz kalması, 'üreticilerin ürünleri mümkün olduğunca kullanıcı dostu yapmaya çalışmalarına rağmen' (Even though) gerçeği ile zıtlık oluşturur.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2696,6 +2837,7 @@
   ],
   "answer": 2,
   "explanation": "Rönesans sanatı ortak bir dizi ilkeden evrimleşmiş 'olsa da / ama' (but - Although anlamı verecek şekilde cümleye yedirilmiş zıtlık), sonraki yüzyıllarda birçok yöne kaymış ve önemli ölçüde değişmiştir.",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -2715,6 +2857,7 @@
   ],
   "answer": 3,
   "explanation": "Paleontologlar asteroidin rolü hakkında tartışmayı hala sevseler de (Although), geriye pek bir gizem kalmamıştır şeklinde bir zıtlık ilişkisi vardır.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -2734,6 +2877,7 @@
   ],
   "answer": 4,
   "explanation": "Anne Anastasi adının psikometri ile eşanlamlı olmasının sebebi (because/since), psikolojik özelliklerin nasıl etkilendiğini anlamaya öncülük etmesidir. Burada sebep bildiren bir bağlaç gereklidir.",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -2753,6 +2897,7 @@
   ],
   "answer": 1,
   "explanation": "Yabani otlar veya haşerelerden 'kaynaklanan / dolayı' meydana gelen ekin kayıpları anlamını katmak için 'due to' edatı kullanılır.",
+  "section": "grammar",
   "cardIds": [
    "cause-noun"
   ],
@@ -2772,6 +2917,7 @@
   ],
   "answer": 2,
   "explanation": "Çocuk felci virüsünün sadece birkaç ülkeyle sınırlı kalması, Jonas Salk'ın çığır açan araştırması 'sayesinde' (thanks to) gerçekleşmiştir.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -2791,6 +2937,7 @@
   ],
   "answer": 1,
   "explanation": "Hastalar felç oluyorlar ve 'bu yüzden / böylece' (thus) nefes alamıyorlardı. Sebep-sonuç bağlamı vardır.",
+  "section": "cloze",
   "cardIds": [
    "result-adv"
   ],
@@ -2810,6 +2957,7 @@
   ],
   "answer": 1,
   "explanation": "Hint mitolojisi yılanları yaşam getiren olarak kabul eder'ken' (while), İncil yılanı ilk aldatıcı olarak anlatır diyerek bir zıtlık / karşılaştırma yapılmıştır.",
+  "section": "cloze",
   "cardIds": [
    "contrast-clause"
   ],
@@ -2829,6 +2977,7 @@
   ],
   "answer": 1,
   "explanation": "Getirilen hastalıkların onların yaşam tarzlarına ciddi zorluklar çıkarması, 'Avrupalı göçmenlerle gelen yeni teknoloji ve ticaretten faydalanmalarına rağmen (Although)' cümlesiyle zıtlık bağlamında kusursuz örtüşür.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2848,6 +2997,7 @@
   ],
   "answer": 3,
   "explanation": "Çoğu insan gıda kaynaklı hastalık yaşamıştır, 'her ne kadar bunu böyle tanımlamayıp mide gribi veya 24 saatlik bir virüs olarak suçlasalar da' (even though they might not recognise it as such...).",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2867,6 +3017,7 @@
   ],
   "answer": 0,
   "explanation": "Öğrenme güçlüğü tedavisi hakkındaki literatür öncelikle okul temelli tedavileri tartışır, 'her ne kadar öğrenme güçlüğü olan bireyler bu tür ortamların (okulların) ötesinde zorluklar yaşasalar da' (though individuals...).",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -2886,6 +3037,7 @@
   ],
   "answer": 2,
   "explanation": "Hidroelektrik santralleri çevre için çeşitli tehditler oluşturur, 'çünkü (because) endemik türlerin yok olmasına yol açabilir ve balık göçünü engelleyebilirler'.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -2905,6 +3057,7 @@
   ],
   "answer": 2,
   "explanation": "Bir grubun üyeleri çeşitli görevleri yapmak üzere ne zaman bir araya gelseler (Whenever members of a group come together...), optimum performans için birbirlerine güvenirler.",
+  "section": "completion",
   "cardIds": [
    "time-whenever"
   ],
@@ -2924,6 +3077,7 @@
   ],
   "answer": 1,
   "explanation": "Göçmenlerin çoğunlukla İngiliz 'olmasına rağmen' (While), diğer milletlerden insanların da orada varlık gösterdiği zıtlığı işlenmiştir.",
+  "section": "grammar",
   "cardIds": [
    "contrast-clause"
   ],
@@ -2943,6 +3097,7 @@
   ],
   "answer": 2,
   "explanation": "Çinliler MS 1000 civarında manyetik pusulayı kullanmaya başlayana 'kadar' (until) manyetizma ve statik elektrik alanında pek bir şey başarılamamıştı.",
+  "section": "grammar",
   "cardIds": [
    "time-until"
   ],
@@ -2962,6 +3117,7 @@
   ],
   "answer": 2,
   "explanation": "Sıvı su gezegenin üçte ikisini kaplar 'fakat' (but) oraya tam olarak nasıl geldiği hep kafa karıştırıcı olmuştur (zıtlık).",
+  "section": "grammar",
   "cardIds": [
    "but"
   ],
@@ -2981,6 +3137,7 @@
   ],
   "answer": 3,
   "explanation": "İki kıtayı ayırma yönündeki benzersiz yönüyle 'birlikte / yanı sıra' (along with) jeopolitik bir öneme sahip olan İstanbul Boğazı.",
+  "section": "grammar",
   "cardIds": [
    "along-with"
   ],
@@ -3000,6 +3157,7 @@
   ],
   "answer": 4,
   "explanation": "Törensel giysilerin olduğu gerçeğinden hareketle, 'Bu nedenle / Dolayısıyla' (Therefore) kıyafet sosyal ve politik hayatta merkezi bir role sahiptir çıkarımı yapılmıştır.",
+  "section": "cloze",
   "cardIds": [
    "result-adv"
   ],
@@ -3019,6 +3177,7 @@
   ],
   "answer": 2,
   "explanation": "'Beynin esas olarak sol tarafında yer almasına rağmen (Although it is localised mainly on the left side of the brain)' dil beynin tek bir bölgesiyle sınırlı görünmemektedir.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -3038,6 +3197,7 @@
   ],
   "answer": 2,
   "explanation": "'Rönesans, farklı alanlarda sivrilen ve geniş ilgi alanlarına sahip bireyler yetiştirdiği için (Because)', birçok alanda başarılı olanlara genellikle Rönesans insanı denir.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -3057,6 +3217,7 @@
   ],
   "answer": 3,
   "explanation": "Fast food başta çocuklar olmak üzere sağlığın en büyük düşmanı olarak ortaya çıkmıştır, 'bu yüzden fast food endüstrisi son yıllarda birçok eleştirel dikkat üzerine çekmiştir' (so the fast food industry...).",
+  "section": "completion",
   "cardIds": [
    "result-so"
   ],
@@ -3076,6 +3237,7 @@
   ],
   "answer": 1,
   "explanation": "Yaşlanmanın dezavantajları arasında kilo alma eğilimi vardır, 'çünkü / olduğu için' (since) dinlenme metabolizmamız yavaşlar. (Sebep-sonuç ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -3095,6 +3257,7 @@
   ],
   "answer": 1,
   "explanation": "Günümüzde kroket rekabetçi bir spordan ziyade eğlence aktivitesi olmasına 'rağmen' (even though), kroket kulüplerinde yoğun rekabet tamamen ortadan kalkmamıştır (Zıtlık ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -3114,6 +3277,7 @@
   ],
   "answer": 0,
   "explanation": "Genç kan onarıcı 'olabilirken / olmasına rağmen' (while), yaşlı kanda aktif olarak zararlı olan bir şey vardır (Zıtlık).",
+  "section": "cloze",
   "cardIds": [
    "contrast-clause"
   ],
@@ -3133,6 +3297,7 @@
   ],
   "answer": 3,
   "explanation": "Bir yangın 'durumunda' (in case of), iki acil durum istasyonu trenlerin bir tünelden diğerine geçmesine izin verecektir.",
+  "section": "cloze",
   "cardIds": [
    "in-case"
   ],
@@ -3152,6 +3317,7 @@
   ],
   "answer": 4,
   "explanation": "Tüneller arası geçiş istasyonlarının varlığına 'ek olarak' (In addition), her 325 metrede bir kaçış rotaları bulunmaktadır.",
+  "section": "cloze",
   "cardIds": [
    "addition-adv"
   ],
@@ -3171,6 +3337,7 @@
   ],
   "answer": 3,
   "explanation": "Araba kazası kurbanları üzerine yapılan araştırma, daha fazla yağı olanların karın yaralanması geçirme ihtimalinin daha düşük olduğunu buldu (yağın koruyuculuğu), 'ama hava yastığı olarak yağ prensibi bazı insanların düşünmesi gerektiği kadar koruyucu olmayabilir' (zıtlık).",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -3190,6 +3357,7 @@
   ],
   "answer": 3,
   "explanation": "İnsanlar takıntılı düşünce ve eylemleri ilişkilerine veya özgürlük duygularına ciddi şekilde zarar vermeye başlamadıkça (unless), obsesif kompulsif bozuklukla ilgili bir sorun yaşamazlar.",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -3209,6 +3377,7 @@
   ],
   "answer": 2,
   "explanation": "Toprakları verimli olmasına ve demir/kömür madenleri uzun zamandır bir zenginlik kaynağı oluşturmasına RAĞMEN (Although), Alsace'nin siyasi güvensizlik tarihi ve dünya savaşlarının yarattığı yıkım bölgeyi yoksullaştırmıştır.",
+  "section": "completion",
   "cardIds": [
    "concession-clause"
   ],
@@ -3228,6 +3397,7 @@
   ],
   "answer": 2,
   "explanation": "Bazı Roma hamamları en azından kısmen beşinci yüzyıla kadar faaliyet gösteriyor olabilirdi, 'oysa / halbuki (while) yedinci ve sekizinci yüzyıllardan sonra hamam inşasının büyük ölçüde yavaşladığına dair işaretler vardır.'",
+  "section": "completion",
   "cardIds": [
    "contrast-clause"
   ],
@@ -3247,6 +3417,7 @@
   ],
   "answer": 3,
   "explanation": "Tükçe cümlede 'ilk kullandıklarında' (when people first used) ve 'ancak 1300'lerde hayvan eti anlamına karşılık gelmeye başladı' (it was not until the 1300s that it began to refer to...) kalıpları vardır, D şıkkı bu yapıları hatasız verir.",
+  "section": "translation",
   "cardIds": [
    "time-while"
   ],
@@ -3266,6 +3437,7 @@
   ],
   "answer": 4,
   "explanation": "Koşul cümlesi '...zorunda olsaydık' (If we had to think about... or weigh up...), sonuç cümlesi '...hareket edemezdik' (...we would be paralysed). İkinci kısım ise 'bu yüzden' (therefore) ile bağlanır.",
+  "section": "translation",
   "cardIds": [
    "if-basic"
   ],
@@ -3285,6 +3457,7 @@
   ],
   "answer": 4,
   "explanation": "Yavru hayvan davranışının bazı yönlerinin yetişkin davranışının öncüsü olduğu ('predict adult animal behaviour'), diğerlerinin ise yavru hayvanın hayatta kalması için hayati olduğu ('determine the likelihood of a young animal surviving') yapısı ve aralarındaki 'Although' zıtlığı E seçeneğinde başarıyla kullanılmıştır.",
+  "section": "paragraph",
   "cardIds": [
    "concession-clause"
   ],
@@ -3304,6 +3477,7 @@
   ],
   "answer": 0,
   "explanation": "Elektrik ve ısı, emisyonların yüzde 41'ini oluşturduğu 'için/nedeniyle' (Since), iklim değişikliğini engellemek yenilenebilir enerjiyi gerektirecektir (Sebep-Sonuç ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -3323,6 +3497,7 @@
   ],
   "answer": 4,
   "explanation": "Tüm köpekler zihin kuramına sahip olma belirtileri gösterse 'de / rağmen' (Even though), bu durumu bir kişinin diğerinden neden farklı davrandığını bilecek kadar genişletebilmeleri pek olası değildir (Zıtlık ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -3342,6 +3517,7 @@
   ],
   "answer": 2,
   "explanation": "Yüzlerce program 'olmasına rağmen' (Although), sadece birkaç tanesi etkili görünmektedir (Zıtlık ilişkisi).",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -3361,6 +3537,7 @@
   ],
   "answer": 1,
   "explanation": "Güneş'in sürekli enerji akışı 'sayesinde / yüzünden' (Thanks to) su molekülleri sürekli olarak buharlaşır.",
+  "section": "grammar",
   "cardIds": [
    "cause-noun"
   ],
@@ -3380,6 +3557,7 @@
   ],
   "answer": 1,
   "explanation": "Bir önceki cümlede medeniyetlerin ortak/genel gelişimi sayılırken, burada 'bununla birlikte / ancak' (However) her medeniyetin kendine has özellikleri de vardı diyerek zıtlık kurulur.",
+  "section": "cloze",
   "cardIds": [
    "adv-contrast"
   ],
@@ -3399,6 +3577,7 @@
   ],
   "answer": 1,
   "explanation": "Birçok göl, evsel atıksular ve aşırı gübreleme tarafından eklenen kimyasallar 'yüzünden / sebebiyle' (because of) kirlenmiştir.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -3418,6 +3597,7 @@
   ],
   "answer": 3,
   "explanation": "Sayılan kirlilik sebeplerine ek olarak 'ayrıca/dahası' (Moreover) sanayi atıkları ve asit yağmuru da suların asitlenmesine katkıda bulunur.",
+  "section": "cloze",
   "cardIds": [
    "addition-adv"
   ],
@@ -3437,6 +3617,7 @@
   ],
   "answer": 0,
   "explanation": "Dış uzayda biyolojik yaşamın var olduğundan emin olmamız uzun zaman alabilir, 'fakat Mars'ta yapılan son araştırmalar umutları artırdı' (but recent investigations of Mars have raised hopes) zıtlığı bağlamı tamamlar.",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -3456,6 +3637,7 @@
   ],
   "answer": 2,
   "explanation": "Çoğu insan fiziksel olarak inaktif/hareketsiz olmanın zararlı olduğunu sezgisel olarak bilse de (While most people inherently know...), düzenli yapılan yoğun fiziksel aktivitenin bedenimizi içten dışa tamamen değiştirdiğini çok azı (few realise) fark eder.",
+  "section": "completion",
   "cardIds": [
    "time-while"
   ],
@@ -3475,6 +3657,7 @@
   ],
   "answer": 1,
   "explanation": "Tarımsal üretim artan dünya nüfusuna ve gıda talebine yanıt verecek şekilde artırılmadıkça / bir çözüm bulunmadıkça (Unless a solution...), gıda kıtlıkları kaçınılmaz olacaktır.",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -3494,6 +3677,7 @@
   ],
   "answer": 2,
   "explanation": "Yeme bozukluklarının sonuçları ciddiye alınmalıdır, 'çünkü / göz önüne alındığında' (given that) bunlar yüksek tansiyon ve diyabet gibi durumların gelişme riskini artırabilir.",
+  "section": "completion",
   "cardIds": [
    "cause-given"
   ],
@@ -3513,6 +3697,7 @@
   ],
   "answer": 0,
   "explanation": "Çoğu klasik araştırma, çocukların iki yaşın altında olduğu durumlarda davranışsal temelde erkekleri kızlardan ayırt etmenin son derece zor olduğunu gösterir, 'giyim gibi bazı dışsal kültürel cinsiyet göstergeleri olmadıkça' (unless there are some external cultural indicators).",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -3532,6 +3717,7 @@
   ],
   "answer": 1,
   "explanation": "Bazı mantarların faydalı olması ile diğerlerinin zehirli olması arasındaki karşıtlığı 'Although' (rağmen) bağlacı en iyi şekilde sağlar.",
+  "section": "grammar",
   "cardIds": [
    "concession-clause"
   ],
@@ -3551,6 +3737,7 @@
   ],
   "answer": 0,
   "explanation": "Şehirlerin ortaya çıkması ile tarım arasındaki yakın bağlantının varlığı, ilk kanıtların tarım bölgelerinden gelmesinin 'nedenidir'. 'Because' (-dığı için, çünkü) bu sebep-sonuç ilişkisini kurar.",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -3570,6 +3757,7 @@
   ],
   "answer": 2,
   "explanation": "Çocukların kolay hedef 'olduğu için' internet güvenliğinin gerekli olduğu anlatılmaktadır. Bu neden-sonuç ilişkisini 'Since' (-dığı için, çünkü) bağlacı verir.",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -3589,6 +3777,7 @@
   ],
   "answer": 2,
   "explanation": "Modernitenin Fransız Devrimi ile başlamasının ardındaki nedenlerden bahsediliyor. 'due to' (-den dolayı) ifadesi, devrimin ilham verdiği sosyal değişiklikler sebebiyle bu durumun yaşandığını belirtir.",
+  "section": "cloze",
   "cardIds": [
    "cause-noun"
   ],
@@ -3608,6 +3797,7 @@
   ],
   "answer": 1,
   "explanation": "Bir önceki fikri destekleyen başka bir nedeni (because of) açıklıyor. Siyasi değişim sebebiyle ve ayrıca devrimin siyasi kültürün başlangıcını temsil ettiği 'için' (because) böyledir.",
+  "section": "cloze",
   "cardIds": [
    "cause-clause"
   ],
@@ -3627,6 +3817,7 @@
   ],
   "answer": 2,
   "explanation": "Filmin sanatsal olarak çok başarılı bir noktaya gelmesi ile bazı kişilerin filmin suçluları aşırı sempatik gösterdiğini eleştirmesi arasında zıtlık vardır. 'Even though' (-e rağmen) bu zıtlığı bağlar.",
+  "section": "cloze",
   "cardIds": [
    "concession-clause"
   ],
@@ -3646,6 +3837,7 @@
   ],
   "answer": 0,
   "explanation": "Cümle reklamcıların halkın tepkisi yüzünden bazı yaklaşımlardan vazgeçeceğini söylüyor. A seçeneğindeki 'başarılı bir getiri sağlansa bile' (Even if) anlamı, bu vazgeçmenin olumlu getirilerin varlığında dahi gerçekleşeceğini belirterek anlamı tamamlar.",
+  "section": "completion",
   "cardIds": [
    "even-if"
   ],
@@ -3665,6 +3857,7 @@
   ],
   "answer": 3,
   "explanation": "Limon (misket) çeşitlerinin görünüşte neredeyse aynı olduğu belirtilmiş. 'Fakat (but) asitlik dereceleri nötrden aşırı ekşiye kadar farklılık gösterir' ifadesi ile görünüşteki benzerliğe karşın lezzetteki fark vurgulanmıştır.",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -3684,6 +3877,7 @@
   ],
   "answer": 1,
   "explanation": "Tüketicilerin köklü değişiklik isteyen yenilikleri benimsemeye sıcak bakmadığı söyleniyor. B seçeneğinde 'buna değeceğine ikna olmadıkları sürece (unless)' denilerek bu isteksizlik anlamlı bir şarta bağlanmıştır.",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -3703,6 +3897,7 @@
   ],
   "answer": 3,
   "explanation": "Esperanto'nun öğrenilmesi en kolay dillerden biri olmasının sebebini 'çünkü sadeliği ve çeviri için esnekliğiyle bilinir' (because it is known for its simplicity...) diyerek rasyonel olarak açıklayan seçenek D'dir.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -3722,6 +3917,7 @@
   ],
   "answer": 2,
   "explanation": "Çocuklar sömürü ve mağduriyet için kolay hedefler 'olduğu için/olduğundan' (Since), gözetim gereklidir.",
+  "section": "grammar",
   "cardIds": [
    "cause-clause"
   ],
@@ -3741,6 +3937,7 @@
   ],
   "answer": 3,
   "explanation": "Limon (lime) çeşitlerinin çoğu şekil ve görünüş olarak hemen hemen aynı olmalarına rağmen (özdeşlik), asitlik dereceleri nötrden aşı ekşiye kadar değişir (farklılık).",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -3760,6 +3957,7 @@
   ],
   "answer": 1,
   "explanation": "Tüketiciler, bu çabanın 'değeceğine ikna olmadıkça' (unless they are convinced that the effort will be worthwhile) radikal değişiklikler gerektiren yenilikleri benimsemeleri daha zordur.",
+  "section": "completion",
   "cardIds": [
    "unless"
   ],
@@ -3779,6 +3977,7 @@
   ],
   "answer": 3,
   "explanation": "Esperanto, 'sadeliği, güzelliği ve esnekliği ile bilindiği için' (because it is known for its simplicity...) ustalaşması en kolay dillerden biri olarak kabul edilir.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -3798,6 +3997,7 @@
   ],
   "answer": 2,
   "explanation": "Cümlede kralların ve üst düzey devlet adamlarının günlük yaşantıları olması gerçeği ile, tarih yazımında 'günlük yaşam' kavramının daha çok sıradan insanların hayatlarına atıfta bulunması arasında bir zıtlık ve karşılaştırma ilişkisi kurulmaktadır. 'While' bağlacı '-iken' veya 'olmasına rağmen' anlamı katarak bu karşıtlık ilişkisini (krallar/devlet adamları vs. sıradan insanlar) en doğru şekilde sağlar. Whether (olup olmadığı), Seeing that (mademki), Unless (-medikçe) ve Until (-e kadar) bu anlamı veremez.",
+  "section": "grammar",
   "cardIds": [
    "contrast-clause"
   ],
@@ -3817,6 +4017,7 @@
   ],
   "answer": 3,
   "explanation": "Ana cümlede 'Sicilya'nın bazı bölgeleri dünyadan soyutlanmak isteyenlere bir izolasyon hissi sunar' denilmektedir. Bu izolasyon hissinin nedenini açıklamak için 'çünkü buralar, Akdeniz'in çarpıcı biçimde üzerinde yükselen kayalık burunların tepesinde yuvalanmış yerlerdir' ifadesi son derece mantıklı bir gerekçe oluşturur. Coğrafi konumun ıssızlığı ve yüksekliği (rocky promontories), dünyadan kopma ve izolasyon hissini (sense of isolation) en iyi destekleyen argümandır.",
+  "section": "completion",
   "cardIds": [
    "cause-clause"
   ],
@@ -3836,6 +4037,7 @@
   ],
   "answer": 1,
   "explanation": "Cümlede günümüzde geleneksel olarak erkeklerin egemen olduğu mesleklerin cinsiyet 'bakımından' veya cinsiyet 'açısından' daha dengeli hale geldiği belirtilmektedir. 'In terms of' ifadesi -açısından, -bakımından anlamına gelerek boşluğa en uygun düşen yapıdır.",
+  "section": "vocab",
   "cardIds": [
    "in-terms-of"
   ],
@@ -3855,6 +4057,7 @@
   ],
   "answer": 1,
   "explanation": "Cümlede, eski bir buz adamı olan Ötzi ve Helmut Simon'ın buz üzerinde ölü bulunmalarının garip bir kader cilvesi olduğundan bahsedilmektedir. Boşluktan sonraki cümlede 'Helmut Simon'ın 1991'de Ötzi'nin kalıntılarını keşfeden adam olduğu' gerçeği verilmektedir. Bu iki durumu birbirine bağlayıp söz konusu olayı 'garip bir kader cilvesi' (strange twist of fate) olarak mantıklı kılan bağlaç, '-dığı göz önüne alındığında, mademki' anlamına gelen 'given that' bağlacıdır. Diğer bağlaçlar cümlenin kurgusunda anlamlı bir neden-sonuç/durum ilişkisi kuramaz.",
+  "section": "translation",
   "cardIds": [
    "cause-given"
   ],
@@ -3874,6 +4077,7 @@
   ],
   "answer": 0,
   "explanation": "Cümlede zıtlık bildiren bir durum söz konusudur. Kuraklık ve kentleşmenin Sahra Çölü'ndeki Tuareg halkının geleneksel yaşam tarzına meydan okumasına 'rağmen', birçoğunun hâlâ göçebelik yaptığı ifade edilmektedir. Bu nedenle 'rağmen' veya '-e karşın' anlamına gelen 'Although' bağlacı doğru cevaptır.",
+  "section": "vocab",
   "cardIds": [
    "concession-clause"
   ],
@@ -3893,6 +4097,7 @@
   ],
   "answer": 3,
   "explanation": "Cümlenin ilk kısmında doğa bilimcilerin tukan kuşunun büyük gagasının işlevi üzerinde uzun süredir kafa yordukları (puzzled over) belirtilmiştir. Bu belirsizliğe karşın bir zıtlık bağlacı ile farklı bir fikrin veya gözlemin gelmesi uygundur. 'but observers suggest that its bill is a weapon used to defend the nest cavity' (fakat gözlemciler gagasının yuva boşluğunu savunmak için kullanılan bir silah olduğunu öne sürüyor) ifadesi bu bağlamı en iyi tamamlayan zıtlık ve açıklama cümlesidir.",
+  "section": "completion",
   "cardIds": [
    "but"
   ],
@@ -3912,6 +4117,7 @@
   ],
   "answer": 3,
   "explanation": "Cümlede bilimsel makalelerdeki çığır açan keşiflerin kısa ve düzenli olması ile bu noktaya gelene kadar yaşanan sürecin sürprizler ve başarısızlıklarla dolu olması arasında bir zıtlık kurulmaktadır. 'Even though' (rağmen / -sa bile) bağlacı bu zıtlığı anlamsal olarak kusursuz bir şekilde sağlar.",
+  "section": "vocab",
   "cardIds": [
    "concession-clause"
   ],

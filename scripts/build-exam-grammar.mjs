@@ -20,7 +20,7 @@ const byTopic = {};
 for (const e of exams) {
   const raw = read(e.file);
   raw.questions.forEach((r, i) => {
-    const q = normalizeQuestion(r, e.id, i);
+    const q = normalizeQuestion(r, e.id, i, raw.questions.length);
     if (!isSolvable(q) || conjIds.has(q.id)) return;
     const sig = `${q.stem}|${q.options.join('|')}`;
     if (seen.has(sig)) return; // aynı soru iki sınav dosyasında geçiyorsa bir kez al
@@ -31,7 +31,7 @@ for (const e of exams) {
     if (!grammarIds.has(topic)) throw new Error(`bilinmeyen konu: ${topic}`);
     stats[topic] = (stats[topic] || 0) + 1;
     (byTopic[topic] ||= []).push({ q, reason });
-    out.push({ id: q.id, cardIds: [topic], kind: 'exam', area: 'grammar', stem: q.stem, options: q.options, answer: q.answer, explanation: q.explanation,
+    out.push({ id: q.id, cardIds: [topic], kind: 'exam', area: 'grammar', section: q.section, stem: q.stem, options: q.options, answer: q.answer, explanation: q.explanation,
       source: `${e.title} · Soru ${q.number}`, tag: reason });
   });
 }

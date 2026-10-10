@@ -8,9 +8,12 @@ function defaults() {
     questions: {}, // soruId -> { seen, correct, lastCorrect, last }
     log: {}, // YYYY-MM-DD -> { reviews, correct, new }
     customQuestions: [],
+    mocks: [], // deneme sınavı sonuçları
     settings: {
       theme: 'auto',
       cardDirection: 'en-tr',
+      targetScore: 70,
+      baselineCorrect: null, // son sınavdaki doğru sayısı (80 üzerinden), isteğe bağlı
       maxReviews: 100,
       newPerDay: { conjunctions: 10, grammar: 5, words: 10 },
     },
@@ -78,13 +81,14 @@ function addDays(ts, days) {
   return d.getTime();
 }
 
-export function recordQuestion(id, correct) {
+export function recordQuestion(id, correct, section) {
   const now = Date.now();
   const q = (state.questions[id] ||= { seen: 0, correct: 0, lastCorrect: null, last: 0 });
   q.seen += 1;
   if (correct) q.correct += 1;
   q.lastCorrect = correct;
   q.last = now;
+  if (section) q.section = section;
   if (!correct) q.review = { box: 0, due: now };
   else if (q.review) {
     const box = q.review.box + 1;
@@ -125,4 +129,22 @@ export function addCustomQuestions(list) {
   for (const q of list) if (!known.has(q.id)) { state.customQuestions.push(q); added += 1; }
   save();
   return added;
+}
+
+export function addMock(entry) {
+  state.mocks.push({ ...entry, date: Date.now() });
+  save();
+}
+
+// Soru tiplerine (bölümlere) göre toplam çözülen / doğru sayısı; sections: soruId -> bölüm
+export function sectionStats(sectionOf) {
+  const out = {};
+  for (const [id, q] of Object.entries(state.questions)) {
+    const sec = q.section || sectionOf?.(id);
+    if (!sec) continue;
+    const s = (out[sec] ||= { seen: 0, correct: 0 });
+    s.seen += q.seen;
+    s.correct += q.correct;
+  }
+  return out;
 }

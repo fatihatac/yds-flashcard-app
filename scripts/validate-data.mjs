@@ -41,7 +41,7 @@ for (const q of [...trap, ...examQs]) {
 }
 for (const e of exams) {
   const raw = read(e.file);
-  const qs = raw.questions.map((q, i) => normalizeQuestion(q, e.id, i));
+  const qs = raw.questions.map((q, i) => normalizeQuestion(q, e.id, i, raw.questions.length));
   const bad = qs.filter((q) => q.answer < 0 || q.options.length !== 5);
   if (bad.length) fail(`${e.file}: ${bad.length} sorunun doğru cevabı / şıkları geçersiz`);
   if (qs.length !== e.count) fail(`${e.file}: exams.json güncel değil (node scripts/build-exam-data.mjs)`);

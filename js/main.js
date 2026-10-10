@@ -7,6 +7,8 @@ const ROUTES = {
   study: () => import('./views/study.js'),
   quiz: () => import('./views/quiz.js'),
   library: () => import('./views/library.js'),
+  mock: () => import('./views/mock.js'),
+  stats: () => import('./views/stats.js'),
   settings: () => import('./views/settings.js'),
 };
 const NAV = [
@@ -14,6 +16,7 @@ const NAV = [
   ['study', '🃏', 'Çalış'],
   ['quiz', '📝', 'Sorular'],
   ['library', '📖', 'Kartlar'],
+  ['stats', '📈', 'İlerleme'],
   ['settings', '⚙️', 'Ayarlar'],
 ];
 

@@ -56,7 +56,7 @@ export async function loadExamQuestions(examId) {
   const exam = (await loadExamList()).find((e) => e.id === examId);
   if (!exam) return [];
   const raw = await fetchJson(`data/${exam.file}`);
-  return raw.questions.map((q, i) => normalizeQuestion(q, exam.id, i)).filter(isSolvable).map((q) => ({ ...q, source: `${exam.title} · Soru ${q.number}` }));
+  return raw.questions.map((q, i) => normalizeQuestion(q, exam.id, i, raw.questions.length)).filter(isSolvable).map((q) => ({ ...q, source: `${exam.title} · Soru ${q.number}` }));
 }
 
 // Kayıtlı soru kimliklerini (bağlaç soruları veya "sinav:numara") soru nesnelerine çevirir.

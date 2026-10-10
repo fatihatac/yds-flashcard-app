@@ -10,6 +10,8 @@ YDS bağlaçları (ve kelimeleri) için **aralıklı tekrar** sistemli, mobil ö
 - **Soru çözümü (329 bağlaç sorusu):** temel (65), **tuzak tipi** (128, her karta 2 soru) ve çıkmış YDS sorularından otomatik ayıklanan bağlaç soruları (136); konuya göre, açıklamalı.
 - **Tekrar modu:** yanlış yapılan sorular 1 - 3 - 7 - 14 gün aralıkla yeniden gelir; yanlış sorunun bağlaç kartı da kart tekrarına geri döner. "Zayıf konuların" listesi en düşük başarılı konuları gösterir.
 - **Çıkmış sorular ↔ konular:** çıkmış sınavlardaki soruların şıklarına ve soru köküne bakan kurallar (`scripts/exam-grammar-rules.mjs`) kapalı küme ve biçim sorularını gramer konularına bağlar (edat, gerund / infinitive, modal, participle, passive, zaman uyumu ...); çıkmış bağlaç soruları bağlaç kartlarına bağlanır. Kurallar temkinlidir: emin olunmayan soru etiketsiz kalır. Veri setinde yer alan 28 sınavdaki sorular çoğunlukla kelime, çeviri, paragraf ve okuma olduğundan gramer eşleşmesi sınırlıdır.
+- **Süreli deneme sınavı:** çıkmış bir sınav süreyle çözülür (soru listesi, işaretleme, kalan süre, otomatik bitiş). Sonuçta tahmini puan, hedefe kalan puan, bölüm bazlı analiz ve yanlışların açıklaması gelir; yanlışlar tekrar moduna ve ilgili kartlar kart tekrarına eklenir. Okuma parçası gerektiren sorular (parça metni yok) dahil değildir; puan, doğru oranının 100 üzerinden ölçeklenmiş halidir.
+- **İlerleme ve hedef:** hedef puan (varsayılan 70 = 80 soruda 56 doğru), deneme puanı grafiği ve **soru tipine göre başarı** (kelime, dilbilgisi, cloze, cümle tamamlama, çeviri, okuma, diyalog, paragraf, anlam bütünlüğü). Her bölümde kaybedilen tahmini puan hesaplanıp "önce şuraya çalış" listesi çıkarılır. YDS'nin 80 soruluk standart dizilimi (soru numarasına göre bölüm) kullanılır.
 - **Çıkmış sınavlar:** `data/20xx_YDS_n.json` dosyalarındaki 28 sınav (okuma parçası gerektirmeyen sorular) orijinal sırasıyla çözülür.
 - **Kartlar:** arama ve kategori filtresiyle tüm bağlaçlara göz atma.
 - **Ayarlar:** günlük hedefler, tema, yedek indir/yükle, kendi soru setini ekleme.
@@ -42,6 +44,8 @@ data/words.json          kelimeler
 js/srs.js                tekrar algoritması (saf fonksiyonlar)
 js/store.js              localStorage: ilerleme, ayarlar
 js/data.js               deste kaydı (DECKS)
+js/qtype.js              YDS soru tipleri (bölümler) ve puan çarpanı
+js/mock.js               deneme puanlama ve bölüm raporu
 js/exams.js              ham sınav biçimini soru biçimine çevirir
 js/render.js             deste türüne göre kart yüzleri
 js/views/*.js            ekranlar (home, study, quiz, library, settings)
