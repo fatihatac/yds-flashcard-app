@@ -31,6 +31,15 @@ export async function render(root) {
       stat(log.reviews, 'bugün tekrar'),
       stat(answered ? `%${Math.round((right / answered) * 100)}` : '–', 'soru başarısı')));
 
+  const { mocks, settings } = get();
+  const target = settings.targetScore ?? 70;
+  const last = mocks.at(-1);
+  const baseline = settings.baselineCorrect;
+  root.append(h('section', { class: 'card deck' },
+    h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, '🎯'), h('div', null, h('h2', null, `Hedef: ${target} puan`),
+      h('p', { class: 'muted' }, last ? `Son deneme ≈ ${String(last.scaled).replace('.', ',')} puan (${last.correct}/${last.total} doğru)` : baseline != null ? `Başlangıç: ${baseline} doğru (≈ ${String(baseline * 1.25).replace('.', ',')} puan)` : 'Süreli deneme çöz, bölüm analizini gör'))),
+    h('div', { class: 'row-btns' }, h('a', { class: 'btn btn-primary', href: '#/mock' }, 'Deneme çöz'), h('a', { class: 'btn btn-ghost', href: '#/stats' }, 'İlerleme'))));
+
   const list = h('div', { class: 'deck-list' });
   root.append(list);
   for (const deck of DECKS) {

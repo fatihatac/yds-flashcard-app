@@ -4,195 +4,457 @@
   "file": "2013_YDS_1.json",
   "title": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İLKBAHAR DÖNEMİ",
   "count": 80,
-  "solvable": 61
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2013_YDS_2",
   "file": "2013_YDS_2.json",
   "title": "2013 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) SONBAHAR DÖNEMİ İNGİLİZCE",
   "count": 80,
-  "solvable": 62
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2014_YDS_1",
   "file": "2014_YDS_1.json",
   "title": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 61
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2014_YDS_2",
   "file": "2014_YDS_2.json",
   "title": "2014 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 62
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2015_YDS_1",
   "file": "2015_YDS_1.json",
   "title": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 59
+  "solvable": 59,
+  "sections": {
+   "vocab": 6,
+   "grammar": 9,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2015_YDS_2",
   "file": "2015_YDS_2.json",
   "title": "2015 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 64
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2016_YDS_1",
   "file": "2016_YDS_1.json",
   "title": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2016-YDS İLKBAHAR) İNGİLİZCE",
   "count": 80,
-  "solvable": 65
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2016_YDS_2",
   "file": "2016_YDS_2.json",
   "title": "2016 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (YDS) İNGİLİZCE (Sonbahar Dönemi)",
   "count": 80,
-  "solvable": 64
+  "solvable": 59,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 9,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2017_YDS_1",
   "file": "2017_YDS_1.json",
   "title": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI İLKBAHAR DÖNEMİ (2017-YDS İLKBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 65
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2017_YDS_2",
   "file": "2017_YDS_2.json",
   "title": "2017 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI SONBAHAR DÖNEMİ (2017-YDS SONBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 67
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2018_YDS_1",
   "file": "2018_YDS_1.json",
   "title": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (İLKBAHAR DÖNEMİ)",
   "count": 80,
-  "solvable": 74
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2018_YDS_2",
   "file": "2018_YDS_2.json",
   "title": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (SONBAHAR DÖNEMİ) İNGİLİZCE",
   "count": 80,
-  "solvable": 66
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2018_YDS_3",
   "file": "2018_YDS_3.json",
   "title": "2018 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/3 (2018-YDS/3) İNGİLİZCE",
   "count": 80,
-  "solvable": 64
+  "solvable": 59,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 4
+  }
  },
  {
   "id": "2019_YDS_1",
   "file": "2019_YDS_1.json",
   "title": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 1 (2019-YDS/1) İNGİLİZCE",
   "count": 80,
-  "solvable": 67
+  "solvable": 59,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 4
+  }
  },
  {
   "id": "2019_YDS_2",
   "file": "2019_YDS_2.json",
   "title": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 2 (2019-YDS/2) İNGİLİZCE",
   "count": 80,
-  "solvable": 66
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2019_YDS_3",
   "file": "2019_YDS_3.json",
   "title": "2019 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI - 3 (2019-YDS/3) İNGİLİZCE",
   "count": 80,
-  "solvable": 67
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2020_YDS_1",
   "file": "2020_YDS_1.json",
   "title": "2020 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2020-YDS/1) İNGİLİZCE",
   "count": 80,
-  "solvable": 62
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2021_YDS_1",
   "file": "2021_YDS_1.json",
   "title": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE",
   "count": 80,
-  "solvable": 63
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2021_YDS_2",
   "file": "2021_YDS_2.json",
   "title": "2021 YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2021-YDS/1) İNGİLİZCE",
   "count": 80,
-  "solvable": 63
+  "solvable": 60,
+  "sections": {
+   "vocab": 6,
+   "grammar": 10,
+   "cloze": 10,
+   "completion": 10,
+   "translation": 6,
+   "dialogue": 5,
+   "paragraph": 8,
+   "irrelevant": 5
+  }
  },
  {
   "id": "2022_YDS_1",
   "file": "2022_YDS_1.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2022-YDS/1) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "vocab": 1,
+   "grammar": 1,
+   "completion": 1,
+   "translation": 1,
+   "dialogue": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2022_YDS_2",
   "file": "2022_YDS_2.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2022-YDS/2) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "grammar": 1,
+   "vocab": 1,
+   "completion": 1,
+   "translation": 1,
+   "dialogue": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2023_YDS_1",
   "file": "2023_YDS_1.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2023-YDS/1) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "vocab": 1,
+   "translation": 2,
+   "completion": 1,
+   "dialogue": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2023_YDS_2",
   "file": "2023_YDS_2.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2023-YDS/2) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 6,
+  "sections": {
+   "vocab": 2,
+   "completion": 1,
+   "translation": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2024_YDS_1",
   "file": "2024_YDS_1.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2024-YDS/1) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "vocab": 1,
+   "completion": 2,
+   "translation": 1,
+   "dialogue": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2024_YDS_2",
   "file": "2024_YDS_2.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2024-YDS/2) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "vocab": 2,
+   "completion": 1,
+   "translation": 1,
+   "dialogue": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2025_YDS_1",
   "file": "2025_YDS_1.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2025-YDS/1) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "grammar": 1,
+   "vocab": 1,
+   "completion": 1,
+   "translation": 1,
+   "dialogue": 1,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2025_YDS_2",
   "file": "2025_YDS_2.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2025-YDS/2) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "vocab": 2,
+   "completion": 1,
+   "translation": 2,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  },
  {
   "id": "2026_YDS_1",
   "file": "2026_YDS_1.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2026-YDS/1) İNGİLİZCE",
   "count": 8,
-  "solvable": 8
+  "solvable": 7,
+  "sections": {
+   "vocab": 2,
+   "completion": 1,
+   "translation": 2,
+   "paragraph": 1,
+   "irrelevant": 1
+  }
  }
 ]

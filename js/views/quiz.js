@@ -96,9 +96,9 @@ async function picker(root, questions, { conj, grammar }, cardById) {
         })));
     } else {
       body.replaceChildren(
-        h('h2', { class: 'section-title' }, 'Çıkmış YDS sınavları'),
-        h('p', { class: 'muted small' }, 'Okuma parçası gerektiren sorular veri setinde parça metni olmadığı için dahil edilmez.'),
-        h('div', { class: 'list' }, exams.map((e) => row(e.title.replace(/YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/i, 'YDS').replace(/\s+/g, ' '), `${e.solvable} çözülebilir soru`, () => { location.hash = `#/quiz?exam=${encodeURIComponent(e.id)}`; }))));
+        h('h2', { class: 'section-title' }, 'Çıkmış YDS sınavları (deneme)'),
+        h('p', { class: 'muted small' }, 'Süreli deneme olarak çözülür, bölüm bazlı analiz verir. Okuma parçası gerektiren sorular (parça metni yok) dahil edilmez.'),
+        h('div', { class: 'list' }, exams.map((e) => row(e.title.replace(/YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/i, 'YDS').replace(/\s+/g, ' '), `${e.solvable} çözülebilir soru`, () => { location.hash = `#/mock/${encodeURIComponent(e.id)}`; }))));
     }
   }
 
@@ -152,7 +152,7 @@ function run(root, pool, cardById, { title, count = 0, ordered = false, empty = 
       if (answered) return;
       answered = true;
       const ok = orig === q.answer;
-      recordQuestion(q.id, ok);
+      recordQuestion(q.id, ok, q.section || (q.kind === 'exam' ? undefined : 'grammar'));
       result.push({ q, ok });
       order.forEach((o, p) => { if (o === q.answer) optEls[p].classList.add('correct'); });
       if (!ok) optEls[pos].classList.add('wrong');

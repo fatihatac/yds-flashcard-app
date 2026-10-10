@@ -6,6 +6,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "grammar",
   "stem": "____ the types of individuals it seeks to attract, an organization ____ to consider what methods to use to reach them.",
   "options": [
    "To have established / could need",
@@ -26,6 +27,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "grammar",
   "stem": "China's rapid growth ____ trade is seen as a plus for the Southeast Asian nations because it helps to spur development ____ the region.",
   "options": [
    "of / without",
@@ -46,6 +48,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "grammar",
   "stem": "As Antarctic glaciers collapse ____ the sea, scientists struggle to find out what that means ____ the rise of sea levels.",
   "options": [
    "against/in",
@@ -66,6 +69,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "These newcomers often end up not (18)____ the opportunities they are looking for, so they become part of the urban poor.",
   "options": [
    "to find",
@@ -86,6 +90,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "... countries wishing to have a say in how the Antarctic ... is governed (23)____, and agree to abide by, the Antarctic Treaty.",
   "options": [
    "had to sign",
@@ -106,6 +111,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "...eating junky, excess-weight-inviting food likely to leave them feeling bad about their bodies and open (18)____ a host of serious illnesses.",
   "options": [
    "with",
@@ -126,6 +132,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "This foolish exchange reflects a problem in our brains that may cause more damage in our lives and in society than any other. (20)____ as 'temporal discounting', it is our tendency to view small rewards available now as more desirable than even much bigger benefits down the road.",
   "options": [
    "To know",
@@ -146,6 +153,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "...that a significant number of individuals later diagnosed (23)____ schizophrenia display some common and often peculiar traits and experiences as children and adolescents.",
   "options": [
    "with",
@@ -166,6 +174,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Knowing risk factor and warning signs (24)____ many children from being diagnosed too late for the most effective treatment.",
   "options": [
    "could have saved",
@@ -186,6 +195,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "... impulsivity the child (19)____ answers too quickly.",
   "options": [
    "should have given",
@@ -206,6 +216,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "... and produce impairment (21)____ at least two different settings such as school or home.",
   "options": [
    "on",
@@ -226,6 +237,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "...he provided thousands with easy access to areas where many people had previously struggled (26)____ in isolated communities.",
   "options": [
    "to have lived",
@@ -246,6 +258,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "To look inside an ant nest is to think about an alien civilization. The busy mass of worker ants (17)____ an upturned stone is both strangely similar to human society and strikingly different.",
   "options": [
    "beneath",
@@ -266,6 +279,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "They (19)____ well-organized to do all these.",
   "options": [
    "must be",
@@ -286,6 +300,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "But effective teaching goes one step (25)____ the process of teaching. It focuses on whether students actually learn from instruction.",
   "options": [
    "under",
@@ -306,6 +321,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "An effective teacher is, therefore, one whose students learn what they (26)____.",
   "options": [
    "should have been taught",
@@ -326,6 +342,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "The right side of the brain is not actually related to being more creative. At least, not in the popular sense that creative people are more 'right-brained' than logical or analytical people are. A study that scanned the brains of 1,000 people (17)____ no such differences.",
   "options": [
    "was finding",
@@ -346,6 +363,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "But the EU's founding rules and institutions (24)____ for a far smaller union and it now risks suffocation under its own weight and becoming one large dysfunctional family.",
   "options": [
    "can be designed",
@@ -366,6 +384,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Recently, two engineers (18)____ planes from the very beginning combining fuel efficiency...",
   "options": [
    "had redesigned",
@@ -386,6 +405,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "They examined the three major parts that make a plane (20)____ it is: body, wings and tail.",
   "options": [
    "why",
@@ -406,6 +426,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "They worked through all three (21)____ turn, only opting for the design that would lend their final product the maximum flight efficiency.",
   "options": [
    "in",
@@ -426,6 +447,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "But even researchers (22)____ to understand complex adult behaviours often find it useful to examine those behaviours during periods when they are not so complex.",
   "options": [
    "being attempted",
@@ -446,6 +468,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "But determining what these rules are has proved very difficult (24)____ researchers.",
   "options": [
    "about",
@@ -466,6 +489,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "A genetically modified plant may produce specific proteins or other substances that have never before been a part of the human food supply. These substances have potentially negative side effects; for instance, they (17)____ as toxins or allergens.",
   "options": [
    "may act",
@@ -486,6 +510,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "The long-term effects of the use of genetically modified plants (21)____ people and the environment have not yet been adequately determined.",
   "options": [
    "beyond",
@@ -506,6 +531,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "(25)____ in the 19th century, scientists invented chemical pesticides and used newly discovered genetic principles to select for more productive plants.",
   "options": [
    "Being started",
@@ -526,6 +552,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Goods poured out of New England and midwestern factories, and they spread (20)____ the world.",
   "options": [
    "on",
@@ -546,6 +573,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Brain chemistry and structure is altered by experience, and the stability of these physiochemical changes can be associated (26)____ the retention duration of memory.",
   "options": [
    "at",
@@ -566,6 +594,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Though looking like a rock covered by small green plants without flowers, the plant has a tightly packed structure of branches, each adorned (18)____ clusters of tiny leaves.",
   "options": [
    "on",
@@ -586,6 +615,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "The resulting plant is so strong that you (19)____ on top of it very comfortably.",
   "options": [
    "had better stand",
@@ -606,6 +636,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "We have direct evidence that water once flowed and pooled (24)____ Mars.",
   "options": [
    "from",
@@ -626,6 +657,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "So, it can be assumed that life once existed there and (25)____ at present.",
   "options": [
    "may exist",
@@ -646,6 +678,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Programmes such as Top of the Pops in the UK and The Ed Sullivan Show in the US could lead people (19)____ considerable attention to pop music.",
   "options": [
    "to be paid",
@@ -666,6 +699,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "In 1962, the Beatles emerged from Liverpool's Cavern Club. Their first album Please Please Me became very famous (20)____ the globe within a year.",
   "options": [
    "from",
@@ -686,6 +720,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Painters, sculptors, and composers of music (24)____ about how their viewers or audience never see or hear their art in quite the same way as it was conceived, or that is interpreted or displayed in ways that affect its innate character.",
   "options": [
    "would have complained",
@@ -706,6 +741,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "However, they have control (25)____ the essence of their work and that essence is, in a way, tightly sealed within the object...",
   "options": [
    "about",
@@ -726,6 +762,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Yet, we should keep in mind that there are several ways to lessen the impact and still continue (20)____ cars.",
   "options": [
    "to have used",
@@ -746,6 +783,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "For instance, by choosing (21)____ many new energy-saving models, we can help reduce harmful emissions.",
   "options": [
    "from",
@@ -766,6 +804,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "When fighting fat, and trying to eat healthily, changing your eating environment is easier than changing your mind. A research team in the US has set about uncovering the hidden persuaders in our homes that trick us (22)____ overeating things like serving spoons, cupboards and colours.",
   "options": [
    "against",
@@ -786,6 +825,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "If we want to automatically eat better, we do not need to change our minds, we (26)____ our surroundings.",
   "options": [
    "have to optimise",
@@ -806,6 +846,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "They use similar structures (19)____ similar events. If you hear the sentence...",
   "options": [
    "against",
@@ -826,6 +867,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "If there were not any patterns, people would not be able to communicate because they would have no way of knowing what other people meant (21)____.",
   "options": [
    "saying",
@@ -846,6 +888,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Even with a very conservative estimate of 10 million electric vehicles (EVs) in 2025, the demand (24)____ cobalt that year could reach 330,000 metric tons...",
   "options": [
    "for",
@@ -866,6 +909,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Recycling lithium batteries is complicated and rarely done. Even with higher rates and cheaper processes, recycling (25)____ the use of lithium batteries until 10 or more years after mass-market penetration of EVs.",
   "options": [
    "has not reduced",
@@ -886,6 +930,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Nathaniel Wyeth, a US engineer, worked on the invention (18)____ almost a decade.",
   "options": [
    "with",
@@ -906,6 +951,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Obviously, the plastic was too weak, but it (20)____ if the long strands of molecules that form plastic were made up together.",
   "options": [
    "used to be strengthened",
@@ -926,6 +972,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Walson decided (23)____ his service literally to new heights by climbing to the top of a mountain and planting an antenna.",
   "options": [
    "to take",
@@ -946,6 +993,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "In 1947, at the University of Pittsburgh, Salk combined his work on the influenza vaccine with his search for a vaccine to protect (18)____ poliomyelitis.",
   "options": [
    "on",
@@ -966,6 +1014,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Medical opinion at the time held that only a live virus (20)____ total immunity, but Salk disproved this.",
   "options": [
    "could prompt",
@@ -986,6 +1035,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "As they hunt other animals, they (24)____ a keen sense of smell and the ability to sense vibrations and temperature variations.",
   "options": [
    "have developed",
@@ -1006,6 +1056,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "To kill their prey, venomous snakes use their long and sharp teeth to inject a paralysing or deadly nerve venom (25)____ their specialised salivary glands, where the venom is stored.",
   "options": [
    "for",
@@ -1026,6 +1077,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "For the last 60 years, wetsuits (20)____ people to spend more time in the water throughout the winter months...",
   "options": [
    "were allowing",
@@ -1046,6 +1098,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "...rainfalls in the state's north could be carrying food for fish from rivers (21)____ the ocean and attracting sharks.",
   "options": [
    "with",
@@ -1066,6 +1119,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Without a coat of hair to protect themselves against harsh climatic conditions, they (22)____ an artificial means of retaining body heat in order to survive.",
   "options": [
    "might find",
@@ -1086,6 +1140,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "It forms an important element in social and economic history and can be an excellent basis (25)____ the study of culture.",
   "options": [
    "over",
@@ -1106,6 +1161,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Old blood may damage organs and contribute to ageing. Researchers are trying to reveal the restorative powers of young blood, (17)____ brains from ageing.",
   "options": [
    "to be prevented",
@@ -1126,6 +1182,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "However, we do not yet know what it is about young blood that keeps animals youthful. That has not stopped people (21)____ starting trials to see if blood transfusions can treat age-related diseases.",
   "options": [
    "by",
@@ -1146,6 +1203,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Ventilation equipment will suck smoke out of the main tunnel and spread fresh air (25)____ corridors running alongside the tunnel.",
   "options": [
    "through",
@@ -1166,6 +1224,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Passengers will exit the train and escape using these corridors, to which the doors can be tightly sealed a slight overpressure will prevent smoke ingress. The doors are strong enough to stop fire, yet are simple to open even a child can do it. There they will have to wait until a rescue train (26)____.",
   "options": [
    "is arriving",
@@ -1186,6 +1245,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "The first civilisations emerged in areas where high agricultural productivity was possible, supporting dense populations. In the Old World, they appeared (17)____ the rivers in Mesopotamia, northern India, Egypt and northern China.",
   "options": [
    "at",
@@ -1206,6 +1266,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Navigation on the river was easy, as boats (20)____ northwards with the current.",
   "options": [
    "could travel",
@@ -1226,6 +1287,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Water pollution (23)____ by the uncontrolled use of pesticides and heavy metals, such as mercury, lead, cadmium, and zinc, largely remains unnoticed.",
   "options": [
    "having triggered",
@@ -1246,6 +1308,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "The dangerous prior assumption that the oceans could naturally purify themselves (24)____ limit has caused possibly irreparable damage.",
   "options": [
    "from",
@@ -1266,6 +1329,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "All three provided inspiration for constitutional monarchists, democrats and liberals far (20)____ the borders of France.",
   "options": [
    "beyond",
@@ -1286,6 +1350,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "Indeed, the legacy of the 1791 constitution eventually forced most ruling 19th-century monarchs (21)____ a constitution limiting their powers.",
   "options": [
    "having accepted",
@@ -1306,6 +1371,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "...and Joe Pesci, who gives a remarkably realistic performance as a menacing gangster (24)____ the rise.",
   "options": [
    "for",
@@ -1326,6 +1392,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "As Henry Hill, the actor Ray Liotta gives a complex portrayal of an Irish-Italian kid who succeeds in his youthful ambition (25)____ popularity as a wealthy gangster...",
   "options": [
    "to gain",
@@ -1346,6 +1413,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "All three provided inspiration for constitutional monarchists, democrats and liberals far (20)____ the borders of France.",
   "options": [
    "beyond",
@@ -1366,6 +1434,7 @@
   ],
   "kind": "exam",
   "area": "grammar",
+  "section": "cloze",
   "stem": "...who gives a remarkably realistic performance as a menacing gangster (24)____ the rise.",
   "options": [
    "for",

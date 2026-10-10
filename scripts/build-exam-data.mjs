@@ -86,8 +86,10 @@ const seen = new Set();
 for (const f of files) {
   const raw = read(f);
   const id = examIdFromFile(f);
-  const qs = raw.questions.map((q, i) => normalizeQuestion(q, id, i));
-  exams.push({ id, file: f, title: raw.title.replace(/\s+/g, ' ').trim(), count: qs.length, solvable: qs.filter((q) => isSolvable(q)).length });
+  const qs = raw.questions.map((q, i) => normalizeQuestion(q, id, i, raw.questions.length));
+  const sections = {};
+  for (const q of qs) if (isSolvable(q)) sections[q.section] = (sections[q.section] || 0) + 1;
+  exams.push({ id, file: f, title: raw.title.replace(/\s+/g, ' ').trim(), count: qs.length, solvable: qs.filter((q) => isSolvable(q)).length, sections });
   for (const q of qs) {
     if (!isSolvable(q)) continue;
     const sig = `${q.stem}|${q.options.join('|')}`;
