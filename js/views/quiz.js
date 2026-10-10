@@ -79,16 +79,16 @@ async function picker(root, questions, { conj, grammar }, cardById) {
   function drawBody() {
     const list = (modes) => h('div', { class: 'list' }, modes.map(([label, pool]) => row(`${label} (${pool.length})`, null, () => start(pool, label), !pool.length)));
     if (area === 'conjunctions') {
-      const pool = questions.filter((q) => q.kind !== 'grammar');
+      const pool = questions.filter((q) => q.area !== 'grammar');
       body.replaceChildren(
         h('h2', { class: 'section-title' }, 'Bağlaç soruları'),
         list([['Karışık', pool.filter((q) => q.kind !== 'exam')], ['Tuzak soruları', pool.filter((q) => q.kind === 'trap')], ['Çıkmış YDS bağlaç soruları', pool.filter((q) => q.kind === 'exam')],
           ...poolModes(pool.filter((q) => q.kind !== 'exam'), conj)]));
     } else if (area === 'grammar') {
-      const pool = questions.filter((q) => q.kind === 'grammar');
+      const pool = questions.filter((q) => q.area === 'grammar');
       body.replaceChildren(
         h('h2', { class: 'section-title' }, 'Gramer soruları'),
-        list([['Karışık', pool], ...poolModes(pool, grammar)]),
+        list([['Karışık', pool], ['Çıkmış gramer soruları', pool.filter((q) => q.kind === 'exam')], ['Konu anlatımlı sorular', pool.filter((q) => q.kind === 'grammar')], ...poolModes(pool, grammar)]),
         h('h2', { class: 'section-title' }, 'Konuya göre'),
         h('div', { class: 'list' }, grammar.map((g) => {
           const qs = pool.filter((q) => (q.cardIds || []).includes(g.id));

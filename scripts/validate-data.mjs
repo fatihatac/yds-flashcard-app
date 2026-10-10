@@ -11,7 +11,7 @@ const trap = read('questions-trap.json');
 const examQs = read('exam-conjunction-questions.json');
 const exams = read('exams.json');
 const grammar = read('grammar.json');
-const grammarQs = read('grammar-questions.json');
+const grammarQs = [...read('grammar-questions.json'), ...read('exam-grammar-questions.json')];
 let errors = 0;
 const fail = (m) => { console.error('✗', m); errors += 1; };
 
