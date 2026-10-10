@@ -12,7 +12,7 @@ function defaults() {
       theme: 'auto',
       cardDirection: 'en-tr',
       maxReviews: 100,
-      newPerDay: { conjunctions: 10, words: 10 },
+      newPerDay: { conjunctions: 10, grammar: 5, words: 10 },
     },
   };
 }
@@ -103,7 +103,7 @@ export function reviewDueIds(now = Date.now()) {
 export const reviewPendingCount = () => Object.values(state.questions).filter((q) => q.review).length;
 
 export function setSetting(path, value) {
-  if (path === 'newPerDay.conjunctions' || path === 'newPerDay.words') state.settings.newPerDay[path.split('.')[1]] = value;
+  if (path.startsWith('newPerDay.')) state.settings.newPerDay[path.split('.')[1]] = value;
   else state.settings[path] = value;
   save();
 }

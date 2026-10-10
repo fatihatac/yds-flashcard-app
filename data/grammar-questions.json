@@ -1,0 +1,1784 @@
+[
+  {
+    "id": "gq001",
+    "cardIds": [
+      "g-present-simple-continuous"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Water ____ at 100 degrees Celsius at sea level.",
+    "options": [
+      "is boiling",
+      "boils",
+      "has boiled",
+      "boiled",
+      "will boil"
+    ],
+    "answer": 1,
+    "explanation": "Genel doğru (bilimsel gerçek) Present Simple ile verilir: boils."
+  },
+  {
+    "id": "gq002",
+    "cardIds": [
+      "g-present-simple-continuous"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Scientists ____ a new vaccine at the moment, and they expect results next year.",
+    "options": [
+      "develop",
+      "are developing",
+      "developed",
+      "have developed",
+      "develops"
+    ],
+    "answer": 1,
+    "explanation": "'At the moment' süren eylemi gösterir: Present Continuous (are developing)."
+  },
+  {
+    "id": "gq003",
+    "cardIds": [
+      "g-present-simple-continuous"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I ____ that this solution is the best one available.",
+    "options": [
+      "am believing",
+      "believe",
+      "have been believing",
+      "will believe",
+      "was believing"
+    ],
+    "answer": 1,
+    "explanation": "Believe bir durum (stative) fiilidir; sürekli yapıda kullanılmaz: believe."
+  },
+  {
+    "id": "gq004",
+    "cardIds": [
+      "g-past-vs-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The company ____ its profits twice since it moved to the new market.",
+    "options": [
+      "doubled",
+      "has doubled",
+      "had doubled",
+      "doubles",
+      "was doubling"
+    ],
+    "answer": 1,
+    "explanation": "Since + geçmiş zaman → ana cümlede Present Perfect: has doubled."
+  },
+  {
+    "id": "gq005",
+    "cardIds": [
+      "g-past-vs-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The treaty ____ in 1998 after months of negotiation.",
+    "options": [
+      "has been signed",
+      "was signed",
+      "has signed",
+      "is signed",
+      "had signed"
+    ],
+    "answer": 1,
+    "explanation": "'In 1998' belirli geçmiş zaman ifadesi; Present Perfect kullanılamaz. Özne antlaşma olduğu için pasif: was signed."
+  },
+  {
+    "id": "gq006",
+    "cardIds": [
+      "g-past-vs-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It is the first time that she ____ a presentation in English.",
+    "options": [
+      "gives",
+      "gave",
+      "has given",
+      "had given",
+      "is giving"
+    ],
+    "answer": 2,
+    "explanation": "'It is the first time' kalıbından sonra Present Perfect gelir: has given."
+  },
+  {
+    "id": "gq007",
+    "cardIds": [
+      "g-present-perfect-continuous"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Prices ____ steadily since the beginning of the year.",
+    "options": [
+      "rose",
+      "have been rising",
+      "are rising",
+      "had risen",
+      "rise"
+    ],
+    "answer": 1,
+    "explanation": "Since ile sürekli bir değişim vurgulanıyor: have been rising."
+  },
+  {
+    "id": "gq008",
+    "cardIds": [
+      "g-present-perfect-continuous"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "How long ____ for this company?",
+    "options": [
+      "do you work",
+      "did you work",
+      "have you been working",
+      "are you working",
+      "will you work"
+    ],
+    "answer": 2,
+    "explanation": "'How long' süre sorusudur; süregelen eylem için Present Perfect Continuous kullanılır."
+  },
+  {
+    "id": "gq009",
+    "cardIds": [
+      "g-present-perfect-continuous"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I ____ this man for ten years, and I have never seen him lose his temper.",
+    "options": [
+      "have been knowing",
+      "have known",
+      "know",
+      "knew",
+      "had been knowing"
+    ],
+    "answer": 1,
+    "explanation": "Know durum fiilidir; -ing'li perfect yapısı kullanılmaz: have known."
+  },
+  {
+    "id": "gq010",
+    "cardIds": [
+      "g-past-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "By the time the rescue team arrived, the climbers ____ trapped for two days.",
+    "options": [
+      "were",
+      "have been",
+      "had been",
+      "are",
+      "would be"
+    ],
+    "answer": 2,
+    "explanation": "By the time + Past Simple → ana cümlede Past Perfect: had been."
+  },
+  {
+    "id": "gq011",
+    "cardIds": [
+      "g-past-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Hardly ____ the office when the phone rang.",
+    "options": [
+      "she had left",
+      "did she leave",
+      "had she left",
+      "has she left",
+      "she left"
+    ],
+    "answer": 2,
+    "explanation": "Hardly başta olduğu için devrik yapı gelir ve ilk kısım Past Perfect olur: Hardly had she left ... when."
+  },
+  {
+    "id": "gq012",
+    "cardIds": [
+      "g-past-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "By the time we reached the station, the train ____.",
+    "options": [
+      "leaves",
+      "left",
+      "had left",
+      "has left",
+      "is leaving"
+    ],
+    "answer": 2,
+    "explanation": "By the time + Past Simple → önce gerçekleşen eylem Past Perfect: had left."
+  },
+  {
+    "id": "gq013",
+    "cardIds": [
+      "g-future-forms"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "By 2035, scientists ____ a cure for the disease.",
+    "options": [
+      "will find",
+      "will have found",
+      "are finding",
+      "found",
+      "have found"
+    ],
+    "answer": 1,
+    "explanation": "'By + gelecekteki yıl' → Future Perfect: will have found."
+  },
+  {
+    "id": "gq014",
+    "cardIds": [
+      "g-future-forms"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "This time next week, we ____ on a beach in Spain.",
+    "options": [
+      "will lie",
+      "will be lying",
+      "will have lain",
+      "lie",
+      "lay"
+    ],
+    "answer": 1,
+    "explanation": "'This time next week' gelecekte belirli bir anda süren eylemi gösterir: Future Continuous."
+  },
+  {
+    "id": "gq015",
+    "cardIds": [
+      "g-future-forms"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Please inform me as soon as the results ____ available.",
+    "options": [
+      "will be",
+      "are",
+      "would be",
+      "were",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "As soon as sonrasında gelecek için Present Simple kullanılır: are."
+  },
+  {
+    "id": "gq016",
+    "cardIds": [
+      "g-time-clause-tense"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I will tell him the news when he ____ tomorrow.",
+    "options": [
+      "will come",
+      "comes",
+      "would come",
+      "came",
+      "coming"
+    ],
+    "answer": 1,
+    "explanation": "When zaman bağlacından sonra will kullanılmaz: comes."
+  },
+  {
+    "id": "gq017",
+    "cardIds": [
+      "g-time-clause-tense"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I wonder when the manager ____ back from the conference.",
+    "options": [
+      "comes",
+      "will come",
+      "has come",
+      "come",
+      "coming"
+    ],
+    "answer": 1,
+    "explanation": "When burada dolaylı soru sözcüğüdür (zaman bağlacı değil); gelecek için will kullanılır: will come."
+  },
+  {
+    "id": "gq018",
+    "cardIds": [
+      "g-time-clause-tense"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "If the weather ____ bad tomorrow, we will cancel the trip.",
+    "options": [
+      "will be",
+      "is",
+      "would be",
+      "were",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "Ana cümlede will var (1. tip). If cümlesinde will kullanılmaz: is."
+  },
+  {
+    "id": "gq019",
+    "cardIds": [
+      "g-passive-basic"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The new regulations ____ last year.",
+    "options": [
+      "introduced",
+      "were introduced",
+      "have introduced",
+      "introduce",
+      "were introducing"
+    ],
+    "answer": 1,
+    "explanation": "Özne düzenlemelerdir ve eylemi yapan belli değil; geçmiş zaman → were introduced."
+  },
+  {
+    "id": "gq020",
+    "cardIds": [
+      "g-passive-basic"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The accident ____ at around 3 a.m.",
+    "options": [
+      "was happened",
+      "happened",
+      "has been happened",
+      "is happened",
+      "was happen"
+    ],
+    "answer": 1,
+    "explanation": "Happen geçişsiz bir fiildir; passive yapılmaz: happened."
+  },
+  {
+    "id": "gq021",
+    "cardIds": [
+      "g-passive-basic"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The bridge ____ at the moment, so drivers must use the alternative route.",
+    "options": [
+      "repairs",
+      "is repairing",
+      "is being repaired",
+      "has repaired",
+      "was repaired"
+    ],
+    "answer": 2,
+    "explanation": "Köprü eylemi yapamaz → passive; 'at the moment' → sürekli: is being repaired."
+  },
+  {
+    "id": "gq022",
+    "cardIds": [
+      "g-passive-special"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "He is said ____ the country before the investigation began.",
+    "options": [
+      "to leave",
+      "to have left",
+      "leaving",
+      "having left",
+      "that he left"
+    ],
+    "answer": 1,
+    "explanation": "Söyleme şimdi, olay daha önce: is said to have left."
+  },
+  {
+    "id": "gq023",
+    "cardIds": [
+      "g-passive-special"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "We had our house ____ last month.",
+    "options": [
+      "paint",
+      "painted",
+      "painting",
+      "to paint",
+      "to be painted"
+    ],
+    "answer": 1,
+    "explanation": "Causative: have + nesne + V3 (yaptırmak): painted."
+  },
+  {
+    "id": "gq024",
+    "cardIds": [
+      "g-passive-special"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The old building needs ____ before the winter.",
+    "options": [
+      "renovate",
+      "renovating",
+      "to renovating",
+      "renovated",
+      "being renovate"
+    ],
+    "answer": 1,
+    "explanation": "Need + V-ing = need to be V3 (pasif anlam): needs renovating."
+  },
+  {
+    "id": "gq025",
+    "cardIds": [
+      "g-conditionals"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "If the company ____ earlier, it would have avoided the crisis.",
+    "options": [
+      "invested",
+      "had invested",
+      "would invest",
+      "has invested",
+      "invests"
+    ],
+    "answer": 1,
+    "explanation": "Ana cümlede would have avoided (3. tip) var: If + had V3."
+  },
+  {
+    "id": "gq026",
+    "cardIds": [
+      "g-conditionals"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "If I ____ you, I would reconsider the offer.",
+    "options": [
+      "am",
+      "were",
+      "would be",
+      "will be",
+      "have been"
+    ],
+    "answer": 1,
+    "explanation": "2. tip koşul: If + V2 (were), would + V1."
+  },
+  {
+    "id": "gq027",
+    "cardIds": [
+      "g-conditionals"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "If he had studied harder at university, he ____ a better job now.",
+    "options": [
+      "would have",
+      "would have had",
+      "will have",
+      "had",
+      "would has"
+    ],
+    "answer": 0,
+    "explanation": "Karma tip: geçmişteki sebep (had studied), şimdiki sonuç (now): would have."
+  },
+  {
+    "id": "gq028",
+    "cardIds": [
+      "g-wish"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I wish I ____ the answer, but I have no idea.",
+    "options": [
+      "know",
+      "knew",
+      "had known",
+      "would know",
+      "have known"
+    ],
+    "answer": 1,
+    "explanation": "Şimdiki zamanla ilgili dilek: wish + V2 (knew)."
+  },
+  {
+    "id": "gq029",
+    "cardIds": [
+      "g-wish"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She regrets not accepting the job. She wishes she ____ it.",
+    "options": [
+      "accepted",
+      "had accepted",
+      "would accept",
+      "accepts",
+      "has accepted"
+    ],
+    "answer": 1,
+    "explanation": "Geçmişle ilgili pişmanlık: wish + had V3."
+  },
+  {
+    "id": "gq030",
+    "cardIds": [
+      "g-wish"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It is high time the government ____ action against pollution.",
+    "options": [
+      "takes",
+      "took",
+      "will take",
+      "has taken",
+      "would take"
+    ],
+    "answer": 1,
+    "explanation": "It is (high) time + özne + Past Simple: took."
+  },
+  {
+    "id": "gq031",
+    "cardIds": [
+      "g-subjunctive"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The committee recommended that the proposal ____ rejected.",
+    "options": [
+      "is",
+      "was",
+      "be",
+      "will be",
+      "has been"
+    ],
+    "answer": 2,
+    "explanation": "Recommend + that + özne + (should) V1: be rejected."
+  },
+  {
+    "id": "gq032",
+    "cardIds": [
+      "g-subjunctive"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It is essential that every employee ____ the safety training.",
+    "options": [
+      "attends",
+      "attended",
+      "attend",
+      "will attend",
+      "is attending"
+    ],
+    "answer": 2,
+    "explanation": "It is essential that + özne + (should) V1: attend."
+  },
+  {
+    "id": "gq033",
+    "cardIds": [
+      "g-subjunctive"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The doctor insisted that the patient ____ complete rest.",
+    "options": [
+      "has",
+      "have",
+      "had",
+      "having",
+      "to have"
+    ],
+    "answer": 1,
+    "explanation": "Insist (ısrar / zorunluluk anlamında) + that + özne + V1: have."
+  },
+  {
+    "id": "gq034",
+    "cardIds": [
+      "g-modals-present"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "You ____ wear a seat belt; it is the law.",
+    "options": [
+      "can",
+      "may",
+      "must",
+      "would",
+      "might"
+    ],
+    "answer": 2,
+    "explanation": "Yasal zorunluluk: must."
+  },
+  {
+    "id": "gq035",
+    "cardIds": [
+      "g-modals-present"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She ____ be at home. I saw her car outside the house.",
+    "options": [
+      "can't",
+      "must",
+      "needn't",
+      "shouldn't",
+      "mustn't"
+    ],
+    "answer": 1,
+    "explanation": "Kanıta dayalı güçlü çıkarım: must be."
+  },
+  {
+    "id": "gq036",
+    "cardIds": [
+      "g-modals-present"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "You ____ pay to enter the museum; it is free.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "can't",
+      "shouldn't",
+      "may not"
+    ],
+    "answer": 1,
+    "explanation": "Zorunlu değil anlamı: don't have to. Mustn't yasak anlamı taşır."
+  },
+  {
+    "id": "gq037",
+    "cardIds": [
+      "g-modals-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The streets are wet. It ____ during the night.",
+    "options": [
+      "must rain",
+      "must have rained",
+      "should have rained",
+      "can have rained",
+      "would rain"
+    ],
+    "answer": 1,
+    "explanation": "Geçmişle ilgili güçlü çıkarım: must have V3."
+  },
+  {
+    "id": "gq038",
+    "cardIds": [
+      "g-modals-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "He ____ the report yesterday; he was on holiday.",
+    "options": [
+      "must have read",
+      "can't have read",
+      "should have read",
+      "might read",
+      "needn't read"
+    ],
+    "answer": 1,
+    "explanation": "Geçmişle ilgili imkânsızlık: can't have V3."
+  },
+  {
+    "id": "gq039",
+    "cardIds": [
+      "g-modals-perfect"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "You ____ me earlier; I could have helped you.",
+    "options": [
+      "should tell",
+      "should have told",
+      "must have told",
+      "may tell",
+      "could tell"
+    ],
+    "answer": 1,
+    "explanation": "Yapılmayan şey için pişmanlık / eleştiri: should have V3."
+  },
+  {
+    "id": "gq040",
+    "cardIds": [
+      "g-gerund-infinitive"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The manager avoided ____ the journalists' questions.",
+    "options": [
+      "to answer",
+      "answering",
+      "answer",
+      "to answering",
+      "having answer"
+    ],
+    "answer": 1,
+    "explanation": "Avoid + V-ing."
+  },
+  {
+    "id": "gq041",
+    "cardIds": [
+      "g-gerund-infinitive"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She decided ____ the meeting until next week.",
+    "options": [
+      "postponing",
+      "to postpone",
+      "postpone",
+      "to postponing",
+      "having postponed"
+    ],
+    "answer": 1,
+    "explanation": "Decide + to V1."
+  },
+  {
+    "id": "gq042",
+    "cardIds": [
+      "g-gerund-infinitive"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "We are looking forward to ____ from you.",
+    "options": [
+      "hear",
+      "hearing",
+      "heard",
+      "to hear",
+      "have heard"
+    ],
+    "answer": 1,
+    "explanation": "Look forward to kalıbındaki to edattır; V-ing gelir: hearing."
+  },
+  {
+    "id": "gq043",
+    "cardIds": [
+      "g-participles"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ the report carefully, the manager approved the budget.",
+    "options": [
+      "Having read",
+      "Having been read",
+      "Being read",
+      "Read",
+      "To read"
+    ],
+    "answer": 0,
+    "explanation": "Özne (the manager) eylemi yapıyor ve önce tamamlanan eylem: Having read."
+  },
+  {
+    "id": "gq044",
+    "cardIds": [
+      "g-participles"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ in 1923, the university is one of the oldest in the country.",
+    "options": [
+      "Founding",
+      "Founded",
+      "Having founded",
+      "To found",
+      "Being founding"
+    ],
+    "answer": 1,
+    "explanation": "Üniversite kurulandır (pasif anlam): Founded."
+  },
+  {
+    "id": "gq045",
+    "cardIds": [
+      "g-participles"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ down the street, Anna was almost hit by a cyclist.",
+    "options": [
+      "Walking",
+      "Walked",
+      "The cyclist walking",
+      "She walked",
+      "To walk"
+    ],
+    "answer": 0,
+    "explanation": "Yürüyen Anna'dır (özne eylemi yapıyor): Walking."
+  },
+  {
+    "id": "gq046",
+    "cardIds": [
+      "g-causatives"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "We had the contract ____ by a lawyer.",
+    "options": [
+      "review",
+      "reviewed",
+      "reviewing",
+      "to review",
+      "to be reviewed"
+    ],
+    "answer": 1,
+    "explanation": "Have + nesne + V3: işi başkasına yaptırmak."
+  },
+  {
+    "id": "gq047",
+    "cardIds": [
+      "g-causatives"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The teacher made the students ____ the essay.",
+    "options": [
+      "to rewrite",
+      "rewrite",
+      "rewriting",
+      "rewritten",
+      "to rewriting"
+    ],
+    "answer": 1,
+    "explanation": "Make + kişi + V1 (to yok)."
+  },
+  {
+    "id": "gq048",
+    "cardIds": [
+      "g-causatives"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She got her brother ____ her car.",
+    "options": [
+      "repair",
+      "to repair",
+      "repairing",
+      "repaired",
+      "to repairing"
+    ],
+    "answer": 1,
+    "explanation": "Get + kişi + to V1."
+  },
+  {
+    "id": "gq049",
+    "cardIds": [
+      "g-relative-clauses"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The scientist ____ research won the prize works at Oxford.",
+    "options": [
+      "who",
+      "whom",
+      "whose",
+      "which",
+      "that"
+    ],
+    "answer": 2,
+    "explanation": "İyelik (araştırması) bildirildiği için whose gerekir."
+  },
+  {
+    "id": "gq050",
+    "cardIds": [
+      "g-relative-clauses"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The city in ____ she was born has changed a lot.",
+    "options": [
+      "that",
+      "which",
+      "where",
+      "what",
+      "whom"
+    ],
+    "answer": 1,
+    "explanation": "Edat + which: in which (edatın ardından that gelmez; where de yanına edat almaz)."
+  },
+  {
+    "id": "gq051",
+    "cardIds": [
+      "g-relative-clauses"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "He passed the exam, ____ surprised everyone.",
+    "options": [
+      "that",
+      "which",
+      "what",
+      "who",
+      "it"
+    ],
+    "answer": 1,
+    "explanation": "Virgülden sonra önceki cümlenin tamamına gönderme yapan which gelir; that kullanılmaz."
+  },
+  {
+    "id": "gq052",
+    "cardIds": [
+      "g-reduced-relative"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The people ____ outside the building were asked to leave.",
+    "options": [
+      "wait",
+      "waiting",
+      "waited",
+      "to wait",
+      "having waited"
+    ],
+    "answer": 1,
+    "explanation": "Kısaltılmış relative clause: people who were waiting → waiting."
+  },
+  {
+    "id": "gq053",
+    "cardIds": [
+      "g-reduced-relative"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The books ____ last year are now out of print.",
+    "options": [
+      "publishing",
+      "published",
+      "to publish",
+      "having published",
+      "publish"
+    ],
+    "answer": 1,
+    "explanation": "Kitaplar yayımlanandır (pasif): books (which were) published → published."
+  },
+  {
+    "id": "gq054",
+    "cardIds": [
+      "g-reduced-relative"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She was the first woman ____ the prize.",
+    "options": [
+      "win",
+      "winning",
+      "to win",
+      "won",
+      "has won"
+    ],
+    "answer": 2,
+    "explanation": "The first / last / only + isim + to V1: to win."
+  },
+  {
+    "id": "gq055",
+    "cardIds": [
+      "g-noun-clauses"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I wonder where ____ yesterday.",
+    "options": [
+      "did he go",
+      "he went",
+      "went he",
+      "he goes",
+      "has he gone"
+    ],
+    "answer": 1,
+    "explanation": "Dolaylı soruda düz cümle sırası kullanılır: where he went."
+  },
+  {
+    "id": "gq056",
+    "cardIds": [
+      "g-noun-clauses"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It remains unclear ____ the new policy will work.",
+    "options": [
+      "that",
+      "whether",
+      "what",
+      "who",
+      "unless"
+    ],
+    "answer": 1,
+    "explanation": "'Belirsiz olan, politikanın işe yarayıp yaramayacağıdır': whether."
+  },
+  {
+    "id": "gq057",
+    "cardIds": [
+      "g-noun-clauses"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ the committee decided has not been announced yet.",
+    "options": [
+      "That",
+      "What",
+      "Whether",
+      "Which",
+      "Who"
+    ],
+    "answer": 1,
+    "explanation": "Cümlede 'decided' fiilinin nesnesi eksik; bu eksikliği what tamamlar: What the committee decided."
+  },
+  {
+    "id": "gq058",
+    "cardIds": [
+      "g-inversion"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Rarely ____ students realise how much sleep affects their performance.",
+    "options": [
+      "do",
+      "does",
+      "did",
+      "realise do",
+      "are"
+    ],
+    "answer": 0,
+    "explanation": "Rarely başta olduğu için yardımcı fiil özneden önce gelir; özne çoğul: do students realise."
+  },
+  {
+    "id": "gq059",
+    "cardIds": [
+      "g-inversion"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Not until the final report was published ____ the public learn the truth.",
+    "options": [
+      "the public did",
+      "did",
+      "has",
+      "was",
+      "had"
+    ],
+    "answer": 1,
+    "explanation": "Not until ... + devrik ana cümle: did the public learn."
+  },
+  {
+    "id": "gq060",
+    "cardIds": [
+      "g-inversion"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "No sooner ____ the building than the alarm went off.",
+    "options": [
+      "he entered",
+      "did he enter",
+      "had he entered",
+      "has he entered",
+      "was he entering"
+    ],
+    "answer": 2,
+    "explanation": "No sooner + had + özne + V3 ... than + Past Simple."
+  },
+  {
+    "id": "gq061",
+    "cardIds": [
+      "g-cleft"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It was in 1999 ____ the company went public.",
+    "options": [
+      "when",
+      "which",
+      "that",
+      "what",
+      "where"
+    ],
+    "answer": 2,
+    "explanation": "Cleft cümle: It was + vurgulanan öğe + that."
+  },
+  {
+    "id": "gq062",
+    "cardIds": [
+      "g-cleft"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ I need most is more time.",
+    "options": [
+      "That",
+      "Which",
+      "What",
+      "It",
+      "Whose"
+    ],
+    "answer": 2,
+    "explanation": "What I need = ihtiyacım olan şey (pseudo-cleft): What I need most is ..."
+  },
+  {
+    "id": "gq063",
+    "cardIds": [
+      "g-cleft"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It was not until midnight ____ the fire was brought under control.",
+    "options": [
+      "that",
+      "when",
+      "which",
+      "as",
+      "than"
+    ],
+    "answer": 0,
+    "explanation": "It was not until ... that ... kalıbı."
+  },
+  {
+    "id": "gq064",
+    "cardIds": [
+      "g-agreement"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The number of students who study abroad ____ increased dramatically.",
+    "options": [
+      "have",
+      "has",
+      "are",
+      "were",
+      "having"
+    ],
+    "answer": 1,
+    "explanation": "The number of + çoğul isim → tekil fiil: has increased."
+  },
+  {
+    "id": "gq065",
+    "cardIds": [
+      "g-agreement"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "A number of experts ____ criticised the policy.",
+    "options": [
+      "has",
+      "have",
+      "is",
+      "was",
+      "does"
+    ],
+    "answer": 1,
+    "explanation": "A number of + çoğul isim → çoğul fiil: have criticised."
+  },
+  {
+    "id": "gq066",
+    "cardIds": [
+      "g-agreement"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Economics ____ the study of how societies use scarce resources.",
+    "options": [
+      "are",
+      "is",
+      "were",
+      "have been",
+      "being"
+    ],
+    "answer": 1,
+    "explanation": "Economics (bilim dalı adı) tekil sayılır: is."
+  },
+  {
+    "id": "gq067",
+    "cardIds": [
+      "g-quantifiers"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The campaign failed because ____ people were aware of the risks involved.",
+    "options": [
+      "few",
+      "a few",
+      "little",
+      "a little",
+      "much"
+    ],
+    "answer": 0,
+    "explanation": "Başarısızlığın nedeni olumsuz anlamdır (yeterli kişi yok): few."
+  },
+  {
+    "id": "gq068",
+    "cardIds": [
+      "g-quantifiers"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Unfortunately, ____ progress has been made in the negotiations.",
+    "options": [
+      "little",
+      "few",
+      "many",
+      "a few",
+      "several"
+    ],
+    "answer": 0,
+    "explanation": "Progress sayılamazdır ve olumsuz anlam isteniyor: little."
+  },
+  {
+    "id": "gq069",
+    "cardIds": [
+      "g-quantifiers"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "There are two proposals; ____ of them is acceptable to the unions.",
+    "options": [
+      "both",
+      "neither",
+      "all",
+      "every",
+      "some"
+    ],
+    "answer": 1,
+    "explanation": "İki seçenekten hiçbiri: neither; 'is' tekil fiildir."
+  },
+  {
+    "id": "gq070",
+    "cardIds": [
+      "g-comparison"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The population of Istanbul is far larger than ____ of Ankara.",
+    "options": [
+      "it",
+      "that",
+      "those",
+      "this",
+      "one"
+    ],
+    "answer": 1,
+    "explanation": "Karşılaştırmada ikinci isim yerine that of (the population) kullanılır."
+  },
+  {
+    "id": "gq071",
+    "cardIds": [
+      "g-comparison"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The ____ you practise, the better you become.",
+    "options": [
+      "more",
+      "most",
+      "much",
+      "many",
+      "more than"
+    ],
+    "answer": 0,
+    "explanation": "The + comparative, the + comparative: The more ..., the better ..."
+  },
+  {
+    "id": "gq072",
+    "cardIds": [
+      "g-comparison"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "This laptop is ____ more expensive than the older model.",
+    "options": [
+      "very",
+      "far",
+      "so",
+      "too",
+      "enough"
+    ],
+    "answer": 1,
+    "explanation": "Comparative'i far / much / even güçlendirir; very ve so güçlendirmez."
+  },
+  {
+    "id": "gq073",
+    "cardIds": [
+      "g-articles"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She is ____ unique talent in the field of music.",
+    "options": [
+      "an",
+      "a",
+      "the",
+      "(no article)",
+      "one"
+    ],
+    "answer": 1,
+    "explanation": "Unique 'yu' sesiyle başladığı için a kullanılır: a unique."
+  },
+  {
+    "id": "gq074",
+    "cardIds": [
+      "g-articles"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Information is ____ power.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "(no article)",
+      "one"
+    ],
+    "answer": 3,
+    "explanation": "Sayılamaz isim genel anlamda kullanılırken article almaz."
+  },
+  {
+    "id": "gq075",
+    "cardIds": [
+      "g-articles"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She is ____ honest person who always tells the truth.",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "(no article)",
+      "one"
+    ],
+    "answer": 1,
+    "explanation": "Honest sesli harfle (o) başladığı için an kullanılır."
+  },
+  {
+    "id": "gq076",
+    "cardIds": [
+      "g-pronouns"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The two companies have helped ____ for many years.",
+    "options": [
+      "themselves",
+      "each other",
+      "theirs",
+      "them",
+      "one"
+    ],
+    "answer": 1,
+    "explanation": "İki taraf birbirine yardım ediyor: each other."
+  },
+  {
+    "id": "gq077",
+    "cardIds": [
+      "g-pronouns"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The climate of Spain is warmer than ____ of Britain.",
+    "options": [
+      "that",
+      "those",
+      "it",
+      "one",
+      "this"
+    ],
+    "answer": 0,
+    "explanation": "Climate tekil ve sayılamaz; karşılaştırmada that of."
+  },
+  {
+    "id": "gq078",
+    "cardIds": [
+      "g-pronouns"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I don't like this phone; I prefer the red ____.",
+    "options": [
+      "one",
+      "ones",
+      "it",
+      "that",
+      "this"
+    ],
+    "answer": 0,
+    "explanation": "Tekil sayılabilir isim (phone) yerine one."
+  },
+  {
+    "id": "gq079",
+    "cardIds": [
+      "g-prepositions"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Most of the cases were dependent ____ the testimony of one witness.",
+    "options": [
+      "of",
+      "on",
+      "from",
+      "in",
+      "with"
+    ],
+    "answer": 1,
+    "explanation": "Be dependent on."
+  },
+  {
+    "id": "gq080",
+    "cardIds": [
+      "g-prepositions"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The new regulations are expected to result ____ a significant reduction in costs.",
+    "options": [
+      "from",
+      "in",
+      "of",
+      "with",
+      "for"
+    ],
+    "answer": 1,
+    "explanation": "Result in (sonuç doğurmak) ↔ result from (-den kaynaklanmak)."
+  },
+  {
+    "id": "gq081",
+    "cardIds": [
+      "g-prepositions"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The committee spent an hour ____ the budget proposal.",
+    "options": [
+      "discussing about",
+      "discussing",
+      "discuss about",
+      "to discuss about",
+      "discussed about"
+    ],
+    "answer": 1,
+    "explanation": "Discuss doğrudan nesne alır; edat gelmez."
+  },
+  {
+    "id": "gq082",
+    "cardIds": [
+      "g-parallelism"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She enjoys reading novels, hiking in the mountains, and ____.",
+    "options": [
+      "swim",
+      "to swim",
+      "swimming",
+      "swam",
+      "to swimming"
+    ],
+    "answer": 2,
+    "explanation": "Liste paralel olmalı: reading, hiking, swimming (V-ing)."
+  },
+  {
+    "id": "gq083",
+    "cardIds": [
+      "g-parallelism"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The new system is not only faster but also ____.",
+    "options": [
+      "cost less",
+      "more economical",
+      "economically",
+      "economy",
+      "more economy"
+    ],
+    "answer": 1,
+    "explanation": "Not only ... but also yapısında iki yan paralel olmalı: faster (sıfat) – more economical (sıfat)."
+  },
+  {
+    "id": "gq084",
+    "cardIds": [
+      "g-parallelism"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The policy aims to reduce costs, to improve quality, and ____ customer satisfaction.",
+    "options": [
+      "increasing",
+      "to increase",
+      "increases",
+      "increased",
+      "have increased"
+    ],
+    "answer": 1,
+    "explanation": "Liste paralel olmalı: to reduce, to improve, to increase."
+  },
+  {
+    "id": "gq085",
+    "cardIds": [
+      "g-adj-adv"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The food at that restaurant tastes ____.",
+    "options": [
+      "well",
+      "good",
+      "goodly",
+      "nicely",
+      "goodness"
+    ],
+    "answer": 1,
+    "explanation": "Taste bağlayıcı fiildir; sonrasında sıfat gelir: good."
+  },
+  {
+    "id": "gq086",
+    "cardIds": [
+      "g-adj-adv"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She works very ____ to finish the project on time.",
+    "options": [
+      "hardly",
+      "hard",
+      "harder",
+      "hardness",
+      "hardy"
+    ],
+    "answer": 1,
+    "explanation": "Hard hem sıfat hem zarftır; hardly neredeyse hiç anlamındadır: works hard."
+  },
+  {
+    "id": "gq087",
+    "cardIds": [
+      "g-adj-adv"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The task was ____ difficult for the beginners to complete.",
+    "options": [
+      "too",
+      "enough",
+      "so",
+      "very",
+      "such"
+    ],
+    "answer": 0,
+    "explanation": "Too + sıfat + for + kişi + to V1: gereğinden fazla zor."
+  },
+  {
+    "id": "gq088",
+    "cardIds": [
+      "g-reported-speech"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "He said that he ____ tired and wanted to go home.",
+    "options": [
+      "is",
+      "was",
+      "has been",
+      "will be",
+      "were being"
+    ],
+    "answer": 1,
+    "explanation": "Ana fiil geçmiş (said) → yan cümle bir zaman geri gider: was."
+  },
+  {
+    "id": "gq089",
+    "cardIds": [
+      "g-reported-speech"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The teacher asked the students where ____.",
+    "options": [
+      "did they live",
+      "they lived",
+      "do they live",
+      "they are living",
+      "lived they"
+    ],
+    "answer": 1,
+    "explanation": "Dolaylı soruda düz cümle sırası ve zaman kayması: they lived."
+  },
+  {
+    "id": "gq090",
+    "cardIds": [
+      "g-reported-speech"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "She denied ____ the confidential documents.",
+    "options": [
+      "to take",
+      "taking",
+      "take",
+      "to taking",
+      "that taking"
+    ],
+    "answer": 1,
+    "explanation": "Deny + V-ing."
+  },
+  {
+    "id": "gq091",
+    "cardIds": [
+      "g-infinitive-structures"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "I am used to ____ up early.",
+    "options": [
+      "get",
+      "getting",
+      "got",
+      "to get",
+      "have got"
+    ],
+    "answer": 1,
+    "explanation": "Be used to + V-ing (alışkın olmak)."
+  },
+  {
+    "id": "gq092",
+    "cardIds": [
+      "g-infinitive-structures"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "You ____ better see a doctor about that cough.",
+    "options": [
+      "had",
+      "have",
+      "would",
+      "will",
+      "do"
+    ],
+    "answer": 0,
+    "explanation": "Had better + V1."
+  },
+  {
+    "id": "gq093",
+    "cardIds": [
+      "g-infinitive-structures"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "It was kind ____ you to lend me the money.",
+    "options": [
+      "for",
+      "of",
+      "to",
+      "with",
+      "from"
+    ],
+    "answer": 1,
+    "explanation": "Kişinin karakterini bildiren sıfatlardan sonra of kullanılır: It was kind of you."
+  },
+  {
+    "id": "gq094",
+    "cardIds": [
+      "g-strategy"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The manager, together with his assistants, ____ the project's progress every week.",
+    "options": [
+      "review",
+      "reviews",
+      "are reviewing",
+      "have reviewed",
+      "reviewing"
+    ],
+    "answer": 1,
+    "explanation": "Together with araya girse de özne tekil (the manager); 'every week' → Present Simple: reviews."
+  },
+  {
+    "id": "gq095",
+    "cardIds": [
+      "g-strategy"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "The more carefully the samples ____, the more reliable the results will be.",
+    "options": [
+      "examine",
+      "are examined",
+      "examines",
+      "has examined",
+      "examining"
+    ],
+    "answer": 1,
+    "explanation": "Samples çoğul ve eylemi yapan değil, yapılan; the more ... passive: are examined."
+  },
+  {
+    "id": "gq096",
+    "cardIds": [
+      "g-strategy"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Few people can afford ____ a house in the city centre these days.",
+    "options": [
+      "buying",
+      "to buy",
+      "buy",
+      "bought",
+      "to buying"
+    ],
+    "answer": 1,
+    "explanation": "Afford + to V1."
+  },
+  {
+    "id": "gq097",
+    "cardIds": [
+      "g-conj-vs-prep"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ prices rose sharply, demand remained strong.",
+    "options": [
+      "Despite",
+      "Although",
+      "However",
+      "Because of",
+      "Therefore"
+    ],
+    "answer": 1,
+    "explanation": "Boşluktan sonra tam cümle var → bağlaç: Although."
+  },
+  {
+    "id": "gq098",
+    "cardIds": [
+      "g-conj-vs-prep"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "____ the rise in prices, demand remained strong.",
+    "options": [
+      "Although",
+      "Despite",
+      "However",
+      "Even though",
+      "While"
+    ],
+    "answer": 1,
+    "explanation": "Boşluktan sonra isim grubu var → edat: Despite."
+  },
+  {
+    "id": "gq099",
+    "cardIds": [
+      "g-conj-vs-prep"
+    ],
+    "kind": "grammar",
+    "area": "grammar",
+    "stem": "Prices rose sharply; ____, demand remained strong.",
+    "options": [
+      "although",
+      "despite",
+      "however",
+      "even though",
+      "in spite of"
+    ],
+    "answer": 2,
+    "explanation": "Noktalı virgülden sonra virgülle ayrılan cümleler arası zarf gerekir: however."
+  }
+]

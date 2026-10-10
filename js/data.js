@@ -4,6 +4,7 @@ import { normalizeQuestion, isSolvable } from './exams.js';
 
 export const DECKS = [
   { id: 'conjunctions', title: 'Bağlaçlar', icon: '🔗', desc: 'YDS bağlaç grupları: anlam, kullanım, örnek ve tüyo', file: 'data/conjunctions.json', type: 'conjunction', ordered: true },
+  { id: 'grammar', title: 'Gramer', icon: '🧠', desc: 'Tense, passive, koşul, modal ve diğer konular: öğretici anlatım ve YDS taktikleri', file: 'data/grammar.json', type: 'grammar', ordered: true },
   { id: 'words', title: 'Kelimeler', icon: '📚', desc: 'YDS kelime listesi (İngilizce → Türkçe)', file: 'data/words.json', type: 'word', ordered: false },
 ];
 
@@ -32,6 +33,7 @@ const QUESTION_FILES = [
   ['data/questions.json', 'basic'],
   ['data/questions-trap.json', 'trap'],
   ['data/exam-conjunction-questions.json', 'exam'],
+  ['data/grammar-questions.json', 'grammar'],
 ];
 
 // Bağlaç kartlarına bağlı tüm sorular: temel + tuzak + çıkmış sorulardan seçilenler + kullanıcının eklediği sorular.

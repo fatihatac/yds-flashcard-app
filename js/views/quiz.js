@@ -3,11 +3,14 @@ import { loadDeck, loadQuestions, loadExamList, loadExamQuestions, resolveQuesti
 import { get, getCard, setCard, recordQuestion, reviewDueIds, reviewPendingCount } from '../store.js';
 import { newCardState } from '../srs.js';
 
-const KIND_LABEL = { basic: 'Temel', trap: 'Tuzak', exam: 'Çıkmış soru', custom: 'Eklenen' };
+const KIND_LABEL = { basic: 'Temel', trap: 'Tuzak', exam: 'Çıkmış soru', custom: 'Eklenen', grammar: 'Gramer' };
+const isGrammarId = (id) => id.startsWith('g-');
+const deckOfCard = (id) => (isGrammarId(id) ? 'grammar' : 'conjunctions');
+let area = 'conjunctions'; // picker sekmesi: conjunctions | grammar | exams
 
 export async function render(root, { query }) {
-  const [questions, cards] = await Promise.all([loadQuestions(), loadDeck('conjunctions')]);
-  const cardById = new Map(cards.map((c) => [c.id, c]));
+  const [questions, conj, grammar] = await Promise.all([loadQuestions(), loadDeck('conjunctions'), loadDeck('grammar')]);
+  const cardById = new Map([...conj, ...grammar].map((c) => [c.id, c]));
   if (query.card) {
     const pool = questions.filter((q) => (q.cardIds || []).includes(query.card));
     return run(root, pool, cardById, { title: cardById.get(query.card)?.tr });
@@ -21,10 +24,10 @@ export async function render(root, { query }) {
     const pool = await resolveQuestions(reviewDueIds());
     return run(root, pool, cardById, { title: 'Tekrar modu', count: 20, empty: 'Şu an tekrar sırası gelen soru yok. Yanlış yaptığın sorular 1, 3, 7 ve 14 gün arayla yeniden gelir.' });
   }
-  return picker(root, questions, cards, cardById);
+  return picker(root, questions, { conj, grammar }, cardById);
 }
 
-// Karttan bağımsız, konuya göre başarı: her bağlaç kartı için çözülen / doğru sayısı.
+// Konuya göre başarı: her kart / konu için çözülen ve doğru sayısı (yalnızca hata yapılanlar).
 function topicStats(questions) {
   const stats = get().questions;
   const byCard = new Map();
@@ -42,13 +45,8 @@ function topicStats(questions) {
     .sort((a, b) => a.rate - b.rate || b.seen - a.seen);
 }
 
-async function picker(root, questions, cards, cardById) {
+async function picker(root, questions, { conj, grammar }, cardById) {
   const stats = get().questions;
-  const categories = [...new Set(cards.map((c) => c.category))];
-  const catOf = (q) => (q.cardIds || []).map((id) => cardById.get(id)?.category);
-  const wrong = questions.filter((q) => stats[q.id]?.lastCorrect === false);
-  const unseen = questions.filter((q) => !stats[q.id]);
-  const byKind = (k) => questions.filter((q) => q.kind === k);
   const due = reviewDueIds().length;
   const weak = topicStats(questions).slice(0, 5);
   const exams = await loadExamList();
@@ -59,17 +57,53 @@ async function picker(root, questions, cards, cardById) {
   const start = (pool, title) => { root.replaceChildren(); run(root, pool, cardById, { title, count }); };
   const row = (label, sub, onclick, disabled) => h('button', { class: 'card list-btn', disabled, onclick },
     h('span', { class: 'list-text' }, h('span', null, label), sub && h('span', { class: 'muted small' }, sub)), h('span', { class: 'muted' }, '›'));
-  const modes = [
-    ['Karışık', questions.filter((q) => q.kind !== 'exam')],
-    ['Tuzak soruları', byKind('trap')],
-    ['Çıkmış YDS bağlaç soruları', byKind('exam')],
-    ['Çözmediklerim', unseen],
-    ['Yanlışlarım', wrong],
-    ...categories.map((cat) => [cat, questions.filter((q) => catOf(q).includes(cat) && q.kind !== 'exam')]),
-  ];
+
+  const body = h('div', { class: 'view' });
+  const tabs = h('div', { class: 'seg', role: 'tablist' });
+  const TABS = [['conjunctions', 'Bağlaç'], ['grammar', 'Gramer'], ['exams', 'Çıkmış sınavlar']];
+
+  function drawTabs() {
+    tabs.replaceChildren(...TABS.map(([id, label]) => h('button', { class: id === area ? 'active' : '', role: 'tab', onclick: () => { area = id; drawTabs(); drawBody(); } }, label)));
+  }
+
+  function poolModes(pool, cards) {
+    const categories = [...new Set(cards.map((c) => c.category))];
+    const catOf = (q) => (q.cardIds || []).map((id) => cardById.get(id)?.category);
+    return [
+      ['Çözmediklerim', pool.filter((q) => !stats[q.id])],
+      ['Yanlışlarım', pool.filter((q) => stats[q.id]?.lastCorrect === false)],
+      ...categories.map((cat) => [cat, pool.filter((q) => catOf(q).includes(cat))]),
+    ];
+  }
+
+  function drawBody() {
+    const list = (modes) => h('div', { class: 'list' }, modes.map(([label, pool]) => row(`${label} (${pool.length})`, null, () => start(pool, label), !pool.length)));
+    if (area === 'conjunctions') {
+      const pool = questions.filter((q) => q.kind !== 'grammar');
+      body.replaceChildren(
+        h('h2', { class: 'section-title' }, 'Bağlaç soruları'),
+        list([['Karışık', pool.filter((q) => q.kind !== 'exam')], ['Tuzak soruları', pool.filter((q) => q.kind === 'trap')], ['Çıkmış YDS bağlaç soruları', pool.filter((q) => q.kind === 'exam')],
+          ...poolModes(pool.filter((q) => q.kind !== 'exam'), conj)]));
+    } else if (area === 'grammar') {
+      const pool = questions.filter((q) => q.kind === 'grammar');
+      body.replaceChildren(
+        h('h2', { class: 'section-title' }, 'Gramer soruları'),
+        list([['Karışık', pool], ...poolModes(pool, grammar)]),
+        h('h2', { class: 'section-title' }, 'Konuya göre'),
+        h('div', { class: 'list' }, grammar.map((g) => {
+          const qs = pool.filter((q) => (q.cardIds || []).includes(g.id));
+          return row(g.tr, `${g.category} · ${qs.length} soru`, () => start(qs, g.tr), !qs.length);
+        })));
+    } else {
+      body.replaceChildren(
+        h('h2', { class: 'section-title' }, 'Çıkmış YDS sınavları'),
+        h('p', { class: 'muted small' }, 'Okuma parçası gerektiren sorular veri setinde parça metni olmadığı için dahil edilmez.'),
+        h('div', { class: 'list' }, exams.map((e) => row(e.title.replace(/YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/i, 'YDS').replace(/\s+/g, ' '), `${e.solvable} çözülebilir soru`, () => { location.hash = `#/quiz?exam=${encodeURIComponent(e.id)}`; }))));
+    }
+  }
 
   root.append(
-    h('header', { class: 'page-head' }, h('h1', null, 'Soru Çözümü'), h('p', { class: 'muted' }, `${questions.length} bağlaç sorusu ve ${exams.length} çıkmış YDS sınavı. Yanlış yaptığın soru ve kartı tekrar sırasına döner.`)),
+    h('header', { class: 'page-head' }, h('h1', null, 'Soru Çözümü'), h('p', { class: 'muted' }, `${questions.length} bağlaç ve gramer sorusu, ${exams.length} çıkmış YDS sınavı. Yanlış yaptığın soru ve kartı tekrar sırasına döner.`)),
     h('label', { class: 'field' }, h('span', null, 'Soru sayısı'), countSel),
     h('a', { class: `card review-card ${due ? '' : 'disabled'}`, href: due ? '#/quiz?mode=review' : null },
       h('div', null, h('h2', null, 'Tekrar modu'), h('p', { class: 'muted small' }, due ? `${due} soru tekrar için hazır` : `Şu an sırası gelen soru yok (${reviewPendingCount()} soru takipte)`)),
@@ -78,16 +112,12 @@ async function picker(root, questions, cards, cardById) {
   if (weak.length) {
     root.append(h('h2', { class: 'section-title' }, 'Zayıf konuların'), h('div', { class: 'list' }, weak.map((t) => {
       const c = cardById.get(t.id);
-      return row(`${c.tr}`, `${c.group.slice(0, 3).join(' / ')} · %${Math.round(t.rate * 100)} doğru (${t.correct}/${t.seen})`, () => { root.replaceChildren(); run(root, questions.filter((q) => (q.cardIds || []).includes(t.id)), cardById, { title: c.tr, count }); });
+      return row(`${c.tr}`, `${isGrammarId(t.id) ? c.category : c.group.slice(0, 3).join(' / ')} · %${Math.round(t.rate * 100)} doğru (${t.correct}/${t.seen})`, () => start(questions.filter((q) => (q.cardIds || []).includes(t.id)), c.tr));
     })));
   }
-
-  root.append(
-    h('h2', { class: 'section-title' }, 'Soru türü ve konu'),
-    h('div', { class: 'list' }, modes.map(([label, pool]) => row(`${label} (${pool.length})`, null, () => start(pool, label), !pool.length))),
-    h('h2', { class: 'section-title' }, 'Çıkmış YDS sınavları'),
-    h('p', { class: 'muted small' }, 'Okuma parçası gerektiren sorular veri setinde parça metni olmadığı için dahil edilmez.'),
-    h('div', { class: 'list' }, exams.map((e) => row(e.title.replace(/YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI/i, 'YDS').replace(/\s+/g, ' '), `${e.solvable} çözülebilir soru`, () => { location.hash = `#/quiz?exam=${encodeURIComponent(e.id)}`; }))));
+  root.append(tabs, body);
+  drawTabs();
+  drawBody();
 }
 
 function run(root, pool, cardById, { title, count = 0, ordered = false, empty = 'Bu seçim için soru yok.' }) {
@@ -126,7 +156,7 @@ function run(root, pool, cardById, { title, count = 0, ordered = false, empty = 
       result.push({ q, ok });
       order.forEach((o, p) => { if (o === q.answer) optEls[p].classList.add('correct'); });
       if (!ok) optEls[pos].classList.add('wrong');
-      if (!ok) for (const id of q.cardIds || []) { const s = getCard('conjunctions', id); if (s) setCard('conjunctions', id, { ...newCardState(), ...s, due: Date.now() }); }
+      if (!ok) for (const id of q.cardIds || []) { const deck = deckOfCard(id); const s = getCard(deck, id); if (s) setCard(deck, id, { ...newCardState(), ...s, due: Date.now() }); }
       const related = (q.cardIds || []).map((id) => cardById.get(id)).filter(Boolean);
       feedback.replaceChildren(
         h('p', { class: ok ? 'verdict ok' : 'verdict no' }, ok ? 'Doğru!' : `Yanlış – doğru cevap: ${letters[order.indexOf(q.answer)]}`),
