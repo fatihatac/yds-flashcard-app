@@ -36,22 +36,33 @@ async function setup(root, examId) {
   const exam = (await loadExamList()).find((e) => e.id === examId);
   if (!exam) { root.append(h('div', { class: 'empty' }, h('p', null, 'Sınav bulunamadı.'), h('a', { class: 'btn btn-ghost', href: '#/mock' }, 'Geri'))); return; }
   const questions = await loadExamQuestions(examId);
-  const minutes = Math.round((180 * questions.length) / 80);
+  const minutesFor = (n) => Math.round((180 * n) / 80);
+  const minutes = minutesFor(questions.length);
   const target = get().settings.targetScore ?? 70;
   let timed = true;
+  let mini = (get().settings.dailyMinutes ?? 90) <= 60; // kısa çalışma süresinde mini deneme varsayılan
   const mode = h('div', { class: 'seg', style: 'grid-template-columns: repeat(2, 1fr)' });
   const drawMode = () => mode.replaceChildren(
-    h('button', { class: timed ? 'active' : '', onclick: () => { timed = true; drawMode(); } }, `Süreli (${minutes} dk)`),
+    h('button', { class: timed ? 'active' : '', onclick: () => { timed = true; drawMode(); } }, `Süreli (${minutesFor(mini ? 30 : questions.length)} dk)`),
     h('button', { class: timed ? '' : 'active', onclick: () => { timed = false; drawMode(); } }, 'Süresiz'));
   drawMode();
+  const size = h('div', { class: 'seg', style: 'grid-template-columns: repeat(2, 1fr)' });
+  const drawSize = () => size.replaceChildren(
+    h('button', { class: mini ? '' : 'active', onclick: () => { mini = false; drawSize(); drawMode(); } }, `Tam (${questions.length} soru)`),
+    h('button', { class: mini ? 'active' : '', onclick: () => { mini = true; drawSize(); drawMode(); } }, 'Mini (30 soru)'));
+  drawSize();
   root.append(
     h('header', { class: 'page-head' }, h('h1', null, shortTitle(exam.title)), h('p', { class: 'muted' }, `${questions.length} çözülebilir soru`)),
     h('section', { class: 'card' },
       h('p', null, `Süre, çözülebilir soru sayısına göre ${minutes} dakikaya ayarlandı (gerçek sınav: 80 soru, 180 dakika).`),
       h('p', null, `Okuma parçası gerektiren ${exam.count - questions.length} soru, parça metinleri bu veri setinde olmadığı için dahil edilmedi. Puan, doğru oranının 100 üzerinden ölçeklenmiş halidir.`),
       h('p', null, `Hedef ${target} puan = 80 soruda ${neededCorrect(target)} doğru.`),
-      mode),
-    h('button', { class: 'btn btn-primary btn-wide', onclick: () => { root.replaceChildren(); runExam(root, exam, questions, timed ? minutes * 60 : 0); } }, 'Sınavı başlat'),
+      size, mode),
+    h('button', { class: 'btn btn-primary btn-wide', onclick: () => {
+      const qs = mini ? sampleSubset(questions, 30) : questions;
+      root.replaceChildren();
+      runExam(root, exam, qs, timed ? Math.round((180 * 60 * qs.length) / 80) : 0);
+    } }, 'Sınavı başlat'),
     h('a', { class: 'btn btn-ghost', href: '#/mock' }, 'Geri'));
 }
 
@@ -162,4 +173,18 @@ async function resultView(exam, questions, answers, result, seconds) {
 
 function stemNodes(stem) {
   return stem.split(/(_{2,})/).map((p) => (/^_{2,}$/.test(p) ? h('span', { class: 'blank' }, ' ') : p));
+}
+
+// Bölümlere orantılı rastgele alt küme (mini deneme); orijinal sıra korunur.
+function sampleSubset(questions, n) {
+  if (questions.length <= n) return questions;
+  const ratio = n / questions.length;
+  const picked = new Set();
+  const bySection = new Map();
+  for (const q of questions) (bySection.get(q.section) || bySection.set(q.section, []).get(q.section)).push(q);
+  for (const list of bySection.values()) {
+    const shuffled = list.map((q) => [Math.random(), q]).sort((a, b) => a[0] - b[0]).map((x) => x[1]);
+    shuffled.slice(0, Math.max(1, Math.round(list.length * ratio))).forEach((q) => picked.add(q.id));
+  }
+  return questions.filter((q) => picked.has(q.id));
 }

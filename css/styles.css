@@ -161,3 +161,12 @@ input[type="search"] { width: 100%; } input[type="number"] { width: 90px; }
 .chart-target { stroke: var(--good); stroke-width: 1.5; stroke-dasharray: 4 4; }
 #nav a { font-size: .62rem; }
 .row-btns { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+
+.today-card { border-color: var(--primary); }
+.task { display: flex; gap: 10px; align-items: baseline; padding: 8px 4px; border-top: 1px solid var(--line); color: var(--text); }
+.task:first-of-type { border-top: 0; }
+.task-check { width: 1.2em; color: var(--muted); flex: none; }
+.task.done .task-check { color: var(--good); font-weight: 700; }
+.task.done .task-label { text-decoration: line-through; color: var(--muted); }
+.task-label { flex: 1; }
+.task.future { color: var(--muted); }

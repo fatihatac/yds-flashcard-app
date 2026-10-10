@@ -13,6 +13,8 @@ function defaults() {
       theme: 'auto',
       cardDirection: 'en-tr',
       targetScore: 70,
+      examDate: '2026-10-17', // sınav tarihi (YYYY-MM-DD); Ayarlar'dan değiştirilir
+      dailyMinutes: 90, // günlük çalışma süresi (plan hedeflerini ölçekler)
       baselineCorrect: null, // son sınavdaki doğru sayısı (80 üzerinden), isteğe bağlı
       maxReviews: 100,
       newPerDay: { conjunctions: 10, grammar: 5, words: 10 },
@@ -61,6 +63,12 @@ export function logReview({ correct, isNew, deckId }) {
   save();
 }
 
+// Bugünkü çalışma özeti (plan ilerlemesi için)
+export function todayStats() {
+  const d = state.log[todayKey()] || {};
+  return { reviews: d.reviews || 0, newByDeck: d.new || {}, q: d.q || 0, sec: d.sec || {}, mocks: d.mocks || 0, queueDue: reviewDueIds().length };
+}
+
 export const newDoneToday = (deckId) => (state.log[todayKey()]?.new || {})[deckId] || 0;
 
 export function streak() {
@@ -90,6 +98,9 @@ export function recordQuestion(id, correct, section, snapshot) {
   q.last = now;
   if (section) q.section = section;
   if (snapshot && !correct) q.snap = snapshot; // üretilen sorular tekrar modunda yeniden kurulabilsin
+  const day = (state.log[todayKey()] ||= { reviews: 0, correct: 0, new: {} });
+  day.q = (day.q || 0) + 1;
+  if (section) { day.sec ||= {}; day.sec[section] = (day.sec[section] || 0) + 1; }
   if (!correct) q.review = { box: 0, due: now };
   else if (q.review) {
     const box = q.review.box + 1;
@@ -134,6 +145,8 @@ export function addCustomQuestions(list) {
 
 export function addMock(entry) {
   state.mocks.push({ ...entry, date: Date.now() });
+  const day = (state.log[todayKey()] ||= { reviews: 0, correct: 0, new: {} });
+  day.mocks = (day.mocks || 0) + 1;
   save();
 }
 

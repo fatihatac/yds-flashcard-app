@@ -9,6 +9,7 @@ const ROUTES = {
   library: () => import('./views/library.js'),
   mock: () => import('./views/mock.js'),
   stats: () => import('./views/stats.js'),
+  plan: () => import('./views/plan.js'),
   settings: () => import('./views/settings.js'),
 };
 const NAV = [
@@ -45,7 +46,7 @@ async function route() {
   if (cleanup) { cleanup(); cleanup = null; }
   const view = h('div', { class: 'view' });
   root.replaceChildren(view);
-  nav.querySelectorAll('a').forEach((a) => a.classList.toggle('active', a.dataset.route === (ROUTES[name] ? name : 'home')));
+  nav.querySelectorAll('a').forEach((a) => a.classList.toggle('active', a.dataset.route === (name === 'plan' ? 'stats' : ROUTES[name] ? name : 'home')));
   try {
     const mod = await load();
     const result = await mod.render(view, { params, query, applyTheme });

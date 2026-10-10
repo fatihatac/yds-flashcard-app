@@ -2,6 +2,8 @@ import { h } from '../ui.js';
 import { DECKS, loadDeck, loadQuestions } from '../data.js';
 import { get, getCard, newDoneToday, streak, todayKey, reviewDueIds } from '../store.js';
 import { isDue, status } from '../srs.js';
+import { planSummary, taskRow } from './plan.js';
+import { progress } from '../plan.js';
 
 export async function counts(deckId) {
   const cards = await loadDeck(deckId);
@@ -31,6 +33,18 @@ export async function render(root) {
       stat(log.reviews, 'bugün tekrar'),
       stat(answered ? `%${Math.round((right / answered) * 100)}` : '–', 'soru başarısı')));
 
+  const plan = planSummary();
+  if (plan && plan.left >= 0) {
+    const tasks = plan.today.tasks;
+    const doneCount = tasks.filter((t) => progress(t, plan.stats).done).length;
+    root.append(h('section', { class: 'card deck today-card' },
+      h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, '📅'), h('div', null,
+        h('h2', null, plan.left === 0 ? 'Sınav bugün!' : `Sınava ${plan.left} gün kaldı`),
+        h('p', { class: 'muted' }, `Bugünün planı: ${doneCount}/${tasks.length} görev tamam`))),
+      h('div', { class: 'progress' }, h('span', { style: `width:${tasks.length ? (doneCount / tasks.length) * 100 : 0}%` })),
+      tasks.map((t) => taskRow(t, plan.stats)),
+      h('a', { class: 'btn btn-ghost', href: '#/plan' }, 'Tüm planı gör')));
+  }
   const { mocks, settings } = get();
   const target = settings.targetScore ?? 70;
   const last = mocks.at(-1);
