@@ -10,6 +10,7 @@ YDS bağlaçları (ve kelimeleri) için **aralıklı tekrar** sistemli, mobil ö
 - **Soru çözümü (329 bağlaç sorusu):** temel (65), **tuzak tipi** (128, her karta 2 soru) ve çıkmış YDS sorularından otomatik ayıklanan bağlaç soruları (136); konuya göre, açıklamalı.
 - **Tekrar modu:** yanlış yapılan sorular 1 - 3 - 7 - 14 gün aralıkla yeniden gelir; yanlış sorunun bağlaç kartı da kart tekrarına geri döner. "Zayıf konuların" listesi en düşük başarılı konuları gösterir.
 - **Çıkmış sorular ↔ konular:** çıkmış sınavlardaki soruların şıklarına ve soru köküne bakan kurallar (`scripts/exam-grammar-rules.mjs`) kapalı küme ve biçim sorularını gramer konularına bağlar (edat, gerund / infinitive, modal, participle, passive, zaman uyumu ...); çıkmış bağlaç soruları bağlaç kartlarına bağlanır. Kurallar temkinlidir: emin olunmayan soru etiketsiz kalır. Veri setinde yer alan 28 sınavdaki sorular çoğunlukla kelime, çeviri, paragraf ve okuma olduğundan gramer eşleşmesi sınırlıdır.
+- **Kelime ve phrasal verb testi:** Soru ekranındaki **Kelime** sekmesi, 3769 kelimelik listeden çoktan seçmeli test üretir: İngilizce → Türkçe, Türkçe → İngilizce, eş anlamlı ve karışık; ayrıca 333 phrasal verb için ayrı test. Çeldiriciler aynı sözcük türünden seçilir ve doğru kelimenin eş anlamlısı / aynı anlamı çeldirici olmaz. "Çalıştığım" ve "zayıf" kelimelerden test yapılabilir. Çıkmış sınavlardan ayıklanan 149 kelime sorusu (32'si phrasal verb) YDS formatında çözülür. Yanlış yapılan kelime, kelime kartlarında hemen tekrar sırasına alınır ve soru tekrar moduna girer (üretilen soruların anlık görüntüsü kaydedilir).
 - **Süreli deneme sınavı:** çıkmış bir sınav süreyle çözülür (soru listesi, işaretleme, kalan süre, otomatik bitiş). Sonuçta tahmini puan, hedefe kalan puan, bölüm bazlı analiz ve yanlışların açıklaması gelir; yanlışlar tekrar moduna ve ilgili kartlar kart tekrarına eklenir. Okuma parçası gerektiren sorular (parça metni yok) dahil değildir; puan, doğru oranının 100 üzerinden ölçeklenmiş halidir.
 - **İlerleme ve hedef:** hedef puan (varsayılan 70 = 80 soruda 56 doğru), deneme puanı grafiği ve **soru tipine göre başarı** (kelime, dilbilgisi, cloze, cümle tamamlama, çeviri, okuma, diyalog, paragraf, anlam bütünlüğü). Her bölümde kaybedilen tahmini puan hesaplanıp "önce şuraya çalış" listesi çıkarılır. YDS'nin 80 soruluk standart dizilimi (soru numarasına göre bölüm) kullanılır.
 - **Çıkmış sınavlar:** `data/20xx_YDS_n.json` dosyalarındaki 28 sınav (okuma parçası gerektirmeyen sorular) orijinal sırasıyla çözülür.
@@ -40,10 +41,12 @@ data/20xx_YDS_n.json     çıkmış sınavlar (ham)
 data/exams.json          sınav listesi (node scripts/build-exam-data.mjs)
 data/exam-conjunction-questions.json  sınavlardan ayıklanan bağlaç soruları (aynı betik)
 data/exam-grammar-questions.json      sınavlardan gramer konularına bağlanan sorular (node scripts/build-exam-grammar.mjs; önce build-exam-data.mjs çalıştırılmalı)
+data/exam-vocab-questions.json        sınavlardan ayıklanan kelime / phrasal verb soruları (node scripts/build-exam-vocab.mjs; önceki ikisinden sonra çalıştırılmalı)
 data/words.json          kelimeler
 js/srs.js                tekrar algoritması (saf fonksiyonlar)
 js/store.js              localStorage: ilerleme, ayarlar
 js/data.js               deste kaydı (DECKS)
+js/vocab.js              kelime testi soru üretimi
 js/qtype.js              YDS soru tipleri (bölümler) ve puan çarpanı
 js/mock.js               deneme puanlama ve bölüm raporu
 js/exams.js              ham sınav biçimini soru biçimine çevirir

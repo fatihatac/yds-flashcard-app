@@ -5,7 +5,7 @@ const SHELL = [
   './', 'index.html', 'manifest.webmanifest', 'css/styles.css', 'icons/icon.svg',
   'js/main.js', 'js/ui.js', 'js/store.js', 'js/srs.js', 'js/data.js', 'js/render.js', 'js/validate.js', 'js/exams.js', 'js/qtype.js', 'js/mock.js', 'js/version.js',
   'js/views/home.js', 'js/views/study.js', 'js/views/quiz.js', 'js/views/library.js', 'js/views/settings.js', 'js/views/mock.js', 'js/views/stats.js',
-  'data/conjunctions.json', 'data/questions.json', 'data/questions-trap.json', 'data/exam-conjunction-questions.json', 'data/exams.json', 'data/grammar.json', 'data/grammar-questions.json', 'data/exam-grammar-questions.json',
+  'data/conjunctions.json', 'data/questions.json', 'data/questions-trap.json', 'data/exam-conjunction-questions.json', 'data/exams.json', 'data/grammar.json', 'data/grammar-questions.json', 'data/exam-grammar-questions.json', 'data/exam-vocab-questions.json', 'js/vocab.js',
 ];
 
 self.addEventListener('install', (e) => {

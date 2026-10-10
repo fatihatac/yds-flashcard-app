@@ -7,6 +7,6 @@
   "scripts": {
     "start": "npx http-server . -p 8080 -c-1",
     "validate": "node scripts/validate-data.mjs",
-    "test": "node --test scripts/srs.test.mjs scripts/exams.test.mjs scripts/exam-grammar.test.mjs scripts/mock.test.mjs && node scripts/validate-data.mjs"
+    "test": "node --test scripts/srs.test.mjs scripts/exams.test.mjs scripts/exam-grammar.test.mjs scripts/mock.test.mjs scripts/vocab.test.mjs && node scripts/validate-data.mjs"
   }
 }

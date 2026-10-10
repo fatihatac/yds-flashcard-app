@@ -1,12 +1,13 @@
 import { h, chips, shuffle } from '../ui.js';
-import { loadDeck, loadQuestions, loadExamList, loadExamQuestions, resolveQuestions } from '../data.js';
-import { get, getCard, setCard, recordQuestion, reviewDueIds, reviewPendingCount } from '../store.js';
+import { loadDeck, loadQuestions, loadExamList, loadExamQuestions, resolveQuestions, loadWordIndex } from '../data.js';
+import { buildWordQuestions, findWord } from '../vocab.js';
+import { get, getCard, setCard, recordQuestion, reviewDueIds, reviewPendingCount, forceDue } from '../store.js';
 import { newCardState } from '../srs.js';
 
-const KIND_LABEL = { basic: 'Temel', trap: 'Tuzak', exam: 'Çıkmış soru', custom: 'Eklenen', grammar: 'Gramer' };
+const KIND_LABEL = { basic: 'Temel', trap: 'Tuzak', exam: 'Çıkmış soru', custom: 'Eklenen', grammar: 'Gramer', vocab: 'Kelime' };
 const isGrammarId = (id) => id.startsWith('g-');
 const deckOfCard = (id) => (isGrammarId(id) ? 'grammar' : 'conjunctions');
-let area = 'conjunctions'; // picker sekmesi: conjunctions | grammar | exams
+let area = 'conjunctions'; // picker sekmesi: conjunctions | grammar | vocab | exams
 
 export async function render(root, { query }) {
   const [questions, conj, grammar] = await Promise.all([loadQuestions(), loadDeck('conjunctions'), loadDeck('grammar')]);
@@ -24,6 +25,7 @@ export async function render(root, { query }) {
     const pool = await resolveQuestions(reviewDueIds());
     return run(root, pool, cardById, { title: 'Tekrar modu', count: 20, empty: 'Şu an tekrar sırası gelen soru yok. Yanlış yaptığın sorular 1, 3, 7 ve 14 gün arayla yeniden gelir.' });
   }
+  if (query.area) area = query.area;
   return picker(root, questions, { conj, grammar }, cardById);
 }
 
@@ -55,12 +57,19 @@ async function picker(root, questions, { conj, grammar }, cardById) {
   const countSel = h('select', { onchange: (e) => { count = Number(e.target.value); } },
     [5, 10, 20, 0].map((n) => h('option', { value: n, selected: n === 10 }, n ? `${n} soru` : 'Hepsi')));
   const start = (pool, title) => { root.replaceChildren(); run(root, pool, cardById, { title, count }); };
+  // Kelime testi soruları seçim anında üretilir (çok büyük havuz; 'Hepsi' seçilirse 40 soru).
+  const startWords = async (title, { filter = () => true, modes } = {}) => {
+    const [words, index] = await Promise.all([loadDeck('words'), loadWordIndex()]);
+    const pool = buildWordQuestions(words.filter(filter), index, { modes, count: count || 40 });
+    root.replaceChildren();
+    run(root, pool, cardById, { title, count: 0, empty: 'Bu seçim için soru üretilemedi.' });
+  };
   const row = (label, sub, onclick, disabled) => h('button', { class: 'card list-btn', disabled, onclick },
     h('span', { class: 'list-text' }, h('span', null, label), sub && h('span', { class: 'muted small' }, sub)), h('span', { class: 'muted' }, '›'));
 
   const body = h('div', { class: 'view' });
   const tabs = h('div', { class: 'seg', role: 'tablist' });
-  const TABS = [['conjunctions', 'Bağlaç'], ['grammar', 'Gramer'], ['exams', 'Çıkmış sınavlar']];
+  const TABS = [['conjunctions', 'Bağlaç'], ['grammar', 'Gramer'], ['vocab', 'Kelime'], ['exams', 'Sınavlar']];
 
   function drawTabs() {
     tabs.replaceChildren(...TABS.map(([id, label]) => h('button', { class: id === area ? 'active' : '', role: 'tab', onclick: () => { area = id; drawTabs(); drawBody(); } }, label)));
@@ -79,11 +88,39 @@ async function picker(root, questions, { conj, grammar }, cardById) {
   function drawBody() {
     const list = (modes) => h('div', { class: 'list' }, modes.map(([label, pool]) => row(`${label} (${pool.length})`, null, () => start(pool, label), !pool.length)));
     if (area === 'conjunctions') {
-      const pool = questions.filter((q) => q.area !== 'grammar');
+      const pool = questions.filter((q) => !q.area);
       body.replaceChildren(
         h('h2', { class: 'section-title' }, 'Bağlaç soruları'),
         list([['Karışık', pool.filter((q) => q.kind !== 'exam')], ['Tuzak soruları', pool.filter((q) => q.kind === 'trap')], ['Çıkmış YDS bağlaç soruları', pool.filter((q) => q.kind === 'exam')],
           ...poolModes(pool.filter((q) => q.kind !== 'exam'), conj)]));
+    } else if (area === 'vocab') {
+      const examVocab = questions.filter((q) => q.area === 'vocab');
+      const studied = (w) => !!getCard('words', w.word);
+      const weakWord = (w) => { const c = getCard('words', w.word); return !!c && (c.lapses > 0 || c.interval < 7); };
+      const wrongVocab = Object.entries(stats).filter(([, s]) => s.section === 'vocab' && s.lastCorrect === false).map(([id]) => id);
+      body.replaceChildren(
+        h('h2', { class: 'section-title' }, 'Kelime testi'),
+        h('p', { class: 'muted small' }, 'Sorular 3769 kelimelik listeden üretilir. Yanlış yaptığın kelime kart tekrarına ve tekrar moduna eklenir.'),
+        h('div', { class: 'list' },
+          row('İngilizce → Türkçe', 'Kelimenin anlamını bul', () => startWords('İngilizce → Türkçe', { modes: ['en-tr'] })),
+          row('Türkçe → İngilizce', 'Anlama uyan İngilizce kelimeyi bul', () => startWords('Türkçe → İngilizce', { modes: ['tr-en'] })),
+          row('Eş anlamlı testi', 'Eş anlamlısı olan kelimeler', () => startWords('Eş anlamlı', { modes: ['syn'], filter: (w) => w.synonyms?.length > 0 })),
+          row('Karışık kelime testi', 'Üç soru türü bir arada', () => startWords('Karışık kelime')),
+          row('Çalıştığım kelimelerden', 'Kartlarda gördüğün kelimeler', () => startWords('Çalıştığım kelimeler', { filter: studied })),
+          row('Zayıf kelimelerim', 'Yanlış yaptığın veya henüz pekişmemiş kartlar', () => startWords('Zayıf kelimeler', { filter: weakWord }))),
+        h('h2', { class: 'section-title' }, 'Phrasal verb'),
+        h('div', { class: 'list' },
+          row('Phrasal verb testi', '333 phrasal verb · anlam ↔ ifade', () => startWords('Phrasal verb', { modes: ['en-tr', 'tr-en'], filter: (w) => w.type === 'phrasal verb' })),
+          row(`Çıkmış phrasal verb soruları (${examVocab.filter((q) => q.phrasal).length})`, 'Gerçek sınav soruları', () => start(examVocab.filter((q) => q.phrasal), 'Çıkmış phrasal verb'), !examVocab.some((q) => q.phrasal))),
+        h('h2', { class: 'section-title' }, 'Çıkmış kelime soruları'),
+        h('div', { class: 'list' },
+          row(`Çıkmış kelime soruları (${examVocab.length})`, 'Boşluk doldurma, YDS formatında', () => start(examVocab, 'Çıkmış kelime'), !examVocab.length),
+          row(`Çözmediğim çıkmış kelime soruları (${examVocab.filter((q) => !stats[q.id]).length})`, null, () => start(examVocab.filter((q) => !stats[q.id]), 'Çözmediklerim'), !examVocab.some((q) => !stats[q.id])),
+          row(`Yanlış yaptığım kelime soruları (${wrongVocab.length})`, 'Üretilen ve çıkmış kelime soruları', async () => {
+            const pool = await resolveQuestions(wrongVocab);
+            root.replaceChildren();
+            run(root, pool, cardById, { title: 'Yanlış kelimeler', count, empty: 'Yanlış yaptığın kelime sorusu yok.' });
+          }, !wrongVocab.length)));
     } else if (area === 'grammar') {
       const pool = questions.filter((q) => q.area === 'grammar');
       body.replaceChildren(
@@ -152,11 +189,18 @@ function run(root, pool, cardById, { title, count = 0, ordered = false, empty = 
       if (answered) return;
       answered = true;
       const ok = orig === q.answer;
-      recordQuestion(q.id, ok, q.section || (q.kind === 'exam' ? undefined : 'grammar'));
+      recordQuestion(q.id, ok, q.section || (q.kind === 'exam' ? undefined : 'grammar'), q.kind === 'vocab' ? { kind: q.kind, area: q.area, section: q.section, wordIds: q.wordIds, stem: q.stem, options: q.options, answer: q.answer, explanation: q.explanation } : undefined);
       result.push({ q, ok });
       order.forEach((o, p) => { if (o === q.answer) optEls[p].classList.add('correct'); });
       if (!ok) optEls[pos].classList.add('wrong');
       if (!ok) for (const id of q.cardIds || []) { const deck = deckOfCard(id); const s = getCard(deck, id); if (s) setCard(deck, id, { ...newCardState(), ...s, due: Date.now() }); }
+      if (!ok && (q.section === 'vocab' || q.area === 'vocab')) {
+        // Yanlış yapılan kelimeyi kelime kartlarında tekrar sırasına al
+        loadWordIndex().then((ix) => {
+          const ids = q.wordIds || [findWord(ix, q.options[q.answer])?.word].filter(Boolean);
+          for (const id of ids) forceDue('words', id);
+        });
+      }
       const related = (q.cardIds || []).map((id) => cardById.get(id)).filter(Boolean);
       feedback.replaceChildren(
         h('p', { class: ok ? 'verdict ok' : 'verdict no' }, ok ? 'Doğru!' : `Yanlış – doğru cevap: ${letters[order.indexOf(q.answer)]}`),

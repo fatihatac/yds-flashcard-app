@@ -1,6 +1,7 @@
 // Deste kaydı. Yeni bir deste eklemek için DECKS dizisine bir kayıt ve render.js'e bir çizici eklemek yeterlidir.
 import { get } from './store.js';
 import { normalizeQuestion, isSolvable } from './exams.js';
+import { buildIndex } from './vocab.js';
 
 export const DECKS = [
   { id: 'conjunctions', title: 'Bağlaçlar', icon: '🔗', desc: 'YDS bağlaç grupları: anlam, kullanım, örnek ve tüyo', file: 'data/conjunctions.json', type: 'conjunction', ordered: true },
@@ -35,6 +36,7 @@ const QUESTION_FILES = [
   ['data/exam-conjunction-questions.json', 'exam'],
   ['data/grammar-questions.json', 'grammar'],
   ['data/exam-grammar-questions.json', 'exam'],
+  ['data/exam-vocab-questions.json', 'exam'],
 ];
 
 // Bağlaç kartlarına bağlı tüm sorular: temel + tuzak + çıkmış sorulardan seçilenler + kullanıcının eklediği sorular.
@@ -66,10 +68,19 @@ export async function resolveQuestions(ids) {
   const examCache = new Map();
   for (const id of ids) {
     if (all.has(id)) { out.push(all.get(id)); continue; }
+    // Üretilen kelime soruları: yanlış yapılınca kaydedilen anlık görüntüden geri yüklenir
+    const snap = get().questions[id]?.snap;
+    if (snap) { out.push({ id, ...snap }); continue; }
     const examId = id.split(':')[0];
     if (!examCache.has(examId)) examCache.set(examId, loadExamQuestions(examId).then((l) => new Map(l.map((q) => [q.id, q]))));
     const q = (await examCache.get(examId)).get(id);
     if (q) out.push(q);
   }
   return out;
+}
+
+// Kelime destesi ve arama dizini (kelime testi ve sınav şıklarını kelimeye bağlamak için)
+export async function loadWordIndex() {
+  if (!cache.has('wordIndex')) cache.set('wordIndex', loadDeck('words').then(buildIndex));
+  return cache.get('wordIndex');
 }

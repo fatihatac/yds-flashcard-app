@@ -81,7 +81,7 @@ function addDays(ts, days) {
   return d.getTime();
 }
 
-export function recordQuestion(id, correct, section) {
+export function recordQuestion(id, correct, section, snapshot) {
   const now = Date.now();
   const q = (state.questions[id] ||= { seen: 0, correct: 0, lastCorrect: null, last: 0 });
   q.seen += 1;
@@ -89,6 +89,7 @@ export function recordQuestion(id, correct, section) {
   q.lastCorrect = correct;
   q.last = now;
   if (section) q.section = section;
+  if (snapshot && !correct) q.snap = snapshot; // üretilen sorular tekrar modunda yeniden kurulabilsin
   if (!correct) q.review = { box: 0, due: now };
   else if (q.review) {
     const box = q.review.box + 1;
@@ -147,4 +148,11 @@ export function sectionStats(sectionOf) {
     s.correct += q.correct;
   }
   return out;
+}
+
+// Kartı hemen tekrar sırasına al; kart henüz görülmediyse öğrenilmekte olarak ekler (kelime testinde yanlış yapılan kelimeler için).
+export function forceDue(deckId, cardId) {
+  const prev = getCard(deckId, cardId);
+  const base = prev || { ef: 2.5, interval: 0, reps: 0, lapses: 1, due: 0, last: Date.now() };
+  setCard(deckId, cardId, { ...base, last: base.last || Date.now(), due: Date.now() });
 }

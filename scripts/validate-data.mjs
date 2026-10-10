@@ -11,6 +11,7 @@ const trap = read('questions-trap.json');
 const examQs = read('exam-conjunction-questions.json');
 const exams = read('exams.json');
 const grammar = read('grammar.json');
+const vocabQs = read('exam-vocab-questions.json');
 const grammarQs = [...read('grammar-questions.json'), ...read('exam-grammar-questions.json')];
 let errors = 0;
 const fail = (m) => { console.error('✗', m); errors += 1; };
@@ -52,6 +53,11 @@ for (const q of grammarQs) {
   for (const e of validateQuestion(q, gids)) fail(`gramer sorusu ${q.id}: ${e}`);
 }
 for (const g of grammar) if (!grammarQs.some((q) => q.cardIds.includes(g.id))) console.warn(`! sorusu olmayan gramer konusu: ${g.id}`);
+for (const q of vocabQs) {
+  if (qids.has(q.id)) fail(`yinelenen soru id: ${q.id}`);
+  qids.add(q.id);
+  for (const e of validateQuestion(q, null)) fail(`kelime sorusu ${q.id}: ${e}`);
+}
 const wordSet = new Set();
 for (const w of words) {
   if (wordSet.has(w.word)) fail(`yinelenen kelime: ${w.word}`);
@@ -61,5 +67,5 @@ for (const w of words) {
 const allQ = [...questions, ...trap, ...examQs];
 const withoutQuestion = cards.filter((c) => !allQ.some((q) => (q.cardIds || []).includes(c.id)));
 if (withoutQuestion.length) console.warn(`! sorusu olmayan kartlar: ${withoutQuestion.map((c) => c.id).join(', ')}`);
-console.log(`${cards.length} kart, ${questions.length} temel + ${trap.length} tuzak + ${examQs.length} çıkmış soru, ${exams.length} sınav, ${grammar.length} gramer konusu + ${grammarQs.length} gramer sorusu, ${words.length} kelime kontrol edildi.`);
+console.log(`${cards.length} kart, ${questions.length} temel + ${trap.length} tuzak + ${examQs.length} çıkmış soru, ${exams.length} sınav, ${grammar.length} gramer konusu + ${grammarQs.length} gramer sorusu, ${vocabQs.length} çıkmış kelime sorusu, ${words.length} kelime kontrol edildi.`);
 process.exit(errors ? 1 : 0);

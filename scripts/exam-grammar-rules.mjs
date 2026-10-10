@@ -126,3 +126,14 @@ export function classify(q) {
 
   return null;
 }
+
+// Şıkların çoğu işlev sözcüğüyse (edat, bağlaç, zamir, belirleyici ...) ya da edat ifadesiyse kelime sorusu değildir.
+const EXTRA_PREPS = new Set(['alongside', 'amid', 'amongst', 'toward', 'throughout', 'beyond', 'despite', 'regarding', 'concerning', 'unlike', 'like', 'except', 'including', 'outside', 'inside', 'beneath', 'versus', 'via']);
+const PHRASE_START = /^(in|on|for|apart|due|thanks|with|as|by|according|regardless|instead|similar|compared|contrary|owing|because|aside|prior|along|together|rather|contrary|such|so|not|no|just|even|as well)\b/;
+export function isFunctionish(options) {
+  const opts = options.map(lc);
+  const closed = opts.filter((o) => PREPS.has(o) || EXTRA_PREPS.has(o) || REL.has(o) || NOUN_CL.has(o) || QUANT.has(o) || ARTICLES.has(o) || PRON.has(o) || AGREE.has(o)).length;
+  const phrases = opts.filter((o) => o.includes(' ') && PHRASE_START.test(o)).length;
+  const connectorish = opts.filter((o) => /^(although|though|because|since|while|whereas|unless|once|until|when|if|as if|as though|even if|even though|so that|in case|before|after|as soon as|however|therefore|thus|hence|moreover|furthermore|nevertheless|otherwise|instead|besides|meanwhile|consequently|that is|for instance|for example|by comparison|by contrast|in addition|in contrast|on the other hand|in fact|in short|eventually|finally|similarly|likewise|in other words|in conclusion|to sum up)$/.test(o)).length;
+  return closed >= 3 || phrases >= 3 || connectorish >= 2;
+}

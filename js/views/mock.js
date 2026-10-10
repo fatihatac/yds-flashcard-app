@@ -1,6 +1,7 @@
 import { h, chips } from '../ui.js';
-import { loadExamList, loadExamQuestions, loadQuestions, loadDeck } from '../data.js';
-import { recordQuestion, addMock, get, getCard, setCard } from '../store.js';
+import { loadExamList, loadExamQuestions, loadQuestions, loadDeck, loadWordIndex } from '../data.js';
+import { findWord } from '../vocab.js';
+import { recordQuestion, addMock, get, getCard, setCard, forceDue } from '../store.js';
 import { sectionById } from '../qtype.js';
 import { scoreMock, neededCorrect } from '../mock.js';
 import { newCardState } from '../srs.js';
@@ -108,20 +109,27 @@ function runExam(root, exam, questions, allowed) {
 async function resultView(exam, questions, answers, result, seconds) {
   const linked = new Map((await loadQuestions()).filter((q) => q.kind === 'exam').map((q) => [q.id, q.cardIds]));
   const cards = new Map([...(await loadDeck('conjunctions')), ...(await loadDeck('grammar'))].map((c) => [c.id, c]));
+  const wordIx = await loadWordIndex();
   const missed = [];
   for (const q of questions) {
     const a = answers[q.id];
-    if (a == null) { missed.push({ q, a }); continue; }
+    if (a == null) { missed.push({ q, a }); linkWord(q); continue; }
     const ok = a === q.answer;
     recordQuestion(q.id, ok, q.section);
     if (!ok) {
       missed.push({ q, a });
+      linkWord(q);
       for (const id of linked.get(q.id) || []) {
         const deck = id.startsWith('g-') ? 'grammar' : 'conjunctions';
         const s = getCard(deck, id);
         if (s) setCard(deck, id, { ...newCardState(), ...s, due: Date.now() });
       }
     }
+  }
+  function linkWord(q) {
+    if (!['vocab', 'cloze', 'completion'].includes(q.section)) return;
+    const w = findWord(wordIx, q.options[q.answer]);
+    if (w) forceDue('words', w.word); // yanlış / boş bırakılan kelime kart tekrarına eklenir
   }
   addMock({ examId: exam.id, title: exam.title, correct: result.correct, wrong: result.wrong, blank: result.blank, total: result.total, scaled: result.scaled, seconds, bySection: result.bySection });
 

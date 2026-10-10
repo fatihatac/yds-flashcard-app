@@ -5,12 +5,12 @@ import { POINTS_PER_QUESTION, sectionById } from '../qtype.js';
 
 const fmt = (n) => String(n).replace('.', ',');
 const LINKS = {
-  vocab: ['#/study/words', 'Kelime kartları'],
+  vocab: ['#/quiz?area=vocab', 'Kelime ve phrasal verb testi'],
   grammar: ['#/study/grammar', 'Gramer kartları'],
   cloze: ['#/quiz', 'Bağlaç ve gramer soruları'],
   completion: ['#/study/conjunctions', 'Bağlaç kartları'],
   translation: ['#/mock', 'Deneme içinde çeviri'],
-  reading: ['#/study/words', 'Kelime dağarcığı (okuma için)'],
+  reading: ['#/quiz?area=vocab', 'Kelime dağarcığı (okuma için)'],
   dialogue: ['#/mock', 'Deneme içinde diyalog'],
   paragraph: ['#/mock', 'Deneme içinde paragraf'],
   irrelevant: ['#/mock', 'Deneme içinde anlam bütünlüğü'],
