@@ -1,7 +1,7 @@
 {
-  "name": "YDS Bağlaç Kartları",
-  "short_name": "YDS Kartlar",
-  "description": "YDS bağlaçları ve kelimeleri için aralıklı tekrar sistemli flashcard uygulaması.",
+  "name": "YDS Hazırlık Kartları",
+  "short_name": "YDS Hazırlık",
+  "description": "YDS bağlaç, gramer ve kelime çalışması için aralıklı tekrar sistemli flashcard uygulaması.",
   "lang": "tr",
   "start_url": "./",
   "scope": "./",

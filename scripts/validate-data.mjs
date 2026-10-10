@@ -1,6 +1,6 @@
 // Veri bütünlüğü kontrolü: node scripts/validate-data.mjs
 import fs from 'node:fs';
-import { validateCard, validateQuestion } from '../js/validate.js';
+import { validateCard, validateGrammarTopic, validateQuestion } from '../js/validate.js';
 import { normalizeQuestion } from '../js/exams.js';
 
 const read = (f) => JSON.parse(fs.readFileSync(new URL(`../data/${f}`, import.meta.url), 'utf8'));
@@ -10,6 +10,8 @@ const words = read('words.json');
 const trap = read('questions-trap.json');
 const examQs = read('exam-conjunction-questions.json');
 const exams = read('exams.json');
+const grammar = read('grammar.json');
+const grammarQs = read('grammar-questions.json');
 let errors = 0;
 const fail = (m) => { console.error('✗', m); errors += 1; };
 
@@ -18,6 +20,13 @@ for (const c of cards) {
   if (ids.has(c.id)) fail(`yinelenen kart id: ${c.id}`);
   ids.add(c.id);
   for (const e of validateCard(c)) fail(`kart ${c.id}: ${e}`);
+}
+const gids = new Set();
+for (const g of grammar) {
+  if (gids.has(g.id) || ids.has(g.id)) fail(`yinelenen gramer id: ${g.id}`);
+  gids.add(g.id);
+  if (!g.id.startsWith('g-')) fail(`gramer id 'g-' ile başlamalı: ${g.id}`);
+  for (const e of validateGrammarTopic(g)) fail(`gramer ${g.id}: ${e}`);
 }
 const qids = new Set();
 for (const q of questions) {
@@ -37,6 +46,12 @@ for (const e of exams) {
   if (bad.length) fail(`${e.file}: ${bad.length} sorunun doğru cevabı / şıkları geçersiz`);
   if (qs.length !== e.count) fail(`${e.file}: exams.json güncel değil (node scripts/build-exam-data.mjs)`);
 }
+for (const q of grammarQs) {
+  if (qids.has(q.id)) fail(`yinelenen soru id: ${q.id}`);
+  qids.add(q.id);
+  for (const e of validateQuestion(q, gids)) fail(`gramer sorusu ${q.id}: ${e}`);
+}
+for (const g of grammar) if (!grammarQs.some((q) => q.cardIds.includes(g.id))) console.warn(`! sorusu olmayan gramer konusu: ${g.id}`);
 const wordSet = new Set();
 for (const w of words) {
   if (wordSet.has(w.word)) fail(`yinelenen kelime: ${w.word}`);
@@ -46,5 +61,5 @@ for (const w of words) {
 const allQ = [...questions, ...trap, ...examQs];
 const withoutQuestion = cards.filter((c) => !allQ.some((q) => (q.cardIds || []).includes(c.id)));
 if (withoutQuestion.length) console.warn(`! sorusu olmayan kartlar: ${withoutQuestion.map((c) => c.id).join(', ')}`);
-console.log(`${cards.length} kart, ${questions.length} temel + ${trap.length} tuzak + ${examQs.length} çıkmış soru, ${exams.length} sınav, ${words.length} kelime kontrol edildi.`);
+console.log(`${cards.length} kart, ${questions.length} temel + ${trap.length} tuzak + ${examQs.length} çıkmış soru, ${exams.length} sınav, ${grammar.length} gramer konusu + ${grammarQs.length} gramer sorusu, ${words.length} kelime kontrol edildi.`);
 process.exit(errors ? 1 : 0);

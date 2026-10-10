@@ -21,11 +21,14 @@ export async function render(root, { params, query }) {
 }
 
 async function picker(root) {
-  root.append(h('header', { class: 'page-head' }, h('h1', null, 'Çalış'), h('p', { class: 'muted' }, 'Bir deste seç.')));
+  root.append(h('header', { class: 'page-head' }, h('h1', null, 'Çalış'), h('p', { class: 'muted' }, 'Bir deste ve istersen bir konu grubu seç.')));
   for (const deck of DECKS) {
     const c = await counts(deck.id);
-    root.append(h('a', { class: 'card deck link-card', href: `#/study/${deck.id}` },
-      h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, deck.icon), h('div', null, h('h2', null, deck.title), h('p', { class: 'muted' }, `${c.newAvail} yeni · ${c.due} tekrar`)))));
+    const cards = await loadDeck(deck.id);
+    const cats = [...new Set(cards.map((x) => x.category).filter(Boolean))];
+    root.append(h('section', { class: 'card deck' },
+      h('a', { class: 'deck-head', href: `#/study/${deck.id}` }, h('span', { class: 'deck-icon' }, deck.icon), h('div', null, h('h2', null, deck.title), h('p', { class: 'muted' }, `${c.newAvail} yeni · ${c.due} tekrar`))),
+      cats.length ? h('div', { class: 'deck-cats' }, cats.map((cat) => h('a', { class: 'chip chip-btn', href: `#/study/${deck.id}?cat=${encodeURIComponent(cat)}` }, cat))) : null));
   }
 }
 
@@ -97,7 +100,7 @@ async function session(root, deck, query) {
     showingBack = !showingBack;
     face.classList.toggle('flipped', showingBack);
     face.replaceChildren(showingBack
-      ? view.back(card, deck.type === 'conjunction' ? { onQuiz: () => { location.hash = `#/quiz?card=${encodeURIComponent(card.id)}`; } } : {})
+      ? view.back(card, deck.type !== 'word' ? { onQuiz: () => { location.hash = `#/quiz?card=${encodeURIComponent(card.id)}`; } } : {})
       : view.front(card));
     if (showingBack && !revealed) {
       revealed = true;
@@ -124,7 +127,7 @@ async function session(root, deck, query) {
       h('h2', null, 'Oturum bitti 🎉'),
       h('p', null, `${total} kart tamamlandı.`),
       stats.again ? h('p', { class: 'muted' }, `${stats.again} kez "Tekrar" seçtin; bu kartlar yakında yeniden gelecek.`) : null,
-      h('a', { class: 'btn btn-primary', href: `#/quiz${deck.type === 'conjunction' ? '' : ''}` }, deck.type === 'conjunction' ? 'Şimdi soru çöz' : 'Soru çözümü'),
+      h('a', { class: 'btn btn-primary', href: '#/quiz' }, deck.type !== 'word' ? 'Şimdi soru çöz' : 'Soru çözümü'),
       h('a', { class: 'btn btn-ghost', href: '#/home' }, 'Ana sayfa')));
   }
 

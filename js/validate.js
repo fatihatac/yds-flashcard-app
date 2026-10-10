@@ -20,3 +20,11 @@ export function validateCard(c) {
   if (!c.example?.en || !c.example?.tr) errs.push('example.en / example.tr eksik');
   return errs;
 }
+
+export function validateGrammarTopic(g) {
+  const errs = [];
+  for (const k of ['id', 'category', 'tr', 'rule', 'tip']) if (!g[k]) errs.push(`${k} eksik`);
+  for (const k of ['group', 'explanation', 'tactics', 'traps']) if (!Array.isArray(g[k]) || !g[k].length) errs.push(`${k} boş`);
+  if (!Array.isArray(g.examples) || !g.examples.length || g.examples.some((e) => !e.en || !e.tr)) errs.push('examples eksik');
+  return errs;
+}

@@ -1,0 +1,1290 @@
+[
+  {
+    "id": "g-present-simple-continuous",
+    "category": "Zamanlar",
+    "tr": "Present Simple ve Present Continuous",
+    "rule": "Alışkanlık ve genel doğrular ↔ şu an süren veya geçici eylemler",
+    "group": [
+      "V1 (-s)",
+      "am / is / are + V-ing"
+    ],
+    "explanation": [
+      "Present Simple: alışkanlık, genel doğru, tarife. İpuçları: always, usually, every day, seldom, never, often, generally.",
+      "Present Continuous: konuşma anında süren veya geçici eylem; kesinleşmiş yakın plan. İpuçları: now, at the moment, currently, these days, nowadays, still.",
+      "Durum (stative) fiilleri sürekli yapıda kullanılmaz: know, believe, understand, belong, own, need, prefer, seem, depend, consist of, contain.",
+      "Bilimsel ve akademik metinlerde genel gerçekler Present Simple ile verilir."
+    ],
+    "tactics": [
+      "Boşluğun yakınındaki zaman ifadesini bul: always / every year → Present Simple; at the moment / currently / nowadays → Present Continuous.",
+      "Fiil durum fiiliyse (know, own, belong, contain) -ing'li şıkları ele.",
+      "'Look!' ve 'Listen!' gibi anlık dikkat çeken sözlerden sonra Present Continuous gelir."
+    ],
+    "examples": [
+      {
+        "en": "Water boils at 100 degrees Celsius.",
+        "tr": "Su 100 derecede kaynar."
+      },
+      {
+        "en": "The government is currently reviewing the proposal.",
+        "tr": "Hükümet teklifi şu anda gözden geçiriyor."
+      }
+    ],
+    "traps": [
+      "'Always' + Present Continuous şikâyet anlatır (He is always complaining). Normal kullanımda always Present Simple ile gelir.",
+      "Durum fiilleri -ing almaz; ancak eylem anlamı varsa (have a meeting, think about) alabilir."
+    ],
+    "tip": "Zaman ifadesine bak; durum fiilleri -ing almaz."
+  },
+  {
+    "id": "g-past-vs-perfect",
+    "category": "Zamanlar",
+    "tr": "Past Simple mı, Present Perfect mı?",
+    "rule": "Zamanı belli ve bitmiş ↔ şimdiyle bağlantılı veya zamanı belirsiz",
+    "group": [
+      "V2",
+      "have / has + V3"
+    ],
+    "explanation": [
+      "Past Simple: geçmişte bitmiş, zamanı belli eylem. İpuçları: yesterday, last week, in 1990, ago, when + past, the other day.",
+      "Present Perfect: geçmişte başlayıp şimdiye uzanan veya sonucu şimdi görülen eylem. İpuçları: since, for, so far, up to now, recently, lately, already, yet, ever, never, just, this week / month / year.",
+      "Soru 'ne zaman?' ise Past Simple; 'şimdiye kadar kaç kez / ne kadar süredir?' ise Present Perfect.",
+      "Since + zaman noktası (2010, last year, he left); for + süre (for ten years). Since'ten sonra Past Simple gelir."
+    ],
+    "tactics": [
+      "Belirli geçmiş zaman ifadesi (ago, in 2005, yesterday, last year) varsa Present Perfect şıklarını ele.",
+      "'Since' ve 'for' görürsen Present Perfect (Continuous) ara.",
+      "'It is the first / second time ...' kalıbından sonra Present Perfect gelir."
+    ],
+    "examples": [
+      {
+        "en": "The company has doubled its profits since it moved to the new market.",
+        "tr": "Şirket yeni pazara taşındığından beri karlarını ikiye katladı."
+      },
+      {
+        "en": "The company doubled its profits in 2015.",
+        "tr": "Şirket 2015'te karlarını ikiye katladı."
+      }
+    ],
+    "traps": [
+      "'In 2015' gibi tarih belirtilince 'has doubled' kullanılamaz.",
+      "'Just now' Past Simple ile, tek başına 'just' Present Perfect ile kullanılır."
+    ],
+    "tip": "Tarih / 'ago' varsa Past Simple; since / for / so far varsa Present Perfect."
+  },
+  {
+    "id": "g-present-perfect-continuous",
+    "category": "Zamanlar",
+    "tr": "Present Perfect Continuous",
+    "rule": "Süreç ve süre vurgusu: eylem hâlâ sürüyor veya yeni bitti",
+    "group": [
+      "have / has been + V-ing"
+    ],
+    "explanation": [
+      "Eylemin süregeldiğini ve süreyi vurgular: She has been working here for ten years.",
+      "Sonucu hâlâ görünen yeni biten eylemde de kullanılır: You look tired. – I have been studying all night.",
+      "Tamamlanmış sayı veya miktar vurgulanırsa Present Perfect Simple kullanılır: I have read three chapters.",
+      "Durum fiilleriyle sürekli yapı kullanılmaz: I have known him for years (have been knowing ✗)."
+    ],
+    "tactics": [
+      "'All day, all week, lately, recently, how long' sürece vurgu yapar → continuous.",
+      "'How many / how much' → simple perfect; 'how long' → continuous.",
+      "know, belong, own, understand gibi durum fiillerinin -ing'li perfect hali elenir."
+    ],
+    "examples": [
+      {
+        "en": "Scientists have been studying the phenomenon for more than two decades.",
+        "tr": "Bilim insanları bu olguyu yirmi yılı aşkın süredir inceliyor."
+      },
+      {
+        "en": "Prices have been rising since the beginning of the year.",
+        "tr": "Fiyatlar yılbaşından beri artıyor."
+      }
+    ],
+    "traps": [
+      "'Have been knowing' yanlıştır → have known.",
+      "Tamamlanmış bir sonuç veya sayı vurgulanıyorsa simple perfect daha doğrudur."
+    ],
+    "tip": "Süre vurgusu → have been V-ing; sayı vurgusu → have V3."
+  },
+  {
+    "id": "g-past-perfect",
+    "category": "Zamanlar",
+    "tr": "Past Perfect (had + V3)",
+    "rule": "Geçmişteki iki olaydan daha önce gerçekleşeni anlatır",
+    "group": [
+      "had + V3",
+      "had been V-ing"
+    ],
+    "explanation": [
+      "Geçmişteki bir olaydan önce tamamlanan eylemi anlatır: When we arrived, the film had already started.",
+      "Bağlantı sözcükleri: before, after, by the time, when, as soon as, until, already, never ... before; hardly / scarcely ... when; no sooner ... than.",
+      "Past Perfect Continuous (had been V-ing): geçmişteki bir andan önce süren eylem: She had been waiting for two hours when he arrived.",
+      "Neden bildiren because / as yan cümlesi ana eylemden önceyse Past Perfect gelir: He was angry because she had lied."
+    ],
+    "tactics": [
+      "Cümlede iki geçmiş eylem varsa önce olan Past Perfect, sonra olan Past Simple olur.",
+      "'By the time + Past Simple' görürsen ana cümle Past Perfect ister.",
+      "Dolaylı anlatımda geçmiş eylem Past Perfect'e kayar (He said he had finished)."
+    ],
+    "examples": [
+      {
+        "en": "By the time the rescue team arrived, the climbers had already been trapped for two days.",
+        "tr": "Kurtarma ekibi geldiğinde dağcılar iki gündür mahsur kalmıştı."
+      },
+      {
+        "en": "Hardly had she left the office when the phone rang.",
+        "tr": "Ofisten çıkar çıkmaz telefon çaldı."
+      }
+    ],
+    "traps": [
+      "Geçmişte tek bir eylem varsa Past Perfect gerekmez.",
+      "Hardly ... WHEN, No sooner ... THAN; ikisini karıştırma."
+    ],
+    "tip": "İki geçmiş eylemden önce olana had + V3."
+  },
+  {
+    "id": "g-future-forms",
+    "category": "Zamanlar",
+    "tr": "Gelecek Zaman Yapıları",
+    "rule": "will / going to / Present Continuous / Future Continuous / Future Perfect ayrımı",
+    "group": [
+      "will + V1",
+      "be going to + V1",
+      "will be + V-ing",
+      "will have + V3"
+    ],
+    "explanation": [
+      "will: anlık karar, tahmin, vaat. Going to: önceden verilmiş karar veya kanıta dayalı tahmin (Look at those clouds! It is going to rain).",
+      "Present Continuous: kesinleşmiş plan (I am seeing the dentist tomorrow). Present Simple: tarife (The flight departs at 6).",
+      "Future Continuous (will be V-ing): gelecekte belirli bir anda sürüyor olacak eylem: This time next week I will be lying on a beach.",
+      "Future Perfect (will have V3): gelecekte bir ana kadar tamamlanmış olacak eylem: By 2030 they will have built the bridge."
+    ],
+    "tactics": [
+      "'By 2040 / by next year / by the time + Present Simple' → Future Perfect.",
+      "'This time tomorrow / at 5 p.m. tomorrow' → Future Continuous.",
+      "when, as soon as, until, before, after, if, unless sonrasında will kullanılmaz."
+    ],
+    "examples": [
+      {
+        "en": "By the time you read this report, we will have completed the survey.",
+        "tr": "Bu raporu okuduğunuzda anketi tamamlamış olacağız."
+      },
+      {
+        "en": "Next year at this time, I will be working in London.",
+        "tr": "Gelecek yıl şu zamanlar Londra'da çalışıyor olacağım."
+      }
+    ],
+    "traps": [
+      "'When he will arrive' yanlıştır → when he arrives.",
+      "Dolaylı sorularda (I wonder when he will come) will kullanılabilir; çünkü when burada soru sözcüğüdür."
+    ],
+    "tip": "By + gelecek zaman → will have V3; belirli an → will be V-ing."
+  },
+  {
+    "id": "g-time-clause-tense",
+    "category": "Zamanlar",
+    "tr": "Zaman ve Koşul Cümleciklerinde Zaman Uyumu",
+    "rule": "Gelecek anlamlı zaman / koşul yan cümlelerinde will kullanılmaz",
+    "group": [
+      "when / as soon as / until / before / after + Present",
+      "If + Present, will + V1",
+      "Past + Past (zaman uyumu)"
+    ],
+    "explanation": [
+      "Gelecekten söz ederken when, while, as soon as, until, before, after, by the time, once, if, unless, as long as sonrasında Present Simple (veya Present Perfect) kullanılır; will gelmez.",
+      "Present Perfect tamamlanma vurgusu içindir: I will call you as soon as I have finished.",
+      "Ana cümle geçmişse yan cümlede Present kullanılamaz: Past Simple, Past Continuous veya Past Perfect gelir.",
+      "Genel doğrularda her iki cümle Present Simple olur."
+    ],
+    "tactics": [
+      "Bağlaçtan sonraki fiil şıklarında will ve would içerenleri önce ele.",
+      "Ana cümle geçmiş zamansa yan cümlede şimdiki zaman şıklarını ele.",
+      "Until / as soon as sonrasında fiil olumlu yazılır; anlam olumsuz olabilir."
+    ],
+    "examples": [
+      {
+        "en": "I will tell him the news when he arrives tomorrow.",
+        "tr": "Yarın geldiğinde ona haberi söyleyeceğim."
+      },
+      {
+        "en": "If the weather is bad tomorrow, we will cancel the trip.",
+        "tr": "Hava yarın kötü olursa gezi iptal edeceğiz."
+      }
+    ],
+    "traps": [
+      "Dolaylı sorularda will kullanılır: I wonder when he will come.",
+      "'If' dolaylı soruda 'whether' anlamındaysa will gelebilir: I don't know if he will come."
+    ],
+    "tip": "Zaman / koşul bağlacından sonra will yok."
+  },
+  {
+    "id": "g-passive-basic",
+    "category": "Çatı (Passive)",
+    "tr": "Passive Voice (Edilgen Çatı)",
+    "rule": "Özne eylemden etkileniyorsa be + V3; yalnızca geçişli fiiller edilgen olur",
+    "group": [
+      "am / is / are + V3",
+      "was / were + V3",
+      "has / have been + V3",
+      "will be + V3",
+      "is being + V3"
+    ],
+    "explanation": [
+      "Özne eylemi yapan değil de eylemden etkilenense passive kullanılır. Yalnızca geçişli (transitive) fiiller passive olur.",
+      "Geçişsiz (intransitive) fiiller passive olmaz: happen, occur, arrive, die, rise, appear, remain, consist of, belong, last, cost.",
+      "Zamana göre be fiili değişir: is V3, was V3, has been V3, had been V3, will be V3, is being V3, must be V3.",
+      "Eylemi yapan bilinmiyor veya önemsizse by + agent kullanılmaz.",
+      "İki nesneli fiillerde (give, send, offer, show, tell) iki passive yapılabilir: I was given a book / A book was given to me."
+    ],
+    "tactics": [
+      "Boşluktan sonra by + kişi / şey varsa ya da özne eylemi yapamıyorsa passive düşün.",
+      "Boşluktan sonra nesne varsa genellikle aktif, nesne yoksa ve fiil geçişliyse passive.",
+      "Happen, occur, take place, rise, consist of, belong gibi fiillerle passive şıkkını ele."
+    ],
+    "examples": [
+      {
+        "en": "The new regulations were introduced last year.",
+        "tr": "Yeni düzenlemeler geçen yıl getirildi."
+      },
+      {
+        "en": "The bridge is being repaired at the moment.",
+        "tr": "Köprü şu anda onarılıyor."
+      }
+    ],
+    "traps": [
+      "'The accident was happened' yanlıştır (happen geçişsizdir).",
+      "Passive fiilden sonra nesne gelmez; ancak iki nesneli fiillerde ikinci nesne kalabilir."
+    ],
+    "tip": "Özne etkileniyorsa be + V3; geçişsiz fiil passive olmaz."
+  },
+  {
+    "id": "g-passive-special",
+    "category": "Çatı (Passive)",
+    "tr": "Özel Passive Yapıları",
+    "rule": "It is said that ... / is said to V1 / have something done / need V-ing",
+    "group": [
+      "It is said that + cümle",
+      "S + is said to V1 / to have V3",
+      "have / get + nesne + V3",
+      "need + V-ing = need to be V3",
+      "being V3 / to be V3"
+    ],
+    "explanation": [
+      "It is said / believed / thought / reported / claimed / expected that + cümle ≈ S + is said to V1 (şimdiki), to have V3 (daha önceki): He is said to have left the country.",
+      "Causative: have / get + nesne + V3 = işi başkasına yaptırmak: I had my car repaired.",
+      "need / want / deserve / require + V-ing, need to be V3 ile aynı anlamdadır: The house needs painting.",
+      "Gerund ve infinitive passive: being V3, to be V3. He hates being told what to do. She wants to be promoted."
+    ],
+    "tactics": [
+      "'Is said to have V3': söyleme şimdi, olay daha önce.",
+      "'Yaptırmak' anlamı varsa have / get + nesne + V3.",
+      "Need'den sonra V-ing veya to be V3 gelir; 'need to repair' işi kendisinin yapacağı anlamındadır."
+    ],
+    "examples": [
+      {
+        "en": "The suspect is believed to have fled the country.",
+        "tr": "Şüphelinin ülkeden kaçtığına inanılıyor."
+      },
+      {
+        "en": "We had the contract reviewed by a lawyer.",
+        "tr": "Sözleşmeyi bir avukata incelettik."
+      }
+    ],
+    "traps": [
+      "Consist of, belong to gibi fiiller passive yapılmaz.",
+      "'Is said to be V-ing' sürmekte olan eylem için kullanılır: He is said to be living abroad."
+    ],
+    "tip": "Yaptırma: have + nesne + V3; need + V-ing."
+  },
+  {
+    "id": "g-conditionals",
+    "category": "Koşul & Dilek",
+    "tr": "If Cümleleri (Conditionals)",
+    "rule": "If cümlesinin zamanı ile ana cümlenin yapısını eşleştir",
+    "group": [
+      "Tip 0: If + Present, Present",
+      "Tip 1: If + Present, will V1",
+      "Tip 2: If + V2, would V1",
+      "Tip 3: If + had V3, would have V3",
+      "Karma tipler"
+    ],
+    "explanation": [
+      "Tip 0 (genel doğru): If you heat ice, it melts. Tip 1 (gerçek olasılık): If it rains, we will stay home.",
+      "Tip 2 (şimdiki / gelecekteki gerçek dışı): If I were you, I would accept it. Tip 3 (geçmişteki gerçek dışı): If he had studied, he would have passed.",
+      "Karma: If he had studied harder, he would have a better job now (geçmiş sebep, şimdiki sonuç).",
+      "If cümlesinde will / would kullanılmaz (kibar rica hariç: If you would wait ...).",
+      "Unless = if not; provided that / as long as / on condition that = yeter ki; otherwise / or else = aksi takdirde.",
+      "If'siz devrik: Had + S + V3, Were + S, Should + S + V1."
+    ],
+    "tactics": [
+      "If cümlesindeki zamanı bul, ana cümlenin yapısını ona göre eşleştir.",
+      "Ana cümlede would have V3 varsa if cümlesi had V3 olmalıdır.",
+      "Cümle Had / Were / Should ile başlıyorsa ve if yoksa devrik koşul vardır."
+    ],
+    "examples": [
+      {
+        "en": "If the company had invested earlier, it would have avoided the crisis.",
+        "tr": "Şirket daha erken yatırım yapmış olsaydı krizden kaçınırdı."
+      },
+      {
+        "en": "If I were you, I would reconsider the offer.",
+        "tr": "Senin yerinde olsam teklifi yeniden düşünürdüm."
+      }
+    ],
+    "traps": [
+      "'If I would have known' yanlıştır → If I had known.",
+      "Were tüm öznelerle kullanılır (If he were)."
+    ],
+    "tip": "If cümlesi bir zaman geride: Tip 2 → V2, Tip 3 → had V3."
+  },
+  {
+    "id": "g-wish",
+    "category": "Koşul & Dilek",
+    "tr": "Wish, If only, Would rather, It is time",
+    "rule": "Gerçek dışı dilek ve tercih: fiil bir zaman geriye gider",
+    "group": [
+      "wish + V2",
+      "wish + had V3",
+      "wish + would V1",
+      "would rather + S + V2",
+      "It is (high) time + S + V2"
+    ],
+    "explanation": [
+      "Şimdiki zamanla ilgili dilek: wish + V2 (I wish I knew the answer). Geçmişle ilgili pişmanlık: wish + had V3.",
+      "Gelecek veya başkasının davranışıyla ilgili şikâyet: wish + would V1 (I wish he would stop).",
+      "If only = wish, ama daha vurguludur.",
+      "Would rather + S + V2 (şimdi / gelecek tercih), would rather + S + had V3 (geçmiş).",
+      "It is time + S + V2: yapılma zamanı geldi (It is high time we left). 'Were' tüm öznelerle kullanılır."
+    ],
+    "tactics": [
+      "Wish'ten sonra fiil bir basamak geriye gider: şimdi → V2, geçmiş → had V3.",
+      "'It is (high) time' sonrasında özne + Past Simple gelir.",
+      "Would rather özneler farklıysa Past Simple ister."
+    ],
+    "examples": [
+      {
+        "en": "I wish I had taken the job offer last year.",
+        "tr": "Keşke geçen yıl iş teklifini kabul etseydim."
+      },
+      {
+        "en": "It is high time governments took action against climate change.",
+        "tr": "Hükümetlerin iklim değişikliğine karşı harekete geçmesinin tam zamanı."
+      }
+    ],
+    "traps": [
+      "Kendi davranışın için 'I wish I would' kullanılmaz (I wish I could / were).",
+      "'I wish I know' yanlıştır; wish'ten sonra Present gelmez."
+    ],
+    "tip": "Wish + bir basamak geri: V2 / had V3 / would V1."
+  },
+  {
+    "id": "g-subjunctive",
+    "category": "Koşul & Dilek",
+    "tr": "Subjunctive: suggest, insist, demand ...",
+    "rule": "Öneri, emir ve zorunluluk bildiren ifadelerden sonra that + özne + V1",
+    "group": [
+      "suggest / recommend / insist / demand / propose / request + (that) S + (should) V1",
+      "It is essential / vital / important that S + (should) V1"
+    ],
+    "explanation": [
+      "Bu fiil ve sıfatlardan sonraki that cümlesinde fiil yalın (V1) ya da should + V1 olur; özneye göre -s almaz ve zaman uyumu aranmaz.",
+      "Fiiller: suggest, recommend, propose, advise, insist, demand, request, require, order, urge. Sıfatlar: essential, vital, important, necessary, imperative, desirable.",
+      "Olumsuz: that S + not + V1.",
+      "Suggest + V-ing aynı öznenin önerisidir: He suggested going by train."
+    ],
+    "tactics": [
+      "Bu fiillerden sonra 'that + özne + V1' şıkkını ara; goes / went / will go gibi şıkları ele.",
+      "'It is essential that he ____' tipinde be / attend gibi yalın fiili seç."
+    ],
+    "examples": [
+      {
+        "en": "The committee recommended that the proposal be rejected.",
+        "tr": "Komite teklifin reddedilmesini tavsiye etti."
+      },
+      {
+        "en": "It is vital that every employee attend the training.",
+        "tr": "Her çalışanın eğitime katılması çok önemlidir."
+      }
+    ],
+    "traps": [
+      "Insist 'ısrar etmek' anlamında gerçek durumu bildirirse normal zaman kullanılır (She insisted that he was innocent).",
+      "Suggest + to V1 yoktur."
+    ],
+    "tip": "Öneri / emir fiilinden sonra that + S + V1."
+  },
+  {
+    "id": "g-modals-present",
+    "category": "Modallar",
+    "tr": "Modal Fiiller (Şimdi ve Gelecek)",
+    "rule": "Yetenek, izin, olasılık, zorunluluk ve tavsiye",
+    "group": [
+      "can / could",
+      "may / might",
+      "must / have to",
+      "should / ought to",
+      "will / would"
+    ],
+    "explanation": [
+      "Yetenek: can / could / be able to. İzin: can / may. Olasılık: may / might / could. Güçlü çıkarım: must; imkânsız: can't.",
+      "Zorunluluk: must (içsel), have to (dışsal). Mustn't = yasak; don't have to = zorunlu değil.",
+      "Tavsiye: should / ought to / had better.",
+      "Modal + V1: modalden sonra to, -s veya -ing gelmez (ought to hariç).",
+      "Geçmiş ve gelecek için be able to, had to gibi yapılar modal yerine geçer."
+    ],
+    "tactics": [
+      "Modalden sonra yalın fiil gelir; 'can to go' ve 'must goes' şıkları elenir.",
+      "Çıkarım cümlelerinde: must be (kesin), can't be (imkânsız), might be (belki).",
+      "Don't have to ile mustn't anlam farkını bil."
+    ],
+    "examples": [
+      {
+        "en": "The results must be accurate because they were checked twice.",
+        "tr": "Sonuçlar iki kez kontrol edildiği için doğru olmalı."
+      },
+      {
+        "en": "Employees don't have to wear a uniform, but they must wear a badge.",
+        "tr": "Çalışanların üniforma giymesi gerekmiyor ama rozet takmaları zorunlu."
+      }
+    ],
+    "traps": [
+      "Mustn't ≠ don't have to.",
+      "Could genel yetenek için kullanılır; tek seferlik başarı için was able to kullanılır."
+    ],
+    "tip": "Modal + V1; mustn't yasak, don't have to gereksiz."
+  },
+  {
+    "id": "g-modals-perfect",
+    "category": "Modallar",
+    "tr": "Modal + have + V3 (Geçmişe Dönük Modallar)",
+    "rule": "Geçmişle ilgili çıkarım, pişmanlık ve eleştiri",
+    "group": [
+      "must have V3",
+      "can't / couldn't have V3",
+      "may / might / could have V3",
+      "should / ought to have V3",
+      "needn't have V3"
+    ],
+    "explanation": [
+      "must have V3: geçmişle ilgili güçlü çıkarım (He must have left early).",
+      "can't have V3: geçmişle ilgili 'olamaz'.",
+      "may / might / could have V3: belki olmuştur. Could have V3 ayrıca 'yapabilirdi ama yapmadı' demektir.",
+      "should have V3: yapılmalıydı ama yapılmadı (pişmanlık / eleştiri). Shouldn't have V3: yapılmamalıydı ama yapıldı.",
+      "needn't have V3: gereksiz yere yapıldı."
+    ],
+    "tactics": [
+      "Geçmiş zaman ipuçları (yesterday, last night) ile birlikte yorum anlamı varsa modal + have V3 ara.",
+      "Kesin çıkarım → must have; imkânsız → can't have; olasılık → may / might have.",
+      "Should have V3 → yapılmadı."
+    ],
+    "examples": [
+      {
+        "en": "The streets are wet. It must have rained during the night.",
+        "tr": "Sokaklar ıslak. Gece yağmur yağmış olmalı."
+      },
+      {
+        "en": "You should have told me earlier; I could have helped you.",
+        "tr": "Bana daha önce söylemeliydin; sana yardım edebilirdim."
+      }
+    ],
+    "traps": [
+      "Must have V3 çıkarım içindir; geçmişteki zorunluluk için had to kullanılır.",
+      "Could have V3 bağlama göre 'olabilirdi' veya 'yapabilirdi (ama yapmadı)' anlamına gelir."
+    ],
+    "tip": "Geçmişe dönük yorum: modal + have + V3."
+  },
+  {
+    "id": "g-gerund-infinitive",
+    "category": "Fiilimsiler",
+    "tr": "Gerund (V-ing) mı, Infinitive (to V) mu?",
+    "rule": "Fiilin kendisi sonrasındaki yapıyı belirler; edattan sonra her zaman V-ing",
+    "group": [
+      "fiil + V-ing",
+      "fiil + to V1",
+      "edat + V-ing",
+      "stop / remember / forget / try + V-ing veya to V1"
+    ],
+    "explanation": [
+      "V-ing alan fiiller: enjoy, avoid, finish, keep, consider, suggest, admit, deny, postpone, risk, mind, practise, miss, resist, appreciate, can't help.",
+      "To V1 alan fiiller: decide, hope, plan, manage, fail, refuse, afford, agree, promise, offer, learn, seem, tend, expect, intend.",
+      "Edat + V-ing: interested in doing, capable of doing, instead of doing, without doing, after / before doing, by doing.",
+      "Anlam değiştirenler: stop to V (durup yapmak) / stop V-ing (bırakmak); remember to V (yapmayı hatırlamak) / remember V-ing (yaptığını hatırlamak); try to V (çabalamak) / try V-ing (denemek).",
+      "'To' bazen edattır ve V-ing alır: look forward to, be used to, object to, be committed to, in addition to, prior to, with a view to."
+    ],
+    "tactics": [
+      "Fiili tanı: -ing mi to mu? Önündeki sözcük edatsa her zaman V-ing.",
+      "'To'nun edat olup olmadığını anla: sonrasına isim koyabiliyorsan edattır (look forward to the meeting).",
+      "'enjoy to V' ve 'decide V-ing' gibi şıkları listeyle ele."
+    ],
+    "examples": [
+      {
+        "en": "The manager avoided answering the journalists' questions.",
+        "tr": "Yönetici gazetecilerin sorularını yanıtlamaktan kaçındı."
+      },
+      {
+        "en": "We are looking forward to hearing from you.",
+        "tr": "Sizden haber almayı dört gözle bekliyoruz."
+      }
+    ],
+    "traps": [
+      "Suggest sonrası to V1 gelmez (suggest V-ing / suggest that S V1).",
+      "Prefer V-ing to V-ing ve prefer to V1 rather than V1 kalıplarını karıştırma."
+    ],
+    "tip": "Edat → V-ing; decide / hope / plan → to V1; avoid / enjoy / finish → V-ing."
+  },
+  {
+    "id": "g-participles",
+    "category": "Fiilimsiler",
+    "tr": "Participle Yapıları ve Kısaltılmış Cümleler",
+    "rule": "Özneleri aynı iki cümleden birini V-ing / V3 / Having V3 ile kısalt",
+    "group": [
+      "V-ing (aktif, eş zamanlı)",
+      "V3 (pasif)",
+      "Having + V3 (önce olan)",
+      "Being + V3"
+    ],
+    "explanation": [
+      "İki cümlenin öznesi aynıysa birinci cümle kısaltılabilir: Walking down the street, he met an old friend (= While he was walking ...).",
+      "Pasif anlam: V3 veya Being V3: Written in 1920, the novel remains popular.",
+      "Önce tamamlanan eylem: Having finished the work, she went home.",
+      "Kısaltılmış ifadenin öznesi, ana cümlenin öznesidir. Eylemi gerçekte yapan özne ana cümlede olmalıdır (dangling modifier hatasını sorar).",
+      "Bağlaç korunabilir: While walking ..., After finishing ..., Although tired ..."
+    ],
+    "tactics": [
+      "Virgülden önce participle ile başlayan ifade varsa ana cümlenin öznesini bul: eylemi bu özne yapabiliyor mu?",
+      "Aktif anlam (özne yapıyor) → V-ing; pasif anlam (özneye yapılıyor) → V3 / being V3.",
+      "Önce olan eylem için Having V3."
+    ],
+    "examples": [
+      {
+        "en": "Having been warned about the risks, the investors withdrew their funds.",
+        "tr": "Riskler konusunda uyarıldıktan sonra yatırımcılar fonlarını çekti."
+      },
+      {
+        "en": "Founded in 1923, the university is one of the oldest in the country.",
+        "tr": "1923'te kurulan üniversite ülkenin en eskilerinden biridir."
+      }
+    ],
+    "traps": [
+      "'Walking down the street, the rain started' yanlıştır: yürüyen yağmur olamaz.",
+      "Aktif / pasif karışması: 'Written by a famous author' pasiftir, özne yazılan şey olmalıdır."
+    ],
+    "tip": "Kısaltılan ifadenin öznesi ana cümlenin öznesidir."
+  },
+  {
+    "id": "g-causatives",
+    "category": "Fiilimsiler",
+    "tr": "Ettirgen Yapılar (Causative)",
+    "rule": "Bir işi başkasına yaptırmak veya birine bir şeyi yaptırmak",
+    "group": [
+      "have + nesne + V3",
+      "have + kişi + V1",
+      "get + nesne + V3",
+      "get + kişi + to V1",
+      "make / let + kişi + V1",
+      "help + kişi + (to) V1"
+    ],
+    "explanation": [
+      "Have / get + nesne + V3: işi başkasına yaptırmak (nesne eylemi yapmaz): I had my car repaired.",
+      "Have + kişi + V1 / get + kişi + to V1: birine bir şey yaptırmak: I had him fix it / I got him to fix it.",
+      "Make + kişi + V1 (zorlama), let + kişi + V1 (izin), help + kişi + (to) V1.",
+      "Pasifte make, to alır: He was made to apologise. Let yerine be allowed to kullanılır."
+    ],
+    "tactics": [
+      "Nesne ile fiil arasında pasif ilişki varsa (araba tamir edilir) V3 seç.",
+      "Make / let / have + kişi + V1 (to yok); get + kişi + to V1.",
+      "Let pasif yapılmaz; be allowed to kullanılır."
+    ],
+    "examples": [
+      {
+        "en": "We had the contract reviewed by a lawyer.",
+        "tr": "Sözleşmeyi bir avukata incelettik."
+      },
+      {
+        "en": "The teacher made the students rewrite the essay.",
+        "tr": "Öğretmen öğrencilere kompozisyonu yeniden yazdırdı."
+      }
+    ],
+    "traps": [
+      "Make pasifte to alır: was made to wait.",
+      "Let, 'She was allowed to leave' şeklinde pasife çevrilir."
+    ],
+    "tip": "Yaptırma: have / get + nesne + V3."
+  },
+  {
+    "id": "g-relative-clauses",
+    "category": "Yan Cümlecikler",
+    "tr": "Relative Clauses (İlgi Cümlecikleri)",
+    "rule": "Eksik ögeye göre who / whom / which / that / whose / where seç",
+    "group": [
+      "who / whom / that",
+      "which / that",
+      "whose + isim",
+      "where / when / why",
+      "edat + whom / which"
+    ],
+    "explanation": [
+      "Kişi → who (özne), whom (nesne); şey → which; defining cümlede ikisi için that. Whose iyelik bildirir: the man whose car was stolen.",
+      "Defining (virgülsüz) ve non-defining (virgüllü) farkı: non-defining cümlede that kullanılmaz; çıkarılsa ana anlam bozulmaz.",
+      "Edat + whom / which: the person to whom I spoke. Edatın hemen ardından that gelmez.",
+      "Nesne konumundaki who / which / that atılabilir; özne konumundakiler atılamaz.",
+      "Which, önceki cümlenin tamamını da niteleyebilir: He passed the exam, which surprised everyone.",
+      "Where = in which; when = in / on which; why = for which."
+    ],
+    "tactics": [
+      "Boşluktan sonra eksik ögeyi bul: özne eksikse who / which / that; nesne eksikse whom / which / that / atılır; iyelik varsa whose.",
+      "Virgülden veya edattan hemen sonra gelen yerde that şıkkını ele.",
+      "Whose'dan sonra isim gelir ve article almaz (whose book)."
+    ],
+    "examples": [
+      {
+        "en": "The scientist whose research won the prize works at Oxford.",
+        "tr": "Araştırmasıyla ödül kazanan bilim insanı Oxford'da çalışıyor."
+      },
+      {
+        "en": "The city in which she was born has changed a lot.",
+        "tr": "Doğduğu şehir çok değişti."
+      }
+    ],
+    "traps": [
+      "'Whose the book' yanlıştır.",
+      "All, everything, nothing, something sonrasında that gelir (which değil)."
+    ],
+    "tip": "Eksik özne → who / which; iyelik → whose; edatlı → whom / which."
+  },
+  {
+    "id": "g-reduced-relative",
+    "category": "Yan Cümlecikler",
+    "tr": "Relative Clause'ları Kısaltma",
+    "rule": "Özne konumundaki who / which + be atılır: V-ing, V3 veya to V1 kalır",
+    "group": [
+      "who / which is V-ing → V-ing",
+      "who / which is V3 → V3",
+      "who / which V → V-ing",
+      "the first / last / only + to V1"
+    ],
+    "explanation": [
+      "Özne konumundaki who / which / that ve be fiili atılır: The people (who are) waiting outside ...",
+      "Aktif ve süren eylem: V-ing (the man sitting next to me). Pasif: V3 (the books published last year).",
+      "Be olmayan fiilde (who works) V-ing kullanılır: a company producing software.",
+      "First, last, only, next + isim + to V1: the first person to arrive, the only one to survive."
+    ],
+    "tactics": [
+      "İsimden hemen sonra virgülsüz bir fiil biçimi (V-ing / V3) varsa kısaltılmış relative clause olabilir.",
+      "İsim eylemi yapıyorsa V-ing; eylem isme yapılıyorsa V3.",
+      "First / last / only / next sonrası to V1 ara."
+    ],
+    "examples": [
+      {
+        "en": "The employees working on the project will receive a bonus.",
+        "tr": "Projede çalışan çalışanlar prim alacak."
+      },
+      {
+        "en": "She was the first woman to win the prize.",
+        "tr": "Ödülü kazanan ilk kadındı."
+      }
+    ],
+    "traps": [
+      "Kısaltılan cümlede who / which kalmaz: 'who waiting' yanlıştır.",
+      "Pasif anlam için V-ing değil V3 kullanılır."
+    ],
+    "tip": "İsim yapıyorsa V-ing; ona yapılıyorsa V3."
+  },
+  {
+    "id": "g-noun-clauses",
+    "category": "Yan Cümlecikler",
+    "tr": "Noun Clauses (İsim Cümlecikleri)",
+    "rule": "that / whether / if / wh- ile başlar; sonrasındaki sıra düz cümle sırasıdır",
+    "group": [
+      "that + S + V",
+      "whether / if + S + V",
+      "wh- + S + V",
+      "what / whatever + S + V"
+    ],
+    "explanation": [
+      "Noun clause cümlede özne, nesne veya tamlayan olur: What he said surprised me. I don't know where she lives.",
+      "That: bilgi cümlesi; whether / if: evet-hayır sorusu; wh- sözcükleri: dolaylı soru. Sonrasında düz cümle sırası (S + V) gelir.",
+      "Edattan sonra if değil whether kullanılır; 'whether or not' ve 'whether to V1' mümkündür.",
+      "What = the thing that (kendi içinde eksik özne / nesne taşır): What matters is the result.",
+      "The fact that, the idea that, the question whether gibi isim + that / whether yapıları vardır."
+    ],
+    "tactics": [
+      "Dolaylı soruda yardımcı fiil öne gelmez: 'I wonder where did he go' yanlıştır.",
+      "Boşluktan sonraki cümle tamsa that; eksik özne / nesne varsa what.",
+      "Boşluk edattan sonraysa whether (that / if değil)."
+    ],
+    "examples": [
+      {
+        "en": "What the committee decided has not been announced yet.",
+        "tr": "Komitenin ne karar verdiği henüz açıklanmadı."
+      },
+      {
+        "en": "It remains unclear whether the new policy will work.",
+        "tr": "Yeni politikanın işe yarayıp yaramayacağı belirsizliğini koruyor."
+      }
+    ],
+    "traps": [
+      "That ↔ what: 'He told me ____ he needed' → nesne eksikse what.",
+      "If yalnızca fiilin nesnesi olan cümlede kullanılır; özne veya edattan sonra whether gerekir."
+    ],
+    "tip": "Dolaylı soru → düz cümle sırası; edattan sonra whether."
+  },
+  {
+    "id": "g-inversion",
+    "category": "Devrik & Vurgu",
+    "tr": "Devrik Cümleler (Inversion)",
+    "rule": "Olumsuz / kısıtlayıcı zarf başa gelirse yardımcı fiil öznenin önüne geçer",
+    "group": [
+      "Never / Rarely / Seldom / Hardly / Little + yardımcı fiil + özne",
+      "Not only / No sooner / Not until / Only after / Only when",
+      "Under no circumstances / On no account / In no way",
+      "So + sıfat / Such + be ... that",
+      "Neither / Nor / So + yardımcı fiil + özne"
+    ],
+    "explanation": [
+      "Olumsuz veya kısıtlayıcı zarf cümle başına gelince yardımcı fiil özneden önce gelir: Never have I seen such a mess.",
+      "Not only did he arrive late, but he also forgot the documents. No sooner had he left than it started raining. Hardly had she entered when the lights went out.",
+      "Only after / only when / only by + ifade: Only after the results were announced did they realise the mistake. Not until + ifade: Not until midnight did the fire stop.",
+      "Yardımcı fiil yoksa do / does / did eklenir ve asıl fiil yalın olur: Little did he know. Seldom does he complain.",
+      "So / such ile başlayan: So great was the damage that ... Such was the demand that ...",
+      "Neither / nor / so + yardımcı fiil + özne: So do I. Neither can she. Koşulda Had / Were / Should."
+    ],
+    "tactics": [
+      "Cümle başında olumsuz zarf (never, rarely, seldom, hardly, little, no sooner, not only, not until, only after / when, under no circumstances) görürsen yardımcı fiil + özne sırasını ara.",
+      "'Not until' ve 'Only + zarf' cümlelerinde devrik, ana cümlededir; zaman yan cümlesinde devrik olmaz.",
+      "Devrik cümlede ana fiil yalın hale gelir: Rarely does he complain (complains değil)."
+    ],
+    "examples": [
+      {
+        "en": "Rarely do students realise how much sleep affects their performance.",
+        "tr": "Öğrenciler uykunun performanslarını ne kadar etkilediğini nadiren fark eder."
+      },
+      {
+        "en": "Not until the final report was published did the public learn the truth.",
+        "tr": "Nihai rapor yayımlanana kadar halk gerçeği öğrenmedi."
+      }
+    ],
+    "traps": [
+      "'Not until' ifadesinden sonraki zaman yan cümlesinde devrik olmaz; devrik ana cümlededir.",
+      "'Hardly ... than' yanlıştır: hardly ... when."
+    ],
+    "tip": "Olumsuz zarf başta → yardımcı fiil + özne."
+  },
+  {
+    "id": "g-cleft",
+    "category": "Devrik & Vurgu",
+    "tr": "Vurgu Yapıları: It is ... that / What ...",
+    "rule": "Bir öğeyi öne çıkarmak için cleft (yarılmış) cümleler kullanılır",
+    "group": [
+      "It is / was + vurgulanan öğe + that ...",
+      "What + S + V + is / was ...",
+      "All (that) + S + V + is ...",
+      "It was not until ... that ..."
+    ],
+    "explanation": [
+      "It was in 1999 that the company went public. Vurgulanan öğe zaman, yer, özne veya nesne olabilir.",
+      "Pseudo-cleft: What I need is more time. All I want is peace.",
+      "Vurgulanan öğe kişiyse who, diğer durumlarda that kullanılır.",
+      "It was not until midnight that the fire was brought under control. (Not until yapısının cleft hali; devrik değildir.)",
+      "Do / does / did + V1 olumlu vurgu yapar: I did tell you."
+    ],
+    "tactics": [
+      "'It is / was ...' ile başlayan cümlede 'that' ile devam eden şıkkı ara.",
+      "'It was not until ... that ...' kalıbında that kullanılır; devrik yapı gerekmez.",
+      "What cümlesi özneyse sonrasında is / was gelir."
+    ],
+    "examples": [
+      {
+        "en": "It was in 1999 that the company went public.",
+        "tr": "Şirketin halka açıldığı yıl 1999'du."
+      },
+      {
+        "en": "What matters most is the quality of the education.",
+        "tr": "En önemli olan eğitimin kalitesidir."
+      }
+    ],
+    "traps": [
+      "'It was yesterday when' yanlıştır → that.",
+      "What cümlesinden sonra 'is that' veya 'is to V1' gelebilir."
+    ],
+    "tip": "Vurgu: It is / was ... that; What ... is ..."
+  },
+  {
+    "id": "g-agreement",
+    "category": "Uyum",
+    "tr": "Özne – Fiil Uyumu",
+    "rule": "Asıl özneyi bul; araya giren ifadeleri kapat",
+    "group": [
+      "each / every / one of + tekil fiil",
+      "a number of ↔ the number of",
+      "either / neither ... or / nor",
+      "along with / together with / as well as",
+      "news, economics, physics → tekil"
+    ],
+    "explanation": [
+      "Each, every, either, neither, one of the + çoğul isim, nobody, everyone, something → tekil fiil.",
+      "A number of + çoğul isim + çoğul fiil; The number of + çoğul isim + tekil fiil.",
+      "Both, few, several, many, a couple of → çoğul fiil.",
+      "Either ... or / Neither ... nor / Not only ... but also: fiil yakındaki özneye uyar.",
+      "Along with, together with, as well as, in addition to araya girerse fiil asıl özneye uyar.",
+      "Kurum adları (committee, team, government) genellikle tekil; üyeler vurgulanırsa çoğul olabilir. News, mathematics, economics, physics, measles tekil; ölçü ifadeleri (ten years, five miles) tekil sayılır."
+    ],
+    "tactics": [
+      "Araya giren ifadeleri (edatlı gruplar, virgüllü ekler) kapat ve çıplak özneyi bul.",
+      "A number of ↔ the number of ayrımı sık çıkar.",
+      "Neither / either of + çoğul isim → tekil fiil; neither ... nor → yakın özne."
+    ],
+    "examples": [
+      {
+        "en": "The number of students who study abroad has increased dramatically.",
+        "tr": "Yurtdışında okuyan öğrenci sayısı çarpıcı biçimde arttı."
+      },
+      {
+        "en": "A number of experts have criticised the policy.",
+        "tr": "Birkaç uzman politikayı eleştirdi."
+      }
+    ],
+    "traps": [
+      "'One of the students who ____' yapısında fiil çoğul isme uyar; 'the only one of the students who ____' yapısında tekil olur.",
+      "The majority of + çoğul isim çoğul fiil alır."
+    ],
+    "tip": "Asıl özneyi bul; a number of → çoğul, the number of → tekil."
+  },
+  {
+    "id": "g-quantifiers",
+    "category": "Belirleyiciler",
+    "tr": "Quantifiers (Miktar Belirleyiciler)",
+    "rule": "Sayılabilir / sayılamaz ayrımı ve olumlu / olumsuz anlam farkı",
+    "group": [
+      "many / few / a few / fewer + sayılabilir",
+      "much / little / a little / less + sayılamaz",
+      "some / any / no / none",
+      "all / most / both / either / neither / each / every",
+      "another / other / the other / others"
+    ],
+    "explanation": [
+      "Sayılabilir çoğul: many, (a) few, fewer, several, a number of; sayılamaz: much, (a) little, less, a great deal of, an amount of.",
+      "Few / little = azıcık, yetersiz (olumsuz anlam); a few / a little = birkaç, biraz (olumlu).",
+      "Most of / all of / some of + the + isim; most / all + isim (genel).",
+      "Both ... and + çoğul; either / neither + tekil isim; each of the + çoğul isim.",
+      "Another + tekil sayılabilir; other + çoğul; the other + belirli; others (zamir, çoğul); the others."
+    ],
+    "tactics": [
+      "İsim sayılabilirse many / few / fewer; sayılamazsa much / little / less.",
+      "'Most / all + isim' ile 'most of the / all of the + isim' farkını gözle.",
+      "'Another + tekil', 'other + çoğul', 'the other + tekil / çoğul', 'others' tek başına kullanılır."
+    ],
+    "examples": [
+      {
+        "en": "Few people were aware of the risks involved.",
+        "tr": "Çok az insan söz konusu risklerin farkındaydı."
+      },
+      {
+        "en": "Little progress has been made in the negotiations.",
+        "tr": "Müzakerelerde çok az ilerleme kaydedildi."
+      }
+    ],
+    "traps": [
+      "Few / little olumsuz anlam taşır; 'only a few' ile karıştırma.",
+      "Olumlu cümlede a lot of, olumsuz ve soruda many / much tercih edilir."
+    ],
+    "tip": "Sayılabilir → many / few; sayılamaz → much / little."
+  },
+  {
+    "id": "g-comparison",
+    "category": "Karşılaştırma",
+    "tr": "Karşılaştırma Yapıları",
+    "rule": "Eşitlik, üstünlük, en üstünlük ve paralellik",
+    "group": [
+      "as + sıfat + as",
+      "-er / more + sıfat + than",
+      "the -est / the most + sıfat",
+      "the + comparative, the + comparative",
+      "twice / three times as ... as",
+      "much / far / even + comparative"
+    ],
+    "explanation": [
+      "Eşitlik: as ... as; olumsuz: not as / so ... as. The same as, similar to, different from, compared with / to.",
+      "Üstünlük: kısa sıfat + -er than; uzun sıfat more + sıfat + than. Güçlendirme: much, far, a lot, even, still, rather, significantly (very kullanılmaz).",
+      "En üstünlük: the -est / the most + in / of.",
+      "Kat sayısı: twice as much as, three times as many as, half as ... as.",
+      "The more ..., the more ...: The harder you work, the more you earn.",
+      "Karşılaştırmada paralellik: iki tarafın aynı türde olması gerekir: The population of Tokyo is larger than that of Paris."
+    ],
+    "tactics": [
+      "'Than' görürsen comparative; eşitlikte as ... as; the + superlative ise in / of ara.",
+      "Comparative'i güçlendirmek için much / far / even kullanılır; very ve so elenir.",
+      "'The + comparative, the + comparative' kalıbında iki the'yi eşleştir."
+    ],
+    "examples": [
+      {
+        "en": "The population of Istanbul is far larger than that of Ankara.",
+        "tr": "İstanbul'un nüfusu Ankara'nınkinden çok daha büyüktür."
+      },
+      {
+        "en": "The more you practise, the better you become.",
+        "tr": "Ne kadar çok pratik yaparsan o kadar iyi olursun."
+      }
+    ],
+    "traps": [
+      "Paralellik: 'The climate of Spain is warmer than England' yanlıştır → than that of England.",
+      "'More bigger' ve 'most biggest' çift derecelendirmedir; yanlıştır."
+    ],
+    "tip": "Than → comparative; kıyaslanan öğeler aynı türde (that of / those of)."
+  },
+  {
+    "id": "g-articles",
+    "category": "Belirleyiciler",
+    "tr": "Article'lar (a / an / the / ∅)",
+    "rule": "Sayılabilir tekil isim yalın kalamaz; the belirli ve tek olanı gösterir",
+    "group": [
+      "a / an: ilk söz, sayılabilir tekil",
+      "the: belirli, tek, üstünlük, sıra sayısı",
+      "∅: genel çoğul ve sayılamaz",
+      "such a / quite a / what a / half an hour"
+    ],
+    "explanation": [
+      "a / an: ilk kez anılan, sınıf bildiren tekil sayılabilir isim. The: ikinci kez anılan, tek olan (the sun), üstünlük derecesi, sıra sayısı (the first), the + sıfat (the rich).",
+      "Article gelmeyen: genel çoğul ve sayılamaz isimler (Information is power), diller, sporlar, öğünler, çoğu ülke adı.",
+      "Such a / quite a / rather a / what a + sıfat + isim yapısında a, sıfattan önce gelir: such a good idea; so + sıfat + a + isim: so good an idea.",
+      "The + tekil isim bir türü temsil edebilir: The computer has changed our lives.",
+      "The ile gelenler: nehir, deniz, okyanus, dağ silsilesi, ülke birlikleri (the Nile, the Alps, the United States)."
+    ],
+    "tactics": [
+      "Sayılabilir tekil isim yalın bırakılmaz: article veya belirleyici gerekir.",
+      "Üstünlük ve sıra sayısı + the.",
+      "Sayılamaz ve genel çoğul isim önünde a / an elenir."
+    ],
+    "examples": [
+      {
+        "en": "She is an honest person who always tells the truth.",
+        "tr": "Her zaman doğruyu söyleyen dürüst biridir."
+      },
+      {
+        "en": "Information is power.",
+        "tr": "Bilgi güçtür."
+      }
+    ],
+    "traps": [
+      "'An unique' yanlıştır; ünsüz sesiyle başladığı için a unique.",
+      "School / hospital / prison amaç bildirince the almaz (go to school); bina bildirince alır (go to the school)."
+    ],
+    "tip": "Sayılabilir tekil → a / an / the; genel çoğul ve sayılamaz → ∅."
+  },
+  {
+    "id": "g-pronouns",
+    "category": "Belirleyiciler",
+    "tr": "Zamirler: Reflexive, Each other, One / Ones",
+    "rule": "Özne = nesne ise reflexive; iki taraf birbirine ise each other",
+    "group": [
+      "myself / himself / themselves ...",
+      "each other / one another",
+      "one / ones",
+      "the former / the latter",
+      "that of / those of"
+    ],
+    "explanation": [
+      "Reflexive: özne ve nesne aynı kişiyse (He hurt himself); vurgu için (I did it myself); by oneself = yalnız başına.",
+      "Each other: iki taraf birbirine (They love each other); one another ikiden fazla taraf için de kullanılır.",
+      "One / ones: önceden geçen sayılabilir isim yerine: I prefer the red one; the new ones.",
+      "That of / those of: karşılaştırmada ikinci ismin tekrarını önler.",
+      "The former / the latter: iki öğeden birincisi / ikincisi."
+    ],
+    "tactics": [
+      "Özne = nesne ise reflexive; iki farklı taraf karşılıklı eylemdeyse each other.",
+      "Karşılaştırmada ikinci isim yerine that of / those of.",
+      "Sayılabilir isim yerine one / ones; sayılamaz isim yerine it / some."
+    ],
+    "examples": [
+      {
+        "en": "The two companies have helped each other for many years.",
+        "tr": "İki şirket yıllardır birbirine yardım ediyor."
+      },
+      {
+        "en": "The climate of Spain is warmer than that of Britain.",
+        "tr": "İspanya'nın iklimi Britanya'nınkinden daha sıcaktır."
+      }
+    ],
+    "traps": [
+      "'They enjoyed themselves' ile 'They enjoyed each other' farklı anlamlar verir.",
+      "'Between each other' yerine between themselves kullanılır."
+    ],
+    "tip": "Kendine → reflexive; birbirine → each other; tekrar → that of / one."
+  },
+  {
+    "id": "g-prepositions",
+    "category": "Edatlar",
+    "tr": "Bağımlı Edatlar (Dependent Prepositions)",
+    "rule": "Sıfat, fiil ve isimlerle sabit edat kalıpları",
+    "group": [
+      "sıfat + edat",
+      "fiil + edat",
+      "isim + edat"
+    ],
+    "explanation": [
+      "Sıfat + edat: capable of, aware of, responsible for, familiar with, consistent with, subject to, dependent on, independent of, similar to, different from, accustomed to, eligible for, prone to, sensitive to.",
+      "Fiil + edat: depend on, rely on, consist of, result in / from, lead to, contribute to, participate in, apologise for, object to, benefit from, cope with, comply with, account for, refer to, adapt to.",
+      "İsim + edat: reason for, increase in, demand for, solution to, cause of, effect on, attitude towards, access to, response to, key to, impact on.",
+      "Edattan sonra isim veya V-ing gelir (to V1 gelmez).",
+      "Edatsız kullanılan fiiller: discuss, mention, approach, reach, attend, enter, marry, resemble, answer, await, emphasise."
+    ],
+    "tactics": [
+      "Boşluğun önündeki sıfat, fiil veya isimle kalıbı hatırla: 'be dependent ____' → on.",
+      "Edatsız fiilleri öğren: discuss about, mention about, emphasise on, resemble with yanlıştır.",
+      "Şıklar edatsa anlamdan çok kalıbı sınar."
+    ],
+    "examples": [
+      {
+        "en": "The success of the project depends on the cooperation of all departments.",
+        "tr": "Projenin başarısı tüm bölümlerin iş birliğine bağlıdır."
+      },
+      {
+        "en": "The new regulations are expected to result in a significant reduction in costs.",
+        "tr": "Yeni düzenlemelerin maliyetlerde önemli bir düşüşle sonuçlanması bekleniyor."
+      }
+    ],
+    "traps": [
+      "Result in (sonuç doğurmak) ↔ result from (-den kaynaklanmak).",
+      "Discuss, mention, emphasise, resemble ve marry doğrudan nesne alır."
+    ],
+    "tip": "Kalıbı hatırla: edat çoğu zaman anlamdan çok alışkanlıktır."
+  },
+  {
+    "id": "g-parallelism",
+    "category": "Cümle Yapısı",
+    "tr": "Paralellik (Parallel Structure)",
+    "rule": "Bağlaçla bağlanan veya sıralanan ögeler aynı dil bilgisi türünde olmalıdır",
+    "group": [
+      "A, B, and C aynı yapıda",
+      "both ... and",
+      "either ... or / neither ... nor",
+      "not only ... but also",
+      "rather than / than / as well as"
+    ],
+    "explanation": [
+      "Sıralanan veya bağlanan ögeler aynı türde olmalıdır: isim–isim, sıfat–sıfat, V-ing–V-ing, to V1–to V1.",
+      "Paralel çiftler: both A and B; either A or B; neither A nor B; not only A but also B; not A but B; whether A or B; A rather than B.",
+      "Karşılaştırmada da paralellik gerekir: Running is easier than swimming (V-ing – V-ing).",
+      "Liste: She likes reading, hiking, and swimming (to swim ✗)."
+    ],
+    "tactics": [
+      "'And / or / but' ve ikili bağlaçların iki yanındaki yapıya bak: biri V-ing ise diğeri de V-ing olmalı.",
+      "Boşluktan önceki öğenin türü neyse (isim, sıfat, V-ing, to V1) şık aynı türde olmalı.",
+      "Anlamca yakın şıklar arasında yapısı uyanı seç."
+    ],
+    "examples": [
+      {
+        "en": "The policy aims to reduce costs, to improve quality, and to increase customer satisfaction.",
+        "tr": "Politika maliyetleri düşürmeyi, kaliteyi artırmayı ve müşteri memnuniyetini yükseltmeyi hedefliyor."
+      },
+      {
+        "en": "The new system is not only faster but also more economical.",
+        "tr": "Yeni sistem yalnızca daha hızlı değil, aynı zamanda daha ekonomik."
+      }
+    ],
+    "traps": [
+      "to V1 ile V-ing aynı listede karıştırılmaz.",
+      "Both ... and ve not only ... but also yapılarında iki yanda aynı yapı olmalı."
+    ],
+    "tip": "Bağlanan ögeler aynı türde: isim–isim, V-ing–V-ing."
+  },
+  {
+    "id": "g-adj-adv",
+    "category": "Cümle Yapısı",
+    "tr": "Sıfat, Zarf ve Bağlayıcı Fiiller",
+    "rule": "Bağlayıcı fiilden sonra sıfat, eylem fiilinden sonra zarf gelir",
+    "group": [
+      "linking verb + sıfat",
+      "eylem fiili + zarf",
+      "hard / hardly, late / lately, near / nearly",
+      "too ... to / ... enough to"
+    ],
+    "explanation": [
+      "Linking verbs (be, seem, appear, look, feel, sound, taste, smell, become, get, remain, stay) sonrasında sıfat gelir: She looks happy.",
+      "Eylem fiili + zarf: He spoke quietly. Zarf sıfatı, zarfı ve fiili niteler: extremely important, deeply concerned.",
+      "Benzer ama farklı zarflar: hard (sıkı) ≠ hardly (neredeyse hiç); late (geç) ≠ lately (son zamanlarda); near ≠ nearly; high ≠ highly.",
+      "too + sıfat + to V1: gereğinden fazla (olumsuz sonuç); sıfat + enough + to V1; enough + isim.",
+      "Hardly, scarcely, barely, rarely, seldom olumsuz zarflardır; not ile birlikte kullanılmaz."
+    ],
+    "tactics": [
+      "Linking verb varsa sıfat seç (tastes good, looks tired).",
+      "Fiili niteleyen sözcük zarf olmalıdır; ancak hard, fast, late, early, high -ly almaz.",
+      "'Hardly never' gibi çift olumsuzları ele."
+    ],
+    "examples": [
+      {
+        "en": "The food at that restaurant tastes good.",
+        "tr": "O restoranın yemekleri lezzetli."
+      },
+      {
+        "en": "The task was too difficult for the beginners to complete.",
+        "tr": "Görev, yeni başlayanların tamamlayamayacağı kadar zordu."
+      }
+    ],
+    "traps": [
+      "'Smells badly' yanlıştır → smells bad (linking verb).",
+      "Too = gereğinden fazla (olumsuz sonuç); very = çok (olumlu / nötr)."
+    ],
+    "tip": "Linking verb + sıfat; eylem fiili + zarf."
+  },
+  {
+    "id": "g-reported-speech",
+    "category": "Cümle Yapısı",
+    "tr": "Dolaylı Anlatım (Reported Speech)",
+    "rule": "Ana fiil geçmişse yan cümle bir zaman geriye kayar",
+    "group": [
+      "Present → Past",
+      "Past → Past Perfect",
+      "will → would",
+      "can → could",
+      "say / tell",
+      "reporting verb + V-ing / to V1 / that"
+    ],
+    "explanation": [
+      "Ana fiil geçmişse yan cümle bir zaman geriye gider: 'I am tired' → He said he was tired.",
+      "Zaman ve yer zarfları değişir: now → then, today → that day, tomorrow → the next day, yesterday → the day before, here → there, ago → before.",
+      "Evrensel doğrular ve hâlâ geçerli bilgilerde zaman kayması olmayabilir.",
+      "Soru: ask + if / whether / wh- + düz cümle sırası (He asked where I lived). Emir / rica: tell / ask / order + kişi + to V1.",
+      "Kalıplar: admit / deny / suggest / apologise for + V-ing; promise / refuse / threaten / offer / agree + to V1; insist / claim / warn / explain + that; accuse sb of V-ing; warn sb not to V1.",
+      "Say sonrası kişi yoksa (said that); tell sonrası kişi şarttır (told me)."
+    ],
+    "tactics": [
+      "Raporlayan fiil geçmişse ve şıklarda zaman kayması varsa bunu uygula.",
+      "Dolaylı sorularda did / does kalkar; if / whether ekle.",
+      "Reporting verb'in hangi kalıbı aldığına bak: deny + V-ing, refuse + to V1, claim + that."
+    ],
+    "examples": [
+      {
+        "en": "The manager said that the project had been completed on time.",
+        "tr": "Yönetici projenin zamanında tamamlandığını söyledi."
+      },
+      {
+        "en": "She denied taking the confidential documents.",
+        "tr": "Gizli belgeleri aldığını reddetti."
+      }
+    ],
+    "traps": [
+      "'He said me' yanlıştır → He told me / He said to me.",
+      "Evrensel doğrular zamansız kalabilir: The teacher said that water boils at 100°C."
+    ],
+    "tip": "Geçmiş raporlama → bir zaman geri; fiil kalıbını bil."
+  },
+  {
+    "id": "g-infinitive-structures",
+    "category": "Fiilimsiler",
+    "tr": "Infinitive Kalıpları ve Özel Yapılar",
+    "rule": "Used to, be used to, had better, it takes ve prefer kalıpları",
+    "group": [
+      "be to V1",
+      "had better V1",
+      "used to V1 / be used to V-ing",
+      "It takes + kişi + zaman + to V1",
+      "prefer ... to ... / would prefer to V1",
+      "in order to / so as to"
+    ],
+    "explanation": [
+      "be to V1: resmi plan veya emir (The president is to visit Japan).",
+      "Had better + V1 (to yok): şimdiki / gelecek tavsiye ve uyarı.",
+      "Used to V1: geçmiş alışkanlık. Be / get used to + V-ing: alışmak.",
+      "It takes + kişi + zaman + to V1; It is + sıfat + of / for + kişi + to V1: It was kind of you to help.",
+      "Prefer V-ing to V-ing; prefer to V1 rather than V1; would prefer to V1.",
+      "Amaç: to V1, in order to, so as to; olumsuzu in order not to / so as not to."
+    ],
+    "tactics": [
+      "'Used to' sonrası yalın fiil, 'be used to' sonrası V-ing.",
+      "'Had better' sonrasında to gelmez.",
+      "'It is + sıfat + of / for': kişinin karakterini bildiren sıfat (kind, clever, rude) → of; genel durum → for."
+    ],
+    "examples": [
+      {
+        "en": "I am used to getting up early.",
+        "tr": "Erken kalkmaya alışkınım."
+      },
+      {
+        "en": "It was kind of you to lend me the money.",
+        "tr": "Bana borç vermen çok naziktin."
+      }
+    ],
+    "traps": [
+      "'I am used to get up' yanlıştır → getting up.",
+      "Make + nesne + V1; pasifte be made to V1."
+    ],
+    "tip": "Used to V1 / be used to V-ing; had better V1."
+  },
+  {
+    "id": "g-strategy",
+    "category": "Strateji",
+    "tr": "YDS Gramer Sorusu Çözme Taktiği (Boşluk Analizi)",
+    "rule": "Önce boşluğun türünü belirle, sonra gramerle ele, en son anlamla seç",
+    "group": [
+      "1. Boşluğun öncesine ve sonrasına bak",
+      "2. Boşluğun türünü belirle",
+      "3. Zaman ipuçlarını tara",
+      "4. Gramerle şıkları ele",
+      "5. Anlamla doğrula"
+    ],
+    "explanation": [
+      "Cümleyi baştan sona oku; boşluğun hemen öncesindeki ve sonrasındaki sözcükler çoğu zaman cevabı verir (edat, belirleyici, yardımcı fiil).",
+      "Boşluk türünü belirle: fiil (zaman, çatı, uyum), bağlaç / edat / zarf, sıfat / zarf, belirleyici / zamir.",
+      "Fiil sorusunda: özne tekil mi çoğul mu, zaman ipuçları (yesterday, since, by the time), aktif / pasif (nesne var mı), modal anlam.",
+      "Önce gramer kuralıyla şıkları ele, kalan 1-2 şık arasından anlamla seç.",
+      "Zaman yönetimi: gramer ve kelime sorularına kısa süre ayır, bilmediğini işaretleyip geç; paragraf sorularına süre bırak.",
+      "Uzun cümlelerde araya giren ifadeleri kapatıp çıplak özne + yüklemi bul."
+    ],
+    "tactics": [
+      "Boşluğun önündeki sözcüğe bak: edat mı (V-ing / isim), yardımcı fiil mi (V3 / V1), belirleyici mi (isim)?",
+      "Bağlaç sorularında boşluktan sonrasına bak: tam cümle → bağlaç, isim / V-ing → edat, virgül + cümle → zarf.",
+      "İki şık anlamca kalıyorsa dilbilgisi ipuçlarına (zaman, uyum, paralellik) dön."
+    ],
+    "examples": [
+      {
+        "en": "The manager, together with his assistants, reviews the project's progress every week.",
+        "tr": "Yönetici, yardımcılarıyla birlikte projenin ilerleyişini her hafta gözden geçirir."
+      },
+      {
+        "en": "Few people can afford to buy a house in the city centre these days.",
+        "tr": "Bugünlerde çok az insan şehir merkezinde ev satın almayı göze alabiliyor."
+      }
+    ],
+    "traps": [
+      "Anlama güvenip gramer ipuçlarını atlamak: iki şık da anlamlı olabilir, ayrımı kural yapar.",
+      "Uzun cümlede özneyi kaçırmak: araya giren ifadeleri kapat."
+    ],
+    "tip": "Önce gramer, sonra anlam."
+  },
+  {
+    "id": "g-conj-vs-prep",
+    "category": "Strateji",
+    "tr": "Bağlaç mı, Edat mı, Zarf mı?",
+    "rule": "Boşluktan sonrasına bak: cümle → bağlaç, isim / V-ing → edat, virgül → zarf",
+    "group": [
+      "Bağlaç + tam cümle",
+      "Edat + isim / V-ing",
+      "Cümleler arası zarf + virgül"
+    ],
+    "explanation": [
+      "Aynı anlamdaki üç sözcük türü: Although (bağlaç) / Despite (edat) / However (zarf); Because (bağlaç) / Because of (edat) / Therefore (zarf); While (bağlaç) / During (edat) / Meanwhile (zarf).",
+      "Boşluktan sonra özne + fiil varsa bağlaç; isim veya V-ing varsa edat; noktalı virgül veya nokta + virgül varsa cümleler arası zarf.",
+      "Bu ayrım bağlaç sorularının çoğunu tek başına çözer; anlamdan önce yapıya bak."
+    ],
+    "tactics": [
+      "Boşluktan sonra özne + fiil var mı? Evet → bağlaç (although, because, while, if).",
+      "İsim veya V-ing var mı? Evet → edat (despite, because of, during, in spite of).",
+      "Boşluk noktalı virgülden / noktadan sonra ve ardından virgül geliyor mu? Evet → zarf (however, therefore, meanwhile)."
+    ],
+    "examples": [
+      {
+        "en": "Although prices rose, demand remained strong.",
+        "tr": "Fiyatlar artmasına rağmen talep güçlü kaldı."
+      },
+      {
+        "en": "Despite the rise in prices, demand remained strong.",
+        "tr": "Fiyat artışına rağmen talep güçlü kaldı."
+      }
+    ],
+    "traps": [
+      "'Despite the fact that' + cümle kalıbında edat bağlaç gibi davranır.",
+      "Since, as, for, besides hem bağlaç hem edat olabilir; sonrasına bak."
+    ],
+    "tip": "Cümle → bağlaç; isim / V-ing → edat; virgül → zarf."
+  }
+]

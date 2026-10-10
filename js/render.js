@@ -50,6 +50,29 @@ const conjunction = {
   },
 };
 
+const grammar = {
+  front(g) {
+    return h('div', { class: 'face-front' },
+      h('span', { class: 'tag' }, g.category),
+      h('p', { class: 'front-tr' }, g.tr),
+      h('p', { class: 'hint' }, 'Kuralı, formülü ve YDS taktiklerini düşün, sonra karta dokun'));
+  },
+  back(g, { onQuiz } = {}) {
+    return h('div', { class: 'face-back' },
+      h('p', { class: 'label' }, g.tr),
+      chips(g.group, 'chip'),
+      h('p', { class: 'front-rule small-rule' }, g.rule),
+      h('p', { class: 'label' }, 'Konu anlatımı'),
+      h('ul', { class: 'lesson' }, g.explanation.map((t) => h('li', null, t))),
+      h('div', { class: 'tip' }, h('strong', null, 'YDS Taktikleri'), h('ol', { class: 'lesson' }, g.tactics.map((t) => h('li', null, t)))),
+      h('p', { class: 'label' }, 'Örnek cümleler'),
+      g.examples.map((e) => h('blockquote', null, h('p', { class: 'en' }, e.en), h('p', { class: 'tr' }, e.tr))),
+      h('div', { class: 'trap' }, h('strong', null, 'Dikkat: Sık yapılan hatalar'), h('ul', { class: 'lesson' }, g.traps.map((t) => h('li', null, t)))),
+      h('p', { class: 'tip-inline' }, h('b', null, 'Kısaca: '), g.tip),
+      onQuiz && h('button', { class: 'btn btn-ghost', onclick: (e) => { e.stopPropagation(); onQuiz(); } }, 'Bu konudan soru çöz →'));
+  },
+};
+
 const word = {
   front(w) {
     return h('div', { class: 'face-front' },
@@ -66,4 +89,4 @@ const word = {
   },
 };
 
-export const renderers = { conjunction, word };
+export const renderers = { conjunction, grammar, word };

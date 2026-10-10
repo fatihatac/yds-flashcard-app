@@ -23,7 +23,7 @@ export async function render(root, { applyTheme }) {
   const questionInput = fileInput('application/json', async (text) => {
     const list = JSON.parse(text);
     if (!Array.isArray(list)) throw new Error('Dosya bir soru dizisi olmalı');
-    const ids = new Set((await loadDeck('conjunctions')).map((c) => c.id));
+    const ids = new Set([...(await loadDeck('conjunctions')), ...(await loadDeck('grammar'))].map((c) => c.id));
     const bad = list.map((q, i) => [i + 1, validateQuestion(q, ids)]).filter(([, e]) => e.length);
     if (bad.length) throw new Error(`Soru ${bad[0][0]}: ${bad[0][1].join(', ')}`);
     say(`${addCustomQuestions(list)} yeni soru eklendi.`);
@@ -34,6 +34,7 @@ export async function render(root, { applyTheme }) {
     h('section', { class: 'card form' },
       h('h2', null, 'Günlük hedefler'),
       num('Günlük yeni bağlaç kartı', 'newPerDay.conjunctions', s.newPerDay.conjunctions, 0, 50),
+      num('Günlük yeni gramer kartı', 'newPerDay.grammar', s.newPerDay.grammar, 0, 30),
       num('Günlük yeni kelime kartı', 'newPerDay.words', s.newPerDay.words, 0, 100),
       num('Günlük en fazla tekrar', 'maxReviews', s.maxReviews, 10, 500)),
     h('section', { class: 'card form' },

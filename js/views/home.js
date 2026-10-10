@@ -25,7 +25,7 @@ export async function render(root) {
   const right = qStats.reduce((a, q) => a + q.correct, 0);
 
   root.append(
-    h('header', { class: 'page-head' }, h('h1', null, 'YDS Bağlaç Kartları'), h('p', { class: 'muted' }, 'Aralıklı tekrarla bağlaçları ve kelimeleri kalıcı öğren.')),
+    h('header', { class: 'page-head' }, h('h1', null, 'YDS Hazırlık Kartları'), h('p', { class: 'muted' }, 'Aralıklı tekrarla bağlaçları, gramer konularını ve kelimeleri kalıcı öğren.')),
     h('div', { class: 'stats' },
       stat(streak(), 'gün seri'),
       stat(log.reviews, 'bugün tekrar'),
@@ -48,7 +48,7 @@ export async function render(root) {
   const qs = await loadQuestions();
   const due = reviewDueIds().length;
   root.append(h('section', { class: 'card deck' },
-    h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, '📝'), h('div', null, h('h2', null, 'Soru Çözümü'), h('p', { class: 'muted' }, `${qs.length} bağlaç sorusu (temel, tuzak, çıkmış) ve çıkmış YDS sınavları`))),
+    h('div', { class: 'deck-head' }, h('span', { class: 'deck-icon' }, '📝'), h('div', null, h('h2', null, 'Soru Çözümü'), h('p', { class: 'muted' }, `${qs.length} bağlaç ve gramer sorusu, çıkmış YDS sınavları`))),
     due ? h('a', { class: 'btn btn-primary', href: '#/quiz?mode=review' }, `Tekrar modu (${due} soru)`) : null,
     h('a', { class: 'btn btn-ghost', href: '#/quiz' }, 'Soru çözmeye git')));
 }
