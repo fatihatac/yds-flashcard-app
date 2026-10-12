@@ -13,6 +13,7 @@ const exams = read('exams.json');
 const grammar = read('grammar.json');
 const vocabQs = read('exam-vocab-questions.json');
 const grammarQs = [...read('grammar-questions.json'), ...read('exam-grammar-questions.json')];
+const translationQs = read('exam-translation-questions.json');
 let errors = 0;
 const fail = (m) => { console.error('✗', m); errors += 1; };
 
@@ -52,11 +53,18 @@ for (const q of grammarQs) {
   qids.add(q.id);
   for (const e of validateQuestion(q, gids)) fail(`gramer sorusu ${q.id}: ${e}`);
 }
-for (const g of grammar) if (!grammarQs.some((q) => q.cardIds.includes(g.id))) console.warn(`! sorusu olmayan gramer konusu: ${g.id}`);
+for (const g of grammar) if (![...grammarQs, ...translationQs].some((q) => q.cardIds.includes(g.id))) console.warn(`! sorusu olmayan gramer konusu: ${g.id}`);
 for (const q of vocabQs) {
   if (qids.has(q.id)) fail(`yinelenen soru id: ${q.id}`);
   qids.add(q.id);
   for (const e of validateQuestion(q, null)) fail(`kelime sorusu ${q.id}: ${e}`);
+}
+for (const q of translationQs) {
+  if (qids.has(q.id)) fail(`yinelenen soru id: ${q.id}`);
+  qids.add(q.id);
+  for (const e of validateQuestion(q, gids)) fail(`çeviri sorusu ${q.id}: ${e}`);
+  if (!q.explanation || !q.theme || !q.key) fail(`çeviri sorusu ${q.id}: açıklama / tema / anahtar fikir eksik`);
+  if ((q.why || []).length !== q.options.length - 1) fail(`çeviri sorusu ${q.id}: her yanlış şık için neden yazılmalı (${q.why?.length}/${q.options.length - 1})`);
 }
 const wordSet = new Set();
 for (const w of words) {
@@ -67,5 +75,5 @@ for (const w of words) {
 const allQ = [...questions, ...trap, ...examQs];
 const withoutQuestion = cards.filter((c) => !allQ.some((q) => (q.cardIds || []).includes(c.id)));
 if (withoutQuestion.length) console.warn(`! sorusu olmayan kartlar: ${withoutQuestion.map((c) => c.id).join(', ')}`);
-console.log(`${cards.length} kart, ${questions.length} temel + ${trap.length} tuzak + ${examQs.length} çıkmış soru, ${exams.length} sınav, ${grammar.length} gramer konusu + ${grammarQs.length} gramer sorusu, ${vocabQs.length} çıkmış kelime sorusu, ${words.length} kelime kontrol edildi.`);
+console.log(`${cards.length} kart, ${questions.length} temel + ${trap.length} tuzak + ${examQs.length} çıkmış soru, ${exams.length} sınav, ${grammar.length} gramer konusu + ${grammarQs.length} gramer sorusu, ${vocabQs.length} çıkmış kelime sorusu, ${translationQs.length} çeviri sorusu, ${words.length} kelime kontrol edildi.`);
 process.exit(errors ? 1 : 0);

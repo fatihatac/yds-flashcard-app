@@ -37,6 +37,7 @@ const QUESTION_FILES = [
   ['data/grammar-questions.json', 'grammar'],
   ['data/exam-grammar-questions.json', 'exam'],
   ['data/exam-vocab-questions.json', 'exam'],
+  ['data/exam-translation-questions.json', 'exam'],
 ];
 
 // Bağlaç kartlarına bağlı tüm sorular: temel + tuzak + çıkmış sorulardan seçilenler + kullanıcının eklediği sorular.

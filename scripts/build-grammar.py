@@ -14,7 +14,7 @@ for i, (tid, stem, opts, ans, exp) in enumerate(Q, 1):
     per[tid] = per.get(tid, 0) + 1
     questions.append({"id": f"gq{i:03d}", "cardIds": [tid], "kind": "grammar", "area": "grammar",
                       "stem": stem, "options": opts, "answer": ans, "explanation": exp})
-missing = [t for t in ids if t not in per]
+missing = [t for t in ids if t not in per and t != "g-translation-strategy"]  # bu konunun soruları data/exam-translation-questions.json'dadır
 assert not missing, missing
 json.dump(TOPICS, open("data/grammar.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)
 json.dump(questions, open("data/grammar-questions.json", "w", encoding="utf-8"), ensure_ascii=False, indent=2)

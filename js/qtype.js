@@ -16,7 +16,16 @@ export const SECTIONS = [
 export const sectionById = (id) => SECTIONS.find((s) => s.id === id);
 export const sectionByNumber = (n) => SECTIONS.find((s) => n >= s.range[0] && n <= s.range[1])?.id || null;
 
-const TURKISH = /[çğıöşüÇĞİÖŞÜ]|\b(bir|ve|için|olarak|ile|gibi|daha|çok|bu|de|da)\b/;
+// Dil tespiti: Türkçe'ye özgü harfler ve sık Türkçe işlev sözcükleri, İngilizce işlev sözcükleriyle karşılaştırılır.
+const TR_WORDS = /\b(ve|bir|için|ile|olarak|gibi|daha|çok|bu|ancak|fakat|olan|kadar|her|ise|veya|ya da|ne de|çünkü|sonra|önce|ayrıca|ama)\b/gi;
+const EN_WORDS = /\b(the|of|and|to|is|in|that|with|are|was|for|as|by|it|an|be|have|has|which|from)\b/gi;
+export function isTurkish(text) {
+  const letters = (text.match(/[çğıöşüÇĞİÖŞÜ]/g) || []).length;
+  const tr = (text.match(TR_WORDS) || []).length;
+  const en = (text.match(EN_WORDS) || []).length;
+  return letters >= 2 ? letters + tr > en : tr > en * 2 && tr >= 2;
+}
+const TURKISH = { test: (s) => isTurkish(s) };
 const FUNCTION_OPTION = /^(in|on|at|of|to|for|with|from|by|about|into|over|although|despite|however|because|since|while|whereas|therefore|unless|if|so|but|and|or|as|than|that|which|who|whose|what|whether|is|are|was|were|has|have|had|will|would|can|could|may|might|must|should|do|does|did|to \w+|\w+ing|\w+ed)$/i;
 
 // 80 soruluk olmayan dosyalar için içerikten tahmin.

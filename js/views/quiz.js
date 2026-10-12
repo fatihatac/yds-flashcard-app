@@ -7,7 +7,7 @@ import { newCardState } from '../srs.js';
 const KIND_LABEL = { basic: 'Temel', trap: 'Tuzak', exam: 'Çıkmış soru', custom: 'Eklenen', grammar: 'Gramer', vocab: 'Kelime' };
 const isGrammarId = (id) => id.startsWith('g-');
 const deckOfCard = (id) => (isGrammarId(id) ? 'grammar' : 'conjunctions');
-let area = 'conjunctions'; // picker sekmesi: conjunctions | grammar | vocab | exams
+let area = 'conjunctions'; // picker sekmesi: conjunctions | grammar | vocab | translation | exams
 
 export async function render(root, { query }) {
   const [questions, conj, grammar] = await Promise.all([loadQuestions(), loadDeck('conjunctions'), loadDeck('grammar')]);
@@ -69,7 +69,7 @@ async function picker(root, questions, { conj, grammar }, cardById) {
 
   const body = h('div', { class: 'view' });
   const tabs = h('div', { class: 'seg', role: 'tablist' });
-  const TABS = [['conjunctions', 'Bağlaç'], ['grammar', 'Gramer'], ['vocab', 'Kelime'], ['exams', 'Sınavlar']];
+  const TABS = [['conjunctions', 'Bağlaç'], ['grammar', 'Gramer'], ['vocab', 'Kelime'], ['translation', 'Çeviri'], ['exams', 'Sınavlar']];
 
   function drawTabs() {
     tabs.replaceChildren(...TABS.map(([id, label]) => h('button', { class: id === area ? 'active' : '', role: 'tab', onclick: () => { area = id; drawTabs(); drawBody(); } }, label)));
@@ -128,9 +128,20 @@ async function picker(root, questions, { conj, grammar }, cardById) {
         list([['Karışık', pool], ['Çıkmış gramer soruları', pool.filter((q) => q.kind === 'exam')], ['Konu anlatımlı sorular', pool.filter((q) => q.kind === 'grammar')], ...poolModes(pool, grammar)]),
         h('h2', { class: 'section-title' }, 'Konuya göre'),
         h('div', { class: 'list' }, grammar.map((g) => {
-          const qs = pool.filter((q) => (q.cardIds || []).includes(g.id));
+          const qs = questions.filter((q) => (q.cardIds || []).includes(g.id) && (q.area === 'grammar' || q.area === 'translation'));
           return row(g.tr, `${g.category} · ${qs.length} soru`, () => start(qs, g.tr), !qs.length);
         })));
+    } else if (area === 'translation') {
+      const pool = questions.filter((q) => q.area === 'translation');
+      const themes = [...new Set(pool.map((q) => q.theme).filter(Boolean))].sort();
+      body.replaceChildren(
+        h('h2', { class: 'section-title' }, 'Çeviri soruları'),
+        h('p', { class: 'muted small' }, 'Çıkmış YDS çeviri soruları. Her sorunun altında doğru cevabın nedeni ve diğer şıkların neden elendiği açıklanır.'),
+        list([['Karışık', pool], ['İngilizce → Türkçe', pool.filter((q) => q.direction === 'en-tr')], ['Türkçe → İngilizce', pool.filter((q) => q.direction === 'tr-en')],
+          ['Çözmediklerim', pool.filter((q) => !stats[q.id])], ['Yanlışlarım', pool.filter((q) => stats[q.id]?.lastCorrect === false)]]),
+        h('h2', { class: 'section-title' }, 'Hata türüne göre'),
+        list(themes.map((t) => [t, pool.filter((q) => q.theme === t)])),
+        h('a', { class: 'card list-btn', href: '#/study/grammar?cat=Strateji' }, h('span', { class: 'list-text' }, h('span', null, 'Çeviri stratejisi kartı'), h('span', { class: 'muted small' }, 'Konu anlatımı ve taktikler')), h('span', { class: 'muted' }, '›')));
     } else {
       body.replaceChildren(
         h('h2', { class: 'section-title' }, 'Çıkmış YDS sınavları (deneme)'),
@@ -204,7 +215,10 @@ function run(root, pool, cardById, { title, count = 0, ordered = false, empty = 
       const related = (q.cardIds || []).map((id) => cardById.get(id)).filter(Boolean);
       feedback.replaceChildren(
         h('p', { class: ok ? 'verdict ok' : 'verdict no' }, ok ? 'Doğru!' : `Yanlış – doğru cevap: ${letters[order.indexOf(q.answer)]}`),
-        q.explanation ? h('p', null, q.explanation) : null,
+        q.theme ? h('p', { class: 'muted small' }, h('span', { class: 'tag' }, q.theme)) : null,
+        q.key ? h('div', { class: 'tip-inline' }, h('b', null, 'Anahtar fikir: '), q.key) : null,
+        q.explanation ? h('div', null, q.why ? h('h4', null, 'Neden bu cevap?') : null, h('p', null, q.explanation)) : null,
+        q.why?.length ? h('div', null, h('h4', null, 'Diğer şıklar neden elenir?'), h('ul', { class: 'why-list' }, q.why.map((w) => h('li', null, h('b', null, `${letters[order.indexOf(w.option)]}) `), w.text)))) : null,
         q.source ? h('p', { class: 'muted small' }, q.source) : null,
         ...related.map((c) => h('div', { class: 'related' }, h('span', { class: 'muted small' }, 'İlgili kart'), h('strong', null, c.tr, ' (', c.rule, ')'), chips(c.group), h('p', { class: 'tip-inline' }, h('b', null, 'Tüyo: '), c.tip))),
         h('button', { class: 'btn btn-primary btn-wide', onclick: () => { idx += 1; show(); window.scrollTo(0, 0); } }, idx + 1 === items.length ? 'Sonucu gör' : 'Sonraki soru'));
