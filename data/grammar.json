@@ -1286,5 +1286,46 @@
       "Since, as, for, besides hem bağlaç hem edat olabilir; sonrasına bak."
     ],
     "tip": "Cümle → bağlaç; isim / V-ing → edat; virgül → zarf."
+  },
+  {
+    "id": "g-translation-strategy",
+    "category": "Strateji",
+    "tr": "Çeviri Soruları: İngilizce ↔ Türkçe",
+    "rule": "Şıkları ezbere değil, cümlenin parçalarını tek tek eşleştirerek ele",
+    "group": [
+      "Özne + yüklem",
+      "Zaman / kip",
+      "Bağlaç ilişkisi",
+      "Anahtar kelime"
+    ],
+    "explanation": [
+      "YDS'de çeviri soruları (yaklaşık 6 soru) İngilizce cümlenin Türkçesini veya Türkçe cümlenin İngilizcesini seçtirir. Şıklar genelde küçük bir ayrıntıda ayrışır.",
+      "Çeviri hatalarının çoğu beş yerden gelir: (1) zaman / kip kayması, (2) edilgen–etken karışması, (3) bağlaç ilişkisinin değişmesi (neden ↔ sonuç ↔ zıtlık), (4) eksik veya fazla bilgi, (5) yakın anlamlı ama farklı kelime.",
+      "Doğru şık, kaynak cümledeki her bilgi parçasını eksiksiz ve fazlasız taşır; 'daha akıcı' görünen şık çoğu zaman bir bilgiyi atmıştır.",
+      "Sorunun altındaki 'Neden bu cevap?' ve 'Diğer şıklar neden elenir?' bölümleri bu hata türlerini gerçek sorular üzerinden gösterir."
+    ],
+    "tactics": [
+      "Önce ana cümlenin öznesi ile yüklemini bul; şıkların öznesi ve zamanı uyuşmuyorsa ele.",
+      "Bağlaçları işaretle (but, since, although, so that, unless...) ve Türkçe şıkta aynı ilişkinin kurulduğunu doğrula.",
+      "Modal ve kipleri kontrol et: may / might (olabilir), must (zorunda / kesin), should (-meli), would (-ecekti / -erdi).",
+      "Sayı, olumsuzluk ve nicelik sözcüklerine (few / a few, only, hardly, most / all) bak: tek sözcük anlamı çevirir.",
+      "İki şıkta kalırsan cümlenin sonunu karşılaştır: yanlış şık çoğu zaman son parçada bilgi ekler veya atar."
+    ],
+    "examples": [
+      {
+        "en": "Although the results were promising, further research is needed.",
+        "tr": "Sonuçlar ümit verici olsa da daha fazla araştırmaya ihtiyaç vardır."
+      },
+      {
+        "en": "The bridge was built in 1998 and has since been repaired twice.",
+        "tr": "Köprü 1998'de inşa edildi ve o zamandan beri iki kez onarıldı."
+      }
+    ],
+    "traps": [
+      "Edilgen cümleyi etken çevirmek (veya tersi): 'was influenced by' ≠ 'etkiledi'.",
+      "'Although' (zıtlık) ile 'since' (neden / zaman) gibi bağlaçları birbirine kaydırmak.",
+      "Şıktaki ek bilgi (kaynak cümlede olmayan bir neden, kişi veya yorum) hemen ele."
+    ],
+    "tip": "Parça parça eşleştir: özne, zaman, bağlaç, anahtar kelime; fazla veya eksik bilgi içeren şıkkı ele."
   }
 ]

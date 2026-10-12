@@ -43,6 +43,7 @@ data/exams.json          sınav listesi (node scripts/build-exam-data.mjs)
 data/exam-conjunction-questions.json  sınavlardan ayıklanan bağlaç soruları (aynı betik)
 data/exam-grammar-questions.json      sınavlardan gramer konularına bağlanan sorular (node scripts/build-exam-grammar.mjs; önce build-exam-data.mjs çalıştırılmalı)
 data/exam-vocab-questions.json        sınavlardan ayıklanan kelime / phrasal verb soruları (node scripts/build-exam-vocab.mjs; önceki ikisinden sonra çalıştırılmalı)
+data/exam-translation-questions.json  sınavlardaki İng↔Tr çeviri soruları + şık şık açıklamalar (python3 scripts/translation_notes.py && node scripts/build-exam-translation.mjs)
 data/words.json          kelimeler
 js/srs.js                tekrar algoritması (saf fonksiyonlar)
 js/store.js              localStorage: ilerleme, ayarlar

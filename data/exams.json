@@ -361,9 +361,9 @@
   "count": 8,
   "solvable": 7,
   "sections": {
-   "vocab": 1,
-   "translation": 2,
+   "vocab": 2,
    "completion": 1,
+   "translation": 1,
    "dialogue": 1,
    "paragraph": 1,
    "irrelevant": 1
@@ -374,11 +374,12 @@
   "file": "2023_YDS_2.json",
   "title": "YABANCI DİL BİLGİSİ SEVİYE TESPİT SINAVI (2023-YDS/2) İNGİLİZCE",
   "count": 8,
-  "solvable": 6,
+  "solvable": 7,
   "sections": {
    "vocab": 2,
    "completion": 1,
    "translation": 1,
+   "dialogue": 1,
    "paragraph": 1,
    "irrelevant": 1
   }
@@ -438,7 +439,8 @@
   "sections": {
    "vocab": 2,
    "completion": 1,
-   "translation": 2,
+   "translation": 1,
+   "dialogue": 1,
    "paragraph": 1,
    "irrelevant": 1
   }
@@ -452,7 +454,8 @@
   "sections": {
    "vocab": 2,
    "completion": 1,
-   "translation": 2,
+   "translation": 1,
+   "dialogue": 1,
    "paragraph": 1,
    "irrelevant": 1
   }
