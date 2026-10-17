@@ -58,6 +58,14 @@ async function route() {
   }
 }
 
+// İnternet yokken küçük bir "Çevrimdışı" rozeti göster (her şey yine çalışır).
+const offlineBadge = h('div', { class: 'offline-badge', role: 'status', hidden: true }, 'Çevrimdışı · içerik cihazdan açılıyor');
+root.before(offlineBadge);
+const syncOnline = () => { offlineBadge.hidden = navigator.onLine; };
+window.addEventListener('online', syncOnline);
+window.addEventListener('offline', syncOnline);
+syncOnline();
+
 nav.append(...NAV.map(([id, icon, label]) => h('a', { href: `#/${id}`, 'data-route': id }, h('span', { class: 'nav-icon' }, icon), h('span', null, label))));
 applyTheme();
 window.addEventListener('hashchange', route);

@@ -173,3 +173,8 @@ input[type="search"] { width: 100%; } input[type="number"] { width: 90px; }
 
 .why-list { margin: 0.25rem 0 0.75rem; padding-left: 1.1rem; display: grid; gap: 0.4rem; font-size: 0.92rem; }
 .feedback h4 { margin: 0.75rem 0 0.25rem; font-size: 0.95rem; }
+
+.offline-badge { background: #334155; color: #fff; font-size: 0.78rem; text-align: center; padding: calc(env(safe-area-inset-top, 0px) + 4px) 16px 4px; }
+.offline-badge[hidden] { display: none; }
+.ok-text { color: #15803d; }
+.warn-text { color: #b45309; }
