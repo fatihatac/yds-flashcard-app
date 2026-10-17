@@ -2,6 +2,8 @@
 
 YDS bağlaçları (ve kelimeleri) için **aralıklı tekrar** sistemli, mobil öncelikli flashcard uygulaması. Derleme adımı yok: saf HTML / CSS / ES modülleri. GitHub Pages'te yayınlanır, telefonda "Ana ekrana ekle" ile uygulama gibi çalışır ve çevrimdışı açılır.
 
+**Çevrimdışı (uçakta) kullanım:** İlk açılışta service worker tüm kodu, kartları, kelime listesini ve 28 çıkmış sınavı cihaza indirir. Ayarlar → *Çevrimdışı kullanım* bölümünde "hazır" yazıyorsa internetsiz her şey çalışır. Yeni dosya eklenirse `sw.js` içindeki `SHELL` listesine eklenmelidir (`scripts/offline.test.mjs` eksikleri yakalar).
+
 ## Özellikler
 - **Bağlaç kartları (64):** ön yüzde Türkçe anlam + gramer kuralı, arka yüzde İngilizce bağlaç grubu, anlam, kullanım, YDS örnek cümlesi + Türkçe çevirisi ve "YDS Tüyosu".
 - **Gramer konuları (33):** tense, passive, koşul ve dilek, modal, fiilimsiler, relative / noun clause, devrik cümle, uyum, karşılaştırma, edatlar, paralellik ve daha fazlası. Her konuda öğretici anlatım, **YDS taktikleri**, örnek cümleler (çevirili) ve sık yapılan hatalar var; 99 gramer sorusuyla pekiştirilir. Genel bir "boşluk analizi" taktik kartı ve "bağlaç mı, edat mı, zarf mı?" kartı da dahil.

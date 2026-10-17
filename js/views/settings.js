@@ -3,6 +3,7 @@ import { loadDeck } from '../data.js';
 import { get, setSetting, exportData, importData, resetAll, addCustomQuestions } from '../store.js';
 import { validateQuestion } from '../validate.js';
 import { VERSION } from '../version.js';
+import { offlineStatus, offlineSync } from '../offline.js';
 
 export async function render(root, { applyTheme }) {
   const s = get().settings;
@@ -29,8 +30,29 @@ export async function render(root, { applyTheme }) {
     say(`${addCustomQuestions(list)} yeni soru eklendi.`);
   });
 
+  const offInfo = h('p', { class: 'small' }, 'Kontrol ediliyor…');
+  const offBtn = h('button', { class: 'btn btn-ghost', onclick: () => syncOffline() }, 'Eksikleri indir / kontrol et');
+  const showOffline = (r) => {
+    if (!r) { offInfo.textContent = 'Çevrimdışı mod henüz etkin değil. Sayfayı internet varken bir kez yenile.'; return; }
+    const ok = r.ready === r.total;
+    offInfo.replaceChildren(h('b', { class: ok ? 'ok-text' : 'warn-text' }, ok ? '✓ Çevrimdışı kullanıma hazır' : `${r.ready} / ${r.total} dosya hazır`),
+      ok ? ` · ${r.total} dosya (kartlar, kelimeler, ${r.total > 40 ? 'tüm çıkmış sınavlar' : 'sınavlar'}) cihazda.` : ' · İnternet varken "Eksikleri indir"e dokun.');
+  };
+  async function syncOffline() {
+    offBtn.disabled = true;
+    offInfo.textContent = 'İndiriliyor…';
+    showOffline(await offlineSync());
+    offBtn.disabled = false;
+  }
+  offlineStatus().then(showOffline);
+
   root.append(
     h('header', { class: 'page-head' }, h('h1', null, 'Ayarlar')),
+    h('section', { class: 'card form' },
+      h('h2', null, 'Çevrimdışı kullanım'),
+      offInfo,
+      h('p', { class: 'muted small' }, 'Uygulama ilk açılışta tüm içeriği cihaza indirir; uçakta internetsiz çalışır. Yolculuktan önce burada "hazır" yazdığını kontrol et. İlerlemen zaten cihazda saklanır.'),
+      offBtn),
     h('section', { class: 'card form' },
       h('h2', null, 'Günlük hedefler'),
       num('Günlük yeni bağlaç kartı', 'newPerDay.conjunctions', s.newPerDay.conjunctions, 0, 50),
