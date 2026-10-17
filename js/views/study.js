@@ -32,10 +32,41 @@ async function picker(root) {
   }
 }
 
+const AHEAD_COUNT = 20;
+
+async function deckCards(deck, query) {
+  const cards = await loadDeck(deck.id);
+  return query.cat ? cards.filter((c) => c.category === query.cat) : cards;
+}
+
+// Sırası henüz gelmemiş öğrenilmiş kartlar (erken tekrar): en uzun süredir görülmeyen önce gelir, böylece her oturum farklı kartlarla devam eder.
+function aheadCards(deck, cards, now = Date.now()) {
+  const s = (c) => getCard(deck.id, c.id);
+  return cards
+    .filter((c) => status(s(c)) !== 'new' && !isDue(s(c), now))
+    .sort((a, b) => (s(a).last || 0) - (s(b).last || 0) || s(a).due - s(b).due);
+}
+
+// Oturum bitince / kart kalmayınca: yeni kart varsa "10 yeni kart daha", yoksa "erken tekrar" seçeneği.
+async function moreButtons(deck, query) {
+  const cards = await deckCards(deck, query);
+  const fresh = cards.filter((c) => status(getCard(deck.id, c.id)) === 'new').length;
+  const ahead = aheadCards(deck, cards).length;
+  const cat = query.cat ? `&cat=${encodeURIComponent(query.cat)}` : '';
+  return {
+    fresh,
+    ahead,
+    buttons: [
+      fresh ? h('a', { class: 'btn btn-primary', href: `#/study/${deck.id}?extra=1${cat}` }, `${Math.min(10, fresh)} yeni kart daha çalış`) : null,
+      ahead ? h('a', { class: `btn ${fresh ? 'btn-ghost' : 'btn-primary'}`, href: `#/study/${deck.id}?ahead=1${cat}` }, `Erken tekrar: ${Math.min(AHEAD_COUNT, ahead)} kart`) : null,
+    ],
+  };
+}
+
 async function buildQueue(deck, query) {
-  let cards = await loadDeck(deck.id);
-  if (query.cat) cards = cards.filter((c) => c.category === query.cat);
+  const cards = await deckCards(deck, query);
   const now = Date.now();
+  if (query.ahead) return aheadCards(deck, cards, now).slice(0, AHEAD_COUNT).map((c) => c.id);
   const due = cards
     .filter((c) => { const s = getCard(deck.id, c.id); return status(s) !== 'new' && isDue(s, now); })
     .sort((a, b) => getCard(deck.id, a.id).due - getCard(deck.id, b.id).due)
@@ -57,10 +88,13 @@ async function session(root, deck, query) {
   let revealed = false; // cevap en az bir kez görüldü mü (puanlamayı açar)
 
   if (!total) {
+    const more = await moreButtons(deck, query);
     root.append(h('div', { class: 'empty' },
       h('h2', null, 'Bugünlük tamam 🎉'),
-      h('p', { class: 'muted' }, 'Bu deste için tekrar edilecek veya bugün eklenecek yeni kart kalmadı.'),
-      h('a', { class: 'btn btn-primary', href: `#/study/${deck.id}?extra=1${query.cat ? `&cat=${encodeURIComponent(query.cat)}` : ''}` }, '10 yeni kart daha çalış'),
+      h('p', { class: 'muted' }, more.fresh
+        ? 'Bu deste için tekrar edilecek veya bugün eklenecek yeni kart kalmadı.'
+        : `Bu destedeki ${(await deckCards(deck, query)).length} kartın hepsini öğrendin; yeni kart kalmadı. İstersen sırası gelmemiş kartları erken tekrar edebilirsin.`),
+      ...more.buttons,
       h('a', { class: 'btn btn-ghost', href: '#/home' }, 'Ana sayfa')));
     return;
   }
@@ -114,20 +148,25 @@ async function session(root, deck, query) {
     if (!revealed) return;
     const id = queue.shift();
     const prev = getCard(deck.id, id);
-    setCard(deck.id, id, schedule(prev, r));
+    // Erken tekrarda iyi bilinen kartın aralığı büyütülmez (sırası gelmeden görüldü), yalnızca görülme zamanı güncellenir;
+    // unutulan / zor kart yine yeniden planlanır.
+    if (query.ahead && r >= RATING.GOOD) setCard(deck.id, id, { ...prev, last: Date.now() });
+    else setCard(deck.id, id, schedule(prev, r));
     logReview({ correct: r > RATING.AGAIN, isNew: !prev, deckId: deck.id });
     if (r === RATING.AGAIN) { stats.again += 1; queue.splice(Math.min(queue.length, 3), 0, id); } else stats.done += 1;
     draw();
   }
 
-  function finish() {
+  async function finish() {
     top.replaceChildren();
     rateBar.replaceChildren();
+    const more = await moreButtons(deck, query);
     stage.replaceChildren(h('div', { class: 'empty' },
       h('h2', null, 'Oturum bitti 🎉'),
       h('p', null, `${total} kart tamamlandı.`),
       stats.again ? h('p', { class: 'muted' }, `${stats.again} kez "Tekrar" seçtin; bu kartlar yakında yeniden gelecek.`) : null,
       h('a', { class: 'btn btn-primary', href: '#/quiz' }, deck.type !== 'word' ? 'Şimdi soru çöz' : 'Soru çözümü'),
+      ...more.buttons.map((b) => { if (b) b.className = 'btn btn-ghost'; return b; }),
       h('a', { class: 'btn btn-ghost', href: '#/home' }, 'Ana sayfa')));
   }
 
